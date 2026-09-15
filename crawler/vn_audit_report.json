@@ -1,0 +1,128 @@
+{
+  "audited_at": "2026-09-13T17:00:28.772Z",
+  "total_records": 673,
+  "canonical_brands_count": 23,
+  "zero_count_brands": [
+    "Infinix",
+    "OnePlus"
+  ],
+  "summary_by_brand": {
+    "Apple": {
+      "new": 113,
+      "used": 19,
+      "total": 132
+    },
+    "Samsung": {
+      "new": 108,
+      "used": 3,
+      "total": 111
+    },
+    "Xiaomi": {
+      "new": 91,
+      "used": 1,
+      "total": 92
+    },
+    "OPPO": {
+      "new": 76,
+      "used": 1,
+      "total": 77
+    },
+    "vivo": {
+      "new": 15,
+      "used": 0,
+      "total": 15
+    },
+    "realme": {
+      "new": 16,
+      "used": 0,
+      "total": 16
+    },
+    "HONOR": {
+      "new": 48,
+      "used": 0,
+      "total": 48
+    },
+    "TECNO": {
+      "new": 28,
+      "used": 0,
+      "total": 28
+    },
+    "Infinix": {
+      "new": 0,
+      "used": 0,
+      "total": 0
+    },
+    "Nubia": {
+      "new": 47,
+      "used": 0,
+      "total": 47
+    },
+    "ASUS": {
+      "new": 1,
+      "used": 0,
+      "total": 1
+    },
+    "Sony": {
+      "new": 3,
+      "used": 0,
+      "total": 3
+    },
+    "Nothing": {
+      "new": 4,
+      "used": 0,
+      "total": 4
+    },
+    "OnePlus": {
+      "new": 0,
+      "used": 0,
+      "total": 0
+    },
+    "Huawei": {
+      "new": 4,
+      "used": 0,
+      "total": 4
+    },
+    "Meizu": {
+      "new": 11,
+      "used": 0,
+      "total": 11
+    },
+    "Nokia": {
+      "new": 19,
+      "used": 0,
+      "total": 19
+    },
+    "Masstel": {
+      "new": 19,
+      "used": 0,
+      "total": 19
+    },
+    "Mobell": {
+      "new": 9,
+      "used": 0,
+      "total": 9
+    },
+    "Itel": {
+      "new": 2,
+      "used": 0,
+      "total": 2
+    },
+    "Benco": {
+      "new": 4,
+      "used": 0,
+      "total": 4
+    },
+    "TCL": {
+      "new": 10,
+      "used": 0,
+      "total": 10
+    },
+    "Viettel": {
+      "new": 4,
+      "used": 0,
+      "total": 4
+    }
+  },
+  "quality_issues_count": 0,
+  "quality_issues_summary": {}
+}

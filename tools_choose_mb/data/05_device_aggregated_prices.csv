@@ -1,0 +1,527 @@
+variant_id,condition_type,min_price,avg_price,max_price,best_retailer,best_retailer_url,savings_amount,retailers_count,in_stock_count
+apple_iphone_17_pro_max_8_256,new,33990000,34390000,34590000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-17-pro-max-256gb.html,600000,3,3
+apple_iphone_17_pro_8_256,new,31490000,31756667,31990000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-17-pro-256gb.html,500000,3,3
+apple_iphone_17_8_256,new,5000000,23812000,28990000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-256gb-pid355077.html,23990000,5,5
+apple_iphone_18_pro_max_8_256,new,41990000,41990000,41990000,CellphoneS,https://cellphones.com.vn/iphone-18-pro-max.html,0,5,5
+apple_iphone_17_pro_max_8_512,new,5000000,22995000,40990000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-pro-max-512gb-pid355088.html,35990000,2,2
+apple_iphone_air_8_256,new,22990000,23823333,25490000,CellphoneS,https://cellphones.com.vn/iphone-air-256gb.html,2500000,3,3
+apple_i_n_tho_i_iphone_16_pro_max_8_256,new,30990000,30990000,30990000,CellphoneS,https://cellphones.com.vn/iphone-16-pro-max.html,0,1,1
+apple_iphone_15_8_128,new,20790000,21523333,21990000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-15-128gb.html,1200000,3,3
+apple_iphone_17_pro_8_512,new,5000000,21745000,38490000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-pro-512gb-pid355084.html,33490000,2,2
+apple_iphone_17e_8_256,new,19990000,21140000,21990000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-17e-256gb.html,2000000,4,4
+apple_iphone_13_8_128,new,14990000,14990000,14990000,CellphoneS,https://cellphones.com.vn/iphone-13.html,0,1,1
+apple_iphone_18_pro_8_256,new,38990000,38990000,38990000,CellphoneS,https://cellphones.com.vn/iphone-18-pro.html,0,5,5
+apple_iphone_16e_8_128,new,13490000,14723333,16990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16e-128gb,3500000,3,3
+apple_iphone_17_pro_max_8_1024,new,5000000,26295000,47590000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-pro-max-1tb-pid355089.html,42590000,2,2
+apple_iphone_14_8_128,new,17990000,17990000,17990000,CellphoneS,https://cellphones.com.vn/iphone-14.html,0,1,1
+apple_iphone_16_pro_max_8_512,new,36690000,37840000,38990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-pro-max-512gb,2300000,2,2
+apple_iphone_17_8_512,new,5000000,19995000,34990000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-512gb-pid355078.html,29990000,2,2
+apple_iphone_16_8_128,new,23490000,24015000,24490000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-16-128gb.html,1000000,4,4
+apple_iphone_15_8_256,new,18390000,21090000,23790000,Di Động Việt,https://didongviet.vn/dien-thoai/iphone-15-256gb.html,5400000,2,2
+apple_iphone_17_pro_max_8_2048,new,5000000,32745000,60490000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-pro-max-2tb-pid355578.html,55490000,2,2
+samsung_galaxy_s26_ultra_5g_12_256,new,28000000,28000000,28000000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s26-ultra.html,0,2,2
+samsung_galaxy_s25_ultra_12_256,new,24790000,24840000,24890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s25-ultra,100000,2,2
+samsung_galaxy_a57_5g_8_128,new,10290000,10423333,10490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a57,200000,3,3
+samsung_galaxy_s25_plus_8_256,new,19990000,19990000,19990000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-plus.html,0,1,1
+samsung_galaxy_z_fold8_ultra_5g_12_256,new,47090000,47290000,47490000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-fold-8-ultra.html,400000,2,2
+samsung_galaxy_z_fold8_5g_12_256,new,41090000,41290000,41490000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-fold-8.html,400000,2,2
+samsung_galaxy_z_flip8_5g_12_256,new,25500000,26830000,27500000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip8-12gb-256gb,2000000,3,3
+samsung_galaxy_s26_5g_12_256,new,20990000,21745000,22500000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s26.html,1510000,2,2
+samsung_galaxy_s26_fe_5g_8_128,new,16490000,16663333,16990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-fe,500000,3,3
+samsung_galaxy_a07_4_128,new,3590000,3590000,3590000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-a07.html,0,2,2
+samsung_galaxy_a17_5g_8_128,new,5990000,6115000,6190000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-a17-5g.html,200000,4,4
+samsung_galaxy_a37_5g_8_128,new,8990000,9240000,9490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a37,500000,2,2
+samsung_galaxy_z_fold8_ultra_5g_12_512,new,52990000,53040000,53090000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-z-fold8-ultra-512gb,100000,2,2
+samsung_galaxy_a07_5g_4_128,new,4490000,4696667,4800000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a07-5g,310000,3,3
+samsung_galaxy_s25_fe_8_128,new,12790000,13140000,13490000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-fe.html,700000,2,2
+samsung_galaxy_a17_8_128,new,5150000,5170000,5190000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-a17-lte.html,40000,2,2
+samsung_galaxy_z_fold7_12_256,new,36590000,36590000,36590000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-fold-7.html,0,1,1
+samsung_galaxy_a56_5g_8_128,new,8990000,8990000,8990000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-a56.html,0,1,1
+samsung_galaxy_z_fold8_5g_12_512,new,47090000,47290000,47490000,CellphoneS,https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-fold-8-512gb.html,400000,2,2
+samsung_galaxy_a27_5g_6_128,new,7390000,7440000,7490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a27,100000,2,2
+xiaomi_poco_x8_pro_max_12_256,new,13690000,13690000,13690000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-poco-x8-pro-max.html,0,1,1
+xiaomi_redmi_note_14_pro_plus_5g_8_256,new,7990000,7990000,7990000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14-pro-plus.html,0,1,1
+xiaomi_poco_f8_pro_5g_12_256,new,15190000,15190000,15190000,CellphoneS,https://cellphones.com.vn/dien-thoai-poco-f8-pro-5g.html,0,1,1
+xiaomi_poco_x8_pro_max_12_512,new,14690000,14690000,14690000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-poco-x8-pro-max-12gb-512gb.html,0,1,1
+xiaomi_redmi_a7_pro_nfc_4_128,new,3690000,3840000,3990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-a7-pro,300000,2,2
+xiaomi_poco_f9_ultra_5g_12_256,new,24490000,24490000,24490000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-poco-f9-ultra.html,0,1,1
+xiaomi_redmi_note_17_4_128,new,5890000,6100000,6310000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17,420000,2,2
+xiaomi_redmi_note_15_6_128,new,4990000,5063333,5190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-15-6gb-128gb,200000,3,3
+xiaomi_redmi_note_17_pro_5g_6_256,new,9290000,9290000,9290000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-17-pro-5g.html,0,2,2
+xiaomi_redmi_note_17_pro_max_5g_8_512,new,14490000,14756667,15290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17-pro-max-5g,800000,3,3
+xiaomi_17t_5g_12_512,new,16490000,16550000,16610000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-17t,120000,2,2
+xiaomi_17t_pro_5g_12_512,new,19990000,20150000,20310000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-17t-pro,320000,2,2
+xiaomi_redmi_note_15_5g_6_128,new,6010000,6103333,6290000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-15-5g.html,280000,3,3
+xiaomi_redmi_15_5g_8_256,new,5790000,5890000,5990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-redmi-15-5g-8-256g,200000,2,2
+xiaomi_17_ultra_5g_16_512,new,30990000,30990000,30990000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-17-ultra.html,0,1,1
+xiaomi_redmi_note_15_pro_5g_12_256,new,9990000,10623333,11590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-15-pro-5g-12gb-256gb,1600000,3,3
+xiaomi_redmi_note_17_5g_6_128,new,7790000,7936667,8010000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17-5g,220000,3,3
+xiaomi_redmi_note_15_pro_12_256,new,8490000,8550000,8610000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-15-pro-12gb-256gb,120000,2,2
+xiaomi_poco_f9_ultra_5g_16_512,new,26490000,26490000,26490000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-poco-f9-ultra-16gb-512gb.html,0,1,1
+xiaomi_15_ultra_5g_16_1024,new,28490000,28490000,28490000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-15-ultra-1tb.html,0,1,1
+xiaomi_poco_f9_ultra_5g_16_1024,new,30490000,30490000,30490000,CellphoneS,https://cellphones.com.vn/dien-thoai-xiaomi-poco-f9-ultra-16gb-1tb.html,0,1,1
+oppo_reno16_f_5g_8_256,new,14990000,15570000,15990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno16-f,1000000,4,4
+oppo_find_x9s_12_256,new,21090000,22200000,23310000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-find-x9s,2220000,2,2
+oppo_find_n6_16_512,new,57890000,61350000,64810000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-find-n6,6920000,2,2
+oppo_find_x9_ultra_12_512,new,44190000,44190000,44190000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-find-x9-ultra.html,0,2,2
+oppo_reno15_5g_12_256,new,16810000,16810000,16810000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-reno15.html,0,1,1
+oppo_reno15_f_5g_8_256,new,11810000,11810000,11810000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-reno15-f.html,0,2,2
+oppo_reno12_5g_12_256,new,9690000,9690000,9690000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-reno12-5g.html,0,1,1
+oppo_find_x9_pro_16_512,new,32990000,32990000,32990000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-find-x9-pro.html,0,1,1
+oppo_reno10_pro_5g_12_256,new,10490000,10490000,10490000,CellphoneS,https://cellphones.com.vn/oppo-reno10-pro-plus.html,0,1,1
+oppo_find_x8_16_512,new,19490000,19490000,19490000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-find-x8.html,0,1,1
+oppo_a6t_4_128,new,6200000,6200000,6200000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-a6t-4gb-128gb.html,0,1,1
+oppo_a6t_6_256,new,7910000,7910000,7910000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-a6t-6gb-256gb.html,0,1,1
+oppo_a6c_4_64,new,4390000,4470000,4510000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a6c,120000,3,3
+oppo_reno14_5g_12_256,new,13690000,14595000,15500000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno14,1810000,2,2
+oppo_a6c_4_128,new,5310000,5350000,5390000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-a6c-4gb-128gb.html,80000,2,2
+oppo_a6t_4_64,new,4810000,4810000,4810000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-a6t.html,0,2,2
+oppo_find_n3_16_512,new,26990000,26990000,26990000,CellphoneS,https://cellphones.com.vn/oppo-find-n3.html,0,1,1
+oppo_reno12_f_5g_8_256,new,7120000,7120000,7120000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-reno12-f.html,0,1,1
+oppo_a6t_pro_8_128,new,7690000,9798000,10990000,Di Động Việt,https://didongviet.vn/dien-thoai/oppo-a6t-pro.html,3300000,5,5
+oppo_a6_8_256,new,11410000,11463333,11490000,CellphoneS,https://cellphones.com.vn/dien-thoai-oppo-a6.html,80000,3,3
+vivo_y28_8_256,new,6490000,6490000,6490000,CellphoneS,https://cellphones.com.vn/dien-thoai-vivo-y28-8gb-256gb.html,0,1,1
+vivo_y16_4_128,new,4490000,4490000,4490000,CellphoneS,https://cellphones.com.vn/vivo-y16.html,0,1,1
+realme_13_5g_8_256,new,6590000,6590000,6590000,CellphoneS,https://cellphones.com.vn/dien-thoai-realme-13-plus-5g.html,0,1,1
+honor_400_pro_5g_12_512,new,15490000,15490000,15490000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-400-pro-5g.html,0,1,1
+honor_x9d_5g_12_256,new,10310000,10310000,10310000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x9d-12gb-256gb.html,0,2,2
+honor_600_5g_8_256,new,15290000,15290000,15290000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-600.html,0,1,1
+honor_x8d_8_128,new,6710000,6803333,6990000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x8d.html,280000,3,3
+honor_x7d_8_128,new,5610000,5610000,5610000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x7d-8gb-128gb.html,0,2,2
+honor_magic_v5_16_512,new,37810000,37810000,37810000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-magic-v5.html,0,1,1
+honor_x7d_8_256,new,6010000,6010000,6010000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x7d.html,0,1,1
+honor_x9d_5g_12_512,new,11690000,11690000,11690000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x9d.html,0,1,1
+honor_x9d_5g_8_256,new,9310000,9310000,9310000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x9d-8gb-256gb.html,0,1,1
+honor_400_5g_12_256,new,11490000,11490000,11490000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-400-5g.html,0,1,1
+honor_x6c_nfc_6_128,new,4310000,4310000,4310000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x6c.html,0,1,1
+honor_x7d_5g_8_256,new,6490000,6503333,6510000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x7d-5g-8gb-256gb,20000,3,3
+honor_400_5g_12_512,new,12690000,12690000,12690000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-400-5g-12gb-512gb.html,0,1,1
+honor_x5c_plus_4_64,new,3510000,3570000,3690000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x5c-plus.html,180000,3,3
+honor_play_10_4_128,new,3710000,3710000,3710000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-play-10-4gb-128gb.html,0,1,1
+honor_x5c_plus_4_128,new,3810000,3900000,3990000,CellphoneS,https://cellphones.com.vn/dien-thoai-honor-x5c-plus-4gb-128gb.html,180000,2,2
+tecno_camon_40_8_128,new,4990000,5090000,5190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-camon-40-8gb-128gb,200000,2,2
+tecno_pova_curve_2_5g_8_128,new,8710000,8710000,8710000,CellphoneS,https://cellphones.com.vn/dien-thoai-tecno-pova-curve-2-5g.html,0,2,2
+tecno_spark_40_pro_8_256,new,5190000,5190000,5190000,CellphoneS,https://cellphones.com.vn/dien-thoai-tecno-spark-40-pro-plus.html,0,1,1
+tecno_camon_40_pro_8_256,new,5690000,5840000,5990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-camon-40-pro-8gb-256gb,300000,2,2
+tecno_spark_50_4_128,new,4610000,4700000,4790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/tecno-spark-50-4gb-128gb,180000,2,2
+tecno_camon_40_8_256,new,5290000,5423333,5590000,Di Động Việt,https://didongviet.vn/dien-thoai/tecno-camon-40-256gb.html,300000,3,3
+tecno_pova_curve_2_5g_8_256,new,9710000,9710000,9710000,CellphoneS,https://cellphones.com.vn/dien-thoai-tecno-pova-curve-2-5g-8gb-256gb.html,0,1,1
+tecno_spark_go_3_4_64,new,3490000,3490000,3490000,CellphoneS,https://cellphones.com.vn/dien-thoai-tecno-spark-go-3.html,0,1,1
+nubia_neo_5_5g_8_128,new,6190000,6190000,6190000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-5g.html,0,1,1
+nubia_neo_5_5g_8_256,new,7190000,7190000,7190000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-5g-8gb-256gb.html,0,1,1
+nubia_neo_5_gt_8_256,new,8990000,8990000,8990000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-gt.html,0,1,1
+nubia_zte_nubia_z60s_pro_16_512,new,11490000,11490000,11490000,CellphoneS,https://cellphones.com.vn/dien-thoai-zte-nubia-z60s-pro-16gb-512gb.html,0,1,1
+nubia_neo_5_max_5g_8_256,new,8790000,8790000,8790000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-max.html,0,1,1
+nubia_neo_5_gt_special_edition_12_256,new,13990000,13990000,13990000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-gt-special-edition.html,0,1,1
+nubia_neo_3_gt_12_256,new,7490000,7490000,7490000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-3-gt-12gb-256gb.html,0,1,1
+nubia_neo_5_gt_12_256,new,9990000,9990000,9990000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-gt-12gb-256gb.html,0,1,1
+nubia_v80_max_8_256,new,4690000,4690000,4690000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-v80-max.html,0,1,1
+nubia_v80_max_6_128,new,3710000,3800000,3890000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/nubia-v80-max-6gb-128gb,180000,2,2
+nubia_neo_5_max_5g_8_512,new,9790000,9790000,9790000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-5-max-8gb-512gb.html,0,1,1
+nubia_neo_3_4g_8_128,new,5290000,5290000,5290000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-3-4g.html,0,1,1
+nubia_v80_design_4_128,new,3510000,3630000,3690000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/nubia-v80-design-4gb-128gb,180000,3,3
+nubia_neo_3_5g_8_256,new,5090000,5090000,5090000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-neo-3-5g.html,0,1,1
+nubia_air_5g_8_256,new,5310000,5430000,5490000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/nubia-air-5g-8gb-256gb,180000,3,3
+nubia_zte_nubia_z60s_pro_12_256,new,9990000,9990000,9990000,CellphoneS,https://cellphones.com.vn/dien-thoai-zte-nubia-z60s-pro.html,0,1,1
+nubia_v70_max_6_128,new,2590000,2590000,2590000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-v70-max-6gb-128gb.html,0,1,1
+nubia_v80_max_8_128,new,4990000,4990000,4990000,CellphoneS,https://cellphones.com.vn/dien-thoai-nubia-v80-max-8gb-128gb.html,0,1,1
+asus_zenfone_max_pro_m2_3_128,new,5290000,5290000,5290000,CellphoneS,https://cellphones.com.vn/asus-zenfone-max-pro-m2-3-gb-ram-chinh-hang.html,0,1,1
+sony_xperia_1_viii_5g_12_256,new,38990000,38990000,38990000,CellphoneS,https://cellphones.com.vn/dien-thoai-sony-xperia-1-viii.html,0,1,1
+sony_xperia_1_vii_12_256,new,23990000,23990000,23990000,CellphoneS,https://cellphones.com.vn/dien-thoai-sony-xperia-1-vii.html,0,1,1
+sony_xperia_10_vii_8_128,new,9990000,9990000,9990000,CellphoneS,https://cellphones.com.vn/dien-thoai-sony-xperia-10-vii.html,0,1,1
+nothing_phone_2a_plus_5g_12_256,new,7690000,7690000,7690000,CellphoneS,https://cellphones.com.vn/dien-thoai-nothing-phone-2a-plus.html,0,1,1
+nothing_phone_3a_8_128,new,8790000,8790000,8790000,CellphoneS,https://cellphones.com.vn/dien-thoai-nothing-phone-3a.html,0,1,1
+nothing_phone_2a_5g_8_128,new,7190000,7190000,7190000,CellphoneS,https://cellphones.com.vn/dien-thoai-nothing-phone-2a.html,0,1,1
+nothing_phone_2a_5g_12_256,new,8490000,8490000,8490000,CellphoneS,https://cellphones.com.vn/dien-thoai-nothing-phone-2a-12gb-256gb.html,0,1,1
+huawei_mate_x7_16_512,new,42990000,42990000,42990000,CellphoneS,https://cellphones.com.vn/dien-thoai-huawei-mate-x7.html,0,1,1
+huawei_p30_lite_8_128,new,7490000,7490000,7490000,CellphoneS,https://cellphones.com.vn/huawei-p30-lite-1.html,0,1,1
+huawei_p30_pro_8_128,new,23990000,23990000,23990000,CellphoneS,https://cellphones.com.vn/huawei-p30-pro-1.html,0,1,1
+huawei_p30_8_128,new,17990000,17990000,17990000,CellphoneS,https://cellphones.com.vn/huawei-p30-1.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_note_21_pro_nfc_8_256,new,4790000,4790000,4790000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-note-21-pro.html,0,1,1
+meizu_lucky_08_5g_12_256,new,6290000,6290000,6290000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-lucky-08.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_pro_nfc_4_128,new,3490000,3490000,3490000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22-pro.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_4_128,new,2990000,2990000,2990000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22-4gb-128gb.html,0,1,1
+meizu_lucky_08_5g_8_256,new,5790000,5790000,5790000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-lucky-08-8gb-256gb.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_pro_nfc_6_256,new,3690000,3690000,3690000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22-pro-6gb-256gb.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_3_64,new,2990000,2990000,2990000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_pro_nfc_8_256,new,4090000,4090000,4090000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22-pro-8gb-256gb.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_21_6_128,new,2790000,2790000,2790000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-21-128gb.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_22_k_ch_ho_t_4_128,new,2190000,2190000,2190000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-22-4gb-128gb-cu-da-kich-hoat.html,0,1,1
+meizu_i_n_tho_i_meizu_mblu_21_4_64,new,2290000,2290000,2290000,CellphoneS,https://cellphones.com.vn/dien-thoai-meizu-mblu-21.html,0,1,1
+nokia_220_4g_8_128,new,980000,1040000,1100000,CellphoneS,https://cellphones.com.vn/nokia-220-4g.html,120000,4,4
+nokia_hmd_105_4g_8_128,new,640000,722500,750000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/hmd-105-4g,110000,4,4
+nokia_3210_4g_8_128,new,1470000,1483333,1490000,CellphoneS,https://cellphones.com.vn/nokia-3210-4g.html,20000,3,3
+nokia_105_4g_pro_8_128,new,780000,780000,780000,CellphoneS,https://cellphones.com.vn/nokia-105-4g-pro.html,0,2,2
+nokia_110_4g_pro_8_128,new,850000,850000,850000,CellphoneS,https://cellphones.com.vn/nokia-110-4g-pro.html,0,2,2
+nokia_7_2_8_128,new,6190000,6190000,6190000,CellphoneS,https://cellphones.com.vn/nokia-72.html,0,1,1
+nokia_3_2_8_128,new,3290000,3290000,3290000,CellphoneS,https://cellphones.com.vn/dien-thoai-nokia-32.html,0,1,1
+masstel_i_n_tho_i_tr_em_masstel_alfa_5_8_128,new,1050000,1050000,1050000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-alfa-5.html,0,1,1
+masstel_izi_15_4g_8_128,new,420000,420000,420000,CellphoneS,https://cellphones.com.vn/masstel-izi-15.html,0,1,1
+masstel_izi_t5_plus_4g_8_128,new,530000,540000,550000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-izi-t5-plus.html,20000,2,2
+masstel_fami_8_4g_8_128,new,580000,580000,580000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-fami-8.html,0,1,1
+masstel_izi_t8_8_128,new,530000,530000,530000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-izi-t8.html,0,1,1
+masstel_izi_s8_8_128,new,485000,485000,485000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-izi-s8.html,0,1,1
+masstel_izi_22_8_128,new,470000,470000,470000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-izi-22.html,0,1,1
+masstel_fami_25_8_128,new,650000,650000,650000,CellphoneS,https://cellphones.com.vn/dien-thoai-masstel-fami-25.html,0,1,1
+itel_i_n_tho_i_itel_p55_plus_nfc_8_256,new,3390000,3390000,3390000,CellphoneS,https://cellphones.com.vn/dien-thoai-itel-p55-plus-8gb-256gb.html,0,1,1
+tcl_40_nxt_paper_8_256,new,4490000,4490000,4490000,CellphoneS,https://cellphones.com.vn/tcl-40-nxt-paper.html,0,1,1
+tcl_406s_4_64,new,1690000,1840000,1990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tcl-406s-4gb-64gb-chinh-hang,300000,2,2
+tcl_40se_4_128,new,3390000,3390000,3390000,CellphoneS,https://cellphones.com.vn/tcl-40-se.html,0,1,1
+tcl_408_4_64,new,2290000,2290000,2290000,CellphoneS,https://cellphones.com.vn/tcl-408.html,0,1,1
+tcl_40se_6_256,new,3990000,3990000,3990000,CellphoneS,https://cellphones.com.vn/tcl-40-se-256gb.html,0,1,1
+tcl_408_4_128,new,2390000,2390000,2390000,CellphoneS,https://cellphones.com.vn/tcl-408-128gb.html,0,1,1
+apple_iphone_16_pro_max_c_p_8_256,used,26790000,26790000,26790000,CellphoneS Cũ,https://cellphones.com.vn/iphone-16-pro-max256gb-cu-dep.html,0,1,1
+apple_iphone_15_pro_max_c_p_8_256,used,21990000,21990000,21990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-pro-max-256gb-cu-dep.html,0,1,1
+apple_iphone_15_plus_c_p_8_128,used,15890000,15890000,15890000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-plus-cu-dep.html,0,1,1
+apple_iphone_14_pro_max_c_p_8_128,used,17490000,17490000,17490000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-cu-dep.html,0,1,1
+apple_iphone_14_plus_c_p_8_128,used,12890000,12890000,12890000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-plus-cu-dep.html,0,1,1
+apple_iphone_13_pro_max_c_tr_y_x_c_8_128,used,12090000,12090000,12090000,CellphoneS Cũ,https://cellphones.com.vn/iphone-13-pro-max-128gb-cu-tray-xuoc.html,0,1,1
+xiaomi_redmi_note_15_pro_5g_k_ch_ho_t_12_256,used,8490000,8490000,8490000,CellphoneS Cũ,https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-15-pro-5g-cu-da-kich-hoat.html,0,1,1
+samsung_galaxy_s26_ultra_5g_k_ch_ho_t_12_256,used,25990000,25990000,25990000,CellphoneS Cũ,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s26-ultra-5g-12gb-256gb-cu-da-kich-hoat.html,0,1,1
+samsung_galaxy_s25_ultra_5g_c_p_12_512,used,21990000,21990000,21990000,CellphoneS Cũ,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-ultra-5g-512gb-cu-dep.html,0,1,1
+oppo_find_n5_fold_c_x_c_c_n_16_512,used,26890000,26890000,26890000,CellphoneS Cũ,https://cellphones.com.vn/dien-thoai-oppo-find-n5-fold-16gb-512gb-cu-xuoc-can.html,0,1,1
+apple_iphone_14_pro_max_c_p_8_256,used,18990000,18990000,18990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-256gb-cu-dep.html,0,1,1
+apple_iphone_14_pro_max_c_tr_y_x_c_8_128,used,16490000,16490000,16490000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-cu-tray-xuoc.html,0,1,1
+apple_iphone_14_pro_max_c_tr_y_x_c_8_256,used,17990000,17990000,17990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-256gb-cu-tray-xuoc.html,0,1,1
+apple_iphone_15_pro_max_c_p_8_512,used,23990000,23990000,23990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-pro-max-512gb-cu-dep.html,0,1,1
+apple_iphone_15_pro_max_c_tr_y_x_c_8_256,used,20990000,20990000,20990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-pro-max-256gb-cu-tray-xuoc.html,0,1,1
+apple_iphone_14_pro_max_c_p_8_512,used,19990000,19990000,19990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-512gb-cu-dep.html,0,1,1
+apple_iphone_13_pro_max_c_p_8_128,used,13090000,13090000,13090000,CellphoneS Cũ,https://cellphones.com.vn/iphone-13-pro-max-128gb-cu-dep.html,0,1,1
+apple_iphone_14_pro_max_c_p_8_1024,used,21490000,21490000,21490000,CellphoneS Cũ,https://cellphones.com.vn/iphone-14-pro-max-1tb-non-cu-dep.html,0,1,1
+samsung_galaxy_s25_ultra_5g_c_p_12_256,used,19990000,19990000,19990000,CellphoneS Cũ,https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-ultra-5g-cu-dep.html,0,1,1
+apple_iphone_16_pro_max_c_tr_y_x_c_8_256,used,25590000,25590000,25590000,CellphoneS Cũ,https://cellphones.com.vn/iphone-16-pro-max256gb-cu-tray-xuoc.html,0,1,1
+apple_iphone_16_pro_c_p_8_128,used,21690000,21690000,21690000,CellphoneS Cũ,https://cellphones.com.vn/iphone-16-pro-cu-dep.html,0,1,1
+apple_iphone_15_pro_max_c_p_8_1024,used,24990000,24990000,24990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-pro-max-1tb-cu-dep.html,0,1,1
+apple_iphone_12_pro_max_c_p_8_128,used,11990000,11990000,11990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-12-pro-max-cu-dep.html,0,1,1
+apple_iphone_15_pro_max_c_tr_y_x_c_8_512,used,22990000,22990000,22990000,CellphoneS Cũ,https://cellphones.com.vn/iphone-15-pro-max-512gb-cu-tray-xuoc.html,0,1,1
+apple_iphone_duo_8_256,new,64990000,64990000,64990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-duo,0,4,4
+apple_iphone_18_pro_max_8_512,new,48490000,48490000,48490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=694&v=23,0,2,2
+apple_iphone_18_pro_max_8_1024,new,61490000,61490000,61490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=694&v=87,0,2,2
+apple_iphone_18_pro_max_8_2048,new,80990000,80990000,80990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=694&v=189,0,2,2
+apple_iphone_18_pro_8_512,new,45490000,45490000,45490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=693&v=23,0,2,2
+apple_iphone_18_pro_8_1024,new,58490000,58490000,58490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=693&v=87,0,2,2
+apple_iphone_duo_8_512,new,71490000,71490000,71490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-duo-512gb,0,2,2
+apple_iphone_duo_8_1024,new,84490000,84490000,84490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-duo-1tb,0,2,2
+apple_iphone_duo_8_2048,new,103990000,103990000,103990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-duo-2tb,0,2,2
+apple_iphone_18_pro_8_2048,new,77990000,77990000,77990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-18-pro-max?g=693&v=189,0,2,2
+apple_iphone_air_apple_vi_t_nam_8_1024,new,44590000,44590000,44590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-air-1tb,0,1,1
+apple_iphone_air_apple_vi_t_nam_8_512,new,32990000,32990000,32990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-air-512gb,0,1,1
+apple_iphone_17_apple_vi_t_nam_8_512,new,34590000,34590000,34590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-512gb,0,1,1
+apple_iphone_17_pro_apple_vi_t_nam_8_512,new,37990000,37990000,37990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-512gb,0,1,1
+apple_iphone_17_pro_apple_vi_t_nam_8_1024,new,44490000,44490000,44490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-1tb,0,1,1
+apple_iphone_17_pro_max_apple_vi_t_nam_8_1024,new,46990000,46990000,46990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-max-1tb,0,1,1
+apple_iphone_17_pro_max_apple_vi_t_nam_8_2048,new,59990000,59990000,59990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-max-2tb,0,1,1
+apple_iphone_17e_apple_vi_t_nam_8_256,new,20590000,20590000,20590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17e,0,1,1
+apple_iphone_17e_apple_vi_t_nam_8_512,new,26490000,26490000,26490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17e-512gb,0,1,1
+apple_iphone_17_pro_max_apple_vi_t_nam_8_512,new,40490000,40490000,40490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-max-512gb,0,1,1
+apple_iphone_17_apple_vi_t_nam_8_256,new,28090000,28090000,28090000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17,0,1,1
+apple_iphone_17_pro_apple_vi_t_nam_8_256,new,31490000,31490000,31490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro,0,1,1
+apple_iphone_17_pro_max_apple_vi_t_nam_8_256,new,33990000,33990000,33990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-17-pro-max,0,1,1
+apple_iphone_air_apple_vi_t_nam_8_256,new,26190000,26190000,26190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-air,0,1,1
+apple_iphone_16_pro_8_128,new,24990000,24990000,24990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-pro,0,1,1
+apple_iphone_16_plus_8_128,new,24090000,24540000,24990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-plus,900000,2,2
+apple_iphone_16_8_256,new,23890000,23890000,23890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-256gb,0,1,1
+apple_iphone_16_plus_8_256,new,26990000,26990000,26990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-plus-256gb,0,1,1
+apple_iphone_16_plus_8_512,new,29390000,29390000,29390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-plus-512gb,0,1,1
+apple_iphone_16_pro_max_8_1024,new,42390000,42390000,42390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-pro-max-1tb,0,1,1
+apple_iphone_16_8_512,new,29990000,29990000,29990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-512gb,0,1,1
+apple_iphone_16e_8_256,new,18350000,18350000,18350000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16e-256gb,0,1,1
+apple_iphone_16e_8_512,new,19990000,19990000,19990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16e-512gb,0,1,1
+apple_iphone_16_pro_max_8_256,new,30790000,30790000,30790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/iphone-16-pro-max,0,1,1
+samsung_galaxy_z_fold7_5g_12_256,new,36590000,37790000,38990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold7,2400000,2,2
+samsung_galaxy_s26_12_512,new,25890000,25890000,25890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-12gb-512gb,0,1,1
+samsung_galaxy_s26_plus_12_256,new,22490000,22490000,22490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-plus,0,1,1
+samsung_galaxy_s26_plus_12_512,new,29790000,29790000,29790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-plus-12gb-512gb,0,1,1
+samsung_galaxy_s26_ultra_12_512,new,35490000,35490000,35490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-ultra-12gb-512gb,0,1,1
+samsung_galaxy_s26_ultra_16_1024,new,41990000,41990000,41990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-ultra-16gb-1tb,0,1,1
+samsung_galaxy_s26_ultra_bh_t_12_512,new,31990000,31990000,31990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-ultra-12gb-512gb-bhdt,0,1,1
+samsung_galaxy_s26_12_256,new,20990000,20990000,20990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26,0,1,1
+samsung_galaxy_s26_ultra_12_256,new,28990000,28990000,28990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-ultra,0,1,1
+samsung_galaxy_s26_series_8_128,new,3000000,3000000,3000000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-series,0,1,1
+samsung_galaxy_a17_lte_8_128,new,5150000,5150000,5150000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a17-lte,0,1,1
+xiaomi_17_ultra_16_512,new,29490000,29490000,29490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-17-ultra,0,1,1
+xiaomi_poco_m7_pro_5g_12_256,new,6490000,6490000,6490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-poco-m7-pro-5g-12gb-256gb,0,1,1
+xiaomi_redmi_15c_4_128,new,4190000,4440000,4690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-redmi-15c,500000,2,2
+xiaomi_15_12_256,new,17990000,17990000,17990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-15,0,1,1
+xiaomi_redmi_15c_8_256,new,4490000,4490000,4490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-redmi-15c-8gb-256gb,0,1,1
+xiaomi_redmi_a7_3_64,new,3190000,3200000,3210000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-a7,20000,2,2
+xiaomi_redmi_17_8_128,new,3000000,3000000,3000000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-17,0,1,1
+xiaomi_poco_m7_8_256,new,5490000,5490000,5490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-poco-m7-8gb-256gb,0,1,1
+xiaomi_poco_m7_6_128,new,4690000,4690000,4690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-poco-m7-6gb-128gb,0,1,1
+xiaomi_poco_m7_pro_5g_12_512,new,7590000,7590000,7590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-poco-m7-pro-5g-12-512gb,0,1,1
+xiaomi_redmi_note_14_pro_5g_8_256,new,7790000,7790000,7790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmi-note-14-pro-plus-5g,0,1,1
+xiaomi_redmi_note_14_5g_8_256,new,6390000,6390000,6390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-14-5g-8gb-256gb,0,1,1
+xiaomi_redmi_note_14_8_128,new,5290000,5290000,5290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmi-note-14,0,1,1
+xiaomi_redmi_17_4g_6_256,new,6690000,6690000,6690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-17-4g,0,1,1
+oppo_i_n_tho_i_oppo_a6_pro_8_128,new,8190000,8190000,8190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a6-pro-8gb-128gb,0,1,1
+oppo_a5i_pro_8_128,new,5290000,5290000,5290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a5i-pro-8gb-128gb,0,1,1
+oppo_reno14_f_5g_8_256,new,9490000,9490000,9490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno14-f,0,1,1
+oppo_a5i_4_128,new,3390000,3390000,3390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a5i-4gb-128gb,0,1,1
+oppo_a5i_4_64,new,2990000,2990000,2990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a5i-4gb-64gb,0,1,1
+oppo_a79_5g_8_256,new,6590000,6590000,6590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a79-5g-8gb-256gb,0,1,1
+oppo_a58_8_128,new,4590000,4590000,4590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a58-8gb-128gb,0,1,1
+oppo_reno12_f_8_128,new,5000000,5000000,5000000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno12-f-4g-8gb-256gb,0,1,1
+oppo_reno15_8_128,new,5000000,5000000,5000000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno15-5g-12gb-256gb,0,1,1
+oppo_reno15_f_8_128,new,5000000,5000000,5000000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-reno15-f-5g-8gb-256gb,0,1,1
+oppo_a3_6_128,new,4090000,4090000,4090000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a3-6gb-128gb,0,1,1
+oppo_a3_8_256,new,5290000,5290000,5290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/oppo-a3-8gb-256gb,0,1,1
+honor_x6c_nfc_ai_6_128,new,4290000,4290000,4290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x6c,0,1,1
+honor_x9d_12_512,new,12290000,12290000,12290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x9d-12gb-512gb,0,1,1
+honor_x9d_12_256,new,10790000,10790000,10790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x9d-12gb-256gb,0,1,1
+honor_x9d_8_256,new,9490000,9490000,9490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x9d-8gb-256gb,0,1,1
+honor_i_n_tho_i_th_ng_minh_honor_play_10_3_64,new,2790000,2790000,2790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-play-10,0,1,1
+honor_x7d_4g_8_256,new,5990000,5990000,5990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-honor-x7d-4g-8gb-256gb,0,1,1
+honor_x7d_4g_8_128,new,5890000,5890000,5890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-honor-x7d-4g-8gb-128gb,0,1,1
+honor_magic_v5_8_128,new,37990000,37990000,37990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-magic-v5,0,1,1
+honor_i_n_tho_i_th_ng_minh_honor_play_10_4_128,new,3090000,3090000,3090000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-thong-minh-honor-play-10-4gb-128gb,0,1,1
+honor_600_8_256,new,15290000,15300000,15310000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-600,20000,2,2
+honor_400_12_256,new,11790000,11790000,11790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-400,0,1,1
+honor_400_lite_5g_12_256,new,7390000,7390000,7390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-400-lite,0,1,1
+honor_x6b_6_128,new,2890000,2890000,2890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/honor-x6b-6-128gb,0,1,1
+tecno_pova_7_8_8_128,new,4390000,4390000,4390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-pova-7-8-8gb-128gb,0,1,1
+tecno_pova_7_8_8_256,new,4990000,4990000,4990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-pova-7-8-8gb-256gb,0,1,1
+tecno_spark_go_2_4_4_64,new,2490000,2490000,2490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-tecno-spark-go-2-4-4gb-64gb,0,1,1
+tecno_i_n_tho_i_tecno_spark_40_6_6_128,new,3490000,3490000,3490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-tecno-spark-40-6-6gb-128gb,0,1,1
+tecno_i_n_tho_i_tecno_spark_40_8_8_256,new,3890000,3890000,3890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-tecno-spark-40-8-8gb-256gb,0,1,1
+tecno_i_n_tho_i_tecno_spark_30_5g_6_6_128,new,2990000,2990000,2990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-tecno-spark-30-5g-6-6gb-128gb,0,1,1
+tecno_spark_50_4_4_128,new,4290000,4290000,4290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-spark-50,0,1,1
+tecno_pova_curve_2_5g_8_8_128,new,8990000,8990000,8990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-pova-curve-2-5g,0,1,1
+tecno_pova_6_8_8_256,new,4190000,4190000,4190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-tecno-pova-6-8-8gb-256gb-chinh-hang,0,1,1
+tecno_camon_30s_8_128,new,3990000,3990000,3990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/tecno-camon-30s,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11_pro_12_256,new,19290000,19290000,19290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-gaming-redmagic-11-pro-12gb-256gb,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11_pro_16_512,new,23290000,23290000,23290000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-gaming-redmagic-11-pro-16gb-512gb,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11_air_12_256,new,13990000,13990000,13990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-11-air,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11_air_16_512,new,16990000,16990000,16990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-11-air-16gb,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11s_pro_12_256,new,22990000,22990000,22990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-11s-pro,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_11s_pro_16_512,new,25990000,25990000,25990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-11s-pro-16gb-512gb,0,1,1
+nubia_redmagic_10s_pro_12_256,new,18490000,18490000,18490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-gaming-redmagic-10s-pro-12gb-256gb,0,1,1
+nubia_i_n_tho_i_gaming_redmagic_10s_pro_16_512,new,22990000,22990000,22990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-gaming-redmagic-10s-pro-16gb-512gb,0,1,1
+nubia_redmagic_10_pro_b_n_qu_c_t_12_256,new,17990000,17990000,17990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-10-pro-12gb-256gb,0,1,1
+nubia_redmagic_10_pro_b_n_qu_c_t_16_512,new,21990000,21990000,21990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/redmagic-10-pro-16gb-512gb,0,1,1
+viettel_hera_s9_2_8_inch_8_128,new,590000,590000,590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-hera-s9-2.8-inch,0,1,1
+htc_i_n_tho_i_htc_wildfire_e5_plus_6_6_128,new,2990000,2990000,2990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-htc-wildfire-e5-plus-6-6gb-128gb,0,1,1
+inoi_a72_4_128,new,1990000,1990000,1990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/inoi-a72-4gb-128gb-chinh-hang,0,1,1
+inoi_a83_6_128,new,1990000,1990000,1990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/inoi-a83-6gb-128gb-chinh-hang,0,1,1
+inoi_note_13s_8_256,new,2890000,2890000,2890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/inoi-note-13s-8gb-256gb-chinh-hang,0,1,1
+inoi_288s_8_128,new,1190000,1190000,1190000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/inoi-288s-chinh-hang,0,1,1
+inoi_a54_4_256,new,2990000,2990000,2990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/inoi-a54-4gb-256gb,0,1,1
+benco_v91_4_128,new,2390000,2390000,2390000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/benco-v91-4gb-128gb,0,1,1
+nubia_i_n_tho_i_nubia_v80_design_8_128,new,3790000,3790000,3790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-nubia-v80-design-8-128gb,0,1,1
+nubia_i_n_tho_i_nubia_v80_max_8_128,new,3790000,3790000,3790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-nubia-v80-max-8-128gb,0,1,1
+nubia_v80_max_4_128,new,3590000,3590000,3590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/nubia-v80-max,0,1,1
+nubia_v70_max_8_128,new,2490000,2490000,2490000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/nubia-v70-max,0,1,1
+nubia_v70_design_8_128,new,2590000,2590000,2590000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/nubia-v70-design,0,1,1
+nubia_neo_2_12_256,new,4690000,4690000,4690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/nubia-neo-2-12-8gb-256gb,0,1,1
+nubia_v60_design_6_10_256,new,1990000,1990000,1990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-nubia-v60-design-6-10gb-256gb,0,1,1
+masstel_fami_12s_4g_8_128,new,650000,650000,650000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-masstel-fami-12s-4g-chinh-hang,0,1,1
+tcl_i_n_tho_i_di_ng_tcl_503_3_64,new,1850000,1850000,1850000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-tcl-503-3gb-64gb,0,1,1
+tcl_i_n_tho_i_di_ng_tcl_505_4_128,new,2690000,2690000,2690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-tcl-505-4gb-128gb,0,1,1
+mobell_m539_4g_8_128,new,640000,665000,690000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-mobell-m539-4g-chinh-hang,50000,2,2
+mobell_f209_4g_8_128,new,590000,600000,610000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-mobell-f209-4g-chinh-hang,20000,2,2
+mobell_f309_4g_8_128,new,650000,700000,750000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-mobell-f309-4g-chinh-hang,100000,2,2
+nubia_zte_blade_a72_3_128,new,1890000,1890000,1890000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/zte-blade-a72-3gb-128gb-chinh-hang,0,1,1
+nubia_zte_blade_a55_4_64,new,1790000,1790000,1790000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-zte-blade-a55-4gb-64gb,0,1,1
+nubia_zte_blade_a55_4_128,new,1990000,1990000,1990000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/dien-thoai-zte-blade-a55-4gb-128gb,0,1,1
+viettel_i_n_tho_i_viettel_t2_4g_d_ng_m_i_lo_i_sim_8_128,new,550000,550000,550000,Hoàng Hà Mobile,https://hoanghamobile.com/dien-thoai/viettel-t2-4g,0,1,1
+samsung_galaxy_z_fold8_12_256,new,39090000,39090000,39090000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold8-12gb-256gb,0,1,1
+samsung_galaxy_z_fold8_ultra_12_256,new,45090000,45090000,45090000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold8-ultra-12gb-256gb,0,1,1
+samsung_galaxy_a37_5g_6_128,new,9500000,9500000,9500000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-a37-6gb-128gb,0,1,1
+samsung_galaxy_s25_5g_12_256,new,16790000,16790000,16790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-s25,0,1,1
+samsung_galaxy_s25_fe_5g_8_128,new,12790000,12790000,12790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-s25-fe-5g-8gb-128gb,0,1,1
+samsung_galaxy_a07_4_64,new,3110000,3110000,3110000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-a07-4gb-64gb,0,1,1
+samsung_galaxy_a17_4_128,new,5200000,5200000,5200000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-a17-4gb-128gb?utm_flashsale=1,0,1,1
+samsung_galaxy_s25_ultra_5g_12_256,new,24890000,24890000,24890000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-s25-ultra,0,1,1
+samsung_galaxy_z_flip7_fe_5g_8_128,new,15810000,15810000,15810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip7-fe?utm_flashsale=1,0,1,1
+samsung_galaxy_a27_6_128,new,7490000,7490000,7490000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-a27-6gb-128gb,0,1,1
+samsung_galaxy_s25_edge_5g_12_512,new,19000000,19000000,19000000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/samsung-galaxy-s25-edge-5g-512gb,0,1,1
+oppo_reno16f_5g_8_128,new,13310000,13310000,13310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno16f-5g-8gb-128gb,0,1,1
+oppo_a6_6_128,new,9410000,9410000,9410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-a6-6gb-128gb,0,1,1
+oppo_reno16_5g_8_256,new,18310000,18310000,18310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno16-5g-8gb-256gb,0,1,1
+oppo_a6x_4_64,new,4990000,4990000,4990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-a6x-4gb-64gb?utm_flashsale=1,0,1,1
+oppo_reno16_pro_5g_12_256,new,23210000,23210000,23210000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno16-pro,0,1,1
+oppo_a6_pro_8_256,new,8990000,8990000,8990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-a6-pro-8gb-256gb,0,1,1
+oppo_a6_pro_5g_8_256,new,10990000,10990000,10990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-a6-pro-5g-8gb-256gb?utm_flashsale=1,0,1,1
+oppo_find_x9s_12_512,new,26010000,26010000,26010000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-find-x9s-12gb-512gb,0,1,1
+oppo_reno15_5g_8_256,new,14490000,14490000,14490000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno15-5g-8gb-256gb?utm_flashsale=1,0,1,1
+oppo_reno15_pro_5g_12_256,new,17490000,17490000,17490000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno15-pro-5g-12gb-256gb?utm_flashsale=1,0,1,1
+oppo_reno14_f_5g_12_256,new,11090000,11090000,11090000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno14-f-5g-12gb-256gb?utm_flashsale=1,0,1,1
+oppo_reno13_5g_12_256,new,12200000,12200000,12200000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-reno13-5g?utm_flashsale=1,0,1,1
+oppo_find_n3_flip_5g_h_ng_12_256,new,17400000,17400000,17400000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-find-n3-flip-hong,0,1,1
+oppo_a5_pro_5g_8_256,new,8340000,8340000,8340000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-a5-pro-5g?utm_flashsale=1,0,1,1
+oppo_find_n6_5g_16_512,new,64810000,64810000,64810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/oppo-find-n6,0,1,1
+xiaomi_redmi_note_17_4g_4_128,new,6310000,6310000,6310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-4g-4gb-128gb,0,1,1
+xiaomi_redmi_note_17_pro_5g_12_256,new,11310000,11310000,11310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-pro-5g-12gb-256gb,0,1,1
+xiaomi_redmi_note_17_pro_max_5g_12_256,new,14310000,14310000,14310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-pro-max-12gb-256gb,0,1,1
+xiaomi_17t_5g_12_256,new,15710000,15710000,15710000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-17t-5g-12gb-256gb,0,1,1
+xiaomi_redmi_note_15_pro_5g_8_256,new,9090000,9240000,9390000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-note-15-pro-5g.html,300000,2,2
+xiaomi_redmi_note_15_pro_8_256,new,6910000,6910000,6910000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-15-pro-8gb-256gb?utm_flashsale=1,0,1,1
+xiaomi_redmi_17_4g_4_128,new,5110000,5110000,5110000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-17-4g-4gb-128gb?utm_flashsale=1,0,1,1
+xiaomi_poco_c71_4_64,new,3390000,3390000,3390000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-poco-c71-4gb-64gb?utm_flashsale=1,0,1,1
+xiaomi_redmi_a7_pro_4_64,new,3810000,3810000,3810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-a7-pro?utm_flashsale=1,0,1,1
+xiaomi_redmi_17_5g_4_128,new,5410000,5410000,5410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-17-5g-4gb-128gb,0,1,1
+xiaomi_17t_pro_5g_12_256,new,18310000,18310000,18310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-17t-pro-5g-12gb-256gb,0,1,1
+xiaomi_redmi_15_5g_4_128,new,5310000,5310000,5310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-15-5g-4gb-128gb,0,1,1
+xiaomi_redmi_15_6_128,new,4790000,4790000,4790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-15-6gb-128gb?utm_flashsale=1,0,1,1
+xiaomi_redmi_15c_6_128,new,4790000,4790000,4790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xiaomi-redmi-15c-6gb-128gb?utm_flashsale=1,0,1,1
+vivo_x300_ultra_16_512,new,41810000,41810000,41810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-x300-ultra,0,1,1
+vivo_v70_fe_5g_8_256,new,13200000,13200000,13200000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-v70-fe-8gb-256gb?utm_flashsale=1,0,1,1
+vivo_v60_lite_5g_8_256,new,9990000,9990000,9990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-v60-lite-8gb-256gb?utm_flashsale=1,0,1,1
+vivo_x300_pro_5g_16_512,new,31010000,31010000,31010000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-x300-pro,0,1,1
+vivo_y39_5g_8_128,new,6690000,6690000,6690000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y39-5g?utm_flashsale=1,0,1,1
+vivo_v60_5g_12_256,new,14910000,14910000,14910000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-v60-12gb-256gb?utm_flashsale=1,0,1,1
+vivo_v50_lite_5g_8_256,new,8630000,8630000,8630000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-v50-lite-5g,0,1,1
+vivo_y31d_6_128,new,7910000,7910000,7910000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y31d-6gb-128gb,0,1,1
+vivo_y05_4_64,new,4740000,4740000,4740000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y05-4gb-64gb?utm_flashsale=1,0,1,1
+vivo_y05e_4_64,new,4310000,4310000,4310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y05e-4gb-64gb?utm_flashsale=1,0,1,1
+vivo_y11d_4_128,new,6010000,6010000,6010000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y11d-4gb-128gb,0,1,1
+vivo_v70_5g_8_256,new,16790000,16790000,16790000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-v70-8gb-256gb?utm_flashsale=1,0,1,1
+vivo_y21d_6_128,new,5570000,5570000,5570000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/vivo-y21d-6gb-128gb?utm_flashsale=1,0,1,1
+realme_16t_5g_8_128,new,8090000,8090000,8090000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-16t-5g-8gb-128gb,0,1,1
+realme_c100x_4_128,new,6610000,6610000,6610000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c100x-4gb-128gb,0,1,1
+realme_c100_4g_8_128,new,7690000,7690000,7690000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c100-4g-8gb-128gb,0,1,1
+realme_16_5g_8_256,new,9390000,9390000,9390000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-16-5g-8gb-256gb,0,1,1
+realme_c85_8_128,new,6090000,6090000,6090000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c85-8gb-128gb?utm_flashsale=1,0,1,1
+realme_c85_pro_8_128,new,5810000,5810000,5810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c85-pro-8gb-128gb,0,1,1
+realme_c85_5g_8_128,new,7890000,7890000,7890000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c85-5g-8gb-128gb?utm_flashsale=1,0,1,1
+realme_c100i_4_64,new,4910000,4910000,4910000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-c100i-4gb-64gb?utm_flashsale=1,0,1,1
+realme_p4_power_5g_12_256,new,13690000,13690000,13690000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-p4-power-5g-12gb-256gb,0,1,1
+realme_15_pro_5g_12_256,new,10710000,10710000,10710000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-15-pro-5g-12gb-256gb,0,1,1
+realme_15t_5g_8_256,new,7590000,7590000,7590000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-15t-5g-8gb-256gb?utm_flashsale=1,0,1,1
+realme_note_80_4_64,new,4290000,4290000,4290000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-note-80-4gb-64gb?utm_flashsale=1,0,1,1
+realme_16_pro_5g_12_256,new,12210000,12210000,12210000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-16-pro-5g-12gb-256gb,0,1,1
+realme_15_5g_12_256,new,9990000,9990000,9990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-15-5g-12gb-256gb?utm_flashsale=1,0,1,1
+realme_14_5g_12_256,new,10300000,10300000,10300000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/realme-14-5g,0,1,1
+honor_600_lite_8_256,new,9410000,9410000,9410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-600-lite-8gb-256gb,0,1,1
+honor_magic_v5_5g_16_512,new,37810000,37810000,37810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-magic-v5-5g-16gb-512gb,0,1,1
+honor_400_lite_12_256,new,8150000,8150000,8150000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-400-lite,0,1,1
+honor_400_5g_en_12_256,new,11570000,11570000,11570000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-400-5g-12gb-256gb-den,0,1,1
+honor_play_10_3_64,new,3110000,3110000,3110000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-play-10-3gb-64gb,0,1,1
+honor_x6c_6_128,new,4310000,4310000,4310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-x6c-6gb-128gb,0,1,1
+honor_600_pro_12_256,new,21010000,21010000,21010000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-600-pro-12gb-256gb,0,1,1
+honor_x5c_4_64,new,3290000,3290000,3290000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-x5c-4gb-64gb,0,1,1
+honor_600_pro_molly_v_ng_tr_ng_12_512,new,23510000,23510000,23510000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/honor-600-pro-molly-12gb-512gb,0,1,1
+tecno_spark_go_3_4_128,new,3610000,3610000,3610000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/tecno-spark-go-3-4gb-128gb?utm_flashsale=1,0,1,1
+tecno_spark_40_6_128,new,3410000,3410000,3410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/tecno-spark-40-6gb-128gb,0,1,1
+tecno_spark_50_pro_4_128,new,6310000,6310000,6310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/tecno-spark-50-pro-4gb-128gb,0,1,1
+nubia_a56_4_128,new,3210000,3210000,3210000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/nubia-a56-4gb-128gb,0,1,1
+nubia_a36_4_64,new,2810000,2810000,2810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/nubia-a36-4gb-64gb,0,1,1
+masstel_izi_t6_t127_8_128,new,550000,550000,550000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-izi-t6-t127,0,1,1
+masstel_fami_50_4g_8_128,new,650000,650000,650000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-fami-50,0,1,1
+masstel_izi_10_4g_type_c_8_128,new,430000,430000,430000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-izi-10-type-c,0,1,1
+masstel_izi_10s_8_128,new,490000,490000,490000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-izi-10s,0,1,1
+masstel_izi_t6_4g_8_128,new,550000,550000,550000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-izi-t6,0,1,1
+masstel_fami_60s_4g_8_128,new,750000,750000,750000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-fami-60s,0,2,2
+masstel_izi_10_4g_8_128,new,430000,430000,430000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/masstel-izi-10,0,1,1
+mobell_m239_4g_8_128,new,430000,430000,430000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/mobell-m239,0,1,1
+mobell_rock_7_8_128,new,890000,890000,890000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/mobell-rock-7,0,1,1
+mobell_m331_4g_8_128,new,540000,540000,540000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/mobell-m331,0,1,1
+motorola_razr_fold_5g_12_256,new,44190000,44190000,44190000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-razr-fold-12gb-256gb,0,1,1
+motorola_edge_70_fusion_8_128,new,9910000,9910000,9910000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-edge-70-fusion-8gb-128gb,0,1,1
+motorola_g57_power_5g_8_128,new,6510000,6510000,6510000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-g57-power-5g-8gb-128gb,0,1,1
+motorola_edge_70_8_256,new,10710000,10710000,10710000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-edge-70-8gb-256gb,0,1,1
+motorola_g06_power_4_64,new,3410000,3410000,3410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-g06-power-4gb-64gb?utm_flashsale=1,0,1,1
+motorola_g35_5g_4_128,new,4110000,4110000,4110000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-moto-g35-5g-4gb-128gb?utm_flashsale=1,0,1,1
+motorola_g86_power_5g_8_128,new,5810000,5810000,5810000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-moto-g86-5g-8gb-128gb,0,1,1
+motorola_edge_60_fusion_5g_8_256,new,7310000,7310000,7310000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-edge-60-fusion-8gb-256gb,0,1,1
+motorola_razr_60_5g_8_256,new,16510000,16510000,16510000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-razr-60-8gb-256gb,0,1,1
+motorola_moto_g37_5g_4_64,new,4410000,4410000,4410000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-g37-4gb-64gb,0,1,1
+motorola_signature_12_256,new,18990000,18990000,18990000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/motorola-signature-12gb-256gb?utm_flashsale=1,0,1,1
+viettel_xphone_hera_s9_8_128,new,590000,590000,590000,Thế Giới Di Động,https://www.thegioididong.com/dtdd/xphone-hera-s9,0,1,1
+apple_8_iphone_16e_8_128,new,20590000,20590000,20590000,FPT Shop,https://fptshop.com.vn/dien-thoai/iphone-16e,0,1,1
+apple_18_iphone_16e_sim_viettel_8_128,new,16690000,16690000,16690000,FPT Shop,https://fptshop.com.vn/dien-thoai/iphone-16e-sim-viettel,0,1,1
+samsung_15_samsung_galaxy_z_fold8_ultra_5g_12_256,new,52990000,52990000,52990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-ultra,0,1,1
+samsung_17_samsung_galaxy_z_fold8_5g_12_256,new,46990000,46990000,46990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8,0,1,1
+samsung_21_samsung_galaxy_z_flip8_5g_12_256,new,31990000,31990000,31990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip8,0,1,1
+samsung_23_samsung_galaxy_s26_5g_12_256,new,25990000,25990000,25990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26,0,1,1
+samsung_25_samsung_galaxy_s26_plus_5g_12_256,new,29990000,29990000,29990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-plus,0,1,1
+samsung_25_samsung_galaxy_s26_ultra_5g_12_256,new,36990000,36990000,36990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra,0,1,1
+samsung_22_samsung_galaxy_z_fold7_5g_12_256,new,46990000,46990000,46990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold7,0,1,1
+samsung_21_samsung_galaxy_z_flip7_5g_12_256,new,28990000,28990000,28990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip7,0,1,1
+samsung_26_samsung_galaxy_s25_ultra_5g_12_256,new,33380000,33380000,33380000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-ultra,0,1,1
+samsung_7_samsung_galaxy_a36_5g_8_128,new,8140000,8140000,8140000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a36,0,1,1
+samsung_5_samsung_galaxy_a56_5g_8_128,new,9810000,9810000,9810000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a56,0,1,1
+samsung_13_samsung_galaxy_s26_fe_5g_8_128,new,18990000,18990000,18990000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-fe,0,1,1
+samsung_16_samsung_galaxy_a17_8_128,new,6190000,6190000,6190000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17,0,1,1
+samsung_30_samsung_galaxy_a17_5g_8_128,new,8790000,8790000,8790000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17-5g,0,1,1
+samsung_12_samsung_galaxy_a27_5g_6_128,new,8490000,8490000,8490000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a27,0,1,1
+samsung_12_samsung_galaxy_a37_5g_8_128,new,10790000,10790000,10790000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a37,0,1,1
+samsung_24_samsung_galaxy_s25_fe_5g_8_128,new,16690000,16690000,16690000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-fe,0,1,1
+samsung_16_samsung_galaxy_a57_5g_8_128,new,12490000,12490000,12490000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a57,0,1,1
+samsung_14_samsung_galaxy_a07_4_128,new,4190000,4190000,4190000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07,0,1,1
+samsung_19_samsung_galaxy_a07_5g_4_128,new,5890000,5890000,5890000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-5g,0,1,1
+samsung_5_samsung_galaxy_a26_5g_8_128,new,7390000,7390000,7390000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a26,0,1,1
+samsung_galaxy_a07_8_256,new,4690000,4690000,4690000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-8gb,0,1,1
+samsung_8_samsung_galaxy_a06_5g_4_128,new,3920000,3920000,3920000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a06,0,1,1
+samsung_25_samsung_galaxy_s24_fe_5g_8_128,new,16690000,16690000,16690000,FPT Shop,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s24-fe,0,1,1
+xiaomi_5_xiaomi_redmi_17_6_256,new,7490000,7490000,7490000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-17,0,1,1
+xiaomi_15_xiaomi_poco_x7_5g_12_512,new,9350000,9350000,9350000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-poco-x7,0,1,1
+xiaomi_13_xiaomi_15t_pro_5g_12_512,new,19490000,19490000,19490000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-15t-pro,0,1,1
+xiaomi_6_xiaomi_poco_m7_pro_5g_8_256,new,6370000,6370000,6370000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-poco-m7-pro,0,1,1
+xiaomi_6_xiaomi_redmi_17_5g_4_128,new,6490000,6490000,6490000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-17-5g,0,1,1
+xiaomi_5_xiaomi_poco_c81_pro_4_128,new,4090000,4090000,4090000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-poco-c81-pro,0,1,1
+xiaomi_10_xiaomi_15t_5g_12_512,new,14990000,14990000,14990000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-15t,0,1,1
+xiaomi_5_xiaomi_redmi_13x_8_128,new,4190000,4190000,4190000,FPT Shop,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-13x,0,1,1
+oppo_a5i_6_128,new,4490000,4490000,4490000,FPT Shop,https://fptshop.com.vn/dien-thoai/oppo-a5i-6gb,0,1,1
+oppo_22_oppo_reno12_5g_12_256,new,12760000,12760000,12760000,FPT Shop,https://fptshop.com.vn/dien-thoai/oppo-reno12,0,1,1
+oppo_39_oppo_find_n3_5g_16_512,new,44180000,44180000,44180000,FPT Shop,https://fptshop.com.vn/dien-thoai/oppo-find-n3,0,1,1
+oppo_8_oppo_reno13_f_5g_12_256,new,10800000,10800000,10800000,FPT Shop,https://fptshop.com.vn/dien-thoai/oppo-reno13-f-5g,0,1,1
+tecno_8_tecno_pova_7_8_128,new,4990000,4990000,4990000,FPT Shop,https://fptshop.com.vn/dien-thoai/tecno-pova-7,0,1,1
+nokia_110_ds_pro_4g_8_128,new,850000,850000,850000,FPT Shop,https://fptshop.com.vn/dien-thoai/nokia-110-ds-pro-4g-2,0,1,1
+nokia_105_ds_pro_4g_8_128,new,780000,780000,780000,FPT Shop,https://fptshop.com.vn/dien-thoai/nokia-105-ds-pro-4g,0,1,1
+masstel_fami_25_4g_128mb_8_128,new,680000,680000,680000,FPT Shop,https://fptshop.com.vn/dien-thoai/masstel-fami-25-4g,0,1,1
+tcl_25_tcl_60r_5g_4_128,new,3990000,3990000,3990000,FPT Shop,https://fptshop.com.vn/dien-thoai/tcl-60r,0,1,1
+itel_13_itel_p55_plus_nfc_8_256,new,3990000,3990000,3990000,FPT Shop,https://fptshop.com.vn/dien-thoai/itel-p55-plus-nfc,0,1,1
+benco_s1_pro_8_256,new,3790000,3790000,3790000,FPT Shop,https://fptshop.com.vn/dien-thoai/benco-s1-pro,0,1,1
+benco_v90_plus_4_64,new,2490000,2490000,2490000,FPT Shop,https://fptshop.com.vn/dien-thoai/benco-v90-plus,0,1,1
+benco_v91_plus_6_128,new,3290000,3290000,3290000,FPT Shop,https://fptshop.com.vn/dien-thoai/benco-v91-plus,0,1,1
+nubia_17_nubia_neo_5_5g_8_128,new,7490000,7490000,7490000,FPT Shop,https://fptshop.com.vn/dien-thoai/nubia-neo-5,0,1,1
+nubia_9_nubia_a76_nfc_4_128,new,3390000,3390000,3390000,FPT Shop,https://fptshop.com.vn/dien-thoai/nubia-a76,0,1,1
+viettel_sumo_t2_4g_8_128,new,550000,550000,550000,FPT Shop,https://fptshop.com.vn/dien-thoai/viettel-sumo-t2-4g,0,1,1
+samsung_galaxy_z_flip8_8_256,new,25990000,25990000,25990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-flip8.html,0,1,1
+samsung_galaxy_z_fold8_ultra_8_256,new,45490000,45490000,45490000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-ultra.html,0,1,1
+samsung_galaxy_z_fold8_8_512,new,45490000,45490000,45490000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-512gb.html,0,1,1
+samsung_galaxy_z_fold8_ultra_8_512,new,50990000,50990000,50990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-ultra-512gb.html,0,1,1
+samsung_galaxy_z_fold8_8_256,new,39990000,39990000,39990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8.html,0,1,1
+samsung_galaxy_s26_ultra_8_1024,new,42990000,42990000,42990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-ultra-1tb.html,0,1,1
+samsung_galaxy_s26_plus_8_512,new,29500000,29500000,29500000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-plus-512gb.html,0,1,1
+samsung_galaxy_s26_8_512,new,25990000,25990000,25990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-512gb.html,0,1,1
+samsung_galaxy_s26_8_256,new,20990000,20990000,20990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26.html,0,1,1
+samsung_galaxy_s26_plus_8_256,new,22990000,22990000,22990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-plus.html,0,1,1
+samsung_galaxy_s26_ultra_8_256,new,27990000,27990000,27990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-ultra.html,0,1,1
+samsung_galaxy_s26_ultra_8_512,new,32990000,32990000,32990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-ultra-512gb.html,0,1,1
+samsung_galaxy_s26_ultra_bh_t_8_256,new,25500000,25500000,25500000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s26-ultra-256gb-bhdt.html,0,1,1
+samsung_galaxy_s25_ultra_8_256,new,24790000,24790000,24790000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s25-ultra-5g-256gb.html,0,1,1
+samsung_galaxy_s25_ultra_8_512,new,30990000,30990000,30990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s25-ultra-5g-512gb.html,0,1,1
+samsung_galaxy_s25_ultra_bh_t_8_512,new,28990000,28990000,28990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-s25-ultra-5g-512gb-bhdt.html,0,1,1
+samsung_galaxy_z_fold7_8_256,new,39990000,39990000,39990000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold7-5g.html,0,1,1
+samsung_galaxy_a07_8_128,new,3590000,3590000,3590000,Di Động Việt,https://didongviet.vn/dien-thoai/samsung-galaxy-a07.html,0,1,1
+xiaomi_redmi_note_17_pro_5g_8_256,new,9490000,9490000,9490000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-note-17-pro-5g-256gb.html,0,1,1
+xiaomi_redmi_note_17_5g_8_128,new,7790000,7790000,7790000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-note-17-5g-128gb.html,0,1,1
+xiaomi_redmi_note_17_4g_8_128,new,5890000,5890000,5890000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-note-17-4gb-128gb.html,0,1,1
+xiaomi_redmi_17_5g_8_128,new,5790000,5790000,5790000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-17-5g.html,0,1,1
+xiaomi_redmi_17_4g_8_128,new,6890000,6890000,6890000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-17-4g.html,0,1,1
+xiaomi_17t_pro_8_512,new,19990000,19990000,19990000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-17t-pro-512gb.html,0,1,1
+xiaomi_17t_8_512,new,16590000,16590000,16590000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-17t-512gb.html,0,1,1
+xiaomi_redmi_a7_pro_8_128,new,3890000,3890000,3890000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-a7-pro.html,0,1,1
+xiaomi_17_ultra_8_512,new,30990000,30990000,30990000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-17-ultra.html,0,1,1
+xiaomi_redmi_note_15_pro_4g_8_256,new,7990000,7990000,7990000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-note-15-pro.html,0,1,1
+xiaomi_redmi_15c_8_128,new,3990000,3990000,3990000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-15c.html,0,1,1
+xiaomi_14_5g_8_256,new,19990000,19990000,19990000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-14.html,0,1,1
+xiaomi_redmi_a7_8_64,new,3190000,3190000,3190000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-redmi-a7-64gb.html,0,1,1
+xiaomi_mi_note_10_lite_8_128,new,7690000,7690000,7690000,Di Động Việt,https://didongviet.vn/dien-thoai/xiaomi-mi-note-10-lite-8gb-128gb.html,0,1,1
+oppo_a6c_8_128,new,5390000,5390000,5390000,Di Động Việt,https://didongviet.vn/dien-thoai/oppo-a6c.html,0,1,1
+oppo_a6c_8_64,new,4390000,4390000,4390000,Di Động Việt,https://didongviet.vn/dien-thoai/oppo-a6c-64gb.html,0,1,1
+apple_iphone_18_pro_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-18-pro-pid370175.html,0,1,1
+apple_iphone_18_pro_max_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-18-pro-max-pid370178.html,0,1,1
+apple_iphone_duo_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-duo-pid370533.html,0,1,1
+apple_iphone_17_pro_8_1024,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-17-pro-1tb-pid355085.html,0,1,1
+apple_iphone_air_8_1024,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-air-1tb-pid355095.html,0,1,1
+apple_iphone_air_8_512,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-air-512gb-pid355094.html,0,1,1
+apple_galaxy_z_fold8_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/samsung-galaxy-z-fold-8-pid368603.html,0,1,1
+apple_galaxy_z_fold8_ultra_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/samsung-galaxy-z-fold-8-ultra-pid368604.html,0,1,1
+apple_galaxy_z_flip8_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/samsung-galaxy-z-flip-8-pid368605.html,0,1,1
+oppo_iphone_18_pro_pre_order_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/iphone-18-pro-max-pid370178.html?utm_source=website&utm_medium=banner&utm_campaign=danhmuc,0,1,1
+oppo_reno16_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/oppo-reno16f-5g-8gb-256gb-pid368085.html?utm_source=web&utm_medium=banner&utm_campaign=cate,0,1,1
+oppo_vivo_y39_5g_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/vivo-y39-5g-8gb-128gb-pid364900.html?utm_source=web&utm_medium=banner&utm_campaign=cate,0,1,1
+oppo_tecno_spark_50_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/tecno-pova-curve-5g-8gb-128gb-pid369579.html?utm_source=website&utm_medium=banner&utm_campaign=main,0,1,1
+oppo_honor_x8d_8_128,new,5000000,5000000,5000000,Viettel Store,https://viettelstore.vn/dien-thoai/honor-x8d-8gb-128gb-pid363480.html?utm_source=website&utm_medium=banner&utm_campaign=cate,0,1,1

@@ -1,0 +1,99 @@
+import fs from 'fs';
+
+function cleanForMatch(text) {
+  if (!text) return '';
+  return text.toLowerCase()
+    .replace(/điện thoại|chính hãng|vn\/a|máy cũ|đổi trả|99%|like new|trưng bày|giá rẻ|\b5g\b|\b4g\b|\blte\b|\b\d+gb\b|\b\d+tb\b|\(.*\)/gi, '')
+    .replace(/[^a-z0-9]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// Load CSV helper
+function parseCSV(filePath) {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const lines = content.split(/\r?\n/).filter(l => l.trim().length > 0);
+  const headers = lines[0].split(',').map(h => h.replace(/^"|"$/g, '').trim());
+  const rows = [];
+  for (let i = 1; i < lines.length; i++) {
+    const values = [];
+    let cur = '';
+    let inQuotes = false;
+    for (const char of lines[i]) {
+      if (char === '"') inQuotes = !inQuotes;
+      else if (char === ',' && !inQuotes) {
+        values.push(cur.trim());
+        cur = '';
+      } else {
+        cur += char;
+      }
+    }
+    values.push(cur.trim());
+    const obj = {};
+    headers.forEach((h, idx) => {
+      obj[h] = (values[idx] || '').replace(/^"|"$/g, '');
+    });
+    rows.push(obj);
+  }
+  return rows;
+}
+
+const vnRows = parseCSV('d:/Documents/Website/tools_dt/phone_dss/data/05_device_aggregated_prices.csv');
+const gsmDevices = parseCSV('d:/Documents/Website/tools_dt/phone_dss/data/01_devices.csv');
+
+const gsmLookup = [];
+for (const d of gsmDevices) {
+  const b = d.brand.toLowerCase();
+  const cleanName = cleanForMatch(d.device_name);
+  gsmLookup.push({
+    device_id: d.device_id,
+    brand: b,
+    clean_name: cleanName,
+    raw_name: d.device_name
+  });
+}
+
+let matched = 0;
+const unmatched = [];
+
+for (const vn of vnRows) {
+  const b = (vn.brand || '').toLowerCase();
+  const cleanP = cleanForMatch(vn.product_name);
+
+  let bestMatch = null;
+  let maxScore = 0;
+
+  for (const gsm of gsmLookup) {
+    if (gsm.brand === b || (b === 'apple' && gsm.brand === 'apple')) {
+      if (cleanP === gsm.clean_name) {
+        bestMatch = gsm;
+        maxScore = 1000;
+        break;
+      } else if (gsm.clean_name && cleanP.includes(gsm.clean_name)) {
+        if (gsm.clean_name.length > maxScore) {
+          maxScore = gsm.clean_name.length;
+          bestMatch = gsm;
+        }
+      } else if (cleanP && gsm.clean_name.includes(cleanP)) {
+        if (cleanP.length > maxScore) {
+          maxScore = cleanP.length;
+          bestMatch = gsm;
+        }
+      }
+    }
+  }
+
+  if (bestMatch) {
+    matched++;
+  } else {
+    unmatched.push({ brand: vn.brand, product: vn.product_name, clean: cleanP });
+  }
+}
+
+console.log(`\n==============================================`);
+console.log(`✅ Khớp nâng cao: ${matched} / ${vnRows.length} (${(matched / vnRows.length * 100).toFixed(1)}%)`);
+console.log(`❌ Chưa khớp: ${unmatched.length}`);
+console.log(`==============================================`);
+if (unmatched.length > 0) {
+  console.log('Mẫu chưa khớp:', unmatched.slice(0, 5));
+}

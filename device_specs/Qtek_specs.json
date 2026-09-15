@@ -1,0 +1,1492 @@
+[
+  {
+    "sttTong": 9303,
+    "sttHang": 1,
+    "brand": "Qtek",
+    "deviceName": "Qtek 9600",
+    "deviceUrl": "https://www.gsmarena.com/qtek_9600-1588.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 850 / 1900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 58 x 22 mm (4.45 x 2.28 x 0.87 in)",
+        "weight": "176 g (6.21 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "400 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "QCIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1350 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:44:40.944Z"
+  },
+  {
+    "sttTong": 9305,
+    "sttHang": 3,
+    "brand": "Qtek",
+    "deviceName": "Qtek A9100",
+    "deviceUrl": "https://www.gsmarena.com/qtek_a9100-2523.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-a9100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-a9100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 23.7 mm (4.25 x 2.28 x 0.93 in)",
+        "weight": "168 g (5.93 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/i",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1250 mAh battery"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:44:49.494Z"
+  },
+  {
+    "sttTong": 9306,
+    "sttHang": 4,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8500",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8500-1483.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98.5 x 51.4 x 15.8 mm (3.88 x 2.02 x 0.62 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~29.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external 1.2-inch TFT display, 65K colors (128 x 128 pixels)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:44:53.177Z"
+  },
+  {
+    "sttTong": 9309,
+    "sttHang": 7,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8310",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8310-1253.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8310.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8310.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46 x 17.5 mm (4.23 x 1.81 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "64MB RAM, 64/128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:44:57.041Z"
+  },
+  {
+    "sttTong": 9308,
+    "sttHang": 6,
+    "brand": "Qtek",
+    "deviceName": "Qtek 9000",
+    "deviceUrl": "https://www.gsmarena.com/qtek_9000-1264.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 79 x 21 mm (5.16 x 3.11 x 0.83 in)",
+        "weight": "285 g (10.05 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.6 inches, 73 x 55 mm, 40.1 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~222 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale 520 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "64MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No\nDual speakers"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1620 mAh battery",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 560 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:44:58.360Z"
+  },
+  {
+    "sttTong": 9310,
+    "sttHang": 8,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8300",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8300-1252.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46 x 17.5 mm (4.23 x 1.81 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:44:59.013Z"
+  },
+  {
+    "sttTong": 9311,
+    "sttHang": 9,
+    "brand": "Qtek",
+    "deviceName": "Qtek 9100",
+    "deviceUrl": "https://www.gsmarena.com/qtek_9100-1257.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 58 x 23 mm (4.29 x 2.28 x 0.91 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nPocket Office \nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1250 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Stylish black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:00.756Z"
+  },
+  {
+    "sttTong": 9312,
+    "sttHang": 10,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8100",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8100-1173.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 19 mm (4.21 x 1.85 x 0.75 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003 SE",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:05.248Z"
+  },
+  {
+    "sttTong": 9304,
+    "sttHang": 2,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8600",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8600-1585.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.4 x 46 x 14.8 mm (4.43 x 1.81 x 0.58 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~29.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "cpu": "Samsung 2442 300 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1190 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:45:06.019Z"
+  },
+  {
+    "sttTong": 9314,
+    "sttHang": 12,
+    "brand": "Qtek",
+    "deviceName": "Qtek S100",
+    "deviceUrl": "https://www.gsmarena.com/qtek_s100-1172.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Bulverde 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "64MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:07.836Z"
+  },
+  {
+    "sttTong": 9307,
+    "sttHang": 5,
+    "brand": "Qtek",
+    "deviceName": "Qtek S200",
+    "deviceUrl": "https://www.gsmarena.com/qtek_s200-1417.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.8 x 59.3 x 18.4 mm (4.28 x 2.33 x 0.72 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "SD/MMC",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:10.098Z"
+  },
+  {
+    "sttTong": 9317,
+    "sttHang": 15,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8010",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8010-1169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8010.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8010.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 46 x 17.5 mm (4.21 x 1.81 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE Smartphone",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Pocket IE)",
+        "languages": "8\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Cool metallic, Light blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:15.519Z"
+  },
+  {
+    "sttTong": 9318,
+    "sttHang": 16,
+    "brand": "Qtek",
+    "deviceName": "Qtek 2020i",
+    "deviceUrl": "https://www.gsmarena.com/qtek_2020i-1168.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-2020i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-2020i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 18 mm, 105 cc (5.12 x 2.76 x 0.71 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:16.027Z"
+  },
+  {
+    "sttTong": 9319,
+    "sttHang": 17,
+    "brand": "Qtek",
+    "deviceName": "Qtek 2020",
+    "deviceUrl": "https://www.gsmarena.com/qtek_2020-1167.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-2020.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-2020.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 18 mm, 105 cc (5.12 x 2.76 x 0.71 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC",
+        "cpu": "Intel PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "64MB RAM (128MB optional)"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Pocket IE)",
+        "languages": "7\nMicrosoft ActiveSync\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:16.744Z"
+  },
+  {
+    "sttTong": 9313,
+    "sttHang": 11,
+    "brand": "Qtek",
+    "deviceName": "Qtek S110",
+    "deviceUrl": "https://www.gsmarena.com/qtek_s110-1255.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-s110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Bulverde 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:16.813Z"
+  },
+  {
+    "sttTong": 9320,
+    "sttHang": 18,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8080",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8080-1166.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8080.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8080.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 23.5 mm, 105 cc (4.72 x 1.97 x 0.93 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nWhite LED back light\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 Smartphone",
+        "chipset": "TI OMAP 710",
+        "cpu": "133 MHz  ARM925"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Pocket IE)",
+        "languages": "7\nMicrosoft ActiveSync\nCalculator\nPredictive text input\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:45:17.580Z"
+  },
+  {
+    "sttTong": 9322,
+    "sttHang": 20,
+    "brand": "Qtek",
+    "deviceName": "Qtek 1010",
+    "deviceUrl": "https://www.gsmarena.com/qtek_1010-1164.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-1010.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-1010.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 73 x 18 mm (5.08 x 2.87 x 0.71 in)",
+        "weight": "201 g (7.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive resistive touchscreen, 4096 colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~40.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2002 PocketPC"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "64MB RAM, 32MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMedia player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:45:19.759Z"
+  },
+  {
+    "sttTong": 9323,
+    "sttHang": 21,
+    "brand": "Qtek",
+    "deviceName": "Qtek 7070",
+    "deviceUrl": "https://www.gsmarena.com/qtek_7070-1163.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-7070.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-7070.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 23.5 mm, 105 cc (4.72 x 1.97 x 0.93 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nWhite LED back light\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows 2002 Smartphone",
+        "cpu": "120 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "16MB RAM, 32MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)",
+        "languages": "7\nOrganizer\nWorld Clock\nPredictive text input\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:45:21.893Z"
+  },
+  {
+    "sttTong": 9315,
+    "sttHang": 13,
+    "brand": "Qtek",
+    "deviceName": "Qtek 9090",
+    "deviceUrl": "https://www.gsmarena.com/qtek_9090-1171.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9090.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-9090.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 71 x 18 mm (4.92 x 2.80 x 0.71 in)",
+        "weight": "210 g (7.41 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1490 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:45:32.360Z"
+  },
+  {
+    "sttTong": 9316,
+    "sttHang": 14,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8020",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8020-1170.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8020.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8020.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 44 x 18 mm (4.21 x 1.73 x 0.71 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~32.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE Smartphone",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:46:29.391Z"
+  },
+  {
+    "sttTong": 9321,
+    "sttHang": 19,
+    "brand": "Qtek",
+    "deviceName": "Qtek 8060",
+    "deviceUrl": "https://www.gsmarena.com/qtek_8060-1165.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8060.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/qtek-8060.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 23.5 mm, 105 cc (4.72 x 1.97 x 0.93 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nWhite LED back light\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 Smartphone",
+        "chipset": "TI OMAP 710",
+        "cpu": "133 MHz  ARM925"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Pocket IE)",
+        "languages": "7\nMicrosoft ActiveSync\nCalculator\nPredictive text input\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:47:17.442Z"
+  }
+]

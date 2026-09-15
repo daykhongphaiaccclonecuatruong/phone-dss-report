@@ -1,0 +1,350 @@
+[
+  {
+    "sttTong": 13608,
+    "sttHang": 1,
+    "brand": "WND",
+    "deviceName": "WND Wind Van Gogh 2100",
+    "deviceUrl": "https://www.gsmarena.com/wnd_wind_van_gogh_2100-2169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-atom-van-gogh.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-atom-van-gogh.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "98 x 47.5 x 16.3 mm (3.86 x 1.87 x 0.64 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)\nDownloadable wallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "50 received, 50 dialed, 50 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nBuilt-in detachable Bluetooth earpiece\nMP3/AAC player\nMP4/3gp player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver-Gray, Silver-Fuchsia"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:24.973Z"
+  },
+  {
+    "sttTong": 13609,
+    "sttHang": 2,
+    "brand": "WND",
+    "deviceName": "WND Wind DUO 2300",
+    "deviceUrl": "https://www.gsmarena.com/wnd_wind_duo_2300-2168.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "99.5 x 47.5 x 18 mm (3.92 x 1.87 x 0.71 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 11.2 cm2 (~23.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~211 ppi density)\nDownloadable wallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "microSD on both sides",
+        "phonebook": "1000 entries on each side, Photocall",
+        "call_records": "20 received, 20 dialed, 20 missed calls\nCall register and phonebooks are shared between faces\nBoth sides have a 128MB internal memory"
+      },
+      "main_camera": {
+        "single": "2 MP, on each side",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/3gp player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 930 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "White-gold, Yellow-gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:28.583Z"
+  },
+  {
+    "sttTong": 13610,
+    "sttHang": 3,
+    "brand": "WND",
+    "deviceName": "WND Wind DUO 2200",
+    "deviceUrl": "https://www.gsmarena.com/wnd_wind_duo_2200-2166.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 47.5 x 17.3 mm (3.86 x 1.87 x 0.68 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.0 cm2 (~21.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~222 ppi density)\nDownloadable wallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot) on both sides",
+        "phonebook": "1000 entries on each side, Photocall",
+        "call_records": "20 received, 20 dialed, 20 missed calls\nCall register and phonebooks are shared between faces"
+      },
+      "main_camera": {
+        "single": "2 MP, on each side",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/3gp player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 930 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black-silver, Gold-silver, Fuschia-silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:31.624Z"
+  },
+  {
+    "sttTong": 13612,
+    "sttHang": 5,
+    "brand": "WND",
+    "deviceName": "WND Wind DUO 2000",
+    "deviceUrl": "https://www.gsmarena.com/wnd_wind_duo_2000-2165.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 48 x 17 mm (3.82 x 1.89 x 0.67 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "OLED, 65K colors",
+        "size": "1.5 inches, 7.1 cm2 (~15.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~137 ppi density)\nDownloadable themes"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries each side, Photocall",
+        "call_records": "50 received, 50 dialed, 50 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1660 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Black, Dark gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:34.225Z"
+  },
+  {
+    "sttTong": 13611,
+    "sttHang": 4,
+    "brand": "WND",
+    "deviceName": "WND Wind DUO 2100",
+    "deviceUrl": "https://www.gsmarena.com/wnd_wind_duo_2100-2167.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wind-duo-2100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "98 x 47.5 x 17.3 mm (3.86 x 1.87 x 0.68 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.0 cm2 (~21.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~222 ppi density)\nDownloadable theme"
+      },
+      "memory": {
+        "card_slot": "microSD on both sides",
+        "phonebook": "1000 entries on each side, Photocall",
+        "call_records": "20 received, 20 dialed, 20 missed calls",
+        "internal": "128MB\nCall register and phonebooks are shared between faces"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/3gp player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 930 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:51.155Z"
+  }
+]

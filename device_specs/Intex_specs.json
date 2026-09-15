@@ -1,0 +1,1114 @@
+[
+  {
+    "sttTong": 4554,
+    "sttHang": 2,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua GenX",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_genx-8039.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-genx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-genx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, August. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.6 x 76.4 x 8.4 mm (6.01 x 3.01 x 0.33 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2850 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "0.72 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:00.960Z"
+  },
+  {
+    "sttTong": 4553,
+    "sttHang": 1,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Craze",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_craze-8040.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-craze.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-craze.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 71.4 x 9 mm (5.65 x 2.81 x 0.35 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Gray, White, Gold",
+        "sar_eu": "0.73 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:01.232Z"
+  },
+  {
+    "sttTong": 4556,
+    "sttHang": 4,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Trend",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_trend-7563.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intel-aqua-trend.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intel-aqua-trend.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, September. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.5 x 72.5 x 8.9 mm (5.69 x 2.85 x 0.35 in)",
+        "weight": "158.5 g (5.61 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Champagne, silver, gray, black",
+        "sar": "1.44 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:04.002Z"
+  },
+  {
+    "sttTong": 4557,
+    "sttHang": 5,
+    "brand": "Intex",
+    "deviceName": "Intex IRist Smartwatch",
+    "deviceUrl": "https://www.gsmarena.com/intex_irist_smartwatch-7462.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-watch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-watch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "44 x 44 x 14 mm (1.73 x 1.73 x 0.55 in)",
+        "weight": "83 g (3.03 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "1.56 inches",
+        "resolution": "240 x 240 pixels (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android OS compatible",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nVideo player\nPhoto viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 600 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Orange, pink, black",
+        "sar": "0.98 W/kg (head)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:05.949Z"
+  },
+  {
+    "sttTong": 4558,
+    "sttHang": 6,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua 4G+",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_4g+-7359.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140 x 71 x 9.5 mm (5.51 x 2.80 x 0.37 in)",
+        "weight": "136.5 g (4.83 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~69.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, non-removable",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black",
+        "sar_eu": "0.26 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:06.512Z"
+  },
+  {
+    "sttTong": 4555,
+    "sttHang": 3,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Ace",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_ace-7651.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-ace.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-ace.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 71.5 x 6.7 mm (5.71 x 2.81 x 0.26 in)",
+        "weight": "121.5 g (4.30 oz)",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "Super AMOLED",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2300 mAh, non-removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:06.810Z"
+  },
+  {
+    "sttTong": 4559,
+    "sttHang": 7,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Xtreme II",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_xtreme_ii-7358.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-xtreme-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-xtreme-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140 x 71.9 x 7.9 mm (5.51 x 2.83 x 0.31 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, non-removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black, Champagne, Silver",
+        "sar_eu": "0.26 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:08.633Z"
+  },
+  {
+    "sttTong": 4560,
+    "sttHang": 8,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Y2 Remote",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_y2_remote-7304.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-y2-remote.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-y2-remote.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 64 x 10 mm (4.92 x 2.52 x 0.39 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Blue, White, Gray",
+        "sar": "0.78 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:09.915Z"
+  },
+  {
+    "sttTong": 4562,
+    "sttHang": 10,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Star L",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_star_l-7302.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-star.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-star.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141 x 72.9 x 8 mm (5.55 x 2.87 x 0.31 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.0% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White, black",
+        "sar": "0.72 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:11.710Z"
+  },
+  {
+    "sttTong": 4564,
+    "sttHang": 12,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Speed",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_speed-7300.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-speed.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-speed.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 68 x 9 mm (5.35 x 2.68 x 0.35 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~60.4% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White, black, gray, coffee",
+        "sar": "0.35 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:14.003Z"
+  },
+  {
+    "sttTong": 4561,
+    "sttHang": 9,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Xtreme",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_xtreme-7303.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-xtreme.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-xtreme.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 69.7 x 7 mm (5.67 x 2.74 x 0.28 in)",
+        "weight": "119.5 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, non-removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, Gray, Red",
+        "sar": "0.62 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:14.342Z"
+  },
+  {
+    "sttTong": 4565,
+    "sttHang": 13,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Power",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_power-7299.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-power.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-power.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141 x 71.9 x 9.3 mm (5.55 x 2.83 x 0.37 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.0% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh battery",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "White, black, blue, gray",
+        "sar": "0.72 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:15.663Z"
+  },
+  {
+    "sttTong": 4566,
+    "sttHang": 14,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Power +",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_power_+-7298.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-power-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-power-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, April. Released 2015, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 72 x 8.7 mm (5.79 x 2.83 x 0.34 in)",
+        "weight": "156 g (5.50 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, removable",
+        "stand-by": "Up to 1176 h",
+        "talk_time": "Up to 17 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black/champagne, White/champagne, Champagne, Black/silver",
+        "sar": "0.47 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:16.761Z"
+  },
+  {
+    "sttTong": 4567,
+    "sttHang": 15,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua 4.5E",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_4_5e-7297.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-45e.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-45e.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.4 x 68.9 x 8.9 mm (5.25 x 2.71 x 0.35 in)",
+        "weight": "137 g (4.83 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~60.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6571 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Grey/Black, Black/Blue, White/Champagne",
+        "sar": "1.03 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:19.325Z"
+  },
+  {
+    "sttTong": 4563,
+    "sttHang": 11,
+    "brand": "Intex",
+    "deviceName": "Intex Aqua Star 2",
+    "deviceUrl": "https://www.gsmarena.com/intex_aqua_star_2-7301.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-star2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/intex-aqua-star2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 71.5 x 9 mm (5.59 x 2.81 x 0.35 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Spreadtrum 7731",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White, black, blue, gray",
+        "sar": "0.33 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:25.678Z"
+  }
+]

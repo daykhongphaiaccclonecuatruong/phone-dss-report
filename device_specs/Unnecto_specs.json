@@ -1,0 +1,2142 @@
+[
+  {
+    "sttTong": 12588,
+    "sttHang": 3,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Quattro S",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_quattro_s-8281.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 42.2/21 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.5 x 64.5 x 10.2 mm (4.90 x 2.54 x 0.40 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~56.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 100 h (2G) / Up to 72 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Navy"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:10.048Z"
+  },
+  {
+    "sttTong": 12587,
+    "sttHang": 2,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Neo V",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_neo_v-8282.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-neo-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-neo-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 70.5 x 9.2 mm (5.65 x 2.78 x 0.36 in)",
+        "weight": "177 g (6.24 oz)",
+        "sim": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.1% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, PDAF",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP, AF",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 200 h (2G) / Up to 175 h (3G)",
+        "talk_time": "Up to 6 h (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue",
+        "sar": "0.62 W/kg (head)     0.96 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:19.448Z"
+  },
+  {
+    "sttTong": 12592,
+    "sttHang": 7,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Omnia",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_omnia-7888.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-omnia.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-omnia.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "2, 4, 12, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.9 x 72.6 x 8.9 mm (5.63 x 2.86 x 0.35 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.0 GHz",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 188 h (3G)",
+        "talk_time": "Up to 6 h 30 min (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:24.633Z"
+  },
+  {
+    "sttTong": 12590,
+    "sttHang": 5,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drone XS",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drone_xs-8279.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-xs.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-xs.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 61 x 10.5 mm (4.53 x 2.40 x 0.41 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.5 inches, 36.5 cm2 (~52.0% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "cpu": "1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh, removable",
+        "stand-by": "Up to 160 h (2G) / Up to 140 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:29.186Z"
+  },
+  {
+    "sttTong": 12594,
+    "sttHang": 9,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Quattro X",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_quattro_x-7021.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-qx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-qx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 64 x 9.2 mm (4.84 x 2.52 x 0.36 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Dual-core 1.3 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh battery",
+        "stand-by": "Up to 45 h (3G)",
+        "talk_time": "Up to 6 h (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:29.295Z"
+  },
+  {
+    "sttTong": 12593,
+    "sttHang": 8,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Swift",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_swift-7887.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-swift.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-swift.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 3, 4, 12",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119.3 x 63 x 10 mm (4.70 x 2.48 x 0.39 in)",
+        "weight": "120.5 g (4.27 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~60.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.0 GHz",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 188 h (3G)",
+        "talk_time": "Up to 6 h 30 min (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:36.608Z"
+  },
+  {
+    "sttTong": 12589,
+    "sttHang": 4,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Quattro V",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_quattro_v-8280.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120.3 x 63.2 x 11.7 mm (4.74 x 2.49 x 0.46 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~59.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 160 h (2G) / Up to 140 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue",
+        "sar": "0.87 W/kg (head)     1.02 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:37.153Z"
+  },
+  {
+    "sttTong": 12586,
+    "sttHang": 1,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Bolt",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_bolt-8283.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-bolt.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-bolt.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "2, 3, 4, 12, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, June. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.2 x 73.5 x 9.2 mm (5.72 x 2.89 x 0.36 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "cpu": "Quad-core 1.1 GHz",
+        "gpu": "Adreno 304"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.1, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 200 h (2G) / Up to 175 h (3G)",
+        "talk_time": "Up to 6 h (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Silver",
+        "sar": "1.25 W/kg (head)     1.15 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:38.362Z"
+  },
+  {
+    "sttTong": 12600,
+    "sttHang": 15,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Rush",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_rush-6710.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-rush.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-rush.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148 x 74 x 9 mm (5.83 x 2.91 x 0.35 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~62.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery",
+        "stand-by": "Up to 750 h (3G)",
+        "talk_time": "Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:42.095Z"
+  },
+  {
+    "sttTong": 12599,
+    "sttHang": 14,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Air 4.5",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_air_4_5-7016.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-451.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-451.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.9 x 66 x 8.3 mm (5.27 x 2.60 x 0.33 in)",
+        "weight": "110.6 g (3.92 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~63.1% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh battery",
+        "stand-by": "Up to 120 h (3G)",
+        "talk_time": "Up to 8 h (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:46.168Z"
+  },
+  {
+    "sttTong": 12602,
+    "sttHang": 17,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drone Z",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drone_z-6454.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-z.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-z.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 61 x 11.5 mm (4.57 x 2.40 x 0.45 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~51.5% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 450 h (3G)",
+        "talk_time": "Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:46.388Z"
+  },
+  {
+    "sttTong": 12596,
+    "sttHang": 11,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drone X",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drone_x-7019.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-x1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-x1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 61 x 10.5 mm (4.53 x 2.40 x 0.41 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.5 inches, 36.5 cm2 (~52.0% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 150 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 10 h (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:50.051Z"
+  },
+  {
+    "sttTong": 12598,
+    "sttHang": 13,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Air 5.0",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_air_5_0-7017.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-51.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-51.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 71.6 x 7.9 mm (5.65 x 2.82 x 0.31 in)",
+        "weight": "127.6 (4.52 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "12 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh battery",
+        "stand-by": "Up to 120 h (3G)",
+        "talk_time": "Up to 8 h (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:53:53.094Z"
+  },
+  {
+    "sttTong": 12606,
+    "sttHang": 21,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Tap",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_tap-6011.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-tap.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-tap.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.5 x 56 x 12.2 mm (4.15 x 2.20 x 0.48 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen",
+        "size": "2.8 inches, 24.3 cm2 (~41.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "256MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 950 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White/Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:08.526Z"
+  },
+  {
+    "sttTong": 12607,
+    "sttHang": 22,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Pro Z",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_pro_z-6010.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pro-z.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pro-z.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, March. Released 2012, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 60 x 11 mm (4.53 x 2.36 x 0.43 in)",
+        "weight": "90 g (3.17 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen",
+        "size": "2.4 inches, 17.8 cm2 (~25.9% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:12.699Z"
+  },
+  {
+    "sttTong": 12609,
+    "sttHang": 24,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Edge",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_edge-6007.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-edge.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-edge.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 60 x 13.5 mm (4.41 x 2.36 x 0.53 in)",
+        "weight": "140 g (4.94 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.0 cm2 (~22.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 900 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black/Black, Black/Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:15.704Z"
+  },
+  {
+    "sttTong": 12610,
+    "sttHang": 25,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Shell",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_shell-6006.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-shell.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-shell.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 60 x 14.3 mm (4.39 x 2.36 x 0.56 in)",
+        "weight": "240 g (8.47 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.0 cm2 (~22.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:17.380Z"
+  },
+  {
+    "sttTong": 12601,
+    "sttHang": 16,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Quattro Z",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_quattro_z-6455.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-z.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro-z.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.5 x 65 x 9.4 mm (4.94 x 2.56 x 0.37 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~55.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:22.401Z"
+  },
+  {
+    "sttTong": 12604,
+    "sttHang": 19,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Blaze",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_blaze-6013.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-blaze.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-blaze.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 32"
+      },
+      "launch": {
+        "announced": "2012, March. Released 2012, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 62.5 x 11.5 mm (4.49 x 2.46 x 0.45 in)",
+        "weight": "131.5 g (4.62 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen",
+        "size": "3.5 inches, 3.50, 36.5 cm2 (~51.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:22.418Z"
+  },
+  {
+    "sttTong": 12591,
+    "sttHang": 6,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Primo 2G",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_primo_2g-8278.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo-2g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo-2g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2016, March. Released 2016, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 43 x 13.7 mm (4.35 x 1.69 x 0.54 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~21.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "1 MP, AF",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), MMS",
+        "games": "No",
+        "java": "No\nAudio/video player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black/Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:54:29.716Z"
+  },
+  {
+    "sttTong": 12611,
+    "sttHang": 26,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Pebble",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_pebble-6004.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pebble.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pebble.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.2 x 58.2 x 14.7 mm (4.22 x 2.29 x 0.58 in)",
+        "weight": "100 g (3.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~20.2% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "300 entries",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black/Black, Black/Pink, White/Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:02.826Z"
+  },
+  {
+    "sttTong": 12613,
+    "sttHang": 28,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Eco",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_eco-6003.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-eco.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-eco.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.8 x 46 x 14.8 mm (4.17 x 1.81 x 0.58 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~20.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "200 entries",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black/Red, White/Blue, Black/Grey, Blue/Blue, White/Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:13.608Z"
+  },
+  {
+    "sttTong": 12615,
+    "sttHang": 30,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Primo",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_primo-6001.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)\nGSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 13.2 mm (4.25 x 1.81 x 0.52 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Single SIM or Dual SIM (dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~20.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "250 entries",
+        "call_records": "Yes",
+        "internal": "32MB 32MB"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nAudio/video player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 600 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black Grey, Black Red, White Blue, White Pink, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:17.648Z"
+  },
+  {
+    "sttTong": 12612,
+    "sttHang": 27,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drift",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drift-6005.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drift.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drift.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 52 x 11.4 mm (4.53 x 2.05 x 0.45 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~29.8% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Yellow, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:18.457Z"
+  },
+  {
+    "sttTong": 12605,
+    "sttHang": 20,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drone",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drone-6012.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, February. Released 2012, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.6 x 56.4 x 12.4 mm (4.04 x 2.22 x 0.49 in)",
+        "weight": "117 g (4.13 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen",
+        "size": "3.2 inches, 3.20, 29.1 cm2 (~50.4% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 800 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black/black, black/silver, black/white"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:21.979Z"
+  },
+  {
+    "sttTong": 12595,
+    "sttHang": 10,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Drone XL",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_drone_xl-7020.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-xl.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-drone-xl.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 61 x 10.5 mm (4.53 x 2.40 x 0.41 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.5 inches, 36.5 cm2 (~52.0% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 40 h (3G)",
+        "talk_time": "Up to 5 h (3G)",
+        "music_play": "Up to 20 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:22.813Z"
+  },
+  {
+    "sttTong": 12608,
+    "sttHang": 23,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Pro",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_pro-6008.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, March. Released 2012, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 60 x 11.5 mm (4.41 x 2.36 x 0.45 in)",
+        "weight": "120 g (4.23 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen",
+        "size": "2.4 inches, 17.8 cm2 (~26.5% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nNimbuzz\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:24.897Z"
+  },
+  {
+    "sttTong": 12614,
+    "sttHang": 29,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Primo 3G",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_primo_3g-6002.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-primo-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)\nGSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 13.2 mm (4.25 x 1.81 x 0.52 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Single SIM or Dual SIM (dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~20.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "1GB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "0.8 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nAudio/video player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 600 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Blue, Stone"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:27.413Z"
+  },
+  {
+    "sttTong": 12597,
+    "sttHang": 12,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Air 5.5",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_air_5_5-7018.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-551.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-air-551.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153 x 76 x 8.5 mm (6.02 x 2.99 x 0.33 in)",
+        "weight": "156 g (5.50 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh battery",
+        "stand-by": "Up to 120 h (3G)",
+        "talk_time": "Up to 8 h (3G)",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:56:06.878Z"
+  },
+  {
+    "sttTong": 12603,
+    "sttHang": 18,
+    "brand": "Unnecto",
+    "deviceName": "Unnecto Quattro",
+    "deviceUrl": "https://www.gsmarena.com/unnecto_quattro-6014.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/unnecto-quattro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100 - SIM 1",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, March. Released 2012, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 65 x 11.5 mm (4.84 x 2.56 x 0.45 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:56:43.697Z"
+  }
+]

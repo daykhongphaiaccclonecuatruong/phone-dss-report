@@ -1,0 +1,16 @@
+product_id,source,price,stock_status,crawled_at
+APL_IPH13_4_128,mock_shop,11990000,in_stock,2026-09-04 10:00:00
+APL_IPH15_6_128,mock_shop,15490000,in_stock,2026-09-04 10:00:00
+APL_IPH15P_8_128,mock_shop,22990000,in_stock,2026-09-04 10:00:00
+SAM_A35_8_128,mock_shop,6490000,in_stock,2026-09-04 10:00:00
+SAM_A55_8_128,mock_shop,8490000,in_stock,2026-09-04 10:00:00
+SAM_S23_8_128,mock_shop,12490000,in_stock,2026-09-04 10:00:00
+SAM_S24_8_256,mock_shop,16490000,in_stock,2026-09-04 10:00:00
+XIA_RN13P5G_8_256,mock_shop,7490000,in_stock,2026-09-04 10:00:00
+XIA_13T_12_256,mock_shop,9490000,in_stock,2026-09-04 10:00:00
+XIA_POCOX6P_12_512,mock_shop,8990000,in_stock,2026-09-04 10:00:00
+OPP_RENO11F_8_256,mock_shop,7290000,in_stock,2026-09-04 10:00:00
+OPP_RENO12F_8_256,mock_shop,7990000,in_stock,2026-09-04 10:00:00
+VIV_V30_12_256,mock_shop,10990000,in_stock,2026-09-04 10:00:00
+RLM_12PROPLUS_12_256,mock_shop,9490000,in_stock,2026-09-04 10:00:00
+RLM_GT6_16_512,mock_shop,13990000,in_stock,2026-09-04 10:00:00

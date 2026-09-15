@@ -1,0 +1,3967 @@
+[
+  {
+    "sttTong": 2909,
+    "sttHang": 1,
+    "brand": "Haier",
+    "deviceName": "Haier C300",
+    "deviceUrl": "https://www.gsmarena.com/haier_c300-9170.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-c300.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-c300.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2018, May. Released 2018, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97.4 x 47.9 x 17.9 mm (3.83 x 1.89 x 0.70 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~21.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261D"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB ROM, 32MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nAudio player\nPhoto viewer"
+      },
+      "battery": {
+        "type": "Li-Ion, removable"
+      },
+      "misc": {
+        "colors": "Black, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:44.382Z"
+  },
+  {
+    "sttTong": 2911,
+    "sttHang": 3,
+    "brand": "Haier",
+    "deviceName": "Haier G8",
+    "deviceUrl": "https://www.gsmarena.com/haier_g8-9057.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40\n2, 4, 5, 7, 17, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "Not announced yet. Released 2018, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.8 x 70.7 x 8.5 mm (5.62 x 2.78 x 0.33 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.25 GHz Cortex-A53",
+        "gpu": "Mali-T720MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:47.259Z"
+  },
+  {
+    "sttTong": 2912,
+    "sttHang": 4,
+    "brand": "Haier",
+    "deviceName": "Haier L8",
+    "deviceUrl": "https://www.gsmarena.com/haier_l8-9055.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40, 41",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat7 300/150 Mbps"
+      },
+      "launch": {
+        "announced": "2018, March. Released 2018, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "160 x 76 x 8.4 mm (6.30 x 2.99 x 0.33 in)",
+        "weight": "140 g (4.94 oz)",
+        "build": "Glass front (Asahi Dragontrail), aluminum back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.99 inches, 92.6 cm2 (~76.1% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+        "cpu": "Octa-core 1.8 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "12 MP, PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Gold, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:47.982Z"
+  },
+  {
+    "sttTong": 2910,
+    "sttHang": 2,
+    "brand": "Haier",
+    "deviceName": "Haier Hurricane",
+    "deviceUrl": "https://www.gsmarena.com/haier_hurricane-9169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-hurricane.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-hurricane.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40, 41\n2, 4, 5, 7, 12, 17, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, January. Released 2018, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.5 x 72.5 x 8.3 mm (5.96 x 2.85 x 0.33 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 83.8 cm2 (~76.3% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1.12 µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", no AF",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3300 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:48.494Z"
+  },
+  {
+    "sttTong": 2913,
+    "sttHang": 5,
+    "brand": "Haier",
+    "deviceName": "Haier I6",
+    "deviceUrl": "https://www.gsmarena.com/haier_i6-9056.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40, 41\n2, 4, 5, 7, 12, 17, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, January. Released 2018, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.5 x 72.5 x 8.3 mm (5.96 x 2.85 x 0.33 in)",
+        "weight": "145 g (5.11 oz)",
+        "build": "Glass front, aluminum back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 83.8 cm2 (~76.3% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1.12µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", no AF",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3300 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Green",
+        "sar_eu": "0.32 W/kg (head)     1.19 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:51.226Z"
+  },
+  {
+    "sttTong": 2914,
+    "sttHang": 6,
+    "brand": "Haier",
+    "deviceName": "Haier L7",
+    "deviceUrl": "https://www.gsmarena.com/haier_l7-9048.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-l7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20\n1, 3, 5, 7, 8, 26, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017. Released 2017",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 76 x 7.9 mm (5.98 x 2.99 x 0.31 in)",
+        "weight": "160 g (5.64 oz)",
+        "build": "Glass front (Asahi Dragontrail), aluminum/plastic back, aluminum frame",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Gold, Gray, Silver, Black, Red",
+        "sar_eu": "0.17 W/kg (head)     0.69 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:52.980Z"
+  },
+  {
+    "sttTong": 2916,
+    "sttHang": 8,
+    "brand": "Haier",
+    "deviceName": "Haier G51",
+    "deviceUrl": "https://www.gsmarena.com/haier_g51-9050.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g51-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g51-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900",
+        "4g_bands": "1, 3, 7, 8, 20\n2, 4, 5, 8",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017. Released 2017",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.6 x 72.9 x 9.1 mm (5.61 x 2.87 x 0.36 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.3% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "cpu": "Quad-core 1.25 GHz Cortex-A53",
+        "gpu": "Mali-T720MP1"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "5 MP, f/2.0, AF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4",
+        "features": "Dual-LED dual-tone flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Gold, White, Blue",
+        "sar_eu": "0.71 W/kg (head)     1.11 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:53.673Z"
+  },
+  {
+    "sttTong": 2918,
+    "sttHang": 10,
+    "brand": "Haier",
+    "deviceName": "Haier U60",
+    "deviceUrl": "https://www.gsmarena.com/haier_u60-3388.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u60.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u60.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 50 x 14.5 mm (4.09 x 1.97 x 0.57 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~34.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:57.264Z"
+  },
+  {
+    "sttTong": 2917,
+    "sttHang": 9,
+    "brand": "Haier",
+    "deviceName": "Haier U69",
+    "deviceUrl": "https://www.gsmarena.com/haier_u69-3389.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u69.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u69.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 55 x 12.2 mm (4.33 x 2.17 x 0.48 in)",
+        "weight": "111 g (3.92 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~42.3% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA/eAAC player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:57.373Z"
+  },
+  {
+    "sttTong": 2919,
+    "sttHang": 11,
+    "brand": "Haier",
+    "deviceName": "Haier U56",
+    "deviceUrl": "https://www.gsmarena.com/haier_u56-3387.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u56.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u56.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1\nGSM 900 / 1800 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 49 x 11.5 mm (4.53 x 1.93 x 0.45 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:57:58.678Z"
+  },
+  {
+    "sttTong": 2920,
+    "sttHang": 12,
+    "brand": "Haier",
+    "deviceName": "Haier U53",
+    "deviceUrl": "https://www.gsmarena.com/haier_u53-3386.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u53.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u53.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 59.3 x 13.4 mm (4.37 x 2.33 x 0.53 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nYahoo and Skype apps\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:01.636Z"
+  },
+  {
+    "sttTong": 2921,
+    "sttHang": 13,
+    "brand": "Haier",
+    "deviceName": "Haier K3",
+    "deviceUrl": "https://www.gsmarena.com/haier_k3-3385.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-k3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-k3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 51 x 17.4 mm (4.29 x 2.01 x 0.69 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.6 inches, 19.2 cm2 (~34.6% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~179 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:02.629Z"
+  },
+  {
+    "sttTong": 2922,
+    "sttHang": 14,
+    "brand": "Haier",
+    "deviceName": "Haier A66",
+    "deviceUrl": "https://www.gsmarena.com/haier_a66-3384.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u66.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-u66.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1\nGSM 900 / 1800 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 49 x 15.5 mm (3.94 x 1.93 x 0.61 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~36.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecondary hidden display"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Pink, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:03.377Z"
+  },
+  {
+    "sttTong": 2924,
+    "sttHang": 16,
+    "brand": "Haier",
+    "deviceName": "Haier V700",
+    "deviceUrl": "https://www.gsmarena.com/haier_v700-3382.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 51 x 16 mm (4.53 x 2.01 x 0.63 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.3 cm2 (~26.1% screen-to-body ratio)",
+        "resolution": "144 x 176 pixels (~103 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 2000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:08.238Z"
+  },
+  {
+    "sttTong": 2925,
+    "sttHang": 17,
+    "brand": "Haier",
+    "deviceName": "Haier M320+",
+    "deviceUrl": "https://www.gsmarena.com/haier_m320+-3381.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m320-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m320-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.2 x 45.6 x 12 mm (4.26 x 1.80 x 0.47 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, no dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "No\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:09.854Z"
+  },
+  {
+    "sttTong": 2927,
+    "sttHang": 19,
+    "brand": "Haier",
+    "deviceName": "Haier M300",
+    "deviceUrl": "https://www.gsmarena.com/haier_m300-3379.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m300.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m300.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46.1 x 13.5 mm (4.25 x 1.81 x 0.53 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, no dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:14.825Z"
+  },
+  {
+    "sttTong": 2926,
+    "sttHang": 18,
+    "brand": "Haier",
+    "deviceName": "Haier M306",
+    "deviceUrl": "https://www.gsmarena.com/haier_m306-3380.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m306.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m306.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 43 x 13 mm (4.33 x 1.69 x 0.51 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, no dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:15.457Z"
+  },
+  {
+    "sttTong": 2928,
+    "sttHang": 20,
+    "brand": "Haier",
+    "deviceName": "Haier M180",
+    "deviceUrl": "https://www.gsmarena.com/haier_m180-3376.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m180.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m180.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101.3 x 43 x 14.1 mm (3.99 x 1.69 x 0.56 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.44 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:19.736Z"
+  },
+  {
+    "sttTong": 2929,
+    "sttHang": 21,
+    "brand": "Haier",
+    "deviceName": "Haier M160",
+    "deviceUrl": "https://www.gsmarena.com/haier_m160-3378.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m160.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m160.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 45.3 x 13.4 mm (4.25 x 1.78 x 0.53 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~14.8% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:20.545Z"
+  },
+  {
+    "sttTong": 2930,
+    "sttHang": 22,
+    "brand": "Haier",
+    "deviceName": "Haier M150",
+    "deviceUrl": "https://www.gsmarena.com/haier_m150-3377.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m150.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m150.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 45.8 x 14.3 mm (4.29 x 1.80 x 0.56 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "CSTN",
+        "size": "1.3 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:25.102Z"
+  },
+  {
+    "sttTong": 2931,
+    "sttHang": 23,
+    "brand": "Haier",
+    "deviceName": "Haier A7",
+    "deviceUrl": "https://www.gsmarena.com/haier_a7-1767.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-haiera7.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-haiera7.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 42 x 19.8 mm (3.15 x 1.65 x 0.78 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.66 inches, 8.7 cm2 (~25.8% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nMP3/ MP4 Player\nPC Sync\nOrganizer\nWorld Time"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 560 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:27.292Z"
+  },
+  {
+    "sttTong": 2923,
+    "sttHang": 15,
+    "brand": "Haier",
+    "deviceName": "Haier V730",
+    "deviceUrl": "https://www.gsmarena.com/haier_v730-3383.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v730.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v730.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 51 x 11.5 mm (4.57 x 2.01 x 0.45 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1250 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:30.629Z"
+  },
+  {
+    "sttTong": 2933,
+    "sttHang": 25,
+    "brand": "Haier",
+    "deviceName": "Haier P8",
+    "deviceUrl": "https://www.gsmarena.com/haier_p8-1689.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-p8.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-p8.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146 x 29.1 x 16.5 mm (5.75 x 1.15 x 0.65 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:33.678Z"
+  },
+  {
+    "sttTong": 2934,
+    "sttHang": 26,
+    "brand": "Haier",
+    "deviceName": "Haier A600",
+    "deviceUrl": "https://www.gsmarena.com/haier_a600-1688.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-a600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-a600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 46 x 21.1 mm (4.61 x 1.81 x 0.83 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~27.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\n- 90 degree rotational LCD"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\n3D Graphic/3D Sound/ 3D Game\nMP3/MP4 Player\nPush mail\nTTS\nNetwork Streaming\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 980 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:33.994Z"
+  },
+  {
+    "sttTong": 2935,
+    "sttHang": 27,
+    "brand": "Haier",
+    "deviceName": "Haier M2000",
+    "deviceUrl": "https://www.gsmarena.com/haier_m2000-1687.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m2000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m2000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 45.8 x 16 mm (3.50 x 1.80 x 0.63 in)",
+        "weight": "67/78 g depending on the battery (2.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN resistive touchscreen, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~25.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nMP3 Player\nLearning tools\nBrain Game\nMINI Appearance \nOrganizer"
+      },
+      "battery": {
+        "type": "Extended battery, Li-Ion 800 mAh",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h 50 min"
+      },
+      "misc": {
+        "colors": "Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:35.551Z"
+  },
+  {
+    "sttTong": 2937,
+    "sttHang": 29,
+    "brand": "Haier",
+    "deviceName": "Haier M1100",
+    "deviceUrl": "https://www.gsmarena.com/haier_m1100-1685.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81.9 x 44.6 x 18.8 mm (3.22 x 1.76 x 0.74 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nBio-rhythm\nPhone Book Easy Search \nMP3 Player\nWolrd Time \nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:39.287Z"
+  },
+  {
+    "sttTong": 2936,
+    "sttHang": 28,
+    "brand": "Haier",
+    "deviceName": "Haier M1200",
+    "deviceUrl": "https://www.gsmarena.com/haier_m1200-1686.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81.9 x 44.6 x 18.8 mm (3.22 x 1.76 x 0.74 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nBio-rhythm\nPhone Book Easy Search\nMP3 Player \nWorld Time\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:39.298Z"
+  },
+  {
+    "sttTong": 2938,
+    "sttHang": 30,
+    "brand": "Haier",
+    "deviceName": "Haier M1000",
+    "deviceUrl": "https://www.gsmarena.com/haier_m1000-1684.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81.9 x 44.6 x 18.8 mm (3.22 x 1.76 x 0.74 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nBio-rhythm\nPhone Book Easy Search \nPC Sync\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 560 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Red, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:40.971Z"
+  },
+  {
+    "sttTong": 2940,
+    "sttHang": 32,
+    "brand": "Haier",
+    "deviceName": "Haier M260",
+    "deviceUrl": "https://www.gsmarena.com/haier_m260-1679.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m260.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m260.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 46.5 x 16.8 mm (4.09 x 1.83 x 0.66 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nHandwriting recognition"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPC Sync\nTTS\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Extended battery, Li-Ion 1000 mAh",
+        "stand-by": "Up to 288 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:44.562Z"
+  },
+  {
+    "sttTong": 2939,
+    "sttHang": 31,
+    "brand": "Haier",
+    "deviceName": "Haier M80",
+    "deviceUrl": "https://www.gsmarena.com/haier_m80-1680.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-m80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 48 x 23.8 mm (3.82 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~27.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nHandwriting recognition\nFive-Direction Rocker Key"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\nPC Sync\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 630 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:44.629Z"
+  },
+  {
+    "sttTong": 2941,
+    "sttHang": 33,
+    "brand": "Haier",
+    "deviceName": "Haier N90",
+    "deviceUrl": "https://www.gsmarena.com/haier_n90-1678.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n90.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n90.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 53 x 25.5 mm (4.09 x 2.09 x 1.00 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 18.1 cm2 (~32.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~117 ppi density)\nHandwriting recognition"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "1000 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "No",
+        "games": "Brain Game",
+        "java": "No\nMP3/ MP4 Player\nHandwriting & PDA\nE-Book\nDouble Keypad\nTTS\nCalculator\nUnit Converter"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 216 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:47.287Z"
+  },
+  {
+    "sttTong": 2943,
+    "sttHang": 35,
+    "brand": "Haier",
+    "deviceName": "Haier N60",
+    "deviceUrl": "https://www.gsmarena.com/haier_n60-1192.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 48 x 25 mm (3.70 x 1.89 x 0.98 in)",
+        "weight": "131 g (4.62 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "resolution": "320 x 240 pixels, 4:3 ratio\nHandwriting Recognition\nSwivel and rotate\nScreensavers, logos"
+      },
+      "platform": {
+        "os": "Linux",
+        "cpu": "312 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 1.2.1\nMP3/MP4 player\nPredictive text input\nWorld clock\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:58:49.707Z"
+  },
+  {
+    "sttTong": 2942,
+    "sttHang": 34,
+    "brand": "Haier",
+    "deviceName": "Haier N70",
+    "deviceUrl": "https://www.gsmarena.com/haier_n70-1674.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n70.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-n70.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 50 x 23.7 mm (3.66 x 1.97 x 0.93 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~27.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nHandwriting recognition"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "No",
+        "games": "Brain Game",
+        "java": "No\nMP3/ MP4 Player\nHandwriting & PDA\nE-Book\nDouble Keypad\nTTS\nCalculator\nUnit Converter"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 135 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:50.609Z"
+  },
+  {
+    "sttTong": 2944,
+    "sttHang": 36,
+    "brand": "Haier",
+    "deviceName": "Haier T3000",
+    "deviceUrl": "https://www.gsmarena.com/haier_t3000-1176.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-t3000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-t3000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 23.5 mm (3.35 x 1.77 x 0.93 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 160 pixels\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPush To Talk\nPredictive text input\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:58:51.964Z"
+  },
+  {
+    "sttTong": 2945,
+    "sttHang": 37,
+    "brand": "Haier",
+    "deviceName": "Haier V280",
+    "deviceUrl": "https://www.gsmarena.com/haier_v280-1175.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v280.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-v280.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 44 x 14.5 mm (4.29 x 1.73 x 0.57 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 160 pixels\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:58:55.264Z"
+  },
+  {
+    "sttTong": 2946,
+    "sttHang": 38,
+    "brand": "Haier",
+    "deviceName": "Haier F1100",
+    "deviceUrl": "https://www.gsmarena.com/haier_f1100-1016.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haf1100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haf1100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85.4 x 45.4 x 22 mm (3.36 x 1.79 x 0.87 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nWorld clock\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Dark Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:56.354Z"
+  },
+  {
+    "sttTong": 2947,
+    "sttHang": 39,
+    "brand": "Haier",
+    "deviceName": "Haier L1000",
+    "deviceUrl": "https://www.gsmarena.com/haier_l1000-1015.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hal1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hal1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 44 x 20 mm (3.31 x 1.73 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external OLED display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nWorld clock\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 480 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:56.679Z"
+  },
+  {
+    "sttTong": 2915,
+    "sttHang": 7,
+    "brand": "Haier",
+    "deviceName": "Haier G7",
+    "deviceUrl": "https://www.gsmarena.com/haier_g7-9049.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-g7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900",
+        "4g_bands": "1, 3, 7, 20\n2, 4, 5, 7, 17\n3, 5, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017. Released 2017",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71.5 x 8.1 mm (5.63 x 2.81 x 0.32 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.25 GHz Cortex-A53",
+        "gpu": "Mali-T720MP1"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White, Yellow, Blue",
+        "sar_eu": "0.53 W/kg (head)     0.87 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:58:59.531Z"
+  },
+  {
+    "sttTong": 2948,
+    "sttHang": 40,
+    "brand": "Haier",
+    "deviceName": "Haier P7",
+    "deviceUrl": "https://www.gsmarena.com/haier_p7-939.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap7.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap7.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150 x 27 x 18.2 mm (5.91 x 1.06 x 0.72 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "64 x 128 pixels, 18:9 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "internal": "3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nCalculator\nVoice memo (3 x 30 min.)\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:59:00.636Z"
+  },
+  {
+    "sttTong": 2950,
+    "sttHang": 42,
+    "brand": "Haier",
+    "deviceName": "Haier V6200",
+    "deviceUrl": "https://www.gsmarena.com/haier_v6200-976.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 48 x 22 mm (3.39 x 1.89 x 0.87 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:05.074Z"
+  },
+  {
+    "sttTong": 2952,
+    "sttHang": 44,
+    "brand": "Haier",
+    "deviceName": "Haier V6000",
+    "deviceUrl": "https://www.gsmarena.com/haier_v6000-842.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 46 x 21 mm (3.39 x 1.81 x 0.83 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors TFT display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:08.540Z"
+  },
+  {
+    "sttTong": 2953,
+    "sttHang": 45,
+    "brand": "Haier",
+    "deviceName": "Haier P6",
+    "deviceUrl": "https://www.gsmarena.com/haier_p6-837.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap6.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap6.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137 x 30.6 x 19.7 mm (5.39 x 1.20 x 0.78 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome",
+        "resolution": "64 x 102 pixels, 16:10 ratio\nBlue background \nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "undefined\nUp to 15 min voice memo"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "3 - Tetris, Balloon-Shoot, Bowling",
+        "java": "No\nCalculator\nVoice memo\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 580 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver, Graphite Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:12.068Z"
+  },
+  {
+    "sttTong": 2954,
+    "sttHang": 46,
+    "brand": "Haier",
+    "deviceName": "Haier V2000",
+    "deviceUrl": "https://www.gsmarena.com/haier_v2000-841.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav2000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav2000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 46 x 22.9 mm (3.39 x 1.81 x 0.90 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external 4096 colors display (96 x 64 pixels)\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Pink, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:13.512Z"
+  },
+  {
+    "sttTong": 2955,
+    "sttHang": 47,
+    "brand": "Haier",
+    "deviceName": "Haier V200",
+    "deviceUrl": "https://www.gsmarena.com/haier_v200-974.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 44 x 14 mm (4.29 x 1.73 x 0.55 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 160 pixels\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:59:20.845Z"
+  },
+  {
+    "sttTong": 2949,
+    "sttHang": 41,
+    "brand": "Haier",
+    "deviceName": "Haier V7000",
+    "deviceUrl": "https://www.gsmarena.com/haier_v7000-977.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav7000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav7000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 47 x 22.9 mm (3.39 x 1.85 x 0.90 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 620 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:25.965Z"
+  },
+  {
+    "sttTong": 2957,
+    "sttHang": 49,
+    "brand": "Haier",
+    "deviceName": "Haier V160",
+    "deviceUrl": "https://www.gsmarena.com/haier_v160-972.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav160.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav160.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 43 x 20 mm (4.13 x 1.69 x 0.79 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "internal": "1.5MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:59:37.367Z"
+  },
+  {
+    "sttTong": 2959,
+    "sttHang": 51,
+    "brand": "Haier",
+    "deviceName": "Haier Z300",
+    "deviceUrl": "https://www.gsmarena.com/haier_z300-971.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 46 x 23 mm (3.39 x 1.81 x 0.91 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "4096 colors",
+        "resolution": "101 x 80 pixels\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "undefined\n250 short messagies"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:07.115Z"
+  },
+  {
+    "sttTong": 2956,
+    "sttHang": 48,
+    "brand": "Haier",
+    "deviceName": "Haier V190",
+    "deviceUrl": "https://www.gsmarena.com/haier_v190-973.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav190.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav190.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 46 x 18.8 mm (4.17 x 1.81 x 0.74 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:00:12.260Z"
+  },
+  {
+    "sttTong": 2932,
+    "sttHang": 24,
+    "brand": "Haier",
+    "deviceName": "Haier M600 Black Pearl",
+    "deviceUrl": "https://www.gsmarena.com/haier_m600_black_pearl-1742.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-blackpearl.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haier-blackpearl.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90.6 x 35.3 x 18.2 mm (3.57 x 1.39 x 0.72 in)",
+        "weight": "64 g (2.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 65K colors",
+        "size": "1.1 inches, 20 x 20 mm, 3.9 cm2 (~12.2% screen-to-body ratio)",
+        "resolution": "96 x 96 pixels, 1:1 ratio (~123 ppi density)\n- 3D graphics"
+      },
+      "platform": {
+        "cpu": "OS ADI 6528"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "128MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AMR ringtones",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 Player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 730 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:12.824Z"
+  },
+  {
+    "sttTong": 2951,
+    "sttHang": 43,
+    "brand": "Haier",
+    "deviceName": "Haier V6100",
+    "deviceUrl": "https://www.gsmarena.com/haier_v6100-975.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav6100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79 x 43 x 21 mm (3.11 x 1.69 x 0.83 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors TFT display\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:22.772Z"
+  },
+  {
+    "sttTong": 2960,
+    "sttHang": 52,
+    "brand": "Haier",
+    "deviceName": "Haier Z100",
+    "deviceUrl": "https://www.gsmarena.com/haier_z100-970.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 44 x 20 mm (3.27 x 1.73 x 0.79 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "-",
+        "resolution": "undefined\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "undefined\n250 short messagies"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "java": "No\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 360 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:24.945Z"
+  },
+  {
+    "sttTong": 2961,
+    "sttHang": 53,
+    "brand": "Haier",
+    "deviceName": "Haier V1000",
+    "deviceUrl": "https://www.gsmarena.com/haier_v1000-840.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 47 x 21 mm (3.43 x 1.85 x 0.83 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 160 pixels\nSecond external B/W display (96 x 48 pixels)\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:00:26.778Z"
+  },
+  {
+    "sttTong": 2958,
+    "sttHang": 50,
+    "brand": "Haier",
+    "deviceName": "Haier V100",
+    "deviceUrl": "https://www.gsmarena.com/haier_v100-839.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hav100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 46 x 18.8 mm (4.17 x 1.81 x 0.74 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:00:26.940Z"
+  },
+  {
+    "sttTong": 2964,
+    "sttHang": 56,
+    "brand": "Haier",
+    "deviceName": "Haier Z7000",
+    "deviceUrl": "https://www.gsmarena.com/haier_z7000-969.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz7000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz7000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 40 x 20 mm (2.99 x 1.57 x 0.79 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono display\nDouble mirror surface \nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "undefined\n250 short messagies"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "java": "No\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 130 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:31.534Z"
+  },
+  {
+    "sttTong": 2963,
+    "sttHang": 55,
+    "brand": "Haier",
+    "deviceName": "Haier Z7100",
+    "deviceUrl": "https://www.gsmarena.com/haier_z7100-968.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz7100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz7100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 40 x 20 mm (2.99 x 1.57 x 0.79 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono display\nDouble mirror surface \nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "undefined\n250 short messagies"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "java": "No\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 130 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:31.697Z"
+  },
+  {
+    "sttTong": 2965,
+    "sttHang": 57,
+    "brand": "Haier",
+    "deviceName": "Haier Z3000",
+    "deviceUrl": "https://www.gsmarena.com/haier_z3000-966.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz3000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz3000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 40 x 20 mm (2.99 x 1.57 x 0.79 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "4096 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "undefined\n100 short messagies"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "games": "3",
+        "java": "No\nPredictive text input\nExternal VGA camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 530 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Red, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:34.640Z"
+  },
+  {
+    "sttTong": 2967,
+    "sttHang": 59,
+    "brand": "Haier",
+    "deviceName": "Haier D6000",
+    "deviceUrl": "https://www.gsmarena.com/haier_d6000-835.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/had6000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/had6000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 44 x 16 mm (3.86 x 1.73 x 0.63 in)",
+        "weight": "63 g (2.22 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome",
+        "resolution": "64 x 112 pixels, 16:9 ratio\n7 background colors\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "3 -  Ping Pong, Bingo, Tank Destroyer",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "2 - Blue, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:37.924Z"
+  },
+  {
+    "sttTong": 2962,
+    "sttHang": 54,
+    "brand": "Haier",
+    "deviceName": "Haier P5",
+    "deviceUrl": "https://www.gsmarena.com/haier_p5-836.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap5.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hap5.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135 x 28 x 18 mm (5.31 x 1.10 x 0.71 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome",
+        "resolution": "64 x 102 pixels, 16:10 ratio\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "games": "Yes",
+        "java": "No\nPredictive text input\nVoice memo\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 520 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:00:40.547Z"
+  },
+  {
+    "sttTong": 2966,
+    "sttHang": 58,
+    "brand": "Haier",
+    "deviceName": "Haier Z8000",
+    "deviceUrl": "https://www.gsmarena.com/haier_z8000-838.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz8000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/haz8000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 44 x 23.8 mm (3.27 x 1.73 x 0.94 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "4096 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external B/W display (80 x 48 pixels)\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:00:56.432Z"
+  }
+]

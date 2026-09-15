@@ -1,0 +1,279 @@
+[
+  {
+    "sttTong": 13613,
+    "sttHang": 1,
+    "brand": "XCute",
+    "deviceName": "XCute DV80",
+    "deviceUrl": "https://www.gsmarena.com/xcute_dv80-1495.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "103 x 48 x 23 mm (4.06 x 1.89 x 0.91 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "resolution": "640 x 240 pixels"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nVideo player\nTV-out\nPredictive text input\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:38.044Z"
+  },
+  {
+    "sttTong": 13614,
+    "sttHang": 2,
+    "brand": "XCute",
+    "deviceName": "XCute DV50",
+    "deviceUrl": "https://www.gsmarena.com/xcute_dv50-1494.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv50.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv50.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "104 x 46 x 19 mm (4.09 x 1.81 x 0.75 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "resolution": "640 x 240 pixels"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "5",
+        "java": "No\nMP3 player\nVideo player\nTV-out\nPredictive text input\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:38.368Z"
+  },
+  {
+    "sttTong": 13616,
+    "sttHang": 4,
+    "brand": "XCute",
+    "deviceName": "XCute DV1",
+    "deviceUrl": "https://www.gsmarena.com/xcute_dv1-1480.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv1.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv1.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 46.6 x 23.5 mm (3.43 x 1.83 x 0.93 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "resolution": "640 x 240 pixels\nSecond external OLED display, 65K colors (96 x 65 pixels)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "rotating lens, LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "java": "No\nMP3 player\nVideo player\nTV-out\nPredictive text input\nLanguage learning\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Cool Blue, Titanic Silver, Sunny Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:38.713Z"
+  },
+  {
+    "sttTong": 13615,
+    "sttHang": 3,
+    "brand": "XCute",
+    "deviceName": "XCute DV2",
+    "deviceUrl": "https://www.gsmarena.com/xcute_dv2-1481.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xcute-dv2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 46.6 x 22 mm (3.43 x 1.83 x 0.87 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "resolution": "640 x 240 pixels\nSecond external OLED display, 65K colors (96 x 65 pixels)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "18MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "rotating lens, LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "F1 Race, Color ball, Ninja",
+        "java": "No\nMP3 player\nVideo player\nTV-out\nPredictive text input\nLanguage learning\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black & White"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:59:40.094Z"
+  }
+]

@@ -1,0 +1,1184 @@
+{
+  "CellphoneS": [
+    {
+      "name": "Điện thoại Samsung Galaxy",
+      "slug": "samsung",
+      "url": "https://cellphones.com.vn/mobile/samsung.html"
+    },
+    {
+      "name": "Xiaomi",
+      "slug": "xiaomi",
+      "url": "https://cellphones.com.vn/mobile/xiaomi.html"
+    },
+    {
+      "name": "Điện thoại iPhone",
+      "slug": "apple",
+      "url": "https://cellphones.com.vn/mobile/apple.html"
+    },
+    {
+      "name": "Điện thoại OPPO",
+      "slug": "oppo",
+      "url": "https://cellphones.com.vn/mobile/oppo.html"
+    },
+    {
+      "name": "Tecno",
+      "slug": "tecno",
+      "url": "https://cellphones.com.vn/mobile/tecno.html"
+    },
+    {
+      "name": "HONOR",
+      "slug": "honor",
+      "url": "https://cellphones.com.vn/mobile/honor.html"
+    },
+    {
+      "name": "Nubia",
+      "slug": "nubia",
+      "url": "https://cellphones.com.vn/mobile/nubia.html"
+    },
+    {
+      "name": "Sony",
+      "slug": "sony",
+      "url": "https://cellphones.com.vn/mobile/sony.html"
+    },
+    {
+      "name": "Nokia",
+      "slug": "nokia",
+      "url": "https://cellphones.com.vn/mobile/nokia.html"
+    },
+    {
+      "name": "Infinix",
+      "slug": "infinix",
+      "url": "https://cellphones.com.vn/mobile/infinix.html"
+    },
+    {
+      "name": "Nothing Phone",
+      "slug": "nothing-phone",
+      "url": "https://cellphones.com.vn/mobile/nothing-phone.html"
+    },
+    {
+      "name": "Masstel",
+      "slug": "masstel",
+      "url": "https://cellphones.com.vn/mobile/masstel.html"
+    },
+    {
+      "name": "realme",
+      "slug": "realme",
+      "url": "https://cellphones.com.vn/mobile/realme.html"
+    },
+    {
+      "name": "Itel",
+      "slug": "itel",
+      "url": "https://cellphones.com.vn/mobile/itel.html"
+    },
+    {
+      "name": "Huawei",
+      "slug": "huawei",
+      "url": "https://cellphones.com.vn/mobile/huawei.html"
+    },
+    {
+      "name": "Meizu",
+      "slug": "meizu",
+      "url": "https://cellphones.com.vn/mobile/meizu.html"
+    },
+    {
+      "name": "vivo",
+      "slug": "vivo",
+      "url": "https://cellphones.com.vn/mobile/vivo.html"
+    },
+    {
+      "name": "OnePlus",
+      "slug": "oneplus",
+      "url": "https://cellphones.com.vn/mobile/oneplus.html"
+    },
+    {
+      "name": "TCL",
+      "slug": "tcl",
+      "url": "https://cellphones.com.vn/mobile/tcl.html"
+    },
+    {
+      "name": "Benco",
+      "slug": "benco",
+      "url": "https://cellphones.com.vn/mobile/benco.html"
+    },
+    {
+      "name": "ASUS",
+      "slug": "asus",
+      "url": "https://cellphones.com.vn/mobile/asus.html"
+    },
+    {
+      "name": "chơi game",
+      "slug": "dien-thoai-gaming",
+      "url": "https://cellphones.com.vn/mobile/dien-thoai-gaming.html"
+    },
+    {
+      "name": "pin trâu",
+      "slug": "dien-thoai-pin-trau",
+      "url": "https://cellphones.com.vn/mobile/dien-thoai-pin-trau.html"
+    },
+    {
+      "name": "chụp ảnh đẹp",
+      "slug": "dien-thoai-chup-anh-quay-phim",
+      "url": "https://cellphones.com.vn/mobile/dien-thoai-chup-anh-quay-phim.html"
+    },
+    {
+      "name": "AI",
+      "slug": "ai",
+      "url": "https://cellphones.com.vn/mobile/ai.html"
+    },
+    {
+      "name": "phổ thông",
+      "slug": "dien-thoai-pho-thong",
+      "url": "https://cellphones.com.vn/mobile/dien-thoai-pho-thong.html"
+    }
+  ],
+  "HoangHaMobile": [
+    {
+      "name": "điện thoại gập Samsung",
+      "slug": "samsung",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/samsung/dien-thoai-gap-samsung"
+    },
+    {
+      "name": "iPhone 17",
+      "slug": "iphone",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/iphone/iphone-17-series"
+    },
+    {
+      "name": "POCO",
+      "slug": "xiaomi",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/xiaomi/dien-thoai-poco"
+    },
+    {
+      "name": "Điện thoại HONOR",
+      "slug": "honor",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/honor"
+    },
+    {
+      "name": "OPPO Find N",
+      "slug": "oppo",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/oppo/oppo-find-n-series"
+    },
+    {
+      "name": "TECNO SPARK",
+      "slug": "tecno",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/tecno/tecno-spark"
+    },
+    {
+      "name": "OSCAL",
+      "slug": "oscal",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/oscal"
+    },
+    {
+      "name": "Điện thoại REDMAGIC",
+      "slug": "redmagic",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/redmagic"
+    },
+    {
+      "name": "HUAWEI",
+      "slug": "huawei",
+      "url": "https://hoanghamobile.com/dien-thoai-di-dong/huawei"
+    },
+    {
+      "name": "Điện thoại Nokia",
+      "slug": "nokia",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/nokia"
+    },
+    {
+      "name": "Điện thoại Xphone",
+      "slug": "xphone",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/xphone"
+    },
+    {
+      "name": "HTC",
+      "slug": "htc",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/htc"
+    },
+    {
+      "name": "Điện thoại INOI",
+      "slug": "inoi",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/inoi"
+    },
+    {
+      "name": "Điện thoại Benco",
+      "slug": "benco",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/benco"
+    },
+    {
+      "name": "Điện thoại Nubia",
+      "slug": "nubia",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/nubia"
+    },
+    {
+      "name": "XOR",
+      "slug": "xor",
+      "url": "https://hoanghamobile.com/dien-thoai-di-dong/xor"
+    },
+    {
+      "name": "Điện thoại Masstel",
+      "slug": "masstel",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/masstel"
+    },
+    {
+      "name": "Điện thoại TCL",
+      "slug": "tcl",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/tcl"
+    },
+    {
+      "name": "Điện thoại itel",
+      "slug": "itel",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/itel"
+    },
+    {
+      "name": "Mobell",
+      "slug": "mobell",
+      "url": "https://hoanghamobile.com/dien-thoai-di-dong/mobell"
+    },
+    {
+      "name": "Điện thoại ZTE",
+      "slug": "zte",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/zte"
+    },
+    {
+      "name": "Điện thoại Viettel",
+      "slug": "viettel",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/viettel"
+    },
+    {
+      "name": "Xiaomi T Series",
+      "slug": "xiaomi-t-series",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-t-series"
+    },
+    {
+      "name": "OPPO Find X",
+      "slug": "oppo-find-x-series",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/oppo-find-x-series"
+    },
+    {
+      "name": "Điện thoại Infinix",
+      "slug": "infinix",
+      "url": "https://hoanghamobile.com/https://hoanghamobile.com/dien-thoai-di-dong/infinix"
+    }
+  ],
+  "TGDD": [
+    {
+      "name": "Samsung",
+      "slug": "samsung",
+      "url": "https://www.thegioididong.com/dtdd-samsung"
+    },
+    {
+      "name": "iPhone",
+      "slug": "apple-iphone",
+      "url": "https://www.thegioididong.com/dtdd-apple-iphone"
+    },
+    {
+      "name": "OPPO",
+      "slug": "oppo",
+      "url": "https://www.thegioididong.com/dtdd-oppo"
+    },
+    {
+      "name": "Xiaomi",
+      "slug": "xiaomi",
+      "url": "https://www.thegioididong.com/dtdd-xiaomi"
+    },
+    {
+      "name": "icon",
+      "slug": "motorola",
+      "url": "https://www.thegioididong.com/dtdd-motorola"
+    },
+    {
+      "name": "vivo",
+      "slug": "vivo",
+      "url": "https://www.thegioididong.com/dtdd-vivo"
+    },
+    {
+      "name": "realme",
+      "slug": "realme",
+      "url": "https://www.thegioididong.com/dtdd-realme"
+    },
+    {
+      "name": "HONOR",
+      "slug": "honor",
+      "url": "https://www.thegioididong.com/dtdd-honor"
+    },
+    {
+      "name": "Nothing Phone",
+      "slug": "nothing-phone",
+      "url": "https://www.thegioididong.com/dtdd-nothing-phone"
+    },
+    {
+      "name": "Tecno",
+      "slug": "tecno",
+      "url": "https://www.thegioididong.comdtdd-tecno"
+    },
+    {
+      "name": "Nubia",
+      "slug": "nubia",
+      "url": "https://www.thegioididong.comdtdd-nubia"
+    },
+    {
+      "name": "Nokia",
+      "slug": "nokia",
+      "url": "https://www.thegioididong.comdtdd-nokia"
+    },
+    {
+      "name": "Masstel",
+      "slug": "masstel",
+      "url": "https://www.thegioididong.comdtdd-masstel"
+    },
+    {
+      "name": "Mobell",
+      "slug": "mobell",
+      "url": "https://www.thegioididong.comdtdd-mobell"
+    },
+    {
+      "name": "Xphone",
+      "slug": "xphone",
+      "url": "https://www.thegioididong.comdtdd-xphone"
+    },
+    {
+      "name": "Android",
+      "slug": "android",
+      "url": "https://www.thegioididong.comdtdd-android"
+    },
+    {
+      "name": "Điện thoại AI cao cấp",
+      "slug": "ai",
+      "url": "https://www.thegioididong.com/dtdd-ai"
+    },
+    {
+      "name": "Điện thoại gập",
+      "slug": "gap",
+      "url": "https://www.thegioididong.com/dtdd-gap"
+    },
+    {
+      "name": "Điện thoại phổ thông",
+      "slug": "pho-thong",
+      "url": "https://www.thegioididong.com/dtdd-pho-thong"
+    },
+    {
+      "name": "Điện thoại gaming",
+      "slug": "choi-game",
+      "url": "https://www.thegioididong.com/dtdd-choi-game"
+    },
+    {
+      "name": "Pin từ 7000mAh",
+      "slug": "pin-khung",
+      "url": "https://www.thegioididong.com/dtdd-pin-khung"
+    },
+    {
+      "name": "Chụp ảnh, quay phim                    \n                        \n\n                        \n                            \n                                \n                                    \n                                    Tìm hiểu thêm về Chụp ảnh, quay phim \n                                \n\n                                \n                                     Thông số tối thiểu:\n- Android: Camera sau tối thiểu 48 MP và hỗ trợ quay video từ 4K trở lên.\n- iOS: Camera sau tối thiểu 12 MP và hỗ trợ quay video từ 4K trở lên.",
+      "slug": "chup-anh-quay-phim",
+      "url": "https://www.thegioididong.comdtdd-chup-anh-quay-phim"
+    },
+    {
+      "name": "Livestream",
+      "slug": "livestream",
+      "url": "https://www.thegioididong.comdtdd-livestream"
+    },
+    {
+      "name": "Mỏng nhẹ                    \n                        \n\n                        \n                            \n                                \n                                    \n                                    Tìm hiểu thêm về Mỏng nhẹ \n                                \n\n                                \n                                     Điện thoại thông minh mỏng nhẹ có độ mỏng dưới 7.5 mm và nhẹ dưới 175 g.",
+      "slug": "mong-nhe",
+      "url": "https://www.thegioididong.comdtdd-mong-nhe"
+    },
+    {
+      "name": "3 GB",
+      "slug": "ram-3gb",
+      "url": "https://www.thegioididong.comdtdd-ram-3gb"
+    },
+    {
+      "name": "4 GB",
+      "slug": "ram-4gb",
+      "url": "https://www.thegioididong.comdtdd-ram-4gb"
+    },
+    {
+      "name": "6 GB",
+      "slug": "ram-6gb",
+      "url": "https://www.thegioididong.comdtdd-ram-6gb"
+    },
+    {
+      "name": "8 GB",
+      "slug": "ram-8gb",
+      "url": "https://www.thegioididong.comdtdd-ram-8gb"
+    },
+    {
+      "name": "12 GB",
+      "slug": "ram-12gb",
+      "url": "https://www.thegioididong.comdtdd-ram-12gb"
+    },
+    {
+      "name": "QQVGA",
+      "slug": "qqvga",
+      "url": "https://www.thegioididong.comdtdd-qqvga"
+    },
+    {
+      "name": "QVGA",
+      "slug": "qvga",
+      "url": "https://www.thegioididong.comdtdd-qvga"
+    },
+    {
+      "name": "HD+",
+      "slug": "hd-plus",
+      "url": "https://www.thegioididong.comdtdd-hd-plus"
+    },
+    {
+      "name": "Full HD+",
+      "slug": "full-hd-plus",
+      "url": "https://www.thegioididong.comdtdd-full-hd-plus"
+    },
+    {
+      "name": "1.5K",
+      "slug": "1-5k",
+      "url": "https://www.thegioididong.comdtdd-1-5k"
+    },
+    {
+      "name": "1.5K+",
+      "slug": "1-5k-plus",
+      "url": "https://www.thegioididong.comdtdd-1-5k-plus"
+    },
+    {
+      "name": "2K+",
+      "slug": "2k-plus",
+      "url": "https://www.thegioididong.comdtdd-2k-plus"
+    },
+    {
+      "name": "Retina (iPhone)",
+      "slug": "retina-iphone",
+      "url": "https://www.thegioididong.comdtdd-retina-iphone"
+    },
+    {
+      "name": "60 Hz",
+      "slug": "60hz",
+      "url": "https://www.thegioididong.comdtdd-60hz"
+    },
+    {
+      "name": "90 Hz",
+      "slug": "90hz",
+      "url": "https://www.thegioididong.comdtdd-90hz"
+    },
+    {
+      "name": "120 Hz",
+      "slug": "120-hz",
+      "url": "https://www.thegioididong.comdtdd-120-hz"
+    },
+    {
+      "name": "144 Hz",
+      "slug": "144-hz",
+      "url": "https://www.thegioididong.comdtdd-144-hz"
+    },
+    {
+      "name": "165 Hz",
+      "slug": "165-hz",
+      "url": "https://www.thegioididong.comdtdd-165-hz"
+    },
+    {
+      "name": "185 Hz",
+      "slug": "185-hz",
+      "url": "https://www.thegioididong.comdtdd-185-hz"
+    },
+    {
+      "name": "64 GB",
+      "slug": "rom-64gb",
+      "url": "https://www.thegioididong.comdtdd-rom-64gb"
+    },
+    {
+      "name": "128 GB",
+      "slug": "rom-128gb",
+      "url": "https://www.thegioididong.comdtdd-rom-128gb"
+    },
+    {
+      "name": "256 GB",
+      "slug": "rom-256gb",
+      "url": "https://www.thegioididong.comdtdd-rom-256gb"
+    },
+    {
+      "name": "512 GB",
+      "slug": "rom-512gb",
+      "url": "https://www.thegioididong.comdtdd-rom-512gb"
+    },
+    {
+      "name": "1 TB",
+      "slug": "rom-1tb",
+      "url": "https://www.thegioididong.comdtdd-rom-1tb"
+    },
+    {
+      "name": "Sạc nhanh (từ 20W)",
+      "slug": "sac-pin-nhanh",
+      "url": "https://www.thegioididong.comdtdd-sac-pin-nhanh"
+    },
+    {
+      "name": "Sạc siêu nhanh (từ 60W)",
+      "slug": "sac-sieu-nhanh",
+      "url": "https://www.thegioididong.comdtdd-sac-sieu-nhanh"
+    },
+    {
+      "name": "Sạc không dây",
+      "slug": "sac-khong-day",
+      "url": "https://www.thegioididong.comdtdd-sac-khong-day"
+    },
+    {
+      "name": "Chỉnh ảnh AI",
+      "slug": "chinh-anh-ai",
+      "url": "https://www.thegioididong.comdtdd-chinh-anh-ai"
+    },
+    {
+      "name": "Hỗ trợ 5G",
+      "slug": "5g",
+      "url": "https://www.thegioididong.comdtdd-5g"
+    },
+    {
+      "name": "Kháng nước, bụi",
+      "slug": "chong-nuoc-bui",
+      "url": "https://www.thegioididong.comdtdd-chong-nuoc-bui"
+    },
+    {
+      "name": "Bảo mật khuôn mặt 3D",
+      "slug": "bao-mat-khuon-mat",
+      "url": "https://www.thegioididong.comdtdd-bao-mat-khuon-mat"
+    },
+    {
+      "name": "Công nghệ NFC",
+      "slug": "nfc",
+      "url": "https://www.thegioididong.comdtdd-nfc"
+    },
+    {
+      "name": "Galaxy A",
+      "slug": "samsung-galaxy-a",
+      "url": "https://www.thegioididong.com/dtdd-samsung-galaxy-a"
+    },
+    {
+      "name": "Galaxy S",
+      "slug": "samsung-galaxy-s",
+      "url": "https://www.thegioididong.com/dtdd-samsung-galaxy-s"
+    },
+    {
+      "name": "Galaxy Z",
+      "slug": "samsung-galaxy-z",
+      "url": "https://www.thegioididong.com/dtdd-samsung-galaxy-z"
+    },
+    {
+      "name": "OPPO A Series",
+      "slug": "oppo-a",
+      "url": "https://www.thegioididong.com/dtdd-oppo-a"
+    },
+    {
+      "name": "OPPO Reno Series",
+      "slug": "oppo-reno",
+      "url": "https://www.thegioididong.com/dtdd-oppo-reno"
+    },
+    {
+      "name": "OPPO Find X Series",
+      "slug": "oppo-find-x",
+      "url": "https://www.thegioididong.com/dtdd-oppo-find-x"
+    },
+    {
+      "name": "Xiaomi Redmi Note 17 Series",
+      "slug": "xiaomi-redmi-note-17",
+      "url": "https://www.thegioididong.com/dtdd-xiaomi-redmi-note-17"
+    },
+    {
+      "name": "iPhone 18",
+      "slug": "apple-iphone-18-series",
+      "url": "https://www.thegioididong.com/dtdd-apple-iphone-18-series"
+    }
+  ],
+  "FPTShop": [
+    {
+      "name": "Điện thoại 5G",
+      "slug": "dien-thoai-5g",
+      "url": "https://fptshop.com.vn/dien-thoai/dien-thoai-5g"
+    },
+    {
+      "name": "điện thoại AI",
+      "slug": "ai",
+      "url": "https://fptshop.com.vn/dien-thoai/ai"
+    },
+    {
+      "name": "điện thoại gập",
+      "slug": "dien-thoai-gap",
+      "url": "https://fptshop.com.vn/dien-thoai/dien-thoai-gap"
+    },
+    {
+      "name": "điện thoại chơi game",
+      "slug": "dien-thoai-gaming",
+      "url": "https://fptshop.com.vn/dien-thoai/dien-thoai-gaming"
+    },
+    {
+      "name": "điện thoại phổ thông",
+      "slug": "pho-thong",
+      "url": "https://fptshop.com.vn/dien-thoai/pho-thong"
+    },
+    {
+      "name": "Redmi Note 17",
+      "slug": "xiaomi-redmi-note-17",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "honor-600-12gb",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-600-12gb"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "oppo-a6",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-a6"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "xiaomi-poco-series",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-series"
+    },
+    {
+      "name": "iPhone",
+      "slug": "apple-iphone",
+      "url": "https://fptshop.com.vn/dien-thoai/apple-iphone"
+    },
+    {
+      "name": "Điện thoại Samsung",
+      "slug": "samsung",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung"
+    },
+    {
+      "name": "Điện thoại Xiaomi",
+      "slug": "xiaomi",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi"
+    },
+    {
+      "name": "Điện thoại OPPO",
+      "slug": "oppo",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo"
+    },
+    {
+      "name": "X Series",
+      "slug": "honor",
+      "url": "https://fptshop.com.vn/dien-thoai/honor/x-series"
+    },
+    {
+      "name": "Điện thoại TECNO",
+      "slug": "tecno",
+      "url": "https://fptshop.com.vn/dien-thoai/tecno"
+    },
+    {
+      "name": "Điện thoại Nokia",
+      "slug": "nokia",
+      "url": "https://fptshop.com.vn/dien-thoai/nokia"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "zte",
+      "url": "https://fptshop.com.vn/dien-thoai/zte"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "mobell",
+      "url": "https://fptshop.com.vn/dien-thoai/mobell"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "viettel",
+      "url": "https://fptshop.com.vn/dien-thoai/viettel"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "nothing-phone",
+      "url": "https://fptshop.com.vn/dien-thoai/nothing-phone"
+    },
+    {
+      "name": "Điện thoại Masstel",
+      "slug": "masstel",
+      "url": "https://fptshop.com.vn/dien-thoai/masstel"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "inoi",
+      "url": "https://fptshop.com.vn/dien-thoai/inoi"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "tcl",
+      "url": "https://fptshop.com.vn/dien-thoai/tcl"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "itel",
+      "url": "https://fptshop.com.vn/dien-thoai/itel"
+    },
+    {
+      "name": "https://fptshop.com.vn/",
+      "slug": "benco",
+      "url": "https://fptshop.com.vn/dien-thoai/benco"
+    },
+    {
+      "name": "Nubia A76",
+      "slug": "nubia-a76",
+      "url": "https://fptshop.com.vn/dien-thoai/nubia-a76"
+    },
+    {
+      "name": "3.790.000đ-11%3.390.000đGiảm 400.000đCòn 00 ngày 00:00:00Tecno Spark 40C 8GB 256GB",
+      "slug": "tecno-spark-40c",
+      "url": "https://fptshop.com.vn/dien-thoai/tecno-spark-40c"
+    },
+    {
+      "name": "4.090.000đ-5%3.890.000đGiảm 200.000đXiaomi POCO C81 Pro 4GB 128GB",
+      "slug": "xiaomi-poco-c81-pro",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-c81-pro"
+    },
+    {
+      "name": "Xiaomi Poco M8 Pro",
+      "slug": "xiaomi-poco-m8-pro-8gb",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-m8-pro-8gb"
+    },
+    {
+      "name": "10.990.000đ-15%9.310.000đGiảm 1.680.000đCòn 00 ngày 00:00:00Honor X9d 5G 8GB 256GB",
+      "slug": "honor-x9d",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-x9d"
+    },
+    {
+      "name": "https://fptshop.com.vn/dien-thoai/iphone-duo",
+      "slug": "iphone-duo",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-duo"
+    },
+    {
+      "name": "iPhone 18 Pro Max",
+      "slug": "iphone-18-pro-max",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-18-pro-max"
+    },
+    {
+      "name": "38.990.000điPhone 18 Pro 256GB",
+      "slug": "iphone-18-pro",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-18-pro"
+    },
+    {
+      "name": "15.990.000đOPPO Reno16 F 5G 8GB 256GB",
+      "slug": "oppo-reno16-f",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-reno16-f"
+    },
+    {
+      "name": "17.990.000đ-12%15.810.000đGiảm 2.180.000đCòn 00 ngày 00:00:00Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB",
+      "slug": "xiaomi-redmi-note-17-pro-max",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17-pro-max"
+    },
+    {
+      "name": "Samsung Galaxy S26 Ultra",
+      "slug": "samsung-galaxy-s26-ultra",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra"
+    },
+    {
+      "name": "49.990.000đ-10%44.990.000đGiảm 5.000.000đCòn 00 ngày 00:00:00Oppo Find X9 Ultra 5G 12GB 512GB",
+      "slug": "oppo-find-x9-ultra",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-find-x9-ultra"
+    },
+    {
+      "name": "24.990.000đ-7%23.290.000đGiảm 1.700.000đCòn 00 ngày 00:00:00Oppo Find X9s 5G 12GB 256GB",
+      "slug": "oppo-find-x9s",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-find-x9s"
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "slug": "iphone-17-pro-max",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-17-pro-max"
+    },
+    {
+      "name": "46.990.000đ-22%36.490.000đGiảm 10.500.000đCòn 00 ngày 00:00:00Samsung Galaxy Z Fold7 5G 12GB 256GB",
+      "slug": "samsung-galaxy-z-fold7",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold7"
+    },
+    {
+      "name": "11.990.000đ11.490.000đGiảm 500.000đCòn 00 ngày 00:00:00OPPO Reno15 F 5G 8GB 256GB",
+      "slug": "oppo-reno15-f",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-reno15-f"
+    },
+    {
+      "name": "Redmi Note 15",
+      "slug": "xiaomi-redmi-note-15",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15"
+    },
+    {
+      "name": "iPhone 17",
+      "slug": "iphone-17",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-17"
+    },
+    {
+      "name": "33.380.000đ-26%24.790.000đGiảm 8.590.000đCòn 00 ngày 00:00:00Samsung Galaxy S25 Ultra 5G 12GB 256GB",
+      "slug": "samsung-galaxy-s25-ultra",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-ultra"
+    },
+    {
+      "name": "Xiaomi Poco X7",
+      "slug": "xiaomi-poco-x7",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-x7"
+    },
+    {
+      "name": "Samsung Galaxy A17",
+      "slug": "samsung-galaxy-a17",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17"
+    },
+    {
+      "name": "Honor X7d",
+      "slug": "honor-x7d",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-x7d"
+    },
+    {
+      "name": "34.990.000đ-9%31.790.000đGiảm 3.200.000đCòn 00 ngày 00:00:00iPhone 17 Pro 256GB",
+      "slug": "iphone-17-pro",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-17-pro"
+    },
+    {
+      "name": "4.190.000đ-5%3.990.000đGiảm 200.000đXiaomi Redmi 13x 8GB 128GB",
+      "slug": "xiaomi-redmi-13x",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-13x"
+    },
+    {
+      "name": "4.190.000đ-14%3.590.000đGiảm 600.000đCòn 00 ngày 00:00:00Samsung Galaxy A07 4GB 128GB",
+      "slug": "samsung-galaxy-a07",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07"
+    },
+    {
+      "name": "Xiaomi Redmi A7",
+      "slug": "xiaomi-redmi-a7",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-a7"
+    },
+    {
+      "name": "4.690.000đ4.490.000đGiảm 200.000đCòn 00 ngày 00:00:00Oppo A6C 4GB 64GB",
+      "slug": "oppo-a6c",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-a6c"
+    },
+    {
+      "name": "Honor X5b Plus",
+      "slug": "honor-x5b-plus",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-x5b-plus"
+    },
+    {
+      "name": "TCL 60R 5G",
+      "slug": "tcl-60r",
+      "url": "https://fptshop.com.vn/dien-thoai/tcl-60r"
+    },
+    {
+      "name": "Xiaomi Poco C71",
+      "slug": "xiaomi-poco-c71",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-c71"
+    },
+    {
+      "name": "Nubia V70 Max",
+      "slug": "nubia-v70-max",
+      "url": "https://fptshop.com.vn/dien-thoai/nubia-v70-max"
+    },
+    {
+      "name": "Nubia V70 Design",
+      "slug": "nubia-v70-design",
+      "url": "https://fptshop.com.vn/dien-thoai/nubia-v70-design"
+    },
+    {
+      "name": "Nubia V80 Design",
+      "slug": "nubia-v80-design",
+      "url": "https://fptshop.com.vn/dien-thoai/nubia-v80-design"
+    },
+    {
+      "name": "Xiaomi Poco M7 Pro",
+      "slug": "xiaomi-poco-m7-pro",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-poco-m7-pro"
+    },
+    {
+      "name": "Redmi Note 14",
+      "slug": "xiaomi-redmi-note-14-5g",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-14-5g"
+    },
+    {
+      "name": "OPPO Reno12 F 5G",
+      "slug": "oppo-reno12-f",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-reno12-f"
+    },
+    {
+      "name": "Samsung Galaxy A26",
+      "slug": "samsung-galaxy-a26",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a26"
+    },
+    {
+      "name": "Honor X8d",
+      "slug": "honor-x8d",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-x8d"
+    },
+    {
+      "name": "Xiaomi Redmi Note 15 Pro",
+      "slug": "xiaomi-redmi-note-15-pro",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-pro"
+    },
+    {
+      "name": "Samsung Galaxy A56 5G",
+      "slug": "samsung-galaxy-a56",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a56"
+    },
+    {
+      "name": "OPPO Reno13 F 12GB",
+      "slug": "oppo-reno13-f-5g",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-reno13-f-5g"
+    },
+    {
+      "name": "Xiaomi 15T 5G",
+      "slug": "xiaomi-15t",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-15t"
+    },
+    {
+      "name": "Samsung Galaxy S25 FE 5G",
+      "slug": "samsung-galaxy-s25-fe",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-fe"
+    },
+    {
+      "name": "Samsung Galaxy S26 FE",
+      "slug": "samsung-galaxy-s26-fe",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-fe"
+    },
+    {
+      "name": "Samsung Galaxy S25 Plus",
+      "slug": "samsung-galaxy-s25-plus",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-plus"
+    },
+    {
+      "name": "OPPO Find X9",
+      "slug": "oppo-find-x9",
+      "url": "https://fptshop.com.vn/dien-thoai/oppo-find-x9"
+    },
+    {
+      "name": "Xiaomi 17 Ultra",
+      "slug": "xiaomi-17-ultra",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-17-ultra"
+    },
+    {
+      "name": "Galaxy Z Flip 8",
+      "slug": "samsung-galaxy-z-flip8",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip8"
+    },
+    {
+      "name": "Galaxy Z Fold 8",
+      "slug": "samsung-galaxy-z-fold8",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8"
+    },
+    {
+      "name": "Galaxy Z Fold 8 Ultra",
+      "slug": "samsung-galaxy-z-fold8-ultra",
+      "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-ultra"
+    },
+    {
+      "name": "iPhone 18 Series",
+      "slug": "iphone-18-series",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-18-series"
+    },
+    {
+      "name": "iPhone 17 Series",
+      "slug": "iphone-17-series",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-17-series"
+    },
+    {
+      "name": "iPhone 16 Series",
+      "slug": "iphone-16-series",
+      "url": "https://fptshop.com.vn/dien-thoai/iphone-16-series"
+    },
+    {
+      "name": "Galaxy AI",
+      "slug": "galaxy-ai",
+      "url": "https://fptshop.com.vn/dien-thoai/galaxy-ai"
+    },
+    {
+      "name": "Galaxy S",
+      "slug": "galaxy-s-series",
+      "url": "https://fptshop.com.vn/dien-thoai/galaxy-s-series"
+    },
+    {
+      "name": "Galaxy Z",
+      "slug": "galaxy-z-series",
+      "url": "https://fptshop.com.vn/dien-thoai/galaxy-z-series"
+    },
+    {
+      "name": "Xiaomi Series",
+      "slug": "xiaomi-series",
+      "url": "https://fptshop.com.vn/dien-thoai/xiaomi-series"
+    },
+    {
+      "name": "Điện thoại vivo",
+      "slug": "vivo",
+      "url": "https://fptshop.com.vn/dien-thoai/vivo"
+    },
+    {
+      "name": "Điện thoại realme",
+      "slug": "realme",
+      "url": "https://fptshop.com.vn/dien-thoai/realme"
+    },
+    {
+      "name": "HONOR Series",
+      "slug": "honor-series",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-series"
+    },
+    {
+      "name": "Magic Series",
+      "slug": "honor-magic-series",
+      "url": "https://fptshop.com.vn/dien-thoai/honor-magic-series"
+    },
+    {
+      "name": "Masstel S7 4GB",
+      "slug": "masstel-s7-4gb",
+      "url": "https://fptshop.com.vn/dien-thoai/masstel-s7-4gb"
+    },
+    {
+      "name": "Masstel Fami 60S 4G",
+      "slug": "masstel-fami-60s-4g",
+      "url": "https://fptshop.com.vn/dien-thoai/masstel-fami-60s-4g"
+    },
+    {
+      "name": "Masstel Izi 15 4G",
+      "slug": "masstel-izi-15",
+      "url": "https://fptshop.com.vn/dien-thoai/masstel-izi-15"
+    }
+  ],
+  "DiDongViet": [
+    {
+      "name": "iPhone 18 Pro Max 256GB Chính Hãng",
+      "slug": "iphone-18-pro-max",
+      "url": "https://didongviet.vn/dien-thoai/iphone-18-pro-max.html"
+    },
+    {
+      "name": "Điện thoại iPhone",
+      "slug": "iphone",
+      "url": "https://didongviet.vn/dien-thoai-iphone.html"
+    },
+    {
+      "name": "Điện thoại Samsung",
+      "slug": "samsung",
+      "url": "https://didongviet.vn/dien-thoai-samsung.html"
+    },
+    {
+      "name": "Điện thoại OPPO",
+      "slug": "oppo",
+      "url": "https://didongviet.vn/dien-thoai-oppo.html"
+    },
+    {
+      "name": "Điện thoại Xiaomi",
+      "slug": "xiaomi",
+      "url": "https://didongviet.vn/dien-thoai-xiaomi.html"
+    },
+    {
+      "name": "iện thoại REDMI",
+      "slug": "redmi",
+      "url": "https://didongviet.vn/dien-thoai-redmi.html"
+    },
+    {
+      "name": "Tecno",
+      "slug": "tecno",
+      "url": "https://didongviet.vn/dien-thoai-tecno.html"
+    },
+    {
+      "name": "iPhone Duo 256GB Chính Hãng",
+      "slug": "iphone-duo",
+      "url": "https://didongviet.vn/dien-thoai/iphone-duo.html"
+    },
+    {
+      "name": "iPhone 18 Pro 256GB Chính Hãng",
+      "slug": "iphone-18-pro",
+      "url": "https://didongviet.vn/dien-thoai/iphone-18-pro.html"
+    },
+    {
+      "name": "iPhone 17 Pro Max 256GB Chính Hãng",
+      "slug": "iphone-17-pro-max-256gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-17-pro-max-256gb.html"
+    },
+    {
+      "name": "iPhone 17 Pro Max 512GB Chính Hãng",
+      "slug": "iphone-17-pro-max-512gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-17-pro-max-512gb.html"
+    },
+    {
+      "name": "iPhone 17 Pro Max 1TB Chính Hãng",
+      "slug": "iphone-17-pro-max-1tb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-17-pro-max-1tb.html"
+    },
+    {
+      "name": "iPhone 17 Pro Max 2TB Chính Hãng",
+      "slug": "iphone-17-pro-max-2tb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-17-pro-max-2tb.html"
+    },
+    {
+      "name": "Samsung Galaxy A07 128GB Chính Hãng",
+      "slug": "samsung-galaxy-a07",
+      "url": "https://didongviet.vn/dien-thoai/samsung-galaxy-a07.html"
+    },
+    {
+      "name": "iPhone 14 256GB Chính Hãng (VN/A)",
+      "slug": "iphone-14-256gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-14-256gb.html"
+    },
+    {
+      "name": "iPhone 15 128GB Chính hãng (VN/A)",
+      "slug": "iphone-15-128gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-15-128gb.html"
+    },
+    {
+      "name": "iPhone 15 256GB Chính hãng (VN/A)",
+      "slug": "iphone-15-256gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-15-256gb.html"
+    },
+    {
+      "name": "Xiaomi 14 5G 256GB Chính Hãng",
+      "slug": "xiaomi-14",
+      "url": "https://didongviet.vn/dien-thoai/xiaomi-14.html"
+    },
+    {
+      "name": "iPhone 14 128GB Chính hãng (VN/A)",
+      "slug": "iphone-14-128gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-14-128gb.html"
+    },
+    {
+      "name": "iPhone 13 128GB Chính Hãng (VN/A)",
+      "slug": "iphone-13-128gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-13-128gb.html"
+    },
+    {
+      "name": "iPhone 16 128GB Chính Hãng (VN/A)",
+      "slug": "iphone-16-128gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-128gb.html"
+    },
+    {
+      "name": "iPhone 16 256GB Chính Hãng (VN/A)",
+      "slug": "iphone-16-256gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-256gb.html"
+    },
+    {
+      "name": "iPhone 16 512GB Chính Hãng (VN/A)",
+      "slug": "iphone-16-512gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-512gb.html"
+    },
+    {
+      "name": "iPhone 16 Plus 128GB Chính hãng (VN/A)",
+      "slug": "iphone-16-plus-128gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-plus-128gb.html"
+    },
+    {
+      "name": "iPhone 16 Plus 256GB Chính hãng (VN/A)",
+      "slug": "iphone-16-plus-256gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-plus-256gb.html"
+    },
+    {
+      "name": "iPhone 16 Plus 512GB Chính hãng (VN/A)",
+      "slug": "iphone-16-plus-512gb",
+      "url": "https://didongviet.vn/dien-thoai/iphone-16-plus-512gb.html"
+    },
+    {
+      "name": "Điện thoại HONOR",
+      "slug": "honor",
+      "url": "https://didongviet.vn/dien-thoai-honor.html"
+    }
+  ],
+  "ViettelStore": [
+    {
+      "name": "Thay pin điện thoại",
+      "slug": "pkid010005028",
+      "url": "https://viettelstore.vn/phu-kien/thay-pin-dien-thoai-pkid010005028.html"
+    },
+    {
+      "name": "Thay màn hình điện thoại",
+      "slug": "pkid010005030",
+      "url": "https://viettelstore.vn/phu-kien/thay-man-hinh-dien-thoai-pkid010005030.html"
+    },
+    {
+      "name": "Máy kèm gói cước",
+      "slug": "kem-goi-cuoc-viettel",
+      "url": "https://viettelstore.vn/landing/subsidy-mua-dien-thoai-kem-goi-cuoc-viettel.html"
+    }
+  ]
+}

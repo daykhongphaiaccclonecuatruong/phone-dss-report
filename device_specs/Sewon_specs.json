@@ -1,0 +1,1579 @@
+[
+  {
+    "sttTong": 11218,
+    "sttHang": 3,
+    "brand": "Sewon",
+    "deviceName": "Sewon SRD-200",
+    "deviceUrl": "https://www.gsmarena.com/sewon_srd_200-797.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrd200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrd200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87.5 x 47.5 x 21.7 mm (3.44 x 1.87 x 0.85 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\nDownloadable logos, wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nOrganizer\nWorld time\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:05.692Z"
+  },
+  {
+    "sttTong": 11216,
+    "sttHang": 1,
+    "brand": "Sewon",
+    "deviceName": "Sewon SRS-3300",
+    "deviceUrl": "https://www.gsmarena.com/sewon_srs_3300-1004.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrs3300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrs3300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 39 x 26.5 mm (2.83 x 1.54 x 1.04 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nDownloadable logos, wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nOrganizer\nWorld time\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:06.418Z"
+  },
+  {
+    "sttTong": 11220,
+    "sttHang": 5,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-1030",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_1030-795.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1030.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1030.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 44 x 22 mm (3.23 x 1.73 x 0.87 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n7 colors LED indicator\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nStopwatch\nCalculator\nWorld time\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:11.083Z"
+  },
+  {
+    "sttTong": 11219,
+    "sttHang": 4,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-1050",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_1050-796.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1050.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1050.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 44 x 21 mm (3.23 x 1.73 x 0.83 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nStopwatch\nCalculator\nWorld time\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:11.870Z"
+  },
+  {
+    "sttTong": 11221,
+    "sttHang": 6,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-1020",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_1020-794.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1020.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1020.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 42.4 x 21 mm (3.23 x 1.67 x 0.83 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n7 colors LED indicator\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nStopwatch\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:12.498Z"
+  },
+  {
+    "sttTong": 11217,
+    "sttHang": 2,
+    "brand": "Sewon",
+    "deviceName": "Sewon SRD-3000",
+    "deviceUrl": "https://www.gsmarena.com/sewon_srd_3000-798.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrd3000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsrd3000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 48 x 18 mm (3.58 x 1.89 x 0.71 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nDownloadable logos, wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nOrganizer\nWorld time\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:13.483Z"
+  },
+  {
+    "sttTong": 11223,
+    "sttHang": 8,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-1000",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_1000-780.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 42 x 21 mm (3.23 x 1.65 x 0.83 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:16.895Z"
+  },
+  {
+    "sttTong": 11222,
+    "sttHang": 7,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-1010",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_1010-781.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1010.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd1010.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 44 x 21 mm (3.23 x 1.73 x 0.83 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nStopwatch\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Standard battery, Li-Ion 900 mAh"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:18.812Z"
+  },
+  {
+    "sttTong": 11224,
+    "sttHang": 9,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-106",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_106-763.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd106.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd106.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 40 x 23 mm (2.83 x 1.57 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:19.095Z"
+  },
+  {
+    "sttTong": 11225,
+    "sttHang": 10,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-105",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_105-762.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd105.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd105.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 40 x 23 mm (2.83 x 1.57 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:19.887Z"
+  },
+  {
+    "sttTong": 11226,
+    "sttHang": 11,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-102",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_102-749.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd102.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd102.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 40 x 23 mm (2.83 x 1.57 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:22.832Z"
+  },
+  {
+    "sttTong": 11229,
+    "sttHang": 14,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2320CD",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2320cd-741.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2320cd.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2320cd.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:24.283Z"
+  },
+  {
+    "sttTong": 11227,
+    "sttHang": 12,
+    "brand": "Sewon",
+    "deviceName": "Sewon SGD-101",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sgd_101-746.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd101.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swsgd101.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 40 x 23 mm (2.83 x 1.57 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:26.514Z"
+  },
+  {
+    "sttTong": 11228,
+    "sttHang": 13,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2890CD",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2890cd-745.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2890cd.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2890cd.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72 x 40 x 23 mm (2.83 x 1.57 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:26.834Z"
+  },
+  {
+    "sttTong": 11232,
+    "sttHang": 17,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2880CS",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2880cs-628.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2880cs.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2880cs.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nBlue backlight\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "No",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Pearl White, Prime Gray Blue,  Oriental Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:29.351Z"
+  },
+  {
+    "sttTong": 11231,
+    "sttHang": 16,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2200CD",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2200cd-739.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2200cd.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2200cd.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:31.863Z"
+  },
+  {
+    "sttTong": 11234,
+    "sttHang": 19,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2000CS",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2000cs-626.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2000cs.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2000cs.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Pearl White, Prime Gray Blue,  Oriental Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:33.369Z"
+  },
+  {
+    "sttTong": 11230,
+    "sttHang": 15,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2300CD",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2300cd-740.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2300cd.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2300cd.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono LCD display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "languages": "English, Chinese",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:33.826Z"
+  },
+  {
+    "sttTong": 11235,
+    "sttHang": 20,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-P100",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_p100-617.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/swp100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/swp100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 44 x 21 mm (3.46 x 1.73 x 0.83 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 256 colors",
+        "resolution": "101 x 80 pixels\n4-way navi key\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS 4.2",
+        "browser": "WAP 1.2",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:09:33.868Z"
+  },
+  {
+    "sttTong": 11237,
+    "sttHang": 22,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-4500",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_4500-613.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw4500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw4500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 46 x 24 mm (3.15 x 1.81 x 0.94 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS 4.2",
+        "browser": "WAP 1.2",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Slim battery, Li-Ion 550 mAh",
+        "stand-by": "80 h - 120 h",
+        "talk_time": "1 h - 5 h"
+      },
+      "misc": {
+        "colors": "Crystal White, Gold, Astral Blue, Dark Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:36.988Z"
+  },
+  {
+    "sttTong": 11236,
+    "sttHang": 21,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-5000",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_5000-667.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw5000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw5000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 45 x 22 mm (3.23 x 1.77 x 0.87 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic, 4 shades",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\n4-way navi key\nDownloadable animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS 4.2",
+        "browser": "WAP 1.2",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:37.810Z"
+  },
+  {
+    "sttTong": 11238,
+    "sttHang": 23,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2200",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2200-612.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphics, 4 shades",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\nBlue backlight\nFixed icons\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "No",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Slim battery, Li-Ion 550 mAh",
+        "stand-by": "90 h - 130 h",
+        "talk_time": "1 h - 5 h"
+      },
+      "misc": {
+        "colors": "Crystal White, Gold, Astral Blue, Dark Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:39.688Z"
+  },
+  {
+    "sttTong": 11239,
+    "sttHang": 24,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2000",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2000-611.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphics, 4 shades",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external display\nBlue backlight\nFixed icons\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "No",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Slim battery, Li-Ion 550 mAh",
+        "stand-by": "80 h - 120 h",
+        "talk_time": "1 h - 5 h"
+      },
+      "misc": {
+        "colors": "Pearl White, Prime Gray Blue, Metallic Silver, Oriental Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:40.315Z"
+  },
+  {
+    "sttTong": 11233,
+    "sttHang": 18,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-2100CS",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_2100cs-627.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2100cs.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw2100cs.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "68 x 39 x 22 mm (2.68 x 1.54 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nBlue backlight\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nMemo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Pearl White, Prime Gray Blue,  Oriental Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:09:47.454Z"
+  },
+  {
+    "sttTong": 11240,
+    "sttHang": 25,
+    "brand": "Sewon",
+    "deviceName": "Sewon SG-1000",
+    "deviceUrl": "https://www.gsmarena.com/sewon_sg_1000-610.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sw1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 44 x 25 mm (3.46 x 1.73 x 0.98 in)",
+        "weight": "89 g (3.14 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "112 x 48 pixels, 4 lines, 21:9 ratio\n128 x 64 pixels for Chinese\nFixed icons\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "No",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 730 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Metallic Silver, Champaign Bronze, Metallic Champaign Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:10:00.675Z"
+  }
+]

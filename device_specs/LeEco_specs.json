@@ -1,0 +1,698 @@
+[
+  {
+    "sttTong": 4910,
+    "sttHang": 1,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le Pro 3 AI Edition",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_pro_3_ai_edition-8275.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-pro-3-ai-edition.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-pro-3-ai-edition.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, April. Released 2017, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.4 x 75.1 x 7.5 mm (6.00 x 2.96 x 0.30 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.9",
+        "chipset": "Mediatek MT6797D Helio X23 (20 nm) - StandardMediatek MT6797X Helio X27 (20 nm) - Eco Edition",
+        "cpu": "Deca-core x2.3 GHz - StandardDeca-core x2.6 GHz - Eco Edition",
+        "gpu": "Mali-T880 MP4"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 4GB RAM (Standard), 64GB 4GB RAM (Eco)"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, PDAF",
+        "features": "Laser AF, Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, black",
+        "models": "LEX653, LEX651, LEX650, LEX657",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:00.952Z"
+  },
+  {
+    "sttTong": 4912,
+    "sttHang": 3,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le S3",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_s3-8393.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-s3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-s3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, October. Released 2016, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.1 x 74.2 x 7.5 mm (5.95 x 2.92 x 0.30 in)",
+        "weight": "153 g (5.40 oz)",
+        "build": "Glass front (Gorilla Glass 3), aluminum back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI",
+        "chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "cpu": "Octa-core (4x1.4 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
+        "gpu": "Adreno 510"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Gray, Gold, Rose Gold",
+        "models": "LEX626, Le X522, Le X626",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:04.046Z"
+  },
+  {
+    "sttTong": 4911,
+    "sttHang": 2,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le Pro3 Elite",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_pro3_elite-8614.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-pro3-elite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-le-pro3-elite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\nCDMA2000 1xEV-DO\nTD-SCDMA",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 39, 40, 41",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps"
+      },
+      "launch": {
+        "announced": "2017, March. Released 2017, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.4 x 73.9 x 7.5 mm (5.96 x 2.91 x 0.30 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.8",
+        "chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "cpu": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, 1/2.8\", 1.12µm, PDAF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4070 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, silver, gray",
+        "models": "LEX722",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:04.223Z"
+  },
+  {
+    "sttTong": 4913,
+    "sttHang": 4,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le Pro3",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_pro3-8344.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lepro3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lepro3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\nCDMA2000 1xEV-DO\nTD-SCDMA",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 39, 40, 41",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.4 x 73.9 x 7.5 mm (5.96 x 2.91 x 0.30 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 82.6 cm2 (~73.8% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.8",
+        "chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+        "cpu": "Quad-core (2x2.35 GHz Kryo & 2x2.0 GHz Kryo)",
+        "gpu": "Adreno 530"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 4GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, 1/2.8\", 1.12µm, PDAF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4070 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, silver, gray",
+        "models": "LEX720, LEX727",
+        "price": "About 330 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:08.779Z"
+  },
+  {
+    "sttTong": 4914,
+    "sttHang": 5,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le Max 2",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_max_2-8051.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-max2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-max2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900 - X821",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - X821\nCDMA2000 1xEV-DO - X821\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 38, 39, 40, 41 - X821",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, April. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.8 x 77.6 x 8 mm (6.17 x 3.06 x 0.31 in)",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 89.6 cm2 (~73.6% screen-to-body ratio)",
+        "resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.6",
+        "chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "cpu": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 4GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "21 MP, f/2.0, 1/2.4\", PDAF, OIS",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n24-bit/192kHz audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable",
+        "charging": "18W wired, QC2"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, silver, gray",
+        "models": "Le X821, Le X829, Le X820, LEX820, LEX821, LEX829",
+        "price": "About 350 EUR"
+      },
+      "our_tests": {
+        "performance": "Basemark OS II 2.0: 2063Basemark X: 33874",
+        "display": "Contrast ratio: 1444:1 (nominal), 2.567 (sunlight)",
+        "camera": "Photo / Video",
+        "loudspeaker": "Voice 74dB / Noise 69dB / Ring 77dB",
+        "audio_quality": "Noise -92.1dB / Crosstalk -85.5dB",
+        "battery_old": "Endurance rating 67h"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:09.632Z"
+  },
+  {
+    "sttTong": 4916,
+    "sttHang": 7,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le 2",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_2-8053.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-2-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-2-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40, 41",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2016, April. Released 2016, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.1 x 74.2 x 7.5 mm (5.95 x 2.92 x 0.30 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), EUI 5.6",
+        "chipset": "Mediatek MT6797 Helio X20 (20 nm)Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "cpu": "Deca-core (2x2.3 GHz Cortex-A72, 4x2 GHz Cortex-A53, 4x1.4 GHz Cortex-A53)Octa-core (4x1.4 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
+        "gpu": "Mali-T880 MP4Adreno 510"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM, 64GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, PDAF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n24-bit/192kHz audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "18W wired, QC2, 50% in 30 min"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, silver, grey",
+        "models": "Le X526, Le X620, Le X520, Le X527, X526",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:14.366Z"
+  },
+  {
+    "sttTong": 4915,
+    "sttHang": 6,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le 2 Pro",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_2_pro-8052.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-2-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/le-2-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100\nCDMA2000 1xEV-DO\nTD-SCDMA",
+        "4g_bands": "1, 3, 7, 38, 39, 40, 41",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, April. Released 2016, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.1 x 74.2 x 7.5 mm (5.95 x 2.92 x 0.30 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.6",
+        "chipset": "Mediatek MT6797T Helio X25 (20 nm)",
+        "cpu": "Deca-core (2x2.5 GHz Cortex-A72, 4x2 GHz Cortex-A53, 4x1.4 GHz Cortex-A53)",
+        "gpu": "Mali-T880 MP4"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "21 MP, f/2.0, 1/2.4\", PDAF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Rose gold, gold, silver, gray",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:14.721Z"
+  },
+  {
+    "sttTong": 4918,
+    "sttHang": 9,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le 1s",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_1s-8055.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/letv-le-1s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/letv-le-1s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.1 x 74.2 x 7.6 mm (5.95 x 2.92 x 0.30 in)",
+        "weight": "169 g (5.96 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop) - LeEco Le 1sAndroid 6.0 (Marshmallow) - LeEco Le 1s Eco",
+        "chipset": "Mediatek MT6795 Helio X10 (28 nm)",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "gpu": "PowerVR G6200"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C (MHL2 TV-out)"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, Silver, Gray",
+        "models": "Le X507, Le X509, Letv X500",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:15.707Z"
+  },
+  {
+    "sttTong": 4917,
+    "sttHang": 8,
+    "brand": "LeEco",
+    "deviceName": "LeEco Le Max",
+    "deviceUrl": "https://www.gsmarena.com/leeco_le_max-8054.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/letv-le-max.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/letv-le-max.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 38, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "167.1 x 83.5 x 9 mm (6.58 x 3.29 x 0.35 in)",
+        "weight": "204 g (7.20 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.33 inches, 110.5 cm2 (~79.2% screen-to-body ratio)",
+        "resolution": "1440 x 2560 pixels, 16:9 ratio (~464 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+        "gpu": "Adreno 430"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "21 MP, f/2.0, 1/2.4\", AF, OIS",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "4 MP, f/2.0, 1/3\", 2µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/192kHz audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C (MHL2 TV-out)"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3400 mAh, non-removable",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Gold, Silver",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:18:17.634Z"
+  }
+]

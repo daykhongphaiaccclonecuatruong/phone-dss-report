@@ -1,0 +1,385 @@
+{
+  "storeData": {
+    "CellphoneS": [
+      "Samsung",
+      "Xiaomi (Redmi / POCO)",
+      "Apple",
+      "OPPO",
+      "TECNO",
+      "HONOR",
+      "Nubia / ZTE",
+      "Sony",
+      "Nokia / HMD",
+      "Infinix",
+      "Nothing Phone",
+      "Masstel",
+      "realme",
+      "Itel",
+      "Huawei",
+      "Meizu",
+      "vivo",
+      "OnePlus",
+      "TCL",
+      "Benco",
+      "ASUS (ROG Phone)"
+    ],
+    "Thế Giới Di Động": [
+      "Samsung",
+      "Apple",
+      "OPPO",
+      "Xiaomi (Redmi / POCO)",
+      "Motorola",
+      "vivo",
+      "realme",
+      "HONOR",
+      "Nothing Phone",
+      "TECNO",
+      "Nubia / ZTE",
+      "Nokia / HMD",
+      "Masstel",
+      "Mobell",
+      "Xphone"
+    ],
+    "FPT Shop": [
+      "Nubia / ZTE",
+      "TECNO",
+      "Xiaomi (Redmi / POCO)",
+      "HONOR",
+      "Apple",
+      "OPPO",
+      "Samsung",
+      "TCL",
+      "vivo",
+      "realme",
+      "Nokia / HMD",
+      "Masstel"
+    ],
+    "Hoàng Hà Mobile": [
+      "Apple",
+      "Samsung",
+      "Xiaomi (Redmi / POCO)",
+      "HONOR",
+      "OPPO",
+      "TECNO",
+      "Nubia / ZTE",
+      "Huawei",
+      "Nokia / HMD",
+      "Xphone",
+      "Inoi",
+      "Benco",
+      "Masstel",
+      "TCL",
+      "Itel",
+      "Mobell",
+      "Viettel",
+      "Infinix",
+      "Điện thoại Xphone",
+      "Điện thoại Viettel"
+    ],
+    "Di Động Việt": [
+      "Apple",
+      "Samsung",
+      "OPPO",
+      "Xiaomi (Redmi / POCO)",
+      "TECNO",
+      "HONOR"
+    ],
+    "Viettel Store": [
+      "Apple",
+      "Samsung",
+      "OPPO",
+      "Xiaomi (Redmi / POCO)",
+      "HONOR",
+      "TECNO",
+      "vivo",
+      "Masstel",
+      "Nokia / HMD",
+      "Itel",
+      "Xphone /dtdd-xphone",
+      "Nubia / ZTE",
+      "Máy kèm gói cước /landing/subsidy-mua-dien-thoai-kem-goi-cuoc-viettel.html",
+      "/dtdd-xphone"
+    ]
+  },
+  "matrix": [
+    {
+      "Thương hiệu": "/dtdd-xphone",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "ASUS (ROG Phone)",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Apple",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Benco",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "HONOR",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Huawei",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Infinix",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Inoi",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Itel",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Masstel",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Meizu",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Mobell",
+      "CellphoneS": "❌",
+      "TGDD": "✅",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Motorola",
+      "CellphoneS": "❌",
+      "TGDD": "✅",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Máy kèm gói cước /landing/subsidy-mua-dien-thoai-kem-goi-cuoc-viettel.html",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Nokia / HMD",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Nothing Phone",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Nubia / ZTE",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "OPPO",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "OnePlus",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Samsung",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Sony",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "TCL",
+      "CellphoneS": "✅",
+      "TGDD": "❌",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "TECNO",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Viettel",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Xiaomi (Redmi / POCO)",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "✅",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Xphone",
+      "CellphoneS": "❌",
+      "TGDD": "✅",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Xphone /dtdd-xphone",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "realme",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "vivo",
+      "CellphoneS": "✅",
+      "TGDD": "✅",
+      "FPT Shop": "✅",
+      "Hoàng Hà": "❌",
+      "Di Động Việt": "❌",
+      "Viettel Store": "✅"
+    },
+    {
+      "Thương hiệu": "Điện thoại Viettel",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    },
+    {
+      "Thương hiệu": "Điện thoại Xphone",
+      "CellphoneS": "❌",
+      "TGDD": "❌",
+      "FPT Shop": "❌",
+      "Hoàng Hà": "✅",
+      "Di Động Việt": "❌",
+      "Viettel Store": "❌"
+    }
+  ]
+}

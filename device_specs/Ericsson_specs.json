@@ -1,0 +1,2577 @@
+[
+  {
+    "sttTong": 2633,
+    "sttHang": 3,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T66",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t66-282.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert66.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert66.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 41 x 17.5 mm (3.62 x 1.61 x 0.69 in)",
+        "weight": "59 g (2.08 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "10 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nSMS chat\nPredictive text input\nOrganizer\nProfiles"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "150 h",
+        "talk_time": "2 h - 5 h"
+      },
+      "misc": {
+        "colors": "2 - Purple Passion, Silver Supreme"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:03.352Z"
+  },
+  {
+    "sttTong": 2631,
+    "sttHang": 1,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R600",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r600-283.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45 x 20 mm (4.13 x 1.77 x 0.79 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic",
+        "resolution": "5 lines\nLCD illuminates in 3  colours\nBackground pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Erix, Catcher, Pathy and Ripple",
+        "java": "No\nSMS chat\nPredictive text input\nOrganizer\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion (BST-20)",
+        "stand-by": "90 h - 150 h",
+        "talk_time": "2 h - 4 h"
+      },
+      "misc": {
+        "colors": "2 - Ice Blue, Luminous Champagne",
+        "sar_eu": "0.89 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:12.034Z"
+  },
+  {
+    "sttTong": 2632,
+    "sttHang": 2,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T68",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t68-253.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert68.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert68.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 19.5 mm (3.98 x 1.89 x 0.77 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "101 x 80 pixels\nJoystick navigation\nImage handling"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n100 sec voice memo\n300 calendar events"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.0b",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "6 - Erix, Ripple, Tetris, Game, Q, Solitaire",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dialing\nVoice answering\nProfiles"
+      },
+      "battery": {
+        "type": "High Capacity Battery",
+        "stand-by": "up to 29 days",
+        "talk_time": "up to 25 h"
+      },
+      "misc": {
+        "colors": "2 - Zirocñan Gold, Lunar Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:12.222Z"
+  },
+  {
+    "sttTong": 2634,
+    "sttHang": 4,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T65",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t65-266.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 21 mm (4.13 x 1.93 x 0.83 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic",
+        "resolution": "6 lines, 101 x 67 pixels\nBackground pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 x 11 fields",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nSMS chat\nPredictive text input\nOrganizer\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "160 h - 300 h",
+        "talk_time": "2.5 h - 11 h"
+      },
+      "misc": {
+        "colors": "3 - Cosmic Blue, Stardust Yellow, Polar Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:13.687Z"
+  },
+  {
+    "sttTong": 2635,
+    "sttHang": 5,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T39",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t39-252.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert39.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert39.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 50 x 18 mm (3.78 x 1.97 x 0.71 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic",
+        "resolution": "101 x 54 pixels, 4 lines, 17:9 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "510",
+        "call_records": "10 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.0b",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "37",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dialing\nVoice answering\nProfiles\nHelptexts and shortcuts\nActive flip"
+      },
+      "battery": {
+        "type": "High Capacity Battery",
+        "stand-by": "up to 29 days",
+        "talk_time": "up to 25 h"
+      },
+      "misc": {
+        "colors": "3 - Classic Blue, Icecap Blue, Rose White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:13.711Z"
+  },
+  {
+    "sttTong": 2636,
+    "sttHang": 6,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson A3618",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_a3618-262.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/era3618.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/era3618.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 47 x 22 mm (4.37 x 1.85 x 0.87 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 lines\n4 background colors (red, green, blue and yellow)\n2 screensavers\nStart-up/Shut-down shows"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "20 received, dialed and missed calls\n10 SMS templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Tetris, Erix, Pulldown",
+        "languages": "4",
+        "java": "No\nPredictive text input\nStopwatch\nProfiles\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "90 - 155 h",
+        "talk_time": "2.5 - 4 h"
+      },
+      "misc": {
+        "colors": "2 - Icy Silver, Graphite Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:14.423Z"
+  },
+  {
+    "sttTong": 2638,
+    "sttHang": 8,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R520m",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r520m-199.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err520m.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err520m.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "Q2 2001 ?",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 50 x 16 mm (5.12 x 1.97 x 0.63 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500+"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.0b",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input\nCode memo\nVoice dial\nVoice answer\nVoice memo\nCalculator\nSpeaker with proximity switch"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "200 h",
+        "talk_time": "7 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:16.855Z"
+  },
+  {
+    "sttTong": 2637,
+    "sttHang": 7,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T29s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t29s-225.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert29.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert29.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 49 x 20 mm (3.98 x 1.93 x 0.79 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "5",
+        "languages": "English + many Asian",
+        "java": "No\nPredictive text input\nVoice dialing\nVoice answering\nProfiles]\nHelptexts and shortcuts\nActive flip"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "150 h",
+        "talk_time": "7 h"
+      },
+      "misc": {
+        "colors": "2 - Amethyst Purple and Sapphire Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:20.985Z"
+  },
+  {
+    "sttTong": 2639,
+    "sttHang": 9,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T20e",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t20e-251.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert20e.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert20e.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 54 x 28 mm (3.98 x 2.13 x 1.10 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "10 received, dialed and missed calls\nSMS Templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP with added security",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "5",
+        "languages": "24",
+        "java": "No\nMobile chat\nSwatch Internet Time\nVoice dial\nVoice answer\nCalculator\nStopwatch\nPictures and sound in SMS\nStart-up shut-down shows\nProfiles\nActive flip"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "200 h",
+        "talk_time": "10 h"
+      },
+      "misc": {
+        "colors": "5 - Purple Wild, Blue Whirl, Lime Twist, Silver Weave, Beige Harmony"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:23.095Z"
+  },
+  {
+    "sttTong": 2641,
+    "sttHang": 11,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T20s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t20s-211.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert20s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert20s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 54 x 28 mm (3.98 x 2.13 x 1.10 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "10 received, dialed and missed calls\nSMS Templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Tetris, Erix, E-maze, Ballpop",
+        "languages": "24",
+        "java": "No\nSwatch Internet Time\nVoice dial\nVoice answer\nCalculator\nStopwatch\nStart-up shut-down shows\nProfiles\nActive flip"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "200 h",
+        "talk_time": "10 h"
+      },
+      "misc": {
+        "colors": "4 - Blue Whirl, Lime Twist, Silver Weave, Beige Harmony"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:23.195Z"
+  },
+  {
+    "sttTong": 2642,
+    "sttHang": 12,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T36",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t36-190.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert36b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert36b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic",
+        "resolution": "4 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "37",
+        "java": "No\nPredictive text input\nHigh speed data transfers\nVoice dialing\nVoice answering\nProfiles\nHelptexts and shortcuts\nActive flip"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery",
+        "stand-by": "200 h",
+        "talk_time": "7 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:27.435Z"
+  },
+  {
+    "sttTong": 2640,
+    "sttHang": 10,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson A2628",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_a2628-226.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/era2628.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/era2628.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 51 x 25 mm (5.16 x 2.01 x 0.98 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 lines\nStart-up/Shut-down shows"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "30 received, dialed and missed calls\nSMS templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Tetris, Erix, Labirinth",
+        "java": "No\nVoice dial\nVoice answer\nCustom pictures\nStopwatch\nProfiles\nCalculator\nSnap-On Covers"
+      },
+      "battery": {
+        "type": "High Capacity Battery BHC-11",
+        "stand-by": "235 h",
+        "talk_time": "11 h"
+      },
+      "misc": {
+        "colors": "4 - Astral Blue, Pistachio Yellow, Green Pepper, Celestial black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:27.652Z"
+  },
+  {
+    "sttTong": 2644,
+    "sttHang": 14,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R320",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r320-194.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err320b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err320b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 51 x 15 mm (5.12 x 2.01 x 0.59 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nVoice dial\nVoice answer\nVoice memo\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "104 h",
+        "talk_time": "4 h 30 min"
+      },
+      "misc": {
+        "colors": "Atlantic Blue, Rock Red and Stone Purple"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:28.896Z"
+  },
+  {
+    "sttTong": 2645,
+    "sttHang": 15,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R310s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r310s-200.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err310s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err310s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 53 x 25 mm (5.16 x 2.09 x 0.98 in)",
+        "weight": "173 g (6.10 oz)",
+        "sim": "Mini-SIM\nDust, shock and splash resistant"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nCalculator\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "160 h",
+        "talk_time": "6 h 48 min"
+      },
+      "misc": {
+        "colors": "Bright Orange, Nautic Blue, Aquatic Green and Peak Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:34.152Z"
+  },
+  {
+    "sttTong": 2648,
+    "sttHang": 18,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T28 World",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t28_world-118.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert28wb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert28wb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 50 x 15 mm (3.82 x 1.97 x 0.59 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Tetris, Solitarie",
+        "languages": "37",
+        "java": "No\nVoice dialing\nVoice answering\nProfiles\nHelptexts and shortcuts\nActive flip"
+      },
+      "battery": {
+        "type": "Ultra Slim, 600 mAh Li-Pol, 89 g",
+        "stand-by": "65 h",
+        "talk_time": "4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:34.699Z"
+  },
+  {
+    "sttTong": 2643,
+    "sttHang": 13,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R380",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r380-195.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err380b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err380b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 50 x 26 mm (5.12 x 1.97 x 1.02 in)",
+        "weight": "164 g (5.78 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome resistive touchscreen",
+        "resolution": "Big\nPartly covered by the flip"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "Advanced"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nEPOC operating system\nOrganizer\nVoice dial\nVoice answer\nVoice memo\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "150 h",
+        "talk_time": "4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:35.012Z"
+  },
+  {
+    "sttTong": 2651,
+    "sttHang": 21,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T10s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t10s-115.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert10sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert10sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 750 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "5"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:39.485Z"
+  },
+  {
+    "sttTong": 2650,
+    "sttHang": 20,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T18s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t18s-116.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert18sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert18sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+        "weight": "146 g (5.15 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No\nVoice dialing\nVoice answering"
+      },
+      "battery": {
+        "type": "Removable NiMH 750 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:40.211Z"
+  },
+  {
+    "sttTong": 2649,
+    "sttHang": 19,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson T28s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_t28s-117.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert28sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ert28sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 50 x 15 mm (3.82 x 1.97 x 0.59 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 33 pixels, 3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Tetris, Solitarie",
+        "languages": "37",
+        "java": "No\nVoice dialing\nVoice answering\nProfiles\nHelptexts and shortcuts\nActive flip"
+      },
+      "battery": {
+        "type": "Ultra Slim, 600 mAh Li-Pol, 89 g",
+        "stand-by": "65 h",
+        "talk_time": "4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:40.308Z"
+  },
+  {
+    "sttTong": 2652,
+    "sttHang": 22,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson A1018s",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_a1018s-114.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/er1018sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/er1018sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 27 mm (5.12 x 1.93 x 1.06 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "265 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:44.351Z"
+  },
+  {
+    "sttTong": 2647,
+    "sttHang": 17,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson R250s PRO",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_r250s_pro-119.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/err250sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/err250sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148 x 59 x 32 mm (5.83 x 2.32 x 1.26 in)",
+        "weight": "330 g (11.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 lines\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No\nPrivate Mobile Radio (PMR)"
+      },
+      "battery": {
+        "type": "Removable battery",
+        "stand-by": "100 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "2 - Bright Orange, Iron Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:44.539Z"
+  },
+  {
+    "sttTong": 2653,
+    "sttHang": 23,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson I 888",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_i_888-113.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/eri888b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/eri888b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 22 mm (5.12 x 1.93 x 0.87 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No\nSerial port"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "265 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:45.135Z"
+  },
+  {
+    "sttTong": 2654,
+    "sttHang": 24,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson SH 888",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_sh_888-112.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ersh888b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ersh888b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 22 mm (5.12 x 1.93 x 0.87 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No\nSerial port"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "265 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:45.379Z"
+  },
+  {
+    "sttTong": 2646,
+    "sttHang": 16,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson A2618",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_a2618-193.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/era2618b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/era2618b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 51 x 25 mm (5.16 x 2.01 x 0.98 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 lines"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Tetris, Erix, Labirinth",
+        "java": "No\nVoice dial\n- Voice answer\n- Custom pictures"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "195 h",
+        "talk_time": "7 h"
+      },
+      "misc": {
+        "colors": "Exchangeable covers"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:45.637Z"
+  },
+  {
+    "sttTong": 2655,
+    "sttHang": 25,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson S 868",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_s_868-111.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ers868b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ers868b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 21 mm (5.12 x 1.93 x 0.83 in)",
+        "weight": "172 g (6.07 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "24",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "265 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:49.103Z"
+  },
+  {
+    "sttTong": 2656,
+    "sttHang": 26,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GF 788e",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gf_788e-110.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/erg788eb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/erg788eb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 10 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nVolume keys"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "19",
+        "java": "No\nCustomizable menu"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "60 h",
+        "talk_time": "180 min"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:50.089Z"
+  },
+  {
+    "sttTong": 2659,
+    "sttHang": 29,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GF 768",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gf_768-107.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf768b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf768b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 23 mm (4.13 x 1.93 x 0.91 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 10 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nVolume keys"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "19",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "60 h",
+        "talk_time": "180 min"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:50.240Z"
+  },
+  {
+    "sttTong": 2657,
+    "sttHang": 27,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GF 788",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gf_788-109.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf788b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf788b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 10 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nVolume keys"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "19",
+        "java": "No\nCustomizable menu"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "60 h",
+        "talk_time": "180 min"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:50.404Z"
+  },
+  {
+    "sttTong": 2658,
+    "sttHang": 28,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson PF 768",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_pf_768-108.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/erpf768b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/erpf768b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 23 mm (4.13 x 1.93 x 0.91 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 10 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nVolume keys"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "19",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "60 h",
+        "talk_time": "180 min"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:51.911Z"
+  },
+  {
+    "sttTong": 2660,
+    "sttHang": 30,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GH 688",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gh_688-106.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh688b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh688b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 23 mm (5.12 x 1.93 x 0.91 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "99"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "19",
+        "java": "No\nScratchpad\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH 1200 mAh battery",
+        "stand-by": "96 h",
+        "talk_time": "240 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:53.999Z"
+  },
+  {
+    "sttTong": 2661,
+    "sttHang": 31,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GA 628",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_ga_628-105.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/erga628b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/erga628b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 28 mm (5.12 x 1.93 x 1.10 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No\nScratchpad\nReplaceable front panel"
+      },
+      "battery": {
+        "type": "Removable NiMH 1000 mAh battery",
+        "stand-by": "83 h",
+        "talk_time": "125 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:55.622Z"
+  },
+  {
+    "sttTong": 2663,
+    "sttHang": 33,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GH 388",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gh_388-103.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh388b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh388b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 23 mm (5.12 x 1.93 x 0.91 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH 915 mAh battery",
+        "stand-by": "37 h",
+        "talk_time": "125 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:55.795Z"
+  },
+  {
+    "sttTong": 2662,
+    "sttHang": 32,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GF 388",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gf_388-104.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf388b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf388b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 23 mm (5.12 x 1.93 x 0.91 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH 915 mAh battery",
+        "stand-by": "37 h",
+        "talk_time": "125 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:56.053Z"
+  },
+  {
+    "sttTong": 2664,
+    "sttHang": 34,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GS 337",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gs_337-102.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergs337b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergs337b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 24 mm (5.12 x 1.93 x 0.94 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS(Receive only)",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 915 mAh battery",
+        "stand-by": "25 h",
+        "talk_time": "110 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:50:58.884Z"
+  },
+  {
+    "sttTong": 2668,
+    "sttHang": 38,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GS 18",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gs_18-98.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergs18b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergs18b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 60 x 24 mm (5.79 x 2.36 x 0.94 in)",
+        "weight": "215 g (7.58 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "12",
+        "java": "No\nRadio link protocol\nSerial port"
+      },
+      "battery": {
+        "type": "Removable NiMH 1200 mAh battery",
+        "stand-by": "36 h",
+        "talk_time": "180 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:51:00.675Z"
+  },
+  {
+    "sttTong": 2667,
+    "sttHang": 37,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GA 318",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_ga_318-99.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/erga318b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/erga318b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 32 mm (5.12 x 1.93 x 1.26 in)",
+        "weight": "248 g (8.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS(Receive only)",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "12",
+        "java": "No\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable NiMH 1200 mAh battery",
+        "stand-by": "67 h",
+        "talk_time": "200 min"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:00.756Z"
+  },
+  {
+    "sttTong": 2666,
+    "sttHang": 36,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GH 337",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gh_337-100.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh337b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh337b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 24 mm (5.12 x 1.93 x 0.94 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS(Receive only)",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 915 mAh battery",
+        "stand-by": "25 h",
+        "talk_time": "110 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:51:01.494Z"
+  },
+  {
+    "sttTong": 2665,
+    "sttHang": 35,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GF 337",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gf_337-101.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf337b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergf337b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 24 mm (5.12 x 1.93 x 0.94 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS(Receive only)",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 915 mAh battery",
+        "stand-by": "25 h",
+        "talk_time": "110 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:51:02.932Z"
+  },
+  {
+    "sttTong": 2670,
+    "sttHang": 40,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GH 218",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_gh_218-96.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh218b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergh218b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1994",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 49 x 36 mm (5.12 x 1.93 x 1.42 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 line\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "47 h",
+        "talk_time": "2 h 40 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:51:05.000Z"
+  },
+  {
+    "sttTong": 2669,
+    "sttHang": 39,
+    "brand": "Ericsson",
+    "deviceName": "Ericsson GO 118",
+    "deviceUrl": "https://www.gsmarena.com/ericsson_go_118-97.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergo118b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ergo118b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1995",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 59 x 18 mm (5.71 x 2.32 x 0.71 in)",
+        "weight": "215 g (7.58 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "12",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 1200 mAh battery",
+        "stand-by": "36 h",
+        "talk_time": "180 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:51:05.614Z"
+  }
+]

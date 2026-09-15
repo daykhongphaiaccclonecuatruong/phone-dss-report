@@ -1,0 +1,2199 @@
+[
+  {
+    "sttTong": 9127,
+    "sttHang": 1,
+    "brand": "Posh",
+    "deviceName": "Posh Memo Pro LTE L600",
+    "deviceUrl": "https://www.gsmarena.com/posh_memo_pro_lte_l600-8537.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-l600.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-l600.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 2100 - L600A\nHSDPA 900 / 1900 / 2100 - L600B",
+        "4g_bands": "2, 4, 5, 7, 17 - L600A\n1, 3, 7, 8, 20 - L600B",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "161.5 x 85.6 x 7.9 mm (6.36 x 3.37 x 0.31 in)",
+        "weight": "187.6 g (6.63 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~71.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2700 mAh battery",
+        "stand-by": "Up to 180 h (3G)",
+        "talk_time": "Up to 5 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:07.479Z"
+  },
+  {
+    "sttTong": 9129,
+    "sttHang": 3,
+    "brand": "Posh",
+    "deviceName": "Posh Ultra Max LTE L550",
+    "deviceUrl": "https://www.gsmarena.com/posh_ultra_max_lte_l550-8535.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-um-l550.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-um-l550.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 3, 4, 7, 17, 12, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.1 x 76.8 x 7.3 mm (5.99 x 3.02 x 0.29 in)",
+        "weight": "177 g (6.24 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.25 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2700 mAh battery",
+        "stand-by": "Up to 180 h (3G)",
+        "talk_time": "Up to 5 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, Gold, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:12.571Z"
+  },
+  {
+    "sttTong": 9128,
+    "sttHang": 2,
+    "brand": "Posh",
+    "deviceName": "Posh Equal Plus X700",
+    "deviceUrl": "https://www.gsmarena.com/posh_equal_plus_x700-8536.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192.1 x 107.9 x 9.9 mm (7.56 x 4.25 x 0.39 in)",
+        "weight": "275 g (9.70 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT8321 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2650 mAh battery",
+        "stand-by": "Up to 176 h (3G)",
+        "talk_time": "Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Silver, Rose Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:27.524Z"
+  },
+  {
+    "sttTong": 9131,
+    "sttHang": 5,
+    "brand": "Posh",
+    "deviceName": "Posh Optima LTE L530",
+    "deviceUrl": "https://www.gsmarena.com/posh_optima_lte_l530-8178.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Optima_LTE_L530.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Optima_LTE_L530.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 69.4 x 8 mm (5.65 x 2.73 x 0.31 in)",
+        "weight": "133 g (4.69 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~69.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, 1/3.1\", 1.12µm, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP, f/2.2, 1/3\", AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 400 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 10 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:33.873Z"
+  },
+  {
+    "sttTong": 9132,
+    "sttHang": 6,
+    "brand": "Posh",
+    "deviceName": "Posh Icon HD X551",
+    "deviceUrl": "https://www.gsmarena.com/posh_icon_hd_x551-8177.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Icon_HD_X551.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Icon_HD_X551.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, November. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153.2 x 79 x 8.2 mm (6.03 x 3.11 x 0.32 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Dual SIM (Micro-SIM/ Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6580A (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 700 h (2G) / Up to 250 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Dark Grey, White, Gold, Rose Gold, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:39.534Z"
+  },
+  {
+    "sttTong": 9133,
+    "sttHang": 7,
+    "brand": "Posh",
+    "deviceName": "Posh Volt LTE L540",
+    "deviceUrl": "https://www.gsmarena.com/posh_volt_lte_l540-8176.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Volt_LTE_L540.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Volt_LTE_L540.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 3, 4, 7, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, March. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.8 x 72 x 10 mm (5.66 x 2.83 x 0.39 in)",
+        "weight": "167.5 g (5.93 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.4, 1/4.0\", 1.12µm, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2, 1/5.0\", 1.12µm"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "charging": "10W wired",
+        "stand-by": "Up to 600 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Grey, Gold, Rose Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:42.214Z"
+  },
+  {
+    "sttTong": 9134,
+    "sttHang": 8,
+    "brand": "Posh",
+    "deviceName": "Posh Volt Max LTE L640",
+    "deviceUrl": "https://www.gsmarena.com/posh_volt_max_lte_l640-8175.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Volt_Max_LTE_L640.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Volt_Max_LTE_L640.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 3, 4, 7, 17",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, March. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "176 x 89.3 x 8.1 mm (6.93 x 3.52 x 0.32 in)",
+        "weight": "230 g (8.11 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.44 inches, 123.5 cm2 (~78.6% screen-to-body ratio)",
+        "resolution": "1280 x 1920 pixels, 3:2 ratio (~358 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T760MP2"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM, 64GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.4, 1/3.1\", 1.12µm, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/4.0\", 1.12µm"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 6000 mAh, non-removable",
+        "charging": "10W wired",
+        "stand-by": "Up to 600 h (2G) / Up to 400 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Grey, Gold, Rose Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:44.950Z"
+  },
+  {
+    "sttTong": 9136,
+    "sttHang": 10,
+    "brand": "Posh",
+    "deviceName": "Posh Primo Plus C353",
+    "deviceUrl": "https://www.gsmarena.com/posh_primo_plus_c353-7622.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-plus-c353.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-plus-c353.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - C353A\nHSDPA 850 / 2100 - C353B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 63 x 10.4 mm (4.57 x 2.48 x 0.41 in)",
+        "weight": "96.1 g (3.39 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~49.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Spreadtrum SC7715",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 1300 mAh battery",
+        "stand-by": "Up to 260 h (2G) / Up to 220 h (3G)",
+        "talk_time": "Up to 5 h 30 min (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:49.901Z"
+  },
+  {
+    "sttTong": 9138,
+    "sttHang": 12,
+    "brand": "Posh",
+    "deviceName": "Posh Kick Lite S410",
+    "deviceUrl": "https://www.gsmarena.com/posh_kick_lite_s410-7620.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-kick-lite-s410.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-kick-lite-s410.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 - S410A\nHSDPA 850 / 1900 / 2100 - X410B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123.3 x 63.5 x 12.2 mm (4.85 x 2.5 x 0.48 in)",
+        "weight": "119 g (4.20 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 1450 mAh battery",
+        "stand-by": "Up to 400 h (2G) / Up to 240 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 3 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Pink, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:34:56.787Z"
+  },
+  {
+    "sttTong": 9139,
+    "sttHang": 13,
+    "brand": "Posh",
+    "deviceName": "Posh Icon S510",
+    "deviceUrl": "https://www.gsmarena.com/posh_icon_s510-7619.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-icon-s510.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-icon-s510.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 - S510A\nHSDPA 850 / 1900 / 2100 - X510B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 70.5 x 8.5 mm (5.59 x 2.78 x 0.33 in)",
+        "weight": "115.2 g (4.06 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh battery",
+        "stand-by": "Up to 260 h (2G) / Up to 220 h (3G)",
+        "talk_time": "Up to 5 h 30 min (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Gold, White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:02.882Z"
+  },
+  {
+    "sttTong": 9135,
+    "sttHang": 9,
+    "brand": "Posh",
+    "deviceName": "Posh Equal Pro LTE L700",
+    "deviceUrl": "https://www.gsmarena.com/posh_equal_pro_lte_l700-8174.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Equal_Pro_LTE_L700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Equal_Pro_LTE_L700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 101.6 x 8.4 mm (7.56 x 4.0 x 0.33 in)",
+        "weight": "248 g (5.22 oz)",
+        "sim": "Dual SIM (Micro-SIM/ Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.95 inches, 133.2 cm2 (~68.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~211 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT8735P",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, non-removable",
+        "stand-by": "Up to 900 h (2G) / Up to 800 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:03.625Z"
+  },
+  {
+    "sttTong": 9141,
+    "sttHang": 15,
+    "brand": "Posh",
+    "deviceName": "Posh Ultra 5.0 LTE L500",
+    "deviceUrl": "https://www.gsmarena.com/posh_ultra_5_0_lte_l500-7494.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-l500-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-l500-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 - L500A\nHSDPA 850 / 1900 / 2100 - L500B",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 73 x 8.4 mm (5.63 x 2.87 x 0.33 in)",
+        "weight": "129 g (4.55 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2230 mAh battery",
+        "stand-by": "Up to 400 h (2G) / Up to 200 h (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:10.128Z"
+  },
+  {
+    "sttTong": 9142,
+    "sttHang": 16,
+    "brand": "Posh",
+    "deviceName": "Posh Micro X S240",
+    "deviceUrl": "https://www.gsmarena.com/posh_micro_x_s240-7493.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s240-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s240-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 - S240A\nHSDPA 850 / 1900 / 2100 - S240B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89.8 x 47.8 x 11.7 mm (3.54 x 1.88 x 0.46 in)",
+        "weight": "52.7 g (1.87 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.45 inches, 16.4 cm2 (~38.3% screen-to-body ratio)",
+        "resolution": "240 x 432 pixels (~202 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "Panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 650 mAh, removable",
+        "stand-by": "Up to 200 h (2G) / Up to 180 h (3G)",
+        "talk_time": "Up to 7 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:12.166Z"
+  },
+  {
+    "sttTong": 9140,
+    "sttHang": 14,
+    "brand": "Posh",
+    "deviceName": "Posh Titan Max HD E550",
+    "deviceUrl": "https://www.gsmarena.com/posh_titan_max_hd_e550-7495.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e550-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e550-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - E550A",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151 x 78 x 7.9 mm (5.94 x 3.07 x 0.31 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2400 mAh battery",
+        "stand-by": "Up to 400 h (2G) / Up to 240 h (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:12.250Z"
+  },
+  {
+    "sttTong": 9143,
+    "sttHang": 17,
+    "brand": "Posh",
+    "deviceName": "Posh Titan Max HD E600",
+    "deviceUrl": "https://www.gsmarena.com/posh_titan_max_hd_e600-7169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e600.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e600.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 - E600A\nHSDPA 850 / 1900 / 2100 - E600B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2015, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.8 x 84 x 8.9 mm (6.53 x 3.31 x 0.35 in)",
+        "weight": "172 g (6.07 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~71.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh battery",
+        "stand-by": "Up to 710 h (2G) / Up to 610 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:16.511Z"
+  },
+  {
+    "sttTong": 9144,
+    "sttHang": 18,
+    "brand": "Posh",
+    "deviceName": "Posh Titan HD E500",
+    "deviceUrl": "https://www.gsmarena.com/posh_titan_hd_e500-7170.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-e500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 - E500A\nHSDPA 850 / 1900 / 2100 - E500B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141.5 x 70.8 x 8 mm (5.57 x 2.79 x 0.31 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh battery",
+        "stand-by": "Up to 600 h (2G) / Up to 520 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink, Yellow, Orange, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:17.259Z"
+  },
+  {
+    "sttTong": 9145,
+    "sttHang": 19,
+    "brand": "Posh",
+    "deviceName": "Posh Equal S700",
+    "deviceUrl": "https://www.gsmarena.com/posh_equal_s700-7171.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 - S700A\nHSDPA 850 / 1900 / 2100 - S700B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "193.9 x 103 x 8.9 mm (7.63 x 4.06 x 0.35 in)",
+        "weight": "244 g (8.61 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~69.0% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT8312 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2600 mAh, non-removable",
+        "stand-by": "Up to 300 h (3G)",
+        "talk_time": "Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:19.076Z"
+  },
+  {
+    "sttTong": 9137,
+    "sttHang": 11,
+    "brand": "Posh",
+    "deviceName": "Posh Kick X511",
+    "deviceUrl": "https://www.gsmarena.com/posh_kick_x511-7621.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-kick-x511.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-kick-x511.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - X511A\nHSDPA 850 / 2100 - X511B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.5 x 72 x 8.1 mm (5.69 x 2.83 x 0.32 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.2% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 1600 mAh battery",
+        "stand-by": "Up to 400 h (2G) / Up to 240 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Gold, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:20.640Z"
+  },
+  {
+    "sttTong": 9130,
+    "sttHang": 4,
+    "brand": "Posh",
+    "deviceName": "Posh Kick Pro LTE L520",
+    "deviceUrl": "https://www.gsmarena.com/posh_kick_pro_lte_l520-8179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Kick_Pro_LTE_L520.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-Kick_Pro_LTE_L520.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, November. Released 2016, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.5 x 71.5 x 8.6 mm (5.61 x 2.81 x 0.34 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "White, Gold, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:22.032Z"
+  },
+  {
+    "sttTong": 9147,
+    "sttHang": 21,
+    "brand": "Posh",
+    "deviceName": "Posh Memo S580",
+    "deviceUrl": "https://www.gsmarena.com/posh_memo_s580-7173.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s580.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s580.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - S580A\nHSDPA 850 / 2100 - S580B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.5 x 90.5 x 9.7 mm (6.52 x 3.56 x 0.38 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.88 inches, 98.4 cm2 (~65.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~159 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery",
+        "stand-by": "Up to 800 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 14 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:25.780Z"
+  },
+  {
+    "sttTong": 9146,
+    "sttHang": 20,
+    "brand": "Posh",
+    "deviceName": "Posh Equal Lite W700",
+    "deviceUrl": "https://www.gsmarena.com/posh_equal_lite_w700-7172.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-w700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-w700.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 109 x 9.8 mm (7.56 x 4.29 x 0.39 in)",
+        "weight": "231 g (8.15 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~65.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT8127 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, non-removable",
+        "stand-by": "Up to 250 h (3G)"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:25.825Z"
+  },
+  {
+    "sttTong": 9150,
+    "sttHang": 24,
+    "brand": "Posh",
+    "deviceName": "Posh Revel Pro X510",
+    "deviceUrl": "https://www.gsmarena.com/posh_revel_pro_x510-7176.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x510.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x510.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 - X510A\nHSDPA 850 / 1900 / 2100 - X510B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.5 x 73 x 9.4 mm (5.61 x 2.87 x 0.37 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~66.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh battery",
+        "stand-by": "Up to 800 h (2G) / Up to 680 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 14 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink, Yellow, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:28.457Z"
+  },
+  {
+    "sttTong": 9153,
+    "sttHang": 27,
+    "brand": "Posh",
+    "deviceName": "Posh Pegasus 4G S400",
+    "deviceUrl": "https://www.gsmarena.com/posh_pegasus_4g_s400-7179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s400.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s400.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - S400A\nHSDPA 850 / 2100 - S400B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126.8 x 63.5 x 9.9 mm (4.99 x 2.5 x 0.39 in)",
+        "weight": "119 g (4.20 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 1450 mAh battery",
+        "stand-by": "Up to 450 h (2G) / Up to 350 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:35.249Z"
+  },
+  {
+    "sttTong": 9154,
+    "sttHang": 28,
+    "brand": "Posh",
+    "deviceName": "Posh Orion Mini S350",
+    "deviceUrl": "https://www.gsmarena.com/posh_orion_mini_s350-7180.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s350.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s350.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - S350A\nHSDPA 850 / 2100 - S350B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 62.2 x 10.5 mm (4.65 x 2.45 x 0.41 in)",
+        "weight": "107 g (3.77 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~49.7% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 1200 mAh battery",
+        "stand-by": "Up to 450 h (2G) / Up to 380 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:40.999Z"
+  },
+  {
+    "sttTong": 9152,
+    "sttHang": 26,
+    "brand": "Posh",
+    "deviceName": "Posh Orion S450",
+    "deviceUrl": "https://www.gsmarena.com/posh_orion_s450-7178.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s450.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s450.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery",
+        "stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:41.102Z"
+  },
+  {
+    "sttTong": 9155,
+    "sttHang": 29,
+    "brand": "Posh",
+    "deviceName": "Posh Pegasus Plus C351",
+    "deviceUrl": "https://www.gsmarena.com/posh_pegasus_plus_c351-7181.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-c351.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-c351.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 61.6 x 11.3 mm (4.57 x 2.43 x 0.44 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~51.0% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Spreadtrum SC6815",
+        "cpu": "1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 16 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:48.884Z"
+  },
+  {
+    "sttTong": 9149,
+    "sttHang": 23,
+    "brand": "Posh",
+    "deviceName": "Posh Orion Pro X500",
+    "deviceUrl": "https://www.gsmarena.com/posh_orion_pro_x500-7175.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - X500A\nHSDPA 850 / 2100 - X500B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 73.4 x 9.7 mm (5.67 x 2.89 x 0.38 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP, AF"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 550 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 20 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:35:56.915Z"
+  },
+  {
+    "sttTong": 9151,
+    "sttHang": 25,
+    "brand": "Posh",
+    "deviceName": "Posh Revel S500",
+    "deviceUrl": "https://www.gsmarena.com/posh_revel_s500-7177.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-s500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - S500A\nHSDPA 850 / 2100 - S500B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 73 x 9.6 mm (5.79 x 2.87 x 0.38 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~64.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:36:40.684Z"
+  },
+  {
+    "sttTong": 9156,
+    "sttHang": 30,
+    "brand": "Posh",
+    "deviceName": "Posh Lynx A100",
+    "deviceUrl": "https://www.gsmarena.com/posh_lynx_a100-7182.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-a100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-a100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - A100",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.5 x 45.5 x 14 mm (4.43 x 1.79 x 0.55 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~19.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6260",
+        "cpu": "360 MHz",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No\nMP3/WAV/AAC+\nPhoto/video viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White, Silver, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:36:44.814Z"
+  },
+  {
+    "sttTong": 9148,
+    "sttHang": 22,
+    "brand": "Posh",
+    "deviceName": "Posh Orion Max X550",
+    "deviceUrl": "https://www.gsmarena.com/posh_orion_max_x550-7174.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x550.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/posh-x550.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - X550A\nHSDPA 850 / 2100 - X550B",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.3 x 77.4 x 9.6 mm (6.15 x 3.05 x 0.38 in)",
+        "weight": "194 g (6.84 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery",
+        "stand-by": "Up to 650 h (2G) / Up to 600 h (3G)",
+        "talk_time": "Up to 23 h (2G) / Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:24.419Z"
+  }
+]

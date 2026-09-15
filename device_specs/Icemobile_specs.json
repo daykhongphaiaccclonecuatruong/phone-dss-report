@@ -1,0 +1,4251 @@
+[
+  {
+    "sttTong": 4298,
+    "sttHang": 1,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G8 LTE",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g8_lte-8786.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g8-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g8-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 900",
+        "4g_bands": "2, 4, 5, 7, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, July. Released 2017, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "188 x 108 x 10 mm (7.40 x 4.25 x 0.39 in)",
+        "weight": "320 g (11.29 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT8735",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSD"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, Silver, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:30.822Z"
+  },
+  {
+    "sttTong": 4301,
+    "sttHang": 4,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 5.0 Plus",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_5_0_plus-7040.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-5-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-5-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)\nFlashlight"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:32.435Z"
+  },
+  {
+    "sttTong": 4299,
+    "sttHang": 2,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Mash",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_mash-7982.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-mash.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-mash.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2016, March. Released 2016, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 64 x 13.5 mm (4.33 x 2.52 x 0.53 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.0 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum 6531DA"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "20 entries",
+        "internal": "32MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nMP4/H.263 player\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "White, Black, Red, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:32.543Z"
+  },
+  {
+    "sttTong": 4300,
+    "sttHang": 3,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G8",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g8-7560.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, September. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "190 x 110 x 13 mm (7.48 x 4.33 x 0.51 in)",
+        "weight": "320 g (11.29 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2600 mAh, non-removable",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "White, Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:32.947Z"
+  },
+  {
+    "sttTong": 4302,
+    "sttHang": 5,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 5.0",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_5_0-7041.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 72.3 x 8.7 mm (5.59 x 2.85 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.1% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)\nFlashlight"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572A",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:34.193Z"
+  },
+  {
+    "sttTong": 4303,
+    "sttHang": 6,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 4.0 Plus",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_4_0_plus-7039.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-4-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-4-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 64 x 10 mm (4.92 x 2.52 x 0.39 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": ", -",
+        "resolution": "480 x 800 pixels, 5:3 ratio\nFlashlight"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:36.293Z"
+  },
+  {
+    "sttTong": 4304,
+    "sttHang": 7,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Gravity 4.0",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_gravity_4_0-6810.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gravity-40.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gravity-40.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140.4 x 75.8 x 16.3 mm (5.53 x 2.98 x 0.64 in)",
+        "weight": "316 g (11.15 oz)",
+        "sim": "Micro-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.02 inches, 44.5 cm2 (~41.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~244 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 2800 mAh, removable",
+        "stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 12 h (2G) / Up to 7 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Orange, Yellow, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:51.440Z"
+  },
+  {
+    "sttTong": 4308,
+    "sttHang": 11,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 4.0",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_4_0-6361.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 66 x 9.3 mm (4.88 x 2.60 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.97 inches, 44.9 cm2 (~54.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~235 ppi density)\nFlashlight"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M/W",
+        "cpu": "Dual-core Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1550 mAh, removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "White, Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:00.563Z"
+  },
+  {
+    "sttTong": 4305,
+    "sttHang": 8,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rock 2.4",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rock_2_4-6809.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-24.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-24.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 13.8 mm (4.72 x 1.97 x 0.54 in)",
+        "weight": "60 g (2.12 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 18.1 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~117 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "500 contacts",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB 32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4/WAV player\nCalendar\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Pink, Green, White&blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:01.456Z"
+  },
+  {
+    "sttTong": 4307,
+    "sttHang": 10,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 3.5",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_3_5-6544.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-35.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-35.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119.5 x 63.5 x 10.9 mm (4.70 x 2.5 x 0.43 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~48.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:06.126Z"
+  },
+  {
+    "sttTong": 4309,
+    "sttHang": 12,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Apollo Touch 3G",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_apollo_touch_3g-6106.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo-touch-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo-touch-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 64.5 x 12.4 mm (4.35 x 2.54 x 0.49 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~51.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White, Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:06.237Z"
+  },
+  {
+    "sttTong": 4306,
+    "sttHang": 9,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 5.5",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_5_5-6618.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.5 x 77 x 8.6 mm (6.00 x 3.03 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.46 inches, 82.2 cm2 (~70.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582A/W",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 2250 mAh, removable"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:08.410Z"
+  },
+  {
+    "sttTong": 4311,
+    "sttHang": 14,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G7 Pro",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g7_pro-6076.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g7-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g7-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197.6 x 122.3 x 10.7 mm (7.78 x 4.81 x 0.42 in)",
+        "weight": "307 g (10.83 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~57.1% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572W",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, Red, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:11.376Z"
+  },
+  {
+    "sttTong": 4312,
+    "sttHang": 15,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G3",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g3-6075.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g3.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194 x 117 x 10 mm (7.64 x 4.61 x 0.39 in)",
+        "weight": "300 g (10.58 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~60.8% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.0 GHz Cotex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, non-removable",
+        "talk_time": "Up to 3 h 30 min (multimedia)",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:12.648Z"
+  },
+  {
+    "sttTong": 4310,
+    "sttHang": 13,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Apollo 3G",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_apollo_3g-6105.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/apollo-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/apollo-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 64.5 x 12.4 mm (4.35 x 2.54 x 0.49 in)",
+        "weight": "100 g (3.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.6 inches, 20.1 cm2 (~28.2% screen-to-body ratio)",
+        "resolution": "480 x 320 pixels, 3:2 ratio (~222 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "1.0 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Blue, Green, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:13.204Z"
+  },
+  {
+    "sttTong": 4313,
+    "sttHang": 16,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime 4.5",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_4_5-6044.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-45.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-prime-45.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.5 x 67 x 9.5 mm (5.26 x 2.64 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM\nFlashlight"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.46 inches, 54.8 cm2 (~61.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~247 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572AW",
+        "cpu": "Dual-core Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1550 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White/Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:16.491Z"
+  },
+  {
+    "sttTong": 4316,
+    "sttHang": 19,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Gravity Pro",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_gravity_pro-5874.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gravity-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gravity-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139.7 x 76.4 x 17.6 mm (5.5 x 3.01 x 0.69 in)",
+        "weight": "240 g (8.47 oz)",
+        "sim": "Yes\nIP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.02 inches, 44.5 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~244 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 2800 mAh, removable",
+        "stand-by": "Up to 700 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Black, White, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:24.926Z"
+  },
+  {
+    "sttTong": 4317,
+    "sttHang": 20,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Sol III",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_sol_iii-5844.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1900 - SIM 1 & SIM 2\nGSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 68.7 x 10.2 mm (5.04 x 2.70 x 0.40 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 47.6 cm2 (~54.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~144 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Red, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:29.104Z"
+  },
+  {
+    "sttTong": 4314,
+    "sttHang": 17,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Charm II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_charm_ii-6043.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-charm2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-charm2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 48.9 x 17.4 mm (3.94 x 1.93 x 0.69 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~25.7% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 contacts",
+        "call_records": "20 entries"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Sliver, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:30.431Z"
+  },
+  {
+    "sttTong": 4315,
+    "sttHang": 18,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G10",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g10-5976.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "246 x 175 x 10.2 mm (9.69 x 6.89 x 0.40 in)",
+        "weight": "-",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.1 inches, 295.8 cm2 (~68.7% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8389",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 6000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:32.975Z"
+  },
+  {
+    "sttTong": 4318,
+    "sttHang": 21,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Hydro",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_hydro-5838.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-hydro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-hydro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 54 x 11.8 mm (4.49 x 2.13 x 0.46 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Yes\nIP54 dust protected and water resistant (water splashes)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~20.5% screen-to-body ratio)",
+        "resolution": "144 x 176 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 contacts",
+        "call_records": "100 entries"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player"
+      },
+      "battery": {
+        "type": "Li-Ion 500 mAh, removable",
+        "stand-by": "Up to 80 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:34.050Z"
+  },
+  {
+    "sttTong": 4321,
+    "sttHang": 24,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Gprime Extreme",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_gprime_extreme-5538.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gprime-extreme.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-gprime-extreme.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72.8 x 10 mm (5.63 x 2.87 x 0.39 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~66.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:37.856Z"
+  },
+  {
+    "sttTong": 4322,
+    "sttHang": 25,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G7",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g7-5393.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, April. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "195 x 124 x 9.8 mm (7.68 x 4.88 x 0.39 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "Yes\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~57.0% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nAnalog TV"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:38.124Z"
+  },
+  {
+    "sttTong": 4320,
+    "sttHang": 23,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G2",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g2-5607.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "195 x 124 x 9.8 mm (7.68 x 4.88 x 0.39 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "Yes\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~57.0% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nAnalog TV"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:38.983Z"
+  },
+  {
+    "sttTong": 4319,
+    "sttHang": 22,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rock Bold",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rock_bold-5738.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-bold.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-bold.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.2 x 45.2 x 14.5 mm (4.06 x 1.78 x 0.57 in)",
+        "weight": "46 g (w/out battery) (1.62 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 contacts",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 700 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:40.966Z"
+  },
+  {
+    "sttTong": 4325,
+    "sttHang": 28,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Quattro",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_quattro-5115.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-quattro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-quattro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, November. Released 2012, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 54 x 10.3 mm (4.09 x 2.13 x 0.41 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.3 inches, 16.4 cm2 (~29.2% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "20 entries"
+      },
+      "main_camera": {
+        "single": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP4/H.263 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable (BP-4L)",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black, Silver, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:44.829Z"
+  },
+  {
+    "sttTong": 4323,
+    "sttHang": 26,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile G5",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_g5-5260.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g51.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-g51.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "196.6 x 123.3 x 11.1 mm (7.74 x 4.85 x 0.44 in)",
+        "weight": "345 g (12.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nAnalog TV"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "White/Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:49.042Z"
+  },
+  {
+    "sttTong": 4324,
+    "sttHang": 27,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Tropical 3",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_tropical_3-5116.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, November. Released 2012, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 55 x 13.3 mm (4.06 x 2.17 x 0.52 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~18.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 entries"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Blue, Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:50.355Z"
+  },
+  {
+    "sttTong": 4327,
+    "sttHang": 30,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Submarine",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_submarine-5076.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-submarine.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-submarine.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 53 x 20 mm (4.69 x 2.09 x 0.79 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~20.1% screen-to-body ratio)",
+        "resolution": "176 x 144 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 550 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black, Orange, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:50.782Z"
+  },
+  {
+    "sttTong": 4326,
+    "sttHang": 29,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime Plus",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime_plus-5101.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-galaxy-prime-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-galaxy-prime-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100\nHSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141.6 x 76.1 x 10.5 mm (5.57 x 3.00 x 0.41 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 71.2 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "cpu": "Dual-core 1.0 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2150 mAh, removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:51.295Z"
+  },
+  {
+    "sttTong": 4329,
+    "sttHang": 32,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Apollo Touch",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_apollo_touch-5074.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)",
+        "chipset": "Mediatek MT6515",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nDocument viewer\nPhoto viewer/editor"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Blue, Green, Red, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:54.817Z"
+  },
+  {
+    "sttTong": 4330,
+    "sttHang": 33,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Apollo",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_apollo-5073.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-apollo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.6 inches, 20.1 cm2",
+        "resolution": "480 x 320 pixels, 3:2 ratio (~222 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)",
+        "chipset": "Mediatek MT6515",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nDocument viewer\nPhoto viewer/editor"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Blue, Green, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:56.278Z"
+  },
+  {
+    "sttTong": 4328,
+    "sttHang": 31,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Charm",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_charm-5075.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-charm.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-charm.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 43.5 x 20.8 mm (3.62 x 1.71 x 0.82 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~25.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "200 contacts",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Silver, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:59:56.670Z"
+  },
+  {
+    "sttTong": 4334,
+    "sttHang": 37,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rock Lite",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rock_lite-4740.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 47 x 13.9 mm (4.25 x 1.85 x 0.55 in)",
+        "weight": "51 g without battery (1.80 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~20.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "200 contacts",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Red, White, Red, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:01.424Z"
+  },
+  {
+    "sttTong": 4333,
+    "sttHang": 36,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Blizzard",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_blizzard-4741.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-blizzard.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-blizzard.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2\nGSM 850 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.3 x 46 x 13.5 mm (4.19 x 1.81 x 0.53 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~25.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "128MB 32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "No",
+        "java": "No\nMobile TV\nMP3/MP4 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 10 min"
+      },
+      "misc": {
+        "colors": "Black, Silver, Red, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:01.680Z"
+  },
+  {
+    "sttTong": 4332,
+    "sttHang": 35,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Diamond Dust",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_diamond_dust-4904.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-diamond-dust.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-diamond-dust.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 61 x 12.8 mm (4.53 x 2.40 x 0.50 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.3 cm2 (~21.8% screen-to-body ratio)",
+        "resolution": "176 x 144 pixels (~103 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6252C"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes",
+        "internal": "16MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nTV app\nMP3/3gp player\nOrganizer\nE-book reader\nUnit converter"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Blue, Violet"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:04.422Z"
+  },
+  {
+    "sttTong": 4331,
+    "sttHang": 34,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Sol II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_sol_ii-4990.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 55.6 x 12.6 mm (3.98 x 2.19 x 0.50 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~43.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Pink, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:06.004Z"
+  },
+  {
+    "sttTong": 4336,
+    "sttHang": 39,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Acqua",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_acqua-4716.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-acqua.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-acqua.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, April. Released 2012, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 54 x 23 mm (4.72 x 2.13 x 0.91 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Mini-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~15.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "2GB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio (external)",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 3600 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black, Orange, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:07.421Z"
+  },
+  {
+    "sttTong": 4337,
+    "sttHang": 40,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Prime",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_prime-4715.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-galaxy-prime.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-galaxy-prime.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.2 inches, 77.0 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~179 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Mediatek MT6573 (65 nm)",
+        "cpu": "650 MHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nMP3/WAV/WMA/AAC player\nMP4/H.263 player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 2200 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:11.955Z"
+  },
+  {
+    "sttTong": 4335,
+    "sttHang": 38,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Cenior",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_cenior-4742.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-cenior.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-cenior.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1900 - SIM 1 & SIM 2\nGSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 16 mm (4.33 x 1.81 x 0.63 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~20.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB 32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP (optional)",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "No",
+        "java": "No\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Brown, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:12.592Z"
+  },
+  {
+    "sttTong": 4339,
+    "sttHang": 42,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Twilight II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_twilight_ii-4639.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twilight2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twilight2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 51.2 x 17.6 mm (3.94 x 2.02 x 0.69 in)",
+        "weight": "100 g (3.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~34.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nOrganizer\nTV app\nMP3/MP4 player\nPredictive Text Input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:12.878Z"
+  },
+  {
+    "sttTong": 4338,
+    "sttHang": 41,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rock Mini",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rock_mini-4651.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-mini.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock-mini.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.2 x 45.2 x 14.5 mm (4.06 x 1.78 x 0.57 in)",
+        "weight": "46 g without battery (1.62 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 contacts",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:15.048Z"
+  },
+  {
+    "sttTong": 4340,
+    "sttHang": 43,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Fuego",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_fuego-4449.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-fuego.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-fuego.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88.5 x 57.6 x 17.5 mm (3.48 x 2.27 x 0.69 in)",
+        "weight": "90 g (3.17 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~24.7% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nTV app\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:16.683Z"
+  },
+  {
+    "sttTong": 4341,
+    "sttHang": 44,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Hurricane II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_hurricane_ii-4367.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-hurricane-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-hurricane-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, December. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 60 x 12.8 mm (4.39 x 2.36 x 0.50 in)",
+        "weight": "90 g (3.17 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.0 cm2 (~22.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "64MB 128 MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nTV app\nMP4 player\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White, Gold, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:18.245Z"
+  },
+  {
+    "sttTong": 4342,
+    "sttHang": 45,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Sol",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_sol-4299.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-sol.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, October. Released Exp. release 2012, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.2 x 52 x 13.2 mm (3.79 x 2.05 x 0.52 in)",
+        "weight": "59 g (2.08 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "250 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Red, Pink, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:18.828Z"
+  },
+  {
+    "sttTong": 4343,
+    "sttHang": 46,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Twister",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_twister-4298.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twister.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twister.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, October. Released Exp. release 2012, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.3 x 50 x 13 mm (4.38 x 1.97 x 0.51 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~32.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black, Blue, White, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:20.319Z"
+  },
+  {
+    "sttTong": 4345,
+    "sttHang": 48,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Tornado II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_tornado_ii-4215.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tornado-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tornado-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, September. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 45.4 x 13.8 mm (4.21 x 1.79 x 0.54 in)",
+        "weight": "101 g (3.56 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~30.9% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 10 min"
+      },
+      "misc": {
+        "colors": "Black, Red, Orange, Blue, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:23.099Z"
+  },
+  {
+    "sttTong": 4347,
+    "sttHang": 50,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Clima II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_clima_ii-4300.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-clima-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-clima-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, May. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.6 x 60 x 12.5 mm (4.28 x 2.36 x 0.49 in)",
+        "weight": "106 g (3.74 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 14.9 cm2 (~22.8% screen-to-body ratio)",
+        "resolution": "640 x 320 pixels, 18:9 ratio (~298 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Mediatek MT6516",
+        "cpu": "416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "sensors": "undefined\nTV app\nOrganizer\nDocument viewer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 680 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, Blue, White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:23.706Z"
+  },
+  {
+    "sttTong": 4346,
+    "sttHang": 49,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Storm",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_storm-4193.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-storm.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-storm.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2 & SIM 3",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, August. Released 2011, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.5 x 59 x 14.6 mm (4.19 x 2.32 x 0.57 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Triple SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 26K colors",
+        "size": "2.0 inches, 12.6 cm2 (~20.0% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Purple, Black, Red, Rose, Coffee, Blue, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:23.891Z"
+  },
+  {
+    "sttTong": 4348,
+    "sttHang": 51,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Flurry II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_flurry_ii-4192.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-flurryII.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-flurryII.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, August. Released 2011, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 53 x 13.5 mm (3.86 x 2.09 x 0.53 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.6 cm2 (~24.2% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Blue, Pink, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:26.011Z"
+  },
+  {
+    "sttTong": 4344,
+    "sttHang": 47,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Wave",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_wave-4297.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-wave.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-wave.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 50 x 14.3 mm (4.37 x 1.97 x 0.56 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~27.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black/Red, Blue/White, Black/Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:26.857Z"
+  },
+  {
+    "sttTong": 4350,
+    "sttHang": 53,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Crystal",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_crystal-3979.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-crystal.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-crystal.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 56.2 x 13.1 mm (4.39 x 2.21 x 0.52 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nTrackball\nFlashlight"
+      },
+      "display": {
+        "type": "TFT,  65K colors",
+        "size": "3.5 inches, 34.9 cm2 (~55.6% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Mediatek MT6516",
+        "cpu": "416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "512MB 256MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nTV app\nOrganizer\nMP4/H.264 player\nMP3/AAC+ player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:29.245Z"
+  },
+  {
+    "sttTong": 4351,
+    "sttHang": 54,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Comet II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_comet_ii-3975.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-cometII.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-cometII.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 60 x 12.8 mm (4.39 x 2.36 x 0.50 in)",
+        "weight": "90 g (3.17 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.2 cm2 (~22.8% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~128 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 10 min"
+      },
+      "misc": {
+        "colors": "Black, Pink, Brown"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:29.693Z"
+  },
+  {
+    "sttTong": 4353,
+    "sttHang": 56,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rock",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rock-3976.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rock.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.7 x 46.6 x 15 mm (4.32 x 1.83 x 0.59 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~19.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Purple, Blue, Black, Red, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:31.735Z"
+  },
+  {
+    "sttTong": 4354,
+    "sttHang": 57,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Tropical",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_tropical-3985.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.5 x 57 x 13.5 mm (4.27 x 2.24 x 0.53 in)",
+        "weight": "81 g (2.86 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~16.5% screen-to-body ratio)",
+        "resolution": "160 x 128 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nOrganizer\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black/Red, White/Black, Pink/Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:34.391Z"
+  },
+  {
+    "sttTong": 4352,
+    "sttHang": 55,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Viento II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_viento_ii-3978.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-viento-II.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-viento-II.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 55 x 13.5 mm (3.94 x 2.17 x 0.53 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~22.9% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV app\nOrganizer\nMP4 player\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Purple, Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:34.737Z"
+  },
+  {
+    "sttTong": 4355,
+    "sttHang": 58,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Tropical II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_tropical_ii-3977.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical-ii-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-tropical-ii-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 55.5 x 12.9 mm (3.90 x 2.19 x 0.51 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~18.6% screen-to-body ratio)",
+        "resolution": "160 x 128 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nOrganizer\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Purple, Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:35.111Z"
+  },
+  {
+    "sttTong": 4357,
+    "sttHang": 60,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rainbow",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rainbow-3989.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rainbow.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rainbow.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011. Released 2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.7 x 57 x 15 mm (4.32 x 2.24 x 0.59 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.0 cm2 (~16.0% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 580 mAh battery",
+        "stand-by": "Up to 580 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Pink, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:40.127Z"
+  },
+  {
+    "sttTong": 4349,
+    "sttHang": 52,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Shine",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_shine-4035.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-shine.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-shine.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 58 x 13.5 mm (4.41 x 2.28 x 0.53 in)",
+        "weight": "126 g (4.44 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT,  65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~46.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "nfc": "Optional",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nOrganizer\nPhoto/video editor\nDocument viewer \nMP4/H.264 player\nMP3/AAC+ player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "White, Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:41.328Z"
+  },
+  {
+    "sttTong": 4356,
+    "sttHang": 59,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Rainbow II",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_rainbow_ii-3971.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rainbow2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-rainbow2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, April. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 47 x 14.1 mm (4.29 x 1.85 x 0.56 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.0 cm2 (~19.6% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 contacts, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 360 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Purple, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:43.361Z"
+  },
+  {
+    "sttTong": 4358,
+    "sttHang": 61,
+    "brand": "Icemobile",
+    "deviceName": "Icemobile Twilight",
+    "deviceUrl": "https://www.gsmarena.com/icemobile_twilight-4194.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twilight.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/icemobile-twilight.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, December. Released 2010, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 59 x 14 mm (3.46 x 2.32 x 0.55 in)",
+        "weight": "103 g (3.63 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.0 cm2 (~19.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~222 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "200 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes + downloadable",
+        "java": "Yes\nOrganizer\nAnalog TV\nMP3 Player\nPredictive Text Input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 45 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:00:44.283Z"
+  }
+]

@@ -1,0 +1,5718 @@
+[
+  {
+    "sttTong": 2553,
+    "sttHang": 1,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U6G",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u6g-13547.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u6g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u6g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 3, 7, 28, 38, 41, 77, 78, 79 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, December",
+        "status": "Available. Released 2025, March"
+      },
+      "body": {
+        "dimensions": "167.2 x 77.2 x 9 mm (6.58 x 3.04 x 0.35 in)",
+        "weight": "186 g (6.56 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.75 inches, 109.1 cm2 (~84.5% screen-to-body ratio)",
+        "resolution": "720 x 1620 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Dimensity 6100+ (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 4GB RAM, 256GB 6GB RAM"
+      },
+      "main_camera": {
+        "triple": "50 MP, (wide), AF\n2 MP\nVGA",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:05.112Z"
+  },
+  {
+    "sttTong": 2556,
+    "sttHang": 4,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U652S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u652s-12966.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u652s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u652s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, February",
+        "status": "Available. Released 2024, July"
+      },
+      "body": {
+        "dimensions": "164.3 x 76.1 x 9.1 mm (6.47 x 3.00 x 0.36 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.51 inches, 102.3 cm2 (~81.8% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13 (Go edition)",
+        "chipset": "Mediatek MT6739WW (28 nm)",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "IMG 8XE1PPC"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "18 MP (wide), AF\nAuxiliary lenses",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:09.538Z"
+  },
+  {
+    "sttTong": 2555,
+    "sttHang": 3,
+    "brand": "Energizer",
+    "deviceName": "Energizer E246SC",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e246sc-13117.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e246sc.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e246sc.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 12, 17, 20, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, December"
+      },
+      "body": {
+        "dimensions": "86 x 70 x 21 mm (3.39 x 2.76 x 0.83 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "2.4 inches, 17.8 cm2 (~29.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecondary external 1.77\" display"
+      },
+      "platform": {
+        "os": "Proprietary OS",
+        "chipset": "Unisoc T107 (22 nm)",
+        "cpu": "Single-core 1 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "128MB 48MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "VGA",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:09.555Z"
+  },
+  {
+    "sttTong": 2557,
+    "sttHang": 5,
+    "brand": "Energizer",
+    "deviceName": "Energizer E130S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e130s-12934.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e130s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e130s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, September",
+        "status": "Available. Released 2022, September"
+      },
+      "body": {
+        "dimensions": "115 x 49.2 x 14.8 mm (4.53 x 1.94 x 0.58 in)",
+        "weight": "87 g (3.07 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "1.77 inches, 9.9 cm2 (~17.4% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T107",
+        "cpu": "Single-core 1 GHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 48MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery, removable"
+      },
+      "misc": {
+        "colors": "Black, Gold, Silver",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:10.651Z"
+  },
+  {
+    "sttTong": 2560,
+    "sttHang": 8,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hard Case P28K",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hard_case_p28k-12825.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hard-case-p28k.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hard-case-p28k.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, February 25",
+        "status": "Available. Released 2024, October"
+      },
+      "body": {
+        "dimensions": "178.1 x 84 x 27.8 mm (7.01 x 3.31 x 1.09 in)",
+        "weight": "570 g (1.26 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.2m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.78 inches, 109.2 cm2 (~73.0% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "triple": "64 MP, (wide), PDAF\n20 MP\n2 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "28000 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:19.806Z"
+  },
+  {
+    "sttTong": 2554,
+    "sttHang": 2,
+    "brand": "Energizer",
+    "deviceName": "Energizer E288s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e288s-13137.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e288s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e288s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April",
+        "status": "Available. Released 2024, August"
+      },
+      "body": {
+        "dimensions": "138 x 58.2 x 12.8 mm (5.43 x 2.29 x 0.50 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.8 inches, 24.3 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.X",
+        "chipset": "Mediatek MT6739WW (28 nm)",
+        "cpu": "Quad-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:23.220Z"
+  },
+  {
+    "sttTong": 2561,
+    "sttHang": 9,
+    "brand": "Energizer",
+    "deviceName": "Energizer U683S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_u683s-12814.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u683s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u683s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, January",
+        "status": "Available. Released 2024, February"
+      },
+      "body": {
+        "dimensions": "172.8 x 78.5 x 9.7 mm (6.80 x 3.09 x 0.38 in)",
+        "weight": "210 g (7.41 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.82 inches, 110.5 cm2 (~81.4% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13 (Go edition)",
+        "chipset": "Mediatek MT6762CB",
+        "cpu": "Octa-core 2.0 GHz",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "8 MP, (wide), AF\n0.08 MP (macro)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4900 mAh"
+      },
+      "misc": {
+        "colors": "Black, Gold, Pink",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:24.161Z"
+  },
+  {
+    "sttTong": 2563,
+    "sttHang": 11,
+    "brand": "Energizer",
+    "deviceName": "Energizer E242s+",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e242s+-12774.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e242s-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e242s-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, January",
+        "status": "Available. Released 2024, January"
+      },
+      "body": {
+        "dimensions": "130.8 x 53.6 x 13 mm (5.15 x 2.11 x 0.51 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.X",
+        "chipset": "Mediatek MT6739",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "no": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "No\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "2000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:28.191Z"
+  },
+  {
+    "sttTong": 2565,
+    "sttHang": 13,
+    "brand": "Energizer",
+    "deviceName": "Energizer E13",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e13-12758.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e13.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e13.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2022, June",
+        "status": "Available. Released 2022, June"
+      },
+      "body": {
+        "dimensions": "116 x 50 x 14.5 mm (4.57 x 1.97 x 0.57 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "1.77 inches, 9.9 cm2 (~17.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261D",
+        "cpu": "Single-core 312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:33.119Z"
+  },
+  {
+    "sttTong": 2559,
+    "sttHang": 7,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate 65G",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_65g-12906.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u65g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u65g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+        "5g_bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, February",
+        "status": "Available. Released 2024, Q3"
+      },
+      "body": {
+        "dimensions": "164.4 x 76.4 x 9.2 mm (6.47 x 3.01 x 0.36 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.51 inches, 102.3 cm2 (~81.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "13 MP, f/1.8, (wide)\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh",
+        "charging": "20W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:33.243Z"
+  },
+  {
+    "sttTong": 2564,
+    "sttHang": 12,
+    "brand": "Energizer",
+    "deviceName": "Energizer E244s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e244s-12767.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e244s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e244s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, December",
+        "status": "Available. Released 2024, February"
+      },
+      "body": {
+        "dimensions": "131.2 x 54 x 12 mm (5.17 x 2.13 x 0.47 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "2.4 inches, 17.8 cm2 (~25.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T107",
+        "cpu": "Single-core 1 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "java": "No"
+      },
+      "battery": {
+        "type": "1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:33.979Z"
+  },
+  {
+    "sttTong": 2568,
+    "sttHang": 16,
+    "brand": "Energizer",
+    "deviceName": "Energizer E4",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e4-11646.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2022, June",
+        "status": "Available. Released 2022, August"
+      },
+      "body": {
+        "dimensions": "115 x 46 x 13.5 mm (4.53 x 1.81 x 0.53 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~18.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc SC6531DA",
+        "cpu": "312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "java": "No\nSOS feature"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Gold, Silver",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:38.750Z"
+  },
+  {
+    "sttTong": 2566,
+    "sttHang": 14,
+    "brand": "Energizer",
+    "deviceName": "Energizer E20+",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e20+-12740.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e20-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e20-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023, November",
+        "status": "Available. Released 2023, December"
+      },
+      "body": {
+        "dimensions": "105 x 52.6 x 19.9 mm (4.13 x 2.07 x 0.78 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~32.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261D",
+        "cpu": "Single-core 260 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "1000 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:38.919Z"
+  },
+  {
+    "sttTong": 2567,
+    "sttHang": 15,
+    "brand": "Energizer",
+    "deviceName": "Energizer E29",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e29-12734.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e29.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e29.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023, October",
+        "status": "Available. Released 2023, November"
+      },
+      "body": {
+        "dimensions": "137.6 x 62.5 x 15.6 mm (5.42 x 2.46 x 0.61 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "2.8 inches, 24.3 cm2 (~28.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 6531E",
+        "cpu": "Single-core 312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:41.793Z"
+  },
+  {
+    "sttTong": 2558,
+    "sttHang": 6,
+    "brand": "Energizer",
+    "deviceName": "Energizer U506S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_u506s-12918.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u506s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u506s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 4, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, November",
+        "status": "Available. Released 2023, November"
+      },
+      "body": {
+        "dimensions": "144.8 x 72.4 x 11.6 mm (5.70 x 2.85 x 0.46 in)",
+        "weight": "178 g (6.28 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13 (Go edition)",
+        "cpu": "Quad-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "32GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "5 MP\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh battery, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:42.655Z"
+  },
+  {
+    "sttTong": 2569,
+    "sttHang": 17,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U608s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u608s-11634.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u608s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u608s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, June",
+        "status": "Available. Released 2022, July"
+      },
+      "body": {
+        "dimensions": "155.4 x 73.3 x 9.8 mm (6.12 x 2.89 x 0.39 in)",
+        "weight": "156.8 g (5.54 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "LCD",
+        "size": "6.08 inches, 92.3 cm2 (~81.0% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~277 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 (Go edition)",
+        "chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "1080p@30/60fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 3000 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:43.243Z"
+  },
+  {
+    "sttTong": 2570,
+    "sttHang": 18,
+    "brand": "Energizer",
+    "deviceName": "Energizer E242s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e242s-11535.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e242s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e242s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, April 10",
+        "status": "Available. Released 2022, April 10"
+      },
+      "body": {
+        "dimensions": "130.8 x 53.6 x 13 mm (5.15 x 2.11 x 0.51 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.3",
+        "chipset": "Mediatek MT6739",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "No\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh battery, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Pink, Gold, Silver",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:43.728Z"
+  },
+  {
+    "sttTong": 2571,
+    "sttHang": 19,
+    "brand": "Energizer",
+    "deviceName": "Energizer E284S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e284s-10068.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e284s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e284s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, December. Released 2022, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137.6 x 62.5 x 15.6 mm (5.42 x 2.46 x 0.61 in)",
+        "weight": "131 g (4.62 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "2.8 inches, 24.3 cm2 (~28.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T117",
+        "cpu": "1 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB, 64MB RAM\neMMC"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "games": "Downloadable",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, Green",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:46.548Z"
+  },
+  {
+    "sttTong": 2572,
+    "sttHang": 20,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U505s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u505s-10061.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u505s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u505s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, March",
+        "status": "Available. Released 2022, March"
+      },
+      "body": {
+        "dimensions": "138.5 x 73.5 x 10.6 mm (5.45 x 2.89 x 0.42 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Mediatek MT6739",
+        "cpu": "Quad-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "5 MP\nVGA",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:46.840Z"
+  },
+  {
+    "sttTong": 2573,
+    "sttHang": 21,
+    "brand": "Energizer",
+    "deviceName": "Energizer E282SC",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e282sc-11370.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e282sc.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e282sc.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2021, December. Released 2021, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.5 x 58 x 18.5 mm (4.27 x 2.28 x 0.73 in)",
+        "weight": "101 g (3.56 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "2.8 inches, 24.3 cm2 (~38.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.3",
+        "chipset": "Mediatek MT6731 (28 nm)",
+        "cpu": "Quad-core 1.1 GHz",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Silver/Diamond, Gold/Diamond, Pink/Diamond",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:47.320Z"
+  },
+  {
+    "sttTong": 2574,
+    "sttHang": 22,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hard Case G5",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hard_case_g5-10998.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-g5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-g5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / TD-SCDMA",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100\nCDMA2000 1xEV-DO",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41",
+        "5g_bands": "1, 3, 8, 28, 38, 41, 77, 78, 79 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2021, June 29. Released 2021, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "167.7 x 78.2 x 13.7 mm (6.60 x 3.08 x 0.54 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP69 dust tight and water resistant (high pressure water jets; immersible up to 1.2m for 30 min)\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.3 inches, 97.4 cm2 (~74.3% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 11",
+        "chipset": "Mediatek Dimensity 800U (7 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC3"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "48 MP, (wide), AF\n20 MP, f/1.8\n13 MP, f/2.4, (ultrawide)",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 500 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:48.272Z"
+  },
+  {
+    "sttTong": 2577,
+    "sttHang": 25,
+    "brand": "Energizer",
+    "deviceName": "Energizer E24",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e24-10952.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e24.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e24.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2021, April. Released 2021, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.3 x 54 x 14.5 mm (4.93 x 2.13 x 0.57 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM, Micro-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "QVGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Gray, Blue, White, Green, Brown, Yellow",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:52.151Z"
+  },
+  {
+    "sttTong": 2576,
+    "sttHang": 24,
+    "brand": "Energizer",
+    "deviceName": "Energizer E28",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e28-10953.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e28.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e28.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2021, April. Released 2021, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 56 x 16.9 mm (5.30 x 2.20 x 0.67 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Dual SIM (Mini-SIM, Micro-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~32.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Gray, Blue, White, Green, Brown, Yellow",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:52.204Z"
+  },
+  {
+    "sttTong": 2578,
+    "sttHang": 26,
+    "brand": "Energizer",
+    "deviceName": "Energizer E3",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e3-10951.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2021, April. Released 2021, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.9 x 48 x 14 mm (4.48 x 1.89 x 0.55 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "1.77 inches, 9.9 cm2 (~18.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "QVGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Gray, Blue, White, Green, Brown, Yellow",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:54.883Z"
+  },
+  {
+    "sttTong": 2579,
+    "sttHang": 27,
+    "brand": "Energizer",
+    "deviceName": "Energizer E2",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e2-10950.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-e2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2021, April. Released 2021, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 50 x 13.9 mm (4.57 x 1.97 x 0.55 in)",
+        "weight": "74.3 g (2.61 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "1.77 inches, 9.9 cm2 (~17.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Gray, Blue, White, Green, Brown, Yellow",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:56.099Z"
+  },
+  {
+    "sttTong": 2581,
+    "sttHang": 29,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H621S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h621s-13116.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h621s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h621s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, June. Released 2021, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "163 x 78.2 x 12 mm (6.42 x 3.08 x 0.47 in)",
+        "weight": "241 g (8.50 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP69 dust tight and water resistant (high pressure water jets; immersible up to 1.2m for 30 min)\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 95.9 cm2 (~75.3% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "48 MP, PDAF",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:00.529Z"
+  },
+  {
+    "sttTong": 2575,
+    "sttHang": 23,
+    "brand": "Energizer",
+    "deviceName": "Energizer U680S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_u680s-10060.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u680s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u680s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, June 29. Released 2021, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.8 inches, 109.8 cm2",
+        "resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "32GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "13 MP, AF\n2 MP\nVGA",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 7000 mAh"
+      },
+      "misc": {
+        "colors": "Green, Black",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:00.804Z"
+  },
+  {
+    "sttTong": 2583,
+    "sttHang": 31,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U710S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u710s-10059.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u710s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-u710s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, February 17",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "180.3 x 86.8 x 9.2 mm (7.10 x 3.42 x 0.36 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.12 inches, 127.8 cm2 (~81.7% screen-to-body ratio)",
+        "resolution": "1080 x 2244 pixels, 18.7:9 ratio (~350 ppi density)",
+        "protection": "AGC glass"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6763 Helio P23 (16 nm)",
+        "cpu": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+        "gpu": "Mali-G71 MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, PDAF\nVGA",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 6000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:04.983Z"
+  },
+  {
+    "sttTong": 2584,
+    "sttHang": 32,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E12",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e12-9684.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e12.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e12.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2019, April. Released 2019, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 51 x 15 mm (4.61 x 2.01 x 0.59 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Dual SIM (Mini-SIM)\n- Flashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~17.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB 4MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:05.669Z"
+  },
+  {
+    "sttTong": 2582,
+    "sttHang": 30,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H620S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h620s-10726.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h620s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h620s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, December. Released 2021, February 09",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "163 x 78.2 x 12 mm (6.42 x 3.08 x 0.47 in)",
+        "weight": "250 g (8.82 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP69 dust tight and water resistant (high pressure water jets; immersible up to 1.2m for 30 min)\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 99.2 cm2 (~77.8% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "48 MP, PDAF",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:06.141Z"
+  },
+  {
+    "sttTong": 2562,
+    "sttHang": 10,
+    "brand": "Energizer",
+    "deviceName": "Energizer H67G",
+    "deviceUrl": "https://www.gsmarena.com/energizer_h67g-12801.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h67g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h67g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66",
+        "5g_bands": "1, 3, 7, 28, 38, 41, 77, 78, 79 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, January 19",
+        "status": "Available. Released 2024, February"
+      },
+      "body": {
+        "dimensions": "178.6 x 84 x 13.5 mm (7.03 x 3.31 x 0.53 in)",
+        "weight": "287 g (10.12 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.78 inches, 109.2 cm2 (~72.8% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek Dimensity 720 (7 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC3"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM"
+      },
+      "main_camera": {
+        "triple": "48 MP, (wide), PDAF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "24 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4900 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black, Grey, Red",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:06.932Z"
+  },
+  {
+    "sttTong": 2580,
+    "sttHang": 28,
+    "brand": "Energizer",
+    "deviceName": "Energizer E280s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_e280s-10066.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-282s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-282s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, April 07. Released 2021, May 31",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 56 x 16.8 mm (5.30 x 2.20 x 0.66 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~32.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.3",
+        "chipset": "Spreadtrum SC9820E",
+        "cpu": "Dual-core (2x1.2 GHz)",
+        "gpu": "Mali-T820"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM\neMMC"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White, Gray, Blue, Green, Yellow, Brown",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:11.116Z"
+  },
+  {
+    "sttTong": 2586,
+    "sttHang": 34,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P8100S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p8100s-9590.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p8100s-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p8100s-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "5g_bands": "NSA",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat13 600/50 Mbps, 5G (2+ Gbps DL)"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "Foldable IPS LCD",
+        "size": "8.1 inches, 203.2 cm2",
+        "resolution": "1536 x 2048 pixels, 4:3 ratio (~316 ppi density)\nCover display:\n6 inches, 1080 x 2160 pixels"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+        "cpu": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+        "gpu": "Adreno 640"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n12 MP",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 10000 mAh, non-removable",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Dark red",
+        "price": "About 900 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:13.476Z"
+  },
+  {
+    "sttTong": 2585,
+    "sttHang": 33,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H10",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h10-9683.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2019, April. Released 2019, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 49 x 15 mm (4.29 x 1.93 x 0.59 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nIP54 dust protected and water resistant (water splashes)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261A"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:15.490Z"
+  },
+  {
+    "sttTong": 2589,
+    "sttHang": 37,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H570S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h570s-9557.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h570s-not-scan.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h570s-not-scan.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 83.8 cm2",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6739 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 6500 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:18.302Z"
+  },
+  {
+    "sttTong": 2591,
+    "sttHang": 39,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H280S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h280s-9560.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h280s1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h280s1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2020, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 64 x 16.5 mm (5.59 x 2.52 x 0.65 in)",
+        "weight": "256 g (9.03 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)\nIP68 dust tight and water resistant (immersible up to 1.2m for 30 min)\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~26.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.3",
+        "chipset": "Spreadtrum SC9820E",
+        "cpu": "Dual-core (2x1.2 GHz)"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:20.170Z"
+  },
+  {
+    "sttTong": 2590,
+    "sttHang": 38,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H501S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h501s-9559.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h501s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h501s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA 7.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "149.4 x 69.9 x 12 mm (5.88 x 2.75 x 0.47 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 64.5 cm2 (~61.8% screen-to-body ratio)",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~215 ppi density)",
+        "protection": "Panda Glass"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6739 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:22.795Z"
+  },
+  {
+    "sttTong": 2592,
+    "sttHang": 40,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H241",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h241-9561.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h241s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h241s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "128.5 x 56.5 x 16.5 mm (5.06 x 2.22 x 0.65 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nIP68 dust tight and water resistant (immersible up to 1.2m for 30 min)"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~24.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Mediatek MT6276А"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:23.487Z"
+  },
+  {
+    "sttTong": 2588,
+    "sttHang": 36,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U620S Pop",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u620s_pop-9548.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u620s-pop.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u620s-pop.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "153.2 x 74.9 x 10.3 mm (6.03 x 2.95 x 0.41 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 95.9 cm2 (~83.6% screen-to-body ratio)",
+        "resolution": "1080 x 2280 pixels, 19:9 ratio (~407 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6771 Helio P70 (12 nm)",
+        "cpu": "Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)",
+        "gpu": "Mali-G72 MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "12 MP, PDAF\n5 MP\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm\nMotorized pop-up 2 MP, depth sensor",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3200 mAh, non-removable",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black, Red, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:24.744Z"
+  },
+  {
+    "sttTong": 2593,
+    "sttHang": 41,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H242",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h242-9562.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h242.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h242.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.3 x 54 x 14.5 mm (4.93 x 2.13 x 0.57 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nIP68 dust tight and water resistant (immersible up to 1.2m for 30 min)"
+      },
+      "display": {
+        "type": "TFT LCD, 16M colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecondary external display"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Spreadtrum SC7731E",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-820"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:24.834Z"
+  },
+  {
+    "sttTong": 2594,
+    "sttHang": 42,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E241s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e241s-9569.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e241-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e241-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.3 x 54 x 14.5 mm (4.93 x 2.13 x 0.57 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1, up to 2.5.3",
+        "chipset": "Spreadtrum SC9820E",
+        "cpu": "Dual-core (2x1.3 GHz Cortex-A7)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Carbon black, Gray, White, Orange, Bordo Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:26.905Z"
+  },
+  {
+    "sttTong": 2596,
+    "sttHang": 44,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E220s",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e220s-9571.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e220s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e220s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 59 x 16.5 mm (4.69 x 2.32 x 0.65 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT LCD, 16M colors",
+        "size": "2.2 inches, 15.0 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Spreadtrum SC9820E",
+        "cpu": "Dual-core (2x1.3 GHz Cortex-A7)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Dark blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:28.797Z"
+  },
+  {
+    "sttTong": 2599,
+    "sttHang": 47,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P490",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p490-9243.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p490.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p490.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2018, June. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139 x 65.8 x 12 mm (5.47 x 2.59 x 0.47 in)",
+        "weight": "139 g (4.90 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.95 inches, 63.2 cm2 (~69.1% screen-to-body ratio)",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 (Oreo Go)",
+        "chipset": "Mediatek MT6580M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400 MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP, AF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "5 MP\nVGA, depth sensor",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:33.786Z"
+  },
+  {
+    "sttTong": 2595,
+    "sttHang": 43,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E241",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e241-9570.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e241s-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e241s-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.3 x 54 x 14.5 mm (4.93 x 2.13 x 0.57 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT LCD, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Spreadtrum SC7731E",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-820"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Carbon black, Gray, White, Orange, Carbon Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:36.619Z"
+  },
+  {
+    "sttTong": 2597,
+    "sttHang": 45,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E220",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e220-9572.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e220.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e220.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2019, February. Released 2019, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 59 x 16.5 mm (4.69 x 2.32 x 0.65 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT LCD, 16M colors",
+        "size": "2.2 inches, 15.0 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {},
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Dark blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:38.910Z"
+  },
+  {
+    "sttTong": 2601,
+    "sttHang": 49,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E500S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e500s-9241.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e500s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e500s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, August. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139.8 x 71.5 x 8.6 mm (5.50 x 2.81 x 0.34 in)",
+        "weight": "127 g (4.48 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 (Oreo)",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "cpu": "Quad-core 1.1 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 200 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:40.927Z"
+  },
+  {
+    "sttTong": 2587,
+    "sttHang": 35,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P18K Pop",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p18k_pop-9573.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p18k-pop-100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p18k-pop-100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "⁓ 30-40 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 95.9 cm2 (~83.8% screen-to-body ratio)",
+        "resolution": "1080 x 2280 pixels, 19:9 ratio (~407 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6771 Helio P70 (12 nm)",
+        "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)",
+        "gpu": "Mali-G72 MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "12 MP, PDAF\n5 MP\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm\n2 MP, depth sensor",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 18000 mAh, non-removable",
+        "charging": "18W wired, PD2.0\n2.5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:43.104Z"
+  },
+  {
+    "sttTong": 2600,
+    "sttHang": 48,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H500S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h500s-9242.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h500s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h500s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, February. Released 2018, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.4 x 75 x 10.3 mm (5.72 x 2.95 x 0.41 in)",
+        "weight": "142.5 g (5.04 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~63.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 300 h (3G)",
+        "talk_time": "Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.44 W/kg (head)     1.65 W/kg (body)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:43.371Z"
+  },
+  {
+    "sttTong": 2602,
+    "sttHang": 50,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E500",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e500-9240.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2018, August. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139.8 x 71.5 x 8.6 mm (5.50 x 2.81 x 0.34 in)",
+        "weight": "127 g (4.48 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android Go",
+        "chipset": "Mediatek MT6580M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 200 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:45.732Z"
+  },
+  {
+    "sttTong": 2603,
+    "sttHang": 51,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E11",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e11-9239.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2018, July. Released 2018, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 48 x 25.9 mm (4.49 x 1.89 x 1.02 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Hybrid Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~18.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261D"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB 4MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 216 h (3G)",
+        "talk_time": "Up to 12.5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.03 W/kg (head)     1.26 W/kg (body)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:47.529Z"
+  },
+  {
+    "sttTong": 2604,
+    "sttHang": 52,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E10+",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e10+-9238.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2018, July. Released 2018, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 47 x 14.3 mm (4.33 x 1.85 x 0.56 in)",
+        "weight": "69 g (2.43 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6261D"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB 4MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 125 h (3G)",
+        "talk_time": "Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.60 W/kg (head)     0.95 W/kg (body)",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:50.916Z"
+  },
+  {
+    "sttTong": 2598,
+    "sttHang": 46,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P490S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p490s-9244.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p490s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p490s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, June. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139 x 65.8 x 12 mm (5.47 x 2.59 x 0.47 in)",
+        "weight": "139 g (4.90 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.95 inches, 63.2 cm2 (~69.1% screen-to-body ratio)",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Mediatek MT6739WA (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "8 MP, AF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "5 MP\nVGA, depth sensor",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 16 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:51.007Z"
+  },
+  {
+    "sttTong": 2607,
+    "sttHang": 55,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H240S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h240s-8981.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h240s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h240s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, January. Released 2018, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 56 x 18.5 mm (5.20 x 2.20 x 0.73 in)",
+        "weight": "256 g (9.03 oz)",
+        "sim": "Hybrid Dual SIM (Mini-SIM, dual stand-by)\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "cpu": "Quad-core 1.1 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 230 h (3G)",
+        "talk_time": "Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.61 W/kg (head)     1.08 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:48:55.074Z"
+  },
+  {
+    "sttTong": 2608,
+    "sttHang": 56,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H550S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h550s-8979.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h550s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-h550s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, January. Released 2018, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "158.8 x 80.7 x 11.1 mm (6.25 x 3.18 x 0.44 in)",
+        "weight": "203 g (7.16 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nMIL-STD-810G compliant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~65.1% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6750 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.24 W/kg (head)     1.79 W/kg (body)",
+        "price": "About 450 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:01.821Z"
+  },
+  {
+    "sttTong": 2605,
+    "sttHang": 53,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P20",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p20-9195.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-power-max-p20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2018, May. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136.5 x 55 x 17.5 mm (5.37 x 2.17 x 0.69 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~32.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum SC6531E"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, USB (Reverse charging out)"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh battery",
+        "charging": "10W wired\nReverse wired",
+        "stand-by": "Up to 750 h (3G)",
+        "talk_time": "Up to 40 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.61 W/kg (head)     0.89 W/kg (body)",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:06.040Z"
+  },
+  {
+    "sttTong": 2606,
+    "sttHang": 54,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P16K Pro",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p16k_pro-9079.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p600s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p600s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "350 g (12.35 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.99 inches, 92.6 cm2",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 (Oreo)",
+        "chipset": "Mediatek MT6763T Helio P23 (16 nm)",
+        "cpu": "Octa-core 2.5 GHz Cortex-A53",
+        "gpu": "Mali-G71 MP2"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\n13 MP",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "dual": "13 MP\n5 MP, depth sensor",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "To be confirmed"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 16,000 mAh, non-removable",
+        "charging": "18W wired, PD2.0"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:10.686Z"
+  },
+  {
+    "sttTong": 2609,
+    "sttHang": 57,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P600S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p600s-8974.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p600s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p600s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, January. Released 2018, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.5 x 82 x 9.8 mm (6.00 x 3.23 x 0.39 in)",
+        "weight": "190 g (6.70 oz)",
+        "build": "Glass front, plastic back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.9 inches, 89.8 cm2 (~71.8% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~409 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6757CD Helio P25 (16 nm)",
+        "cpu": "Octa-core (4x2.5 GHz Cortex-A53 & 4x1.4 GHz Cortex-A53)",
+        "gpu": "Mali-T880MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM, 64GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP, PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4500 mAh, non-removable",
+        "charging": "10W wired",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black (32/3GB), Blue (64/6GB)",
+        "price": "About 360 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:17.511Z"
+  },
+  {
+    "sttTong": 2610,
+    "sttHang": 58,
+    "brand": "Energizer",
+    "deviceName": "Energizer Power Max P550S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_power_max_p550s-8975.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p550s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-p550s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, December. Released 2017, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.3 x 78.3 x 9.4 mm (6.07 x 3.08 x 0.37 in)",
+        "weight": "203 g (7.16 oz)",
+        "build": "Glass front, aluminum back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~69.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh, non-removable",
+        "charging": "10W wired",
+        "stand-by": "Up to 500 h (3G)",
+        "talk_time": "Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.16 W/kg (head)     1.74 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:21.792Z"
+  },
+  {
+    "sttTong": 2611,
+    "sttHang": 59,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy S550",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_s550-8976.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-s550.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-s550.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, December. Released 2017, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.8 x 78.2 x 8.8 mm (6.09 x 3.08 x 0.35 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.28 W/kg (head)     1.23 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:24.254Z"
+  },
+  {
+    "sttTong": 2614,
+    "sttHang": 62,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 100 (2017)",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_100_(2017)-8982.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-100-2017.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-100-2017.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 63 x 15 mm (5.08 x 2.48 x 0.59 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Hybrid Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "Yes"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 300 h (3G)",
+        "talk_time": "Up to 11 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.27 W/kg (head)     0.54 W/kg (body)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:29.726Z"
+  },
+  {
+    "sttTong": 2613,
+    "sttHang": 61,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E520 LTE",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e520_lte-8978.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e520.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e520.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150.8 x 76.2 x 11.1 mm (5.94 x 3.00 x 0.44 in)",
+        "weight": "206 g (7.27 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nMIL-STD-810G compliant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~64.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~282 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 220 h (3G)",
+        "talk_time": "Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.26 W/kg (head)     0.60 W/kg (body)",
+        "price": "About 330 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:31.857Z"
+  },
+  {
+    "sttTong": 2612,
+    "sttHang": 60,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy S500E",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_s500e-8977.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-s500e.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-s500e.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2017, December. Released 2017, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 74.8 x 8.9 mm (5.73 x 2.94 x 0.35 in)",
+        "weight": "167 g (5.89 oz)",
+        "build": "Glass front, plastic back, plastic frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "5.0 inches, 68.9 cm2 (~63.3% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6580 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 333 h (3G)",
+        "talk_time": "Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.74 W/kg (head)     1.43 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:34.248Z"
+  },
+  {
+    "sttTong": 2616,
+    "sttHang": 64,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E10",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e10-8983.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e10-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 47 x 14.3 mm (4.33 x 1.85 x 0.56 in)",
+        "weight": "69 g (2.43 oz)",
+        "sim": "Hybrid Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 250 h (3G)",
+        "talk_time": "Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.60 W/kg (head)     0.95 W/kg (body)",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:35.540Z"
+  },
+  {
+    "sttTong": 2617,
+    "sttHang": 65,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E20",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e20-8984.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, November. Released 2017, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.2 x 51 x 18.2 mm (4.06 x 2.01 x 0.72 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Hybrid Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~33.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.07 W/kg (head)     0.73 W/kg (body)",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:36.523Z"
+  },
+  {
+    "sttTong": 2615,
+    "sttHang": 63,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 400 LTE",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_400_lte-8980.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-400.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-400.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, Q3. Released 2017, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 72 x 15 mm (5.28 x 2.83 x 0.59 in)",
+        "weight": "204 g (7.20 oz)",
+        "sim": "Hybrid Dual SIM (Micro-SIM, dual stand-by)\nIP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "4.0 inches, 45.5 cm2 (~47.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery",
+        "stand-by": "Up to 420 h (3G)",
+        "talk_time": "Up to 16 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.64 W/kg (head)     1.52 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:38.648Z"
+  },
+  {
+    "sttTong": 2618,
+    "sttHang": 66,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 500",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_500-7721.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - EM5EL043\nHSDPA 900 / 2100 - EM5EL047",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.3 x 80.6 x 18.8 mm (6.00 x 3.17 x 0.74 in)",
+        "weight": "284 g (10.02 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)\nIP68 dust tight and water resistant (immersible up to 1.8m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~56.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 18 h 40 min"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:39.825Z"
+  },
+  {
+    "sttTong": 2619,
+    "sttHang": 67,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 400",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_400-7722.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-400.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-400.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1900  / 850 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - EM4EI043\nHSDPA 900 / 2100 - EM4EI047",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 73.6 x 18.8 mm (5.30 x 2.90 x 0.74 in)",
+        "weight": "367 g (12.95 oz)",
+        "sim": "Mini-SIM\nIP68 dust tight and water resistant (immersible up to 1.8m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~46.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2400 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 15 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:42.400Z"
+  },
+  {
+    "sttTong": 2620,
+    "sttHang": 68,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 240",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_240-7723.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-240.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-240.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - EM24043\nHSDPA 900 / 2100 - EM24047",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 58.5 x 19 mm (4.92 x 2.30 x 0.75 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~24.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "games": "Downloadable",
+        "java": "Yes\nMusic/Video player\nOrganizer\nCalendar\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable",
+        "stand-by": "Up to 316 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:43.109Z"
+  },
+  {
+    "sttTong": 2621,
+    "sttHang": 69,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 200",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_200-7724.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - EM2003",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121.7 x 55.8 x 19.8 mm (4.79 x 2.20 x 0.78 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~18.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "8MB 8MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "games": "Downloadable",
+        "java": "No\nMusic/Video player\nOrganizer\nCalendar\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable",
+        "stand-by": "Up to 241 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:43.841Z"
+  },
+  {
+    "sttTong": 2622,
+    "sttHang": 70,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy 100",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_100-7920.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-100-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-100-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - EM2003",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015, November. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 63 x 15 mm (5.08 x 2.48 x 0.59 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB 4MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nMusic/Video player\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:46.373Z"
+  },
+  {
+    "sttTong": 2624,
+    "sttHang": 72,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E401",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e401-9568.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e401s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e401s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "4.0 inches, 44.1 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 Oreo (Go edition)",
+        "chipset": "Mediatek MT6580M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:47.723Z"
+  },
+  {
+    "sttTong": 2625,
+    "sttHang": 73,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H242S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h242s-9563.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h242s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h242s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "125.3 x 54 x 14.5 mm (4.93 x 2.13 x 0.57 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)\nIP68 dust tight and water resistant (immersible up to 1.2m for 30 min)"
+      },
+      "display": {
+        "type": "TFT LCD, 16M colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecondary external display"
+      },
+      "platform": {
+        "os": "KaiOS 2.5.1",
+        "chipset": "Spreadtrum SC7731E",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-820"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "undefined\nDownloadable applications Facebook, Gmail, Whatsapp, etc."
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:47.781Z"
+  },
+  {
+    "sttTong": 2623,
+    "sttHang": 71,
+    "brand": "Energizer",
+    "deviceName": "Energizer Energy E551S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_energy_e551s-9567.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e551s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-energy-e551s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "5.5 inches, 83.4 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~178 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 Oreo (Go edition)",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:48.339Z"
+  },
+  {
+    "sttTong": 2626,
+    "sttHang": 74,
+    "brand": "Energizer",
+    "deviceName": "Energizer Hardcase H591S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_hardcase_h591s-9556.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h591s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h591s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 34, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "164.2 x 79.4 x 12.2 mm (6.46 x 3.13 x 0.48 in)",
+        "weight": "260 g (9.17 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "5.99 inches, 98.9 cm2 (~75.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~368 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Mediatek MT6763 Helio P23 (16 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "Mali-G71 MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "64GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, AF\nAuxiliary lens",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "8 MP\nVGA, depth sensor",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 5800 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:50.842Z"
+  },
+  {
+    "sttTong": 2628,
+    "sttHang": 76,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U620S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u620s-9549.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u620s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u620s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "155.8 x 75.5 x 8.3 mm (6.13 x 2.97 x 0.33 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 97.6 cm2 (~82.9% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 18.5:9 ratio (~265 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6765 Helio P35 (12 nm)",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "16 MP, PDAF\nAuxiliary lenses",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Aurora Red, Aurora Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:52.279Z"
+  },
+  {
+    "sttTong": 2629,
+    "sttHang": 77,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U630S Pop",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u630s_pop-9547.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u630s-pop.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u630s-pop.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "157.9 x 78.9 x 9.6 mm (6.22 x 3.11 x 0.38 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.3 inches, 100.7 cm2 (~80.9% screen-to-body ratio)",
+        "resolution": "720 x 1480 pixels, 18.5:9 ratio (~261 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm\nMotorized pop-up 2 MP, depth sensor",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3500 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:53.777Z"
+  },
+  {
+    "sttTong": 2627,
+    "sttHang": 75,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U570S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u570s-9550.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u570s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u570s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "148.8 x 70.5 x 8.6 mm (5.86 x 2.78 x 0.34 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 81.1 cm2 (~77.3% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Aurora Red, Blue, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:49:58.824Z"
+  },
+  {
+    "sttTong": 2630,
+    "sttHang": 78,
+    "brand": "Energizer",
+    "deviceName": "Energizer Ultimate U650S",
+    "deviceUrl": "https://www.gsmarena.com/energizer_ultimate_u650s-9546.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u650s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/energizer-ultimate-u650s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "162.5 x 76.5 x 8.2 mm (6.40 x 3.01 x 0.32 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.5 inches, 107.2 cm2 (~86.3% screen-to-body ratio)",
+        "resolution": "720 x 1480 pixels, 18.5:9 ratio (~253 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3500 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:50:04.708Z"
+  }
+]

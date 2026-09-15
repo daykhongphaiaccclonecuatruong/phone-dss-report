@@ -1,0 +1,2084 @@
+[
+  {
+    "sttTong": 13388,
+    "sttHang": 2,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2200",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2200-1512.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97.8 x 49.5 x 12.5 mm (3.85 x 1.95 x 0.49 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.66 inches, 8.7 cm2 (~17.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~170 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "4 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+ player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:43:41.152Z"
+  },
+  {
+    "sttTong": 13390,
+    "sttHang": 4,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK5000",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk5000-1513.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk5000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk5000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "91.8 x 50 x 9.9 mm (3.61 x 1.97 x 0.39 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 256K colors",
+        "size": "1.5 inches, 24 x 29 mm, 7.1 cm2 (~15.4% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~137 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+ player\nPredictive text input\nOrganizer\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:43:52.431Z"
+  },
+  {
+    "sttTong": 13392,
+    "sttHang": 6,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK4000",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk4000-1516.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 43 x 21 mm (3.35 x 1.69 x 0.83 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "Yes",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nStopwatch\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:43:53.179Z"
+  },
+  {
+    "sttTong": 13387,
+    "sttHang": 1,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2030",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2030-2194.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk-2030.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk-2030.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, December. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 48 x 11.7 mm (4.21 x 1.89 x 0.46 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "256MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, Real tones ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 710 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:43:57.661Z"
+  },
+  {
+    "sttTong": 13389,
+    "sttHang": 3,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK7000",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk7000-1514.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk7000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk7000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 48 x 9.9 mm (4.13 x 1.89 x 0.39 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 28 x 35 mm, 10.2 cm2 (~20.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "microMMC",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVideo telephony & streaming\nMP3/AAC/AAC+ player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:43:59.165Z"
+  },
+  {
+    "sttTong": 13394,
+    "sttHang": 8,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2020",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2020-1493.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2020.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2020.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95 x 47 x 8.8 mm (3.74 x 1.85 x 0.35 in)",
+        "weight": "53 g (1.87 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 256K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "64MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:03.163Z"
+  },
+  {
+    "sttTong": 13396,
+    "sttHang": 10,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK4500",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk4500-1397.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 49 x 16.9 mm (3.86 x 1.93 x 0.67 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 31 x 39 mm, 12.6 cm2 (~26.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "100MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nStopwatch\nWorld time"
+      },
+      "battery": {
+        "type": "Extended battery, Li-Ion 970 mAh"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T17:44:06.512Z"
+  },
+  {
+    "sttTong": 13397,
+    "sttHang": 11,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK3100",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk3100-1396.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk3100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk3100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 54 x 14.9 mm (3.86 x 2.13 x 0.59 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~28.8% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nSecond 1-inch external CSTN display, 65K colors (96x96 pixels) \nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "54MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nStopwatch\nWorld time"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver, Black, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:09.205Z"
+  },
+  {
+    "sttTong": 13398,
+    "sttHang": 12,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2100",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2100-1395.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "93 x 49 x 9.3 mm (3.66 x 1.93 x 0.37 in)",
+        "weight": "48 g (1.69 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 256K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "2GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 790 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:11.429Z"
+  },
+  {
+    "sttTong": 13399,
+    "sttHang": 13,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2010",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2010-1394.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2010.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2010.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 50 x 8.8 mm (3.54 x 1.97 x 0.35 in)",
+        "weight": "50 g (1.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 256K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "64/128MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 790 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Pink, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:11.867Z"
+  },
+  {
+    "sttTong": 13393,
+    "sttHang": 7,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK4100",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk4100-1517.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk4100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "104 x 52 x 25.9 mm (4.09 x 2.05 x 1.02 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~18.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "Yes",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nStopwatch\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:13.043Z"
+  },
+  {
+    "sttTong": 13391,
+    "sttHang": 5,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK300",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk300-1826.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79.5 x 42.5 x 21.5 mm (3.13 x 1.67 x 0.85 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external STN display, 256K colors, 80 x 80 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received,20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\n3D GUI\neZi(iTAP)\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 125 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver-black, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:14.621Z"
+  },
+  {
+    "sttTong": 13401,
+    "sttHang": 15,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK1100",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk1100-1515.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "weight": "71.4 g (2.50 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photocall",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Pastel Pink, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:16.227Z"
+  },
+  {
+    "sttTong": 13403,
+    "sttHang": 17,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK1010",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk1010-1391.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1010.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1010.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Green, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:16.527Z"
+  },
+  {
+    "sttTong": 13400,
+    "sttHang": 14,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK1500",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk1500-1393.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "89 x 46 x 23 mm (3.50 x 1.81 x 0.91 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external OLED display, 65K colors (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photocall",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "100MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nStopwatch\nWorld time"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 940 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:18.168Z"
+  },
+  {
+    "sttTong": 13404,
+    "sttHang": 18,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK1000",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk1000-1390.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Pink, Orange, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:18.229Z"
+  },
+  {
+    "sttTong": 13406,
+    "sttHang": 20,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile E100",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_e100-1256.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-e100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-e100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 44 x 21 mm (3.35 x 1.73 x 0.83 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nMP3 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver, Blue, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:23.423Z"
+  },
+  {
+    "sttTong": 13409,
+    "sttHang": 23,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK900",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk900-1026.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 45 x 24.5 mm (3.54 x 1.77 x 0.96 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nIrRC (Remote Control Function)\nMP3 player\nFunny photo transformation application \nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 880 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver, Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:27.346Z"
+  },
+  {
+    "sttTong": 13412,
+    "sttHang": 26,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK610",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk610-1029.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk610.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk610.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43 x 22.5 mm (3.31 x 1.69 x 0.89 in)",
+        "weight": "83.5 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Dark Blue, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:32.137Z"
+  },
+  {
+    "sttTong": 13407,
+    "sttHang": 21,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK570",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk570-1254.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk570.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk570.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:37.548Z"
+  },
+  {
+    "sttTong": 13405,
+    "sttHang": 19,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK2000",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk2000-1291.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk2000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89.9 x 49.9 x 8.8 mm (3.54 x 1.96 x 0.35 in)",
+        "weight": "48 g (1.69 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 143 pixels\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "1 - Bulbmon",
+        "java": "No\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Po (VKST-2000)",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:43.217Z"
+  },
+  {
+    "sttTong": 13408,
+    "sttHang": 22,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK700",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk700-1249.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk700.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk700.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 45.5 x 26 mm (3.50 x 1.79 x 1.02 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls, 20 temp calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP4/MP3 player\nFunny photo transformation application \nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 810 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:45.042Z"
+  },
+  {
+    "sttTong": 13416,
+    "sttHang": 30,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK520",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk520-1033.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk520.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk520.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:44:54.365Z"
+  },
+  {
+    "sttTong": 13395,
+    "sttHang": 9,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK200",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk200-1492.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 48 x 11 mm (4.13 x 1.89 x 0.43 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "50 dialed, 50 received, 50 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3/AAC player\nPredictive text input\nUnit convertor\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:10.123Z"
+  },
+  {
+    "sttTong": 13415,
+    "sttHang": 29,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK540",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk540-1032.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk540.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk540.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79.5 x 42.5 x 21.5 mm (3.13 x 1.67 x 0.85 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:15.118Z"
+  },
+  {
+    "sttTong": 13417,
+    "sttHang": 31,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK500",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk500-1034.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79.5 x 42.5 x 21.5 mm (3.13 x 1.67 x 0.85 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:20.079Z"
+  },
+  {
+    "sttTong": 13411,
+    "sttHang": 25,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK530",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk530-1028.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk530.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk530.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external STN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "400 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nPC Sync \nBiorhythm\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery"
+      },
+      "misc": {
+        "colors": "Pink, Lilac"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:32.532Z"
+  },
+  {
+    "sttTong": 13410,
+    "sttHang": 24,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK800",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk800-1027.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79 x 44 x 23.7 mm (3.11 x 1.73 x 0.93 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 143 pixels\nSecond external display 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Extended battery, Li-Ion 900 mAh"
+      },
+      "misc": {
+        "colors": "White, Silver, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:46:45.882Z"
+  },
+  {
+    "sttTong": 13402,
+    "sttHang": 16,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK1020",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk1020-1392.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1020.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vkmobile-vk1020.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver, Purple"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:46:52.265Z"
+  },
+  {
+    "sttTong": 13414,
+    "sttHang": 28,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK560",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk560-1031.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk560.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk560.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 19 mm (2.99 x 1.73 x 0.75 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:02.814Z"
+  },
+  {
+    "sttTong": 13413,
+    "sttHang": 27,
+    "brand": "VK Mobile",
+    "deviceName": "VK Mobile VK580",
+    "deviceUrl": "https://www.gsmarena.com/vk_mobile_vk580-1030.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk580.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vk580.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 44 x 19 mm (2.99 x 1.73 x 0.75 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 143 pixels\nSecond external CSTN display, 65K colors (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nBio Rhythm"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:18.000Z"
+  }
+]

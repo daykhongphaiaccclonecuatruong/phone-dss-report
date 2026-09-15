@@ -1,0 +1,463 @@
+[
+  {
+    "sttTong": 12282,
+    "sttHang": 1,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T939",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t939-695.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt939.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt939.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "resolution": "160 x 240 pixels, 3:2 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows PocketPC 2003 Phone edition"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "browser": "HTML\nDirect print functionality\nPocket Office \nMP3 player\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:41:17.077Z"
+  },
+  {
+    "sttTong": 12284,
+    "sttHang": 3,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T919i",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t919i-529.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt919i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt919i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 56 x 24 mm (4.96 x 2.20 x 0.94 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN resistive touchscreen, 32K colors",
+        "resolution": "128 x 256 pixels, 18:9 ratio\nPortrait and landscape mode"
+      },
+      "memory": {
+        "card_slot": "MMC",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "6MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "3",
+        "java": "Yes\nMPEG 4 Video camcorder\nMP3 player\nAttachment Viewer (txt, doc, bmp, jpg, gif)\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:41:19.080Z"
+  },
+  {
+    "sttTong": 12285,
+    "sttHang": 4,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T919",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t919-389.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt919.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt919.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 56 x 24 mm (4.96 x 2.20 x 0.94 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN resistive touchscreen, 32K colors",
+        "resolution": "256 x 128 pixels, 18:9 ratio\nPortrait and landscape mode"
+      },
+      "memory": {
+        "card_slot": "MMC",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones, composer",
+        "35mm_jack": "No\nStereo headset"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "java": "Yes\nMP3 player\nAttachment Viewer (txt, doc, bmp, jpg, gif)\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:41:21.445Z"
+  },
+  {
+    "sttTong": 12287,
+    "sttHang": 6,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T909c",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t909c-387.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt909c.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt909c.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 44 x 18 mm (5.08 x 1.73 x 0.71 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nBlue backlight\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4",
+        "java": "No\nPredictive text input\nOrganizer\nWorld clock\nVoice dial\nVoice memo\nUser profiles\nAuto power on/off"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:41:26.191Z"
+  },
+  {
+    "sttTong": 12288,
+    "sttHang": 7,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T909",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t909-386.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt909.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt909.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 44 x 22 mm (4.29 x 1.73 x 0.87 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "3 lines\nAnalog clock"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Contact groups",
+        "call_records": "20 dialed, 20 received, 20 missed calls\n53 SMS templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "7",
+        "java": "No\nOrganizer\nWorld clock\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "3 - Silver/ Grey, Grey/Silver, Silver/Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:41:40.597Z"
+  },
+  {
+    "sttTong": 12283,
+    "sttHang": 2,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T918",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t918-603.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt918.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt918.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 50 x 20.5 mm (4.37 x 1.97 x 0.81 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "6MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones, composer",
+        "35mm_jack": "No\nBuilt-in large speaker\nAudio Formats: SP-MIDI (type 0), I-Melody, Voice Memo"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "3 - Pipemania, 4 Wins and Elimination",
+        "java": "Yes\nAttachment Viewer (txt, doc, bmp, jpg, gif, mpg)\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:41:50.308Z"
+  },
+  {
+    "sttTong": 12286,
+    "sttHang": 5,
+    "brand": "Tel.Me.",
+    "deviceName": "Tel.Me. T910",
+    "deviceUrl": "https://www.gsmarena.com/tel_me__t910-388.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt910.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmt910.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 45 x 18 mm (4.29 x 1.77 x 0.71 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 126 pixels, 1:1 ratio\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2",
+        "java": "No\nPredictive text input\nOrganizer\nWorld clock\nVoice dial\nVoice memo\nUser profiles\nAuto power on/off"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:42:17.176Z"
+  }
+]

@@ -1,0 +1,1049 @@
+[
+  {
+    "sttTong": 2538,
+    "sttHang": 1,
+    "brand": "Emporia",
+    "deviceName": "Emporia Glam",
+    "deviceUrl": "https://www.gsmarena.com/emporia_glam-6264.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaGLAM.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaGLAM.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 52 x 17 mm (4.09 x 2.05 x 0.67 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~33.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6260A",
+        "cpu": "360 MHz",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "8MB 4MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1020 mAh, removable",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:41.437Z"
+  },
+  {
+    "sttTong": 2541,
+    "sttHang": 4,
+    "brand": "Emporia",
+    "deviceName": "Emporia Click Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_click_plus-6261.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-click-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-click-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 51 x 18.5 mm (4.13 x 2.01 x 0.73 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~33.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC6240"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "20MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:43.322Z"
+  },
+  {
+    "sttTong": 2542,
+    "sttHang": 5,
+    "brand": "Emporia",
+    "deviceName": "Emporia Essence Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_essence_plus-6260.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-essence.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-essence.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - RL2 model\nGSM 850 / 1900 - US model",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 51 x 12 mm (4.21 x 2.01 x 0.47 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~18.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Infineon PMB7880"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "0.3MB 2MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:44.192Z"
+  },
+  {
+    "sttTong": 2543,
+    "sttHang": 6,
+    "brand": "Emporia",
+    "deviceName": "Emporia Solid Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_solid_plus-6231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaSOLIDplus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaSOLIDplus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 60 x 18 mm (4.69 x 2.36 x 0.71 in)",
+        "weight": "142 g (5.01 oz)",
+        "sim": "Mini-SIM\nIP67 dust/water resistant (up to 1m for 30 min)\nMIL-STD-810F compliant\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~14.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6223",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "0.5MB 4MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1750 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:45.621Z"
+  },
+  {
+    "sttTong": 2539,
+    "sttHang": 2,
+    "brand": "Emporia",
+    "deviceName": "Emporia Flip Basic",
+    "deviceUrl": "https://www.gsmarena.com/emporia_flip_basic-6263.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-flip-f210.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-flip-f210.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 49 x 17 mm (3.78 x 1.93 x 0.67 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 18.1 cm2 (~38.5% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~117 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6260M",
+        "cpu": "360 MHz",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "16MB 32MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1020 mAh, removable",
+        "stand-by": "Up to 360 h",
+        "talk_time": "Up to 3 h 40 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:46.698Z"
+  },
+  {
+    "sttTong": 2545,
+    "sttHang": 8,
+    "brand": "Emporia",
+    "deviceName": "Emporia Elegance Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_elegance_plus-6229.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaELEGANCEplus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaELEGANCEplus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 50 x 14 mm (4.29 x 1.97 x 0.55 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~18.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Infineon PMB7880"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "0.3MB 2MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:48.781Z"
+  },
+  {
+    "sttTong": 2546,
+    "sttHang": 9,
+    "brand": "Emporia",
+    "deviceName": "Emporia Elegance",
+    "deviceUrl": "https://www.gsmarena.com/emporia_elegance-6259.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaELEGANCE-V35.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaELEGANCE-V35.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 50 x 14 mm (4.29 x 1.97 x 0.55 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.8 inches, 10.2 cm2 (~18.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "platform": {
+        "chipset": "Infineon PMB7880"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "0.3MB 2MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White, Brown"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:50.451Z"
+  },
+  {
+    "sttTong": 2544,
+    "sttHang": 7,
+    "brand": "Emporia",
+    "deviceName": "Emporia Care Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_care_plus-6230.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaCAREplus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaCAREplus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 55 x 18 mm (4.80 x 2.17 x 0.71 in)",
+        "weight": "103 g (3.63 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.2 cm2 (~22.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6223",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "0.5MB 4MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1750 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:54.225Z"
+  },
+  {
+    "sttTong": 2549,
+    "sttHang": 12,
+    "brand": "Emporia",
+    "deviceName": "Emporia Talk Comfort Plus",
+    "deviceUrl": "https://www.gsmarena.com/emporia_talk_comfort_plus-6258.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKcomfortplus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKcomfortplus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.5 x 56 x 16 mm (4.51 x 2.20 x 0.63 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "FSTN",
+        "size": "1.9 inches, 9.3 cm2 (~14.5% screen-to-body ratio)",
+        "resolution": "64 x 128 pixels, 18:9 ratio (~75 ppi density)"
+      },
+      "platform": {
+        "chipset": "Infineon PMB7900 (ULC3)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "0.4MB 4MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:55.268Z"
+  },
+  {
+    "sttTong": 2551,
+    "sttHang": 14,
+    "brand": "Emporia",
+    "deviceName": "Emporia RL1",
+    "deviceUrl": "https://www.gsmarena.com/emporia_rl1-6224.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporia-rl1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporia-rl1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 50 x 14 mm (4.29 x 1.97 x 0.55 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "1.8 inches, 10.2 cm2 (~18.7% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "8MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:46:59.861Z"
+  },
+  {
+    "sttTong": 2547,
+    "sttHang": 10,
+    "brand": "Emporia",
+    "deviceName": "Emporia Connect",
+    "deviceUrl": "https://www.gsmarena.com/emporia_connect-6228.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaCONNECT.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaCONNECT.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 53 x 20 mm (4.25 x 2.09 x 0.79 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.8 inches, 22.3 cm2 (~39.0% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC6270"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1500 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "20MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1150 mAh, removable",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:00.494Z"
+  },
+  {
+    "sttTong": 2548,
+    "sttHang": 11,
+    "brand": "Emporia",
+    "deviceName": "Emporia Click",
+    "deviceUrl": "https://www.gsmarena.com/emporia_click-6226.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaclick.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaclick.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 51 x 18.5 mm (4.13 x 2.01 x 0.73 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.2 cm2 (~28.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6223 (09A)/ MT6260",
+        "cpu": "360 MHz",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "2MB 64MB RAM"
+      },
+      "camera": {
+        "extra_info": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:04.072Z"
+  },
+  {
+    "sttTong": 2540,
+    "sttHang": 3,
+    "brand": "Emporia",
+    "deviceName": "Emporia Eco",
+    "deviceUrl": "https://www.gsmarena.com/emporia_eco-6262.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-eco-c160.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-eco-c160.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 48 x 12.5 mm (4.88 x 1.89 x 0.49 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.2 inches, 15.2 cm2 (~25.6% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6260M",
+        "cpu": "360 MHz",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "16MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1020 mAh, removable",
+        "stand-by": "Up to 310 h",
+        "talk_time": "Up to 4 h 45 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:05.378Z"
+  },
+  {
+    "sttTong": 2552,
+    "sttHang": 15,
+    "brand": "Emporia",
+    "deviceName": "Emporia Talk Premium",
+    "deviceUrl": "https://www.gsmarena.com/emporia_talk_premium-6223.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKpremium1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKpremium1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121 x 57 x 15 mm (4.76 x 2.24 x 0.59 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "FSTN",
+        "size": "2.0 inches, 10.3 cm2 (~15.0% screen-to-body ratio)",
+        "resolution": "64 x 128 pixels, 18:9 ratio (~72 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:05.675Z"
+  },
+  {
+    "sttTong": 2550,
+    "sttHang": 13,
+    "brand": "Emporia",
+    "deviceName": "Emporia Talk Comfort",
+    "deviceUrl": "https://www.gsmarena.com/emporia_talk_comfort-6225.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKcomfort.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKcomfort.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 55 x 15.5 mm (4.49 x 2.17 x 0.61 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "FSTN",
+        "size": "1.8 inches, 8.4 cm2 (~13.3% screen-to-body ratio)",
+        "resolution": "64 x 128 pixels, 18:9 ratio (~80 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:47:21.000Z"
+  }
+]

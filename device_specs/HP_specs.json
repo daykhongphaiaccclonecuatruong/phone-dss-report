@@ -1,0 +1,2947 @@
+[
+  {
+    "sttTong": 3345,
+    "sttHang": 1,
+    "brand": "HP",
+    "deviceName": "HP Elite x3",
+    "deviceUrl": "https://www.gsmarena.com/hp_elite_x3-7954.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-elite-x3-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-elite-x3-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 26, 28, 29, 38, 39, 40, 41 - EMEA\n1, 2, 3, 4, 5, 7, 12, 17, 20, 29, 30 - Americas",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "161.8 x 83.5 x 7.8 mm (6.37 x 3.29 x 0.31 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "· Nano-SIM· Nano-SIM + Nano-SIM\nIP67 dust/water resistant (up to 1m for 30 min)\nMIL-STD-810G compliant*\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "display": {
+        "type": "AMOLED, 350 nits (typ)",
+        "size": "5.96 inches, 97.5 cm2 (~72.2% screen-to-body ratio)",
+        "resolution": "1440 x 2560 pixels, 16:9 ratio (~494 ppi density)",
+        "protection": "Corning Gorilla Glass 4"
+      },
+      "platform": {
+        "os": "Microsoft Windows 10",
+        "chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "cpu": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.2, 1.31µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/4.0\", 1.12µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nTuned by Bang & Olufsen"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 3.0, magnetic connector"
+      },
+      "features": {
+        "sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer\nMicrosoft Continuum support"
+      },
+      "battery": {
+        "type": "Li-Po 4150 mAh, non-removable",
+        "charging": "10W wired\nWireless (Qi)"
+      },
+      "misc": {
+        "colors": "Gold, Graphite/Chrome",
+        "price": "About 700 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:17.343Z"
+  },
+  {
+    "sttTong": 3346,
+    "sttHang": 2,
+    "brand": "HP",
+    "deviceName": "HP Slate 17",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate_17-7030.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-17.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-17.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "418.1 x 283.2 x 15.8 mm (16.46 x 11.15 x 0.62 in)",
+        "weight": "2005 g (4.42 lb)",
+        "sim": "No\nBuilt-in 2 kickstands"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "17.3 inches, 825.1 cm2 (~69.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~127 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Intel Celeron N2807",
+        "cpu": "Dual-core 1.58 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot); SDHC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "0.9 MP",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nBeats Audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po (43 Wh, 3-cell)",
+        "talk_time": "Up to 7 h 45 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Snow White, Sweet Yellow",
+        "price": "About 370 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:18.602Z"
+  },
+  {
+    "sttTong": 3347,
+    "sttHang": 3,
+    "brand": "HP",
+    "deviceName": "HP Pro Slate 12",
+    "deviceUrl": "https://www.gsmarena.com/hp_pro_slate_12-6963.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-12.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-12.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "300.3 x 222 x 8 mm (11.82 x 8.74 x 0.31 in)",
+        "weight": "850 g (1.87 lb)",
+        "sim": "Nano-SIM\nHP Duet Pen"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "12.3 inches, 468.5 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "1200 x 1600 pixels, 4:3 ratio (~163 ppi density)",
+        "protection": "Corning Concore Glass"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat)",
+        "chipset": "Qualcomm Snapdragon 800 (28 nm)",
+        "cpu": "Quad-core 2.3 GHz Krait 400",
+        "gpu": "Adreno 330"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "32GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0 (SlimPort)"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Po (21 Wh)",
+        "talk_time": "Up to 10 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 490 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:48.663Z"
+  },
+  {
+    "sttTong": 3348,
+    "sttHang": 4,
+    "brand": "HP",
+    "deviceName": "HP Pro Slate 10 EE G1",
+    "deviceUrl": "https://www.gsmarena.com/hp_pro_slate_10_ee_g1-6964.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-10-ee.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-10-ee.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "280 x 182 x 14.4 mm (11.02 x 7.17 x 0.57 in)",
+        "weight": "855 g (1.88 lb)",
+        "sim": "No\nOptional mobile dock with standard QWERTY keyboard and trackpad"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~58.0% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat)",
+        "chipset": "Intel Atom Z3735G",
+        "cpu": "Quad-core 1.33 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF or 2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP or 1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 8380 mAh, non-removable (28.5 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:53.221Z"
+  },
+  {
+    "sttTong": 3350,
+    "sttHang": 6,
+    "brand": "HP",
+    "deviceName": "HP Slate6 VoiceTab II",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate6_voicetab_ii-6831.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-6-voicetab-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-6-voicetab-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.1 x 83.2 x 9 mm (6.5 x 3.28 x 0.35 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~72.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Marvell PXA1088",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 750 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 13 h 30 min (2G) / Up to 10 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "sar": "0.15 W/kg (head)     0.53 W/kg (body)",
+        "sar_eu": "0.54 W/kg (head)     0.28 W/kg (body)",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:57.614Z"
+  },
+  {
+    "sttTong": 3349,
+    "sttHang": 5,
+    "brand": "HP",
+    "deviceName": "HP Pro Slate 8",
+    "deviceUrl": "https://www.gsmarena.com/hp_pro_slate_8-6962.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-8-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-pro-slate-8-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "207 x 137 x 8 mm (8.15 x 5.39 x 0.31 in)",
+        "weight": "350 g (12.35 oz)",
+        "sim": "Nano-SIM\nHP Duet Pen"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.86 inches, 191.3 cm2 (~67.5% screen-to-body ratio)",
+        "resolution": "1536 x 2048 pixels, 4:3 ratio (~326 ppi density)",
+        "protection": "Corning Gorilla Glass 4"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat)",
+        "chipset": "Qualcomm Snapdragon 800 (28 nm)",
+        "cpu": "Quad-core 2.3 GHz Krait 400",
+        "gpu": "Adreno 330"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM, 32GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0 (SlimPort)"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Po 5900 mAh, non-removable (21 Wh)"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 390 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:16:59.859Z"
+  },
+  {
+    "sttTong": 3351,
+    "sttHang": 7,
+    "brand": "HP",
+    "deviceName": "HP 10 Plus",
+    "deviceUrl": "https://www.gsmarena.com/hp_10_plus-6811.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-10-plus-2201er.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-10-plus-2201er.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "265 x 175 x 9.5 mm (10.43 x 6.89 x 0.37 in)",
+        "weight": "660 g (1.46 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~63.8% screen-to-body ratio)",
+        "resolution": "1920 x 1200 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro"
+      },
+      "battery": {
+        "type": "Li-Po 7700 mAh, non-removable (28 Wh)",
+        "talk_time": "Up to 6 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:02.422Z"
+  },
+  {
+    "sttTong": 3352,
+    "sttHang": 8,
+    "brand": "HP",
+    "deviceName": "HP 7 VoiceTab",
+    "deviceUrl": "https://www.gsmarena.com/hp_7_voicetab-6784.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-7-voicetab-1351ra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-7-voicetab-1351ra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192.1 x 102.2 x 10.2 mm (7.56 x 4.02 x 0.40 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "6.95 inches, 135.9 cm2 (~69.2% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~171 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT8382 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:05.857Z"
+  },
+  {
+    "sttTong": 3355,
+    "sttHang": 11,
+    "brand": "HP",
+    "deviceName": "HP Slate7 VoiceTab Ultra",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate7_voicetab_ultra-7013.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-voicetab-ultra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-voicetab-ultra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "183.5 x 103.9 x 7.2 mm (7.22 x 4.09 x 0.28 in)",
+        "weight": "239 g (8.43 oz)",
+        "sim": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~74.5% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~323 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "HiSilicon Balong V9R1",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh, non-removable (19 Wh)",
+        "stand-by": "Up to 480 h (3G)",
+        "talk_time": "Up to 10 h (multimedia) (3G)"
+      },
+      "misc": {
+        "colors": "Champagne",
+        "price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:11.736Z"
+  },
+  {
+    "sttTong": 3354,
+    "sttHang": 10,
+    "brand": "HP",
+    "deviceName": "HP 8",
+    "deviceUrl": "https://www.gsmarena.com/hp_8-6199.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-8.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "200.3 x 136.3 x 8 mm (7.89 x 5.37 x 0.31 in)",
+        "weight": "313 g (11.04 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.85 inches, 190.8 cm2 (~69.9% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~163 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Allwinner A31",
+        "cpu": "Quad-core 1.0 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro"
+      },
+      "battery": {
+        "type": "Li-Po 3800 mAh, non-removable",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:11.831Z"
+  },
+  {
+    "sttTong": 3353,
+    "sttHang": 9,
+    "brand": "HP",
+    "deviceName": "HP 7 Plus",
+    "deviceUrl": "https://www.gsmarena.com/hp_7_plus-6377.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-7-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-7-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192.5 x 121.9 x 8.1 mm (7.58 x 4.80 x 0.32 in)",
+        "weight": "294.8 g (10.37 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~58.8% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Allwinner A31",
+        "cpu": "Quad-core 1.0 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, non-removable",
+        "talk_time": "Up to 5 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:12.363Z"
+  },
+  {
+    "sttTong": 3356,
+    "sttHang": 12,
+    "brand": "HP",
+    "deviceName": "HP Slate7 VoiceTab",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate7_voicetab-5971.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/HP-Slate7-VoiceTab1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/HP-Slate7-VoiceTab1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "9.5 mm thickness",
+        "weight": "325 g (11.46 oz)",
+        "sim": "Dual SIM (Mini-SIM & Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Marvell PXA1088",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4100 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:17.092Z"
+  },
+  {
+    "sttTong": 3357,
+    "sttHang": 13,
+    "brand": "HP",
+    "deviceName": "HP Slate6 VoiceTab",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate6_voicetab-5970.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/HP-Slate6-VoiceTab.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/HP-Slate6-VoiceTab.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165 x 83.2 x 8.8 mm (6.50 x 3.28 x 0.35 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM, (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~72.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.3 (Jelly Bean)",
+        "chipset": "Marvell PXA1088",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:17.447Z"
+  },
+  {
+    "sttTong": 3358,
+    "sttHang": 14,
+    "brand": "HP",
+    "deviceName": "HP Slate8 Pro",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate8_pro-5885.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate8-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate8-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in)",
+        "weight": "453.6 g (1.00 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~63.7% screen-to-body ratio)",
+        "resolution": "1200 x 1600 pixels, 4:3 ratio (~250 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 4 T40 S",
+        "cpu": "Quad-core 1.8 GHz Cortex-A15"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nBeats Audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 5680 mAh, non-removable",
+        "talk_time": "Up to 11 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:18.194Z"
+  },
+  {
+    "sttTong": 3359,
+    "sttHang": 15,
+    "brand": "HP",
+    "deviceName": "HP Slate10 HD",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate10_hd-5884.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate10-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate10-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "259 x 178 x 9.7 mm (10.20 x 7.01 x 0.38 in)",
+        "weight": "626 g (1.38 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.0 inches, 290.0 cm2 (~62.9% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~151 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Marvell PXA986",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nBeats Audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass"
+      },
+      "battery": {
+        "type": "Li-Po 7000 mAh, non-removable",
+        "talk_time": "Up to 10 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:20.712Z"
+  },
+  {
+    "sttTong": 3360,
+    "sttHang": 16,
+    "brand": "HP",
+    "deviceName": "HP Slate7 Extreme",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate7_extreme-5883.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-extreme.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-extreme.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "200 x 120 x 9.4 mm (7.87 x 4.72 x 0.37 in)",
+        "weight": "319.8 g (11.25 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~59.2% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 4",
+        "cpu": "Quad-core 1.8 GHz Cortex-A15"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4100 mAh, non-removable",
+        "talk_time": "Up to 10 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:22.620Z"
+  },
+  {
+    "sttTong": 3361,
+    "sttHang": 17,
+    "brand": "HP",
+    "deviceName": "HP Slate7 Plus",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate7_plus-5882.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate7-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194.7 x 122.7 x 10.7 mm (7.67 x 4.83 x 0.42 in)",
+        "weight": "340.2 (11.99 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~59.5% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.3 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "talk_time": "Up to 7 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:23.106Z"
+  },
+  {
+    "sttTong": 3362,
+    "sttHang": 18,
+    "brand": "HP",
+    "deviceName": "HP Slate 7",
+    "deviceUrl": "https://www.gsmarena.com/hp_slate_7-5317.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-7-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-slate-7-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, February. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197.1 x 116.1 x 10.7 mm (7.76 x 4.57 x 0.42 in)",
+        "weight": "372 g (13.12 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "FFS+ LCD",
+        "size": "7.0 inches, 137.9 cm2 (~60.3% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion, non-removable",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver, Red",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:23.702Z"
+  },
+  {
+    "sttTong": 3363,
+    "sttHang": 19,
+    "brand": "HP",
+    "deviceName": "HP TouchPad 4G",
+    "deviceUrl": "https://www.gsmarena.com/hp_touchpad_4g-4044.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-touchpad-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-touchpad-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, July",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "240 x 190 x 13.7 mm (9.45 x 7.48 x 0.54 in)",
+        "weight": "740 g (1.63 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LED-backlit LCD,",
+        "size": "9.7 inches, 291.4 cm2 (~63.9% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~132 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 3.0",
+        "chipset": "Qualcomm APQ8060 Snapdragon S3",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nTouchstone technology\nSNS applications\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer/editor\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 6300 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:26.662Z"
+  },
+  {
+    "sttTong": 3365,
+    "sttHang": 21,
+    "brand": "HP",
+    "deviceName": "HP Veer",
+    "deviceUrl": "https://www.gsmarena.com/hp_veer-3771.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-veer-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-veer-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900\nHSDPA 900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 54.5 x 15.1 mm (3.31 x 2.15 x 0.59 in)",
+        "weight": "103 g (3.63 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.6 inches, 21.3 cm2 (~46.5% screen-to-body ratio)",
+        "resolution": "320 x 400 pixels (~197 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 2.2",
+        "chipset": "Qualcomm MSM7230",
+        "cpu": "800 MHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB (6.5GB user available)"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "fixed focus",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 910 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 320 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:27.990Z"
+  },
+  {
+    "sttTong": 3366,
+    "sttHang": 22,
+    "brand": "HP",
+    "deviceName": "HP Pre 3 CDMA",
+    "deviceUrl": "https://www.gsmarena.com/hp_pre_3_cdma-4105.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-3-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-3-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100\nCDMA2000 1xEV-DO",
+        "speed": "HSPA 7.2/5.76 Mbps / EV-DO Rev.A 3.1 Mbps"
+      },
+      "launch": {
+        "announced": "2011, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "111 x 64 x 16 mm (4.37 x 2.52 x 0.63 in)",
+        "weight": "156 g (5.50 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.58 inches, 36.5 cm2 (~51.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~261 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 2.2",
+        "chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "cpu": "1.4 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB 512MB RAM, 16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1230 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:29.432Z"
+  },
+  {
+    "sttTong": 3364,
+    "sttHang": 20,
+    "brand": "HP",
+    "deviceName": "HP Veer 4G",
+    "deviceUrl": "https://www.gsmarena.com/hp_veer_4g-3943.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-veer-4g-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-veer-4g-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, May. Released 2011, May 15",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 54.5 x 15.1 mm (3.31 x 2.15 x 0.59 in)",
+        "weight": "103 g (3.63 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.6 inches, 21.3 cm2 (~46.5% screen-to-body ratio)",
+        "resolution": "320 x 400 pixels (~197 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 2.1",
+        "chipset": "Qualcomm MSM7230",
+        "cpu": "800 MHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB (6.1GB user available)"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "fixed focus",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash\nAT&T dedicated applications\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 910 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White, black",
+        "price": "About 320 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:29.920Z"
+  },
+  {
+    "sttTong": 3367,
+    "sttHang": 23,
+    "brand": "HP",
+    "deviceName": "HP Pre 3",
+    "deviceUrl": "https://www.gsmarena.com/hp_pre_3-3770.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-3-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-3-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 64 x 16 mm (4.37 x 2.52 x 0.63 in)",
+        "weight": "156 g (5.50 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.58 inches, 36.5 cm2 (~51.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~261 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 2.2",
+        "chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "cpu": "1.4 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1230 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:32.662Z"
+  },
+  {
+    "sttTong": 3368,
+    "sttHang": 24,
+    "brand": "HP",
+    "deviceName": "HP TouchPad",
+    "deviceUrl": "https://www.gsmarena.com/hp_touchpad-3839.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-touch-pad-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-touch-pad-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "240 x 190 x 13.7 mm (9.45 x 7.48 x 0.54 in)",
+        "weight": "740 g (1.63 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit LCD,",
+        "size": "9.7 inches, 291.4 cm2 (~63.9% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~132 ppi density)"
+      },
+      "platform": {
+        "os": "HP webOS 3.0",
+        "chipset": "Qualcomm APQ8060 Snapdragon S3",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro",
+        "browser": "HTML, Adobe Flash\nTouchstone technology\nSNS applications\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer/editor\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 6300 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:34.057Z"
+  },
+  {
+    "sttTong": 3369,
+    "sttHang": 25,
+    "brand": "HP",
+    "deviceName": "HP iPAQ Glisten",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_glisten-3036.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-glisten.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-glisten.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.8 x 62.8 x 13.4 mm (4.44 x 2.47 x 0.53 in)",
+        "weight": "132 g (4.66 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED resistive touchscreen, 256K colors (65K effective colors)",
+        "size": "2.5 inches, 19.4 cm2 (~27.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nPocket Office \nOrganizer\nMedia player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.59 W/kg (head)     1.08 W/kg (body)",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:34.862Z"
+  },
+  {
+    "sttTong": 3370,
+    "sttHang": 26,
+    "brand": "HP",
+    "deviceName": "HP iPAQ Voice Messenger",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_voice_messenger-2561.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-voice-messenger.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-voice-messenger.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2009, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 50 x 13.6 mm (4.49 x 1.97 x 0.54 in)",
+        "weight": "107 g (3.77 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Standard",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMedia player\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1260 mAh battery"
+      },
+      "misc": {
+        "colors": "Blue",
+        "sar": "0.64 W/kg (head)     1.01 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:35.331Z"
+  },
+  {
+    "sttTong": 3371,
+    "sttHang": 27,
+    "brand": "HP",
+    "deviceName": "HP iPAQ Data Messenger",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_data_messenger-2560.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-data-messenger.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq-data-messenger.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2009, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 57 x 17.4 mm (4.49 x 2.24 x 0.69 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.81 inches, 24.5 cm2 (~37.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~142 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMedia player\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1140 mAh battery"
+      },
+      "misc": {
+        "colors": "Blue",
+        "sar": "0.71 W/kg (head)     1.04 W/kg (body)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:38.802Z"
+  },
+  {
+    "sttTong": 3372,
+    "sttHang": 28,
+    "brand": "HP",
+    "deviceName": "HP iPAQ 910c",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_910c-2095.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-910c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-910c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, September. Released 2008, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 64 x 16 mm (4.45 x 2.52 x 0.63 in)",
+        "weight": "146 g (5.15 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.46 inches, 18.7 cm2 (~25.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~163 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "Marvell PXA270 416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMedia player\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1840 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:40.346Z"
+  },
+  {
+    "sttTong": 3373,
+    "sttHang": 29,
+    "brand": "HP",
+    "deviceName": "HP iPAQ 610c",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_610c-2094.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-ipaq600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 60.3 x 17.5 mm (4.61 x 2.37 x 0.69 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~34.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nSmart Touch navigation wheel\n3-way thumb wheel"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Marvell PXA270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1590 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:42.339Z"
+  },
+  {
+    "sttTong": 3375,
+    "sttHang": 31,
+    "brand": "HP",
+    "deviceName": "HP iPAQ rw6815",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_rw6815-1803.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6815.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6815.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 19.5 mm (4.02 x 2.28 x 0.77 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~38.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:42.518Z"
+  },
+  {
+    "sttTong": 3376,
+    "sttHang": 32,
+    "brand": "HP",
+    "deviceName": "HP iPAQ rw6828",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_rw6828-1606.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 19.5 mm (4.02 x 2.28 x 0.77 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~38.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel PXA 272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:44.577Z"
+  },
+  {
+    "sttTong": 3377,
+    "sttHang": 33,
+    "brand": "HP",
+    "deviceName": "HP iPAQ rw6818",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_rw6818-1607.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-rw6800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 19.5 mm (4.02 x 2.28 x 0.77 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~38.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel PXA 272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:45.371Z"
+  },
+  {
+    "sttTong": 3374,
+    "sttHang": 30,
+    "brand": "HP",
+    "deviceName": "HP iPAQ 514",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_514-1900.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-514.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-514.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 48.6 x 16.3 mm (4.21 x 1.91 x 0.64 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Standard",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 188 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:45.642Z"
+  },
+  {
+    "sttTong": 3378,
+    "sttHang": 34,
+    "brand": "HP",
+    "deviceName": "HP iPAQ hw6915",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_hw6915-1459.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 71 x 18 mm (4.65 x 2.80 x 0.71 in)",
+        "weight": "179 g (6.31 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "240 x 240 pixels, 3 inch, 1:1 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2005 PocketPC",
+        "cpu": "Intel PXA 270 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 45MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 550 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:49.637Z"
+  },
+  {
+    "sttTong": 3380,
+    "sttHang": 36,
+    "brand": "HP",
+    "deviceName": "HP iPAQ hw6515",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_hw6515-1312.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6515.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6515.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 71 x 18 mm (4.65 x 2.80 x 0.71 in)",
+        "weight": "165 g (5.82 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.0 inches, 45 x 60 mm, 29.0 cm2 (~34.7% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~113 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC Phone Edition",
+        "cpu": "Intel PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC + miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:50.075Z"
+  },
+  {
+    "sttTong": 3379,
+    "sttHang": 35,
+    "brand": "HP",
+    "deviceName": "HP iPAQ hw6910",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_hw6910-1720.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 71 x 18 mm (4.65 x 2.80 x 0.71 in)",
+        "weight": "179 g (6.31 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "240 x 240 pixels, 3 inch, 1:1 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2005 PocketPC",
+        "cpu": "Intel PXA 270 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 45MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 470 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:50.093Z"
+  },
+  {
+    "sttTong": 3381,
+    "sttHang": 37,
+    "brand": "HP",
+    "deviceName": "HP iPAQ hw6510",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_hw6510-1313.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6510.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-hw6510.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 71 x 18 mm (4.65 x 2.80 x 0.71 in)",
+        "weight": "165 g (5.82 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.0 inches, 45 x 60 mm, 29.0 cm2 (~34.7% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~113 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC Phone Edition",
+        "cpu": "Intel PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC + miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:50.363Z"
+  },
+  {
+    "sttTong": 3382,
+    "sttHang": 38,
+    "brand": "HP",
+    "deviceName": "HP iPAQ h6325",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_h6325-1310.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6325.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6325.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137.6 x 74.6 x 20.8 mm (5.42 x 2.94 x 0.82 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~37.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC Phone Edition",
+        "chipset": "TI OMAP 1510",
+        "cpu": "ARM925T"
+      },
+      "memory": {
+        "card_slot": "SD, up to 1 GB",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, WMA, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:55.235Z"
+  },
+  {
+    "sttTong": 3385,
+    "sttHang": 41,
+    "brand": "HP",
+    "deviceName": "HP iPAQ h6310",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_h6310-1308.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6310.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6310.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 75 x 18.7 mm (4.69 x 2.95 x 0.74 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC Phone Edition",
+        "chipset": "TI OMAP 1510",
+        "cpu": "ARM925T"
+      },
+      "memory": {
+        "card_slot": "SD, up to 1 GB",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:56.488Z"
+  },
+  {
+    "sttTong": 3384,
+    "sttHang": 40,
+    "brand": "HP",
+    "deviceName": "HP iPAQ h6315",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_h6315-1309.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6315.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6315.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 75 x 18.7 mm (4.69 x 2.95 x 0.74 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC Phone Edition",
+        "chipset": "TI OMAP 1510",
+        "cpu": "ARM925T"
+      },
+      "memory": {
+        "card_slot": "SD, up to 1 GB",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:17:56.607Z"
+  },
+  {
+    "sttTong": 3383,
+    "sttHang": 39,
+    "brand": "HP",
+    "deviceName": "HP iPAQ h6320",
+    "deviceUrl": "https://www.gsmarena.com/hp_ipaq_h6320-1311.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6320.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hp-h6320.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137.6 x 74.6 x 20.8 mm (5.42 x 2.94 x 0.82 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~37.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC Phone Edition",
+        "chipset": "TI OMAP 1510",
+        "cpu": "ARM925T"
+      },
+      "memory": {
+        "card_slot": "SD, up to 1 GB",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:18:04.471Z"
+  }
+]

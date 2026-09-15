@@ -1,0 +1,282 @@
+[
+  {
+    "sttTong": 1158,
+    "sttHang": 1,
+    "brand": "AT&T",
+    "deviceName": "AT&T Quickfire",
+    "deviceUrl": "https://www.gsmarena.com/at&t_quickfire-2598.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/quickfire.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/quickfire.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, November. Released 2008, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 56 x 18 mm (4.29 x 2.20 x 0.71 in)",
+        "weight": "136 g (4.80 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~39.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "29MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+/WMA player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 288 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Gray, Green, Orange",
+        "sar": "1.10 W/kg (head)     0.99 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:39.322Z"
+  },
+  {
+    "sttTong": 1159,
+    "sttHang": 2,
+    "brand": "AT&T",
+    "deviceName": "AT&T SMT5700",
+    "deviceUrl": "https://www.gsmarena.com/at&t_smt5700-2603.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-5700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-5700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 60 x 14 mm (4.41 x 2.36 x 0.55 in)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "320 x 240 pixels, 4:3 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP V1030",
+        "cpu": "260 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/MP4 player\nVoice dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:40.634Z"
+  },
+  {
+    "sttTong": 1160,
+    "sttHang": 3,
+    "brand": "AT&T",
+    "deviceName": "AT&T Mustang",
+    "deviceUrl": "https://www.gsmarena.com/at&t_mustang-2602.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-mustang.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-mustang.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 1.8 Mbps"
+      },
+      "launch": {
+        "announced": "2007, October. Released 2007, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 50 x 19.9 mm (4.02 x 1.97 x 0.78 in)",
+        "weight": "110 g (3.88 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nDual slide design"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~29.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Windows Mobile 6 Standard",
+        "cpu": "Marvell Bulverde 416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1320 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:48.821Z"
+  },
+  {
+    "sttTong": 1161,
+    "sttHang": 4,
+    "brand": "AT&T",
+    "deviceName": "AT&T 8525",
+    "deviceUrl": "https://www.gsmarena.com/at&t_8525-2601.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-8525.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/att-8525.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 1.8 Mbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 58 x 22 mm (4.45 x 2.28 x 0.87 in)",
+        "weight": "176 g (6.21 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "400 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1350 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:55.031Z"
+  }
+]

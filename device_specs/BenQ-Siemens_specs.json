@@ -1,0 +1,1958 @@
+[
+  {
+    "sttTong": 1206,
+    "sttHang": 1,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens SF71",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_sf71-2075.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sf71.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sf71.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 48 x 23 mm (3.78 x 1.89 x 0.91 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~26.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSecond external 65K colors display, OLED (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "45MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "5 - StarWars, SeaBattle, SuperBomber + downloadable",
+        "java": "Yes, MIDP 2.0\nVideo telephony\nMP3/AAC/AAC+/eAAC+ player\nPhoto editor\nPredictive text input\nVoice dial\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:01.444Z"
+  },
+  {
+    "sttTong": 1207,
+    "sttHang": 2,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens E52",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_e52-2000.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e52.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e52.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "102 x 45 x 14.9 mm (4.02 x 1.77 x 0.59 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~22.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAAC/MP3 player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 245 h",
+        "talk_time": "Up to 4 h 10 min"
+      },
+      "misc": {
+        "colors": "TransSilver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:05.312Z"
+  },
+  {
+    "sttTong": 1209,
+    "sttHang": 4,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens C31",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_c31-2001.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c31.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c31.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "99.8 x 46.7 x 16.7 mm (3.93 x 1.84 x 0.66 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAAC/MP3 player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "SilverShine, GraphiteGloss"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:10.780Z"
+  },
+  {
+    "sttTong": 1211,
+    "sttHang": 6,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens AL26",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_al26-1666.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-al26.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-al26.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "86.8 x 45.8 x 19.2 mm (3.42 x 1.80 x 0.76 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio\nSpecial Hello Kitty wallpapers and ringtones\n4-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 1.0\nCalculator\nCurrency converter\nBirthday reminder"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Pink"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:15.390Z"
+  },
+  {
+    "sttTong": 1208,
+    "sttHang": 3,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens C32",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_c32-2110.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c32.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c32.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, July",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "101.6 x 47.3 x 16.6 mm (4.0 x 1.86 x 0.65 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~26.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAAC/MP3 player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Liquid aura"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:22.767Z"
+  },
+  {
+    "sttTong": 1212,
+    "sttHang": 7,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens A53",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_a53-2511.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a53.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a53.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 42 x 14.8 mm (3.15 x 1.65 x 0.58 in)",
+        "weight": "68 g (2.40 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external 65K colors CSTN display, 120 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:28.093Z"
+  },
+  {
+    "sttTong": 1215,
+    "sttHang": 10,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens E71",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_e71-1650.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e71.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e71.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 46 x 15 mm (4.09 x 1.81 x 0.59 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.1 inches, 31 x 42 mm, 13.7 cm2 (~28.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~190 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "16MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+ player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 730 mAh battery",
+        "stand-by": "Up to 390 h",
+        "talk_time": "Up to 6 h 20 min"
+      },
+      "misc": {
+        "colors": "Dark Silver, Onyx Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:41.453Z"
+  },
+  {
+    "sttTong": 1214,
+    "sttHang": 9,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens E81",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_e81-1651.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e81.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e81.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99.8 x 46.7 x 16.7 mm (3.93 x 1.84 x 0.66 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "16MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/eAAC+/XMF player\nPredictive text input\nReminder\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Lucent Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:43.486Z"
+  },
+  {
+    "sttTong": 1216,
+    "sttHang": 11,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EF61",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_ef61-1640.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef61.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef61.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 46 x 23 mm (3.46 x 1.81 x 0.91 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external CSTN, 4096 colors display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "1.5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n3D surround sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/WMA player\nPhoto editor\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 225 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Whisper"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:45.439Z"
+  },
+  {
+    "sttTong": 1210,
+    "sttHang": 5,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens SL80",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_sl80-1668.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sl80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sl80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "92 x 48 x 23 mm, 78 cc (3.62 x 1.89 x 0.91 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.0 cm2 (~22.7% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~122 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 x 23 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "52MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "SeaBattle, Wappo 2, Golf + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Mauve Sensation"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:49.523Z"
+  },
+  {
+    "sttTong": 1213,
+    "sttHang": 8,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens SL91",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_sl91-1652.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sl91.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-sl91.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 47 x 23 mm (3.50 x 1.85 x 0.91 in)",
+        "weight": "109 g (3.84 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~29.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nTouch-sensitive navigation keys"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/eAAC+/XMF player\nPredictive text input\nReminder\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 310 h",
+        "talk_time": "Up to 3 h 15 min"
+      },
+      "misc": {
+        "colors": "Magic Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:49.547Z"
+  },
+  {
+    "sttTong": 1218,
+    "sttHang": 13,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens A58",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_a58-1574.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a58.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a58.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "102 x 46 x 17.6 mm, 75 cc (4.02 x 1.81 x 0.69 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "6.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(32), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + Java downloadable",
+        "java": "Yes, MIDP 2.0\niTap\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Mercury Silver, Carbon Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:51.823Z"
+  },
+  {
+    "sttTong": 1219,
+    "sttHang": 14,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens A38",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_a38-1573.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a38.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-a38.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.5 x 45.5 x 18.7 mm (4.07 x 1.79 x 0.74 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.4 inches, 5.8 cm2 (~12.4% screen-to-body ratio)",
+        "resolution": "96 x 64 pixels, 3:2 ratio (~82 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "256 KB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "No",
+        "games": "Box World, Mini Mouse, Bricks",
+        "java": "No\niTap\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 860 mAh battery",
+        "stand-by": "Up to 286 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Bold Charcoal, X-treme Gray"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:54.598Z"
+  },
+  {
+    "sttTong": 1220,
+    "sttHang": 15,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EF71",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_ef71-1568.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef71.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef71.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 47 x 18.5 mm (3.54 x 1.85 x 0.73 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.2 cm2 (~36.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nSecond external mono display, OLED (128 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "24MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n3D surround sound, 10-band\nequalizer"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/WMA player\nPhoto editor\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 225 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Stellar Aluminum"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:55.841Z"
+  },
+  {
+    "sttTong": 1221,
+    "sttHang": 16,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens P51",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_p51-1497.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-p51.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-p51.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 60 x 20 mm, 130 cc (4.80 x 2.36 x 0.79 in)",
+        "weight": "170 g (6.00 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~33.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\n5-way navigation stick"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "32-bit Intel XScale PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO",
+        "internal": "64MB RAM, 192MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g, VoIP via Wi-Fi",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/MP4 player\nHandwriting recognition\nPocket Office \nVoice command"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1370 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:43:56.173Z"
+  },
+  {
+    "sttTong": 1217,
+    "sttHang": 12,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens M81",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_m81-1593.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-m81.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-m81.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.3 x 47.5 x 18.4 mm (4.15 x 1.87 x 0.72 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM\nDust and shock resistant"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 27 x 36 mm, 10.0 cm2 (~20.1% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~122 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "27MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Graphite Black, Steel Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:58.200Z"
+  },
+  {
+    "sttTong": 1222,
+    "sttHang": 17,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EL71",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_el71-1499.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-el71.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-el71.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 46.3 x 16.5 mm (3.54 x 1.82 x 0.65 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.4 cm2 (~29.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "16MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/WAV player\nPredictive text input\nStopwatch\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 570 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Vibrant grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:43:59.257Z"
+  },
+  {
+    "sttTong": 1225,
+    "sttHang": 20,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens C81",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_c81-1498.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c81.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-c81.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 46.5 x 17.7 mm (4.09 x 1.83 x 0.70 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 27 x 36 mm, 10.0 cm2 (~20.7% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~122 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "23MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Piano Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:03.566Z"
+  },
+  {
+    "sttTong": 1227,
+    "sttHang": 22,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EF91",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_ef91-1437.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef91.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef91.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 46.5 x 23.5 mm, 86 cc (3.62 x 1.83 x 0.93 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.4 cm2 (~29.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSecond external 65K colors display, OLED(96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n3D sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nVideo telephony\nMP3/AAC player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Arctic Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:05.114Z"
+  },
+  {
+    "sttTong": 1228,
+    "sttHang": 23,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens S81",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_s81-1438.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s81.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s81.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 48 x 13 mm (4.29 x 1.89 x 0.51 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 31 x 39 mm, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "30MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nVideo telephony\niTap\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 4 h 50 min"
+      },
+      "misc": {
+        "colors": "Black/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:08.585Z"
+  },
+  {
+    "sttTong": 1224,
+    "sttHang": 19,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens CF61",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_cf61-1500.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-cf61.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-cf61.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 46 x 23 mm, 80 cc (3.46 x 1.81 x 0.91 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~25.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external 4K colors display, CSTN (96 x 64 pixels)\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n3D surround sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/WMA player\nPredictive text input\nOrganizer\nExchangeable front cover\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 225 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:09.750Z"
+  },
+  {
+    "sttTong": 1223,
+    "sttHang": 18,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens CL71",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_cl71-1501.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-cl71.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-cl71.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 46.5 x 17.8 mm (3.82 x 1.83 x 0.70 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "24MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/WMA player\nPredictive text input\nVoice dial\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:10.137Z"
+  },
+  {
+    "sttTong": 1232,
+    "sttHang": 27,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens Z150",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_z150-751.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bqz150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bqz150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, 1Q",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "79 x 40 x 20 mm (3.11 x 1.57 x 0.79 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\n- Second external CSTN display 96 x 64 pixels, 4096 colors\n- Downloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 1.0\n- Java MIDP 1.0\n- WAP 2.0\n- iTap"
+      },
+      "battery": {},
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:44:15.287Z"
+  },
+  {
+    "sttTong": 1230,
+    "sttHang": 25,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EF81",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_ef81-1412.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef81.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef81.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 51 x 15.9 mm (3.70 x 2.01 x 0.63 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~31.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external 256K colors display, TFT (120 x 160 pixels)\nAluminum rear cover"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "rotating lens",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "5 - StarWars, SeaBattle, SuperBomber + downloadable",
+        "java": "Yes, MIDP 2.0\nVideo telephony\nMP3/AAC player\nVideo player\nPhoto editor\nPredictive text input\nVoice dial\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Titanium Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:15.580Z"
+  },
+  {
+    "sttTong": 1231,
+    "sttHang": 26,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens S88",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_s88-1411.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s88.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s88.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 47 x 17 mm (3.90 x 1.85 x 0.67 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 256K colors",
+        "size": "2.0 inches, 31 x 39 mm, 12.6 cm2 (~27.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No\n3D surrounding sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h 15 min"
+      },
+      "misc": {
+        "colors": "Cosmic Black, Astral White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:20.827Z"
+  },
+  {
+    "sttTong": 1229,
+    "sttHang": 24,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens EF51",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_ef51-1436.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef51.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-ef51.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 49 x 18 mm (3.50 x 1.93 x 0.71 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 40 x 40 mm, 15.6 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "120 x 128 pixels (~80 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n3D surround sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nWMA/MP3/AAC/AAC+ player\nPredictive text input\nVoice memo\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 870 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Flashy White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:29.363Z"
+  },
+  {
+    "sttTong": 1226,
+    "sttHang": 21,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens E61",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_e61-1502.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e61.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-e61.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 44 x 17 mm (3.98 x 1.73 x 0.67 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~22.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 x 12 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "1MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nAAC/AAC+/AAC++/MIDI/MP3/PCM(WAV)/XMF player\nPredictive text input\nVoice memo\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 840 mAh battery",
+        "stand-by": "Up to 215 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:35.386Z"
+  },
+  {
+    "sttTong": 1233,
+    "sttHang": 28,
+    "brand": "BenQ-Siemens",
+    "deviceName": "BenQ-Siemens S68",
+    "deviceUrl": "https://www.gsmarena.com/benq_siemens_s68-1410.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s68.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benqsiemens-s68.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 44 x 13.2 mm, 58 cc (4.23 x 1.73 x 0.52 in)",
+        "weight": "78.5 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 28 x 37 mm, 10.0 cm2 (~21.2% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~122 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "26MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMedia player \nPredictive text input\nStopwatch\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 660 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Brushed Aluminum"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:35.951Z"
+  }
+]

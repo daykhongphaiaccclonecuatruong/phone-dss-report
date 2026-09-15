@@ -1,0 +1,1691 @@
+[
+  {
+    "sttTong": 6344,
+    "sttHang": 1,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M430i/M900",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m430i_m900-879.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mip900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mip900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 49 x 24 mm, 100 cc (4.13 x 1.93 x 0.94 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFD, 256K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~29.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external TFD display (120 x 160 pixels), 256K colors\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD, 32 MB included",
+        "phonebook": "500 x 15 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "15MB\n400 short messages"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, iMode (M430i only)",
+        "games": "2 + downloadable",
+        "languages": "English, French, German, Italian, Spanish, Dutch a",
+        "java": "Yes, DoJa 2.5\nMP3 player (M900 only)\nPredictive text input\nOrganizer\nPhoto editor\nVoice memo\nVoice dial (20 slots)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 810 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:29.010Z"
+  },
+  {
+    "sttTong": 6345,
+    "sttHang": 2,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M800",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m800-915.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 45 x 22 mm (3.50 x 1.77 x 0.87 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external flashing  display\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 5 fields, Photo call, 8 groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB\n300 short messages"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "5 + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nWorld Time"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Sleek silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:52.042Z"
+  },
+  {
+    "sttTong": 6346,
+    "sttHang": 3,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M420i/M760",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m420i_m760-914.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim760.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim760.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 47 x 25 mm (3.86 x 1.85 x 0.98 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFD, 256K colors",
+        "resolution": "176 x 240 pixels, 4:3 ratio\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "19MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, iMode (M420i only)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nPhoto editor\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:58.704Z"
+  },
+  {
+    "sttTong": 6348,
+    "sttHang": 5,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M520",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m520-910.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim520.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim520.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 43 x 22 mm (2.99 x 1.69 x 0.87 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external CSTN display (96 x 64 pixels), 65K colors\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "5 + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nWorld Time"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Crystal Silver and Sapphire Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:19:09.905Z"
+  },
+  {
+    "sttTong": 6349,
+    "sttHang": 6,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M350",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m350-782.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim350.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim350.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 20 mm, 85 cc (4.21 x 1.85 x 0.79 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels,  7 lines\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "2",
+        "java": "Yes\nPredictive text input\nVoice dial/memo\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery"
+      },
+      "misc": {
+        "colors": "Metallic Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:21:07.150Z"
+  },
+  {
+    "sttTong": 6347,
+    "sttHang": 4,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M528",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m528-1146.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitsubishi-m528.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitsubishi-m528.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 43 x 22 mm (2.99 x 1.69 x 0.87 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external CSTN display (96 x 64 pixels), 65K colors\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:21:12.802Z"
+  },
+  {
+    "sttTong": 6350,
+    "sttHang": 7,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M750",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m750-744.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim750.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim750.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 47 x 24 mm, 88 cc (3.78 x 1.85 x 0.94 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external STN display (62 x 80 pixels), 4096 colors\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Yes - Demo Mox + downloadable",
+        "languages": "English, French, German, Italian, Spanish, Dutch",
+        "java": "Yes\nPredictive text input\nVoice dial/memo\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:21:17.739Z"
+  },
+  {
+    "sttTong": 6351,
+    "sttHang": 8,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M342i",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m342i-685.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim342i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim342i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 19 mm, 85 cc (4.21 x 1.85 x 0.75 in)",
+        "weight": "99 (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic - SP midi, MFI (i-mode), Midi, i-melody, AMR ringtones",
+        "35mm_jack": "No\nMelody formats: SP midi, MFI (Music format for i-mode), Midi, i-melody, AMR\nPicture formats: .jpg, .gif, .png, .wbmp and animated gi"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "iMode",
+        "games": "2 embedded  + downloadable",
+        "languages": "English, French, German, Italian, Spanish, Dutch a",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nVoice memo\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:21:22.416Z"
+  },
+  {
+    "sttTong": 6353,
+    "sttHang": 10,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M330",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m330-491.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim330.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim330.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 47 x 20 mm (4.57 x 1.85 x 0.79 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 141 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n20 voice dial records\n2 min voice memo\n100 text messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic - Midi, SP-Midi, iMelody ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "English, Chinese, Thai",
+        "java": "No\nPredictive text input\nVoice dial\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 350h",
+        "talk_time": "Up to 4h"
+      },
+      "misc": {
+        "colors": "2 - Quartz Silver and Frost White."
+      }
+    },
+    "scrapedAt": "2026-09-06T04:21:30.707Z"
+  },
+  {
+    "sttTong": 6354,
+    "sttHang": 11,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi m21i",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m21i-416.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim21i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim21i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 47 x 19 mm, 85 cc (4.53 x 1.85 x 0.75 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 141 pixels\nDownloadable wallpapers\nCustomizable softkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields, Photo call",
+        "call_records": "undefined\n150 SMS messages\nSMS templates\nDetailed call logs"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No\nPolyphonic ringtones (SMF, MFi 3.0, MFi 3.0 with ADPCM)"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email (melody attachments)",
+        "browser": "iMode",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Rayman Bowling and Rayman Garden",
+        "java": "No\nBusiness card exchange via IrDA\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "3 - Quartz gold ; Frozen silver ;Marine blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:21:40.633Z"
+  },
+  {
+    "sttTong": 6355,
+    "sttHang": 12,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M320",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m320-373.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim320.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim320.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 47 x 20 mm (4.57 x 1.85 x 0.79 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 141 pixels\nDownloadable wallpapers\nCustomizable softkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields",
+        "call_records": "undefined\n20 voice dial records\n150 SMS messages\nSMS templates\nDetailed call logs"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1 color image viewer (GIF, PNG, JPG)",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nBusiness card exchange via IrDA\nVoice dial\nVoice memo\nPredictive text input\nOrganizer\nCustomizable front panel"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "3 - Quartz gold ; Frozen silver ;Marine blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:21:46.353Z"
+  },
+  {
+    "sttTong": 6352,
+    "sttHang": 9,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi M341i/M720",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_m341i_m720-593.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim341i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mim341i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 47 x 24 mm, 87 cc (3.78 x 1.85 x 0.94 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 10 lines\nSecond external display (62 x 80 pixels), 4096 colors\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 6 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "5MB\n20 voice dial slots\n2 min voice memo\n100 organizer events"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic - (Midi, MFI, ADPCM) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1, iMode (M341i only)",
+        "games": "Yes - Demo Mox + downloadable",
+        "languages": "English, French, German, Italian, Spanish, Dutch",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nVoice memo/dial\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:21:51.612Z"
+  },
+  {
+    "sttTong": 6356,
+    "sttHang": 13,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Eclipse",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_eclipse-255.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/miecli.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/miecli.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 48 x 29 mm, 100 cc (4.84 x 1.89 x 1.14 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "120 x 143 pixels\nPicture menu\nSoftkey\nIcons, menu, wallpaper personalisation"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 5 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n20 voice dial slots\n2 min voice memo\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Rayman Bowling, Rayman Garden",
+        "java": "No\nBusiness card exchange via IrDA\nVoice dial\nVoice memo\nPredictive text input\nOrganizer\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "180 h",
+        "talk_time": "3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:21:52.102Z"
+  },
+  {
+    "sttTong": 6358,
+    "sttHang": 15,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Neptune",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_neptune-204.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/minept.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/minept.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 28 mm (4.72 x 1.97 x 1.10 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input\nScratchpad\nCurrency converter\nActive flip"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:22:05.941Z"
+  },
+  {
+    "sttTong": 6357,
+    "sttHang": 14,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Sirius",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_sirius-254.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/misiri.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/misiri.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 2",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "Mid 2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 53 x 22 mm (4.09 x 2.09 x 0.87 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 5 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n20 voice dial slots\n20 sec voice memo\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2",
+        "languages": "8",
+        "java": "No\nVoice dial\nVoice memo\nBusiness card exchange via IrDA\nPredictive text input\nOrganizer\nScratchpad\nActive flip"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "120 h",
+        "talk_time": "3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:23:08.262Z"
+  },
+  {
+    "sttTong": 6359,
+    "sttHang": 16,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Mars",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_mars-203.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mimars.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mimars.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 28 mm (4.72 x 1.97 x 1.10 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH 800 mAh battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:14.009Z"
+  },
+  {
+    "sttTong": 6361,
+    "sttHang": 18,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Mondo",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_mondo-64.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mimondb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mimondb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139.5 x 84 x 19 mm (5.49 x 3.31 x 0.75 in)",
+        "weight": "200 g (7.05 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome resistive touchscreen, 16 shades",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows PocketPC",
+        "cpu": "64-bit NEC VR4131 166 MHz"
+      },
+      "memory": {
+        "card_slot": "No\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "languages": "8\nPredictive text input\nCalculator\nPDA compatible\nMP3 reader"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "100 h",
+        "talk_time": "2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:23:14.927Z"
+  },
+  {
+    "sttTong": 6360,
+    "sttHang": 17,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Geo-@",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_geo_@-59.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/migeo2b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/migeo2b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 49 x 29 mm, 140 cc (5.20 x 1.93 x 1.14 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 5 received, 5 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH 900 mAh battery",
+        "stand-by": "150 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "2 - Wine red & Dark grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:17.992Z"
+  },
+  {
+    "sttTong": 6364,
+    "sttHang": 21,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Cosmo",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_cosmo-61.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/micosmb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/micosmb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 51 x 16 mm, 72 cc (4.06 x 2.01 x 0.63 in)",
+        "weight": "69 g (2.43 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\n\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input for 5 languages\nCalculator\nAuto On/Off switch\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 540 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "2"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:19.785Z"
+  },
+  {
+    "sttTong": 6363,
+    "sttHang": 20,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium fx",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_fx-62.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mifxb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mifxb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 28 mm (4.72 x 1.97 x 1.10 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input\nCalculator\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:21.333Z"
+  },
+  {
+    "sttTong": 6366,
+    "sttHang": 23,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Geo",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_geo-58.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/migeob.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/migeob.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 49 x 29 mm, 140 cc (5.20 x 1.93 x 1.14 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 5 received, 5 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "8",
+        "java": "No\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH 900 mAh battery",
+        "stand-by": "150 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:24.794Z"
+  },
+  {
+    "sttTong": 6362,
+    "sttHang": 19,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium xs",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_xs-63.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mixsb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mixsb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 28 mm (4.72 x 1.97 x 1.10 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input\nCalculator\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:26.787Z"
+  },
+  {
+    "sttTong": 6368,
+    "sttHang": 25,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Galaxy",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_galaxy-56.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/migalab.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/migalab.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 49 x 29 mm, 140 cc (5.20 x 1.93 x 1.14 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 5 received, 5 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "8",
+        "java": "No\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH 900 mAh battery",
+        "stand-by": "150 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:29.711Z"
+  },
+  {
+    "sttTong": 6365,
+    "sttHang": 22,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Aria",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_aria-60.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/miariab.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/miariab.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 40 x 23 mm, 90 cc (4.84 x 1.57 x 0.91 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "8",
+        "java": "No\nPredictive text input for 5 languages\nOrganizer\nAuto On/Off switch\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 580 mAh battery",
+        "stand-by": "75 h",
+        "talk_time": "2 h"
+      },
+      "misc": {
+        "colors": "2"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:32.746Z"
+  },
+  {
+    "sttTong": 6367,
+    "sttHang": 24,
+    "brand": "Mitsubishi",
+    "deviceName": "Mitsubishi Trium Astral",
+    "deviceUrl": "https://www.gsmarena.com/mitsubishi_trium_astral-57.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/miastrb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/miastrb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 49 x 29 mm, 140 cc (5.20 x 1.93 x 1.14 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "5 x 13 to 25 chars\nPicture menu\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 5 received, 5 missed calls\nDetailed call duration reports"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No\nAscending ring tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "8",
+        "java": "No\nScratchpad\nCurrency converter"
+      },
+      "battery": {
+        "type": "Removable NiMH 900 mAh battery",
+        "stand-by": "150 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:36.466Z"
+  }
+]

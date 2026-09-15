@@ -1,0 +1,6176 @@
+[
+  {
+    "sttTong": 13418,
+    "sttHang": 1,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart V10",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_v10-9726.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-v10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-v10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, May. Released 2019, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.3 x 69.9 x 8.2 mm (5.96 x 2.75 x 0.32 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.9 inches, 85.5 cm2 (~80.8% screen-to-body ratio)",
+        "resolution": "720 x 1560 pixels, 19.5:9 ratio (~291 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Qualcomm SDM429 Snapdragon 429 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "Adreno 504"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, AF\n5 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3400 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Chrome Pewter",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:17.325Z"
+  },
+  {
+    "sttTong": 13419,
+    "sttHang": 2,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart N10",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_n10-9725.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, May. Released 2019, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.8 x 69.9 x 8.4 mm (5.86 x 2.75 x 0.33 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.67 inches, 80.9 cm2 (~77.8% screen-to-body ratio)",
+        "resolution": "720 x 1500 pixels (~293 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6761V/WA Helio A22 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2920 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Blue Borealis",
+        "models": "VFD 630, 5048Y",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:32.364Z"
+  },
+  {
+    "sttTong": 13422,
+    "sttHang": 5,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart N9",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_n9-9235.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n9-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n9-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2018, June. Released 2018, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147.1 x 68.8 x 8.7 mm (5.79 x 2.71 x 0.34 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 78.1 cm2 (~77.1% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~293 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Mediatek MT6739WA (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro (market dependent), proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2900 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Silver Aluminium, Black Titanium",
+        "models": "VFD 720",
+        "sar_eu": "0.96 W/kg (head)     1.56 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:45:42.620Z"
+  },
+  {
+    "sttTong": 13425,
+    "sttHang": 8,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart E8",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_e8-8750.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-e8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-e8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.6 x 72.1 x 9.2 mm (5.73 x 2.84 x 0.36 in)",
+        "weight": "169 g (5.96 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.6% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Qualcomm MSM8909 Snapdragon 210 (28 nm)",
+        "cpu": "Quad-core 1.1 GHz Cortex-A7",
+        "gpu": "Adreno 304"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable"
+      },
+      "misc": {
+        "colors": "Slate Blue",
+        "models": "VFD 510, VFD 513",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:46:50.904Z"
+  },
+  {
+    "sttTong": 13426,
+    "sttHang": 9,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart V8",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_v8-8744.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-v8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-v8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155 x 76 x 7.9 mm (6.10 x 2.99 x 0.31 in)",
+        "weight": "166 g (5.86 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.8% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "VFD 710",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:46:57.001Z"
+  },
+  {
+    "sttTong": 13428,
+    "sttHang": 11,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Tab Prime 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_tab_prime_7-8382.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-tab-prime-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-tab-prime-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "259.2 x 155.8 x 8 mm (10.20 x 6.13 x 0.31 in)",
+        "weight": "439 g (15.49 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~73.2% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 5830 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Silver",
+        "models": "VFD 1400",
+        "sar_eu": "1.44 W/kg (head)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:04.960Z"
+  },
+  {
+    "sttTong": 13424,
+    "sttHang": 7,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab N8",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_n8-8751.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-n8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-n8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "260 x 155 x 9 mm (10.24 x 6.10 x 0.35 in)",
+        "weight": "465 g (1.03 lb)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~73.4% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT8735B",
+        "cpu": "Quad-core 1.1 GHz Cortex-A7",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4600 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Volcano Black",
+        "models": "VFD 1300",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:20.736Z"
+  },
+  {
+    "sttTong": 13427,
+    "sttHang": 10,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart N8",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_n8-8723.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.5 x 71.9 x 8.6 mm (5.69 x 2.83 x 0.34 in)",
+        "weight": "151 g (5.33 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1.5GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2400 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Graphite, Gold",
+        "models": "VFD 610",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:51.209Z"
+  },
+  {
+    "sttTong": 13432,
+    "sttHang": 15,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart prime 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_prime_7-8099.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-prime-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-prime-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 72.1 x 8 mm (5.67 x 2.84 x 0.31 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 69.4 cm2 (~66.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~293 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow)",
+        "chipset": "Qualcomm MSM8909 Snapdragon 210 (28 nm)",
+        "cpu": "Quad-core 1.1 GHz Cortex-A7",
+        "gpu": "Adreno 304"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2540 mAh, non-removable",
+        "stand-by": "Up to 499 h (3G)",
+        "talk_time": "Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Graphite Black, Boron White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:56.732Z"
+  },
+  {
+    "sttTong": 13420,
+    "sttHang": 3,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart E9",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_e9-9484.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-e9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-e9.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, December. Released 2018, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137.6 x 65.7 x 9.8 mm (5.42 x 2.59 x 0.39 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 64.5 cm2 (~71.4% screen-to-body ratio)",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.1 Oreo (Go edition)",
+        "chipset": "Mediatek MT6739 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Anthracite",
+        "models": "VFD 527, VFD 528",
+        "sar_eu": "0.91 W/kg (head)     1.63 W/kg (body)",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:57.220Z"
+  },
+  {
+    "sttTong": 13430,
+    "sttHang": 13,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart ultra 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_ultra_7-8163.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ultra-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ultra-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, June. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.2 x 78.1 x 8.7 mm (5.99 x 3.07 x 0.34 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow)",
+        "chipset": "Mediatek MT6755M (28 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2960 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Silver, Dark Grey",
+        "models": "VFD 700, VFD700",
+        "sar_eu": "0.54 W/kg (head)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:57.564Z"
+  },
+  {
+    "sttTong": 13423,
+    "sttHang": 6,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart N9 lite",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_n9_lite-9236.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n9-lite-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-n9-lite-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2018, June. Released 2018, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.2 x 68.9 x 9.4 mm (5.83 x 2.71 x 0.37 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.34 inches, 73.6 cm2 (~72.1% screen-to-body ratio)",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~201 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.1 Oreo (Go edition)",
+        "chipset": "Mediatek MT6739WA (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro (market dependent), proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2460 mAh battery"
+      },
+      "misc": {
+        "colors": "White Pearl, Black Ice",
+        "models": "VFD 620",
+        "sar_eu": "0.90 W/kg (head)     1.69 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:47:58.429Z"
+  },
+  {
+    "sttTong": 13437,
+    "sttHang": 20,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart prime 6",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_prime_6-7230.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-prime.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-prime.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141.7 x 71.9 x 9 mm (5.58 x 2.83 x 0.35 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0.2 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, non-removable",
+        "stand-by": "Up to 915 h (3G)",
+        "talk_time": "Up to 18 h (3G)"
+      },
+      "misc": {
+        "colors": "Gray, Silver",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:04.160Z"
+  },
+  {
+    "sttTong": 13434,
+    "sttHang": 17,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart speed 6",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_speed_6-7608.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-speed-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-speed-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, September. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132.2 x 65.1 x 10 mm (5.20 x 2.56 x 0.39 in)",
+        "weight": "146 g (5.15 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~64.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735M (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1780 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Silver, Anthracite",
+        "models": "VF-795",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:06.748Z"
+  },
+  {
+    "sttTong": 13438,
+    "sttHang": 21,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart first 6",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_first_6-7231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-first-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-first-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121.6 x 64.4 x 11.8 mm (4.79 x 2.54 x 0.46 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 393 h (3G)",
+        "talk_time": "Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "VF695",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:09.635Z"
+  },
+  {
+    "sttTong": 13421,
+    "sttHang": 4,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart X9",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_x9-9483.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-x9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-x9.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, December. Released 2018, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.2 x 71.3 x 8 mm (5.83 x 2.81 x 0.31 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 82.7 cm2 (~78.2% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+        "cpu": "Octa-core 1.8 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "VFD 820",
+        "sar_eu": "0.40 W/kg (head)     1.23 W/kg (body)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:16.092Z"
+  },
+  {
+    "sttTong": 13433,
+    "sttHang": 16,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart first 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_first_7-8100.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-first-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-first-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.4 x 62.8 x 12 mm (4.50 x 2.47 x 0.47 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT TN",
+        "size": "3.5 inches, 36.5 cm2 (~50.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Spreadtrum SC7731G",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "talk_time": "Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Volcano Black, Tech White",
+        "models": "VFD 200",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:44.697Z"
+  },
+  {
+    "sttTong": 13435,
+    "sttHang": 18,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart ultra 6",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_ultra_6-7313.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ultra-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ultra-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154 x 77 x 8.4 mm (6.06 x 3.03 x 0.33 in)",
+        "weight": "159 g (5.61 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.1 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gray, Silver",
+        "models": "Smart ultra 6",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:45.605Z"
+  },
+  {
+    "sttTong": 13443,
+    "sttHang": 26,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4 power",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4_power-6508.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-power.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-power.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141 x 71.4 x 9.5 mm (5.55 x 2.81 x 0.37 in)",
+        "weight": "162 g (5.71 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "985N",
+        "sar_eu": "0.31 W/kg (head)     0.64 W/kg (body)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:51.946Z"
+  },
+  {
+    "sttTong": 13442,
+    "sttHang": 25,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4 turbo",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4_turbo-6507.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-turbo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-turbo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2014, Q2. Released 2014, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 67.5 x 10.4 mm (5.30 x 2.66 x 0.41 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~61.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8926 Snapdragon 400 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1880 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "890N",
+        "sar": "0.45 W/kg (head)     1.32 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:52.870Z"
+  },
+  {
+    "sttTong": 13440,
+    "sttHang": 23,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab 4G",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_4g-6903.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "209 x 123 x 8 mm (8.23 x 4.84 x 0.31 in)",
+        "weight": "327 g (11.53 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 176.4 cm2 (~68.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~184 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4060 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:54.352Z"
+  },
+  {
+    "sttTong": 13436,
+    "sttHang": 19,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Tab Prime 6",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_tab_prime_6-7232.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-tab-prime-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-tab-prime-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "244 x 146 x 8 mm (9.61 x 5.75 x 0.31 in)",
+        "weight": "406 g (14.32 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "9.6 inches, 267.2 cm2 (~75.0% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~157 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4600 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:56.728Z"
+  },
+  {
+    "sttTong": 13445,
+    "sttHang": 28,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4 mini",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4_mini-6295.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-mini-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-mini-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nGSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, April. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121.6 x 64.4 x 12.3 mm (4.79 x 2.54 x 0.48 in)",
+        "weight": "117 g (4.13 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 600 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.66 W/kg (head)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:48:59.121Z"
+  },
+  {
+    "sttTong": 13446,
+    "sttHang": 29,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab III 10.1",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_iii_10_1-5896.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-Smart-Tab-III-101.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-Smart-Tab-III-101.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "260 x 180 x 8.6 mm (10.24 x 7.09 x 0.34 in)",
+        "weight": "560 g (1.23 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.1 inches, 295.8 cm2 (~63.2% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8389",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion, non-removable",
+        "stand-by": "Up to 240 h (2G) / Up to 240 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:00.710Z"
+  },
+  {
+    "sttTong": 13448,
+    "sttHang": 31,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Chat 655",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_chat_655-5701.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-655.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-655.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 61.1 x 11 mm (4.41 x 2.41 x 0.43 in)",
+        "weight": "104 g (3.67 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~26.1% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes\nOS level SNS integration\nMP3 player\nMP4/H.263 player\nOrganizer\nVoice memo\nPhoto viewer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion, removable",
+        "stand-by": "Up to 509 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:06.210Z"
+  },
+  {
+    "sttTong": 13441,
+    "sttHang": 24,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4G",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4g-6886.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 67.1 x 10.3 mm (5.28 x 2.64 x 0.41 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~62.1% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8930 Snapdragon 400 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Krait",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes (optional)",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1880 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:06.219Z"
+  },
+  {
+    "sttTong": 13450,
+    "sttHang": 33,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart III 975",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_iii_975-5464.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-iii-975.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-iii-975.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123.2 x 64.4 x 10.9 mm (4.85 x 2.54 x 0.43 in)",
+        "weight": "136 g (4.80 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes (975N model only)",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 475 h (2G) / Up to 388 h (3G)",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Hot Pink, Titan",
+        "sar": "0.54 W/kg (head)     0.76 W/kg (body)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:12.696Z"
+  },
+  {
+    "sttTong": 13451,
+    "sttHang": 34,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab II 10",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_ii_10-5121.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-10-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-10-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, November. Released 2012, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "259.8 x 178 x 8.7 mm (10.23 x 7.01 x 0.34 in)",
+        "weight": "580 g (1.28 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.0 inches, 290.0 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~151 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.3 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8260 Snapdragon S3",
+        "cpu": "Dual-core 1.5 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 6340 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar_eu": "1.10 W/kg (body)",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:14.482Z"
+  },
+  {
+    "sttTong": 13447,
+    "sttHang": 30,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab III 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_iii_7-5895.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-Smart-Tab-III-70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-Smart-Tab-III-70.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194 x 120 x 11 mm (7.64 x 4.72 x 0.43 in)",
+        "weight": "350 g (12.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~59.2% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8389",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion, non-removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:19.319Z"
+  },
+  {
+    "sttTong": 13449,
+    "sttHang": 32,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Mini",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_mini-5549.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-mini.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-mini.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 62.3 x 12.2 mm (4.53 x 2.45 x 0.48 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~50.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion, removable",
+        "stand-by": "Up to 500 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:21.805Z"
+  },
+  {
+    "sttTong": 13431,
+    "sttHang": 14,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Platinum 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_platinum_7-8154.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-platinum-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-platinum-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2016, June. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154 x 75.7 x 7 mm (6.06 x 2.98 x 0.28 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "5.5 inches, 83.4 cm2 (~71.5% screen-to-body ratio)",
+        "resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+        "protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow)",
+        "chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A72 & 4x1.2 GHz Cortex-A53)",
+        "gpu": "Adreno 510"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, 1/2.6\", 1.12µm, PDAF",
+        "features": "LED flash, panorama, HDR",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nHi-Fi audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "18W wired, QC3, 50% in 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "VFD 900",
+        "price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:23.425Z"
+  },
+  {
+    "sttTong": 13444,
+    "sttHang": 27,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4-6447.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.7 x 66 x 10.6 mm (5.30 x 2.60 x 0.42 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~62.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8210 Snapdragon 200 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes (optional)",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1880 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "1.22 W/kg (head)     0.82 W/kg (body)",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:24.998Z"
+  },
+  {
+    "sttTong": 13453,
+    "sttHang": 36,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone V860 Smart II",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_v860_smart_ii-4869.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, June. Released 2012, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 58 x 12.3 mm (4.29 x 2.28 x 0.48 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.2 inches, 30.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.7 (Gingerbread)",
+        "chipset": "BCM21553",
+        "cpu": "832 MHz ARMv6"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "480p@20fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nVodafone Music\nMP3/WMA/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nPhoto viewer/editor\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:25.788Z"
+  },
+  {
+    "sttTong": 13454,
+    "sttHang": 37,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab 10",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_10-4527.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, February. Released 2012, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.0 inches, 290.0 cm2",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~151 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb)",
+        "chipset": "Qualcomm MSM8260 Snapdragon S3",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB (12.7GB user available)"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:28.531Z"
+  },
+  {
+    "sttTong": 13456,
+    "sttHang": 39,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 155",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_155-4969.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-155.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-155.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 56.5 x 13.5 mm (4.33 x 2.22 x 0.53 in)",
+        "weight": "68 g (2.40 oz)",
+        "sim": "Mini-SIM\nSOS button\nFlashlight"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.7 inches, 9.1 cm2 (~14.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "0.3MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nOrganizer\nSpeed dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 700 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:31.625Z"
+  },
+  {
+    "sttTong": 13439,
+    "sttHang": 22,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart 4 max",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_4_max-6937.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-max.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-max.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "164 x 83.4 x 7.9 mm (6.46 x 3.28 x 0.31 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~72.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8926 Snapdragon 400 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:32.024Z"
+  },
+  {
+    "sttTong": 13458,
+    "sttHang": 41,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 858 Smart",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_858_smart-3955.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2011, May. Released 2011, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.8 x 56.8 x 12.6 mm (4.09 x 2.24 x 0.50 in)",
+        "weight": "104 g (3.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~41.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "130MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nVodafone Music\nMP3/WMA/eAAC+ player\nMP4/H.264 player\nOrganizer\nPhoto viewer/editor\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 250 h (2G) / Up to 380 h (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 4 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, custom graphic designs",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:35.566Z"
+  },
+  {
+    "sttTong": 13460,
+    "sttHang": 43,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 553",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_553-3534.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-553.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-553.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2010, September. Released 2010, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 53 x 14.9 mm (4.25 x 2.09 x 0.59 in)",
+        "weight": "119 g (4.20 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~42.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Practically unlimited",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nFacebook, Twitter, Gtalk, Yahoo messenger, ICQ\nMP3/WAV player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 384 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:38.344Z"
+  },
+  {
+    "sttTong": 13459,
+    "sttHang": 42,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 945",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_945-3533.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-945.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Vodafone-945.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, September. Released 2010, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.1 x 55.9 x 14.1 mm (4.30 x 2.20 x 0.56 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "3.2 inches, 29.1 cm2 (~47.8% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "300MB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nMP3/WAV/eAAC+/WMA player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 216 h (2G) / Up to 233 h (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Silver",
+        "sar_eu": "1.18 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:38.760Z"
+  },
+  {
+    "sttTong": 13463,
+    "sttHang": 46,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 547",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_547-3297.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-547.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-547.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 22.3 cm2",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML (Opera Mini)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, White, Red",
+        "sar_eu": "0.65 W/kg (head)",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:43.478Z"
+  },
+  {
+    "sttTong": 13452,
+    "sttHang": 35,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab II 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_ii_7-5120.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, November. Released 2012, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 122 x 11.4 mm (7.56 x 4.80 x 0.45 in)",
+        "weight": "400 g (14.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~58.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 3550 mAh, non-removable",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar_eu": "0.93 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:44.592Z"
+  },
+  {
+    "sttTong": 13466,
+    "sttHang": 49,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 350 Messaging",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_350_messaging-3299.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-350-messaging-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-350-messaging-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nWeather forecast\nCalculator\nFake calls\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, White, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:50.512Z"
+  },
+  {
+    "sttTong": 13455,
+    "sttHang": 38,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Tab 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_tab_7-4526.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, February. Released 2012, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194 x 120 x 11.4 mm (7.64 x 4.72 x 0.45 in)",
+        "weight": "319 g (11.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 142.1 cm2 (~61.0% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb)",
+        "chipset": "Qualcomm MSM8260 Snapdragon S3",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB (12.7GB user available)"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 3400 mAh battery",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:49:57.114Z"
+  },
+  {
+    "sttTong": 13462,
+    "sttHang": 45,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 845",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_845-3212.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-845-final.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-845-final.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 55 x 14 mm (3.90 x 2.17 x 0.55 in)",
+        "weight": "109 g (3.84 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~44.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nMP3/WAV/eAAC+/WMA player\nMP4/H.264 player\nDocument viewer \nOrganizer\nPhoto/video editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 288 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:08.896Z"
+  },
+  {
+    "sttTong": 13468,
+    "sttHang": 51,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 248",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_248-3301.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-248.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-248.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nCalculator\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:12.533Z"
+  },
+  {
+    "sttTong": 13470,
+    "sttHang": 53,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 246",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_246-3303.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-247.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-247.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.44 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nCalculator\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:18.186Z"
+  },
+  {
+    "sttTong": 13464,
+    "sttHang": 47,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 546",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_546-3296.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-546.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-546.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "radio": "FM radio, RDS",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML (Opera Mini)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:24.116Z"
+  },
+  {
+    "sttTong": 13461,
+    "sttHang": 44,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 360 H2",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_360_h2-3357.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-h2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-h2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "Not officially announced yet",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 60.8 x 11.7 mm (4.92 x 2.39 x 0.46 in)",
+        "weight": "137 g (4.83 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Super AMOLED",
+        "size": "3.7 inches, 39.0 cm2 (~51.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)\n3D UI"
+      },
+      "platform": {
+        "os": "LiMo OS",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "PowerVR SGX"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/eAAC+/WAV player\nDivX/WMV/MP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:29.563Z"
+  },
+  {
+    "sttTong": 13469,
+    "sttHang": 52,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 247 Solar",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_247_solar-3302.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-247.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-247.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.44 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nMade of eco-friendly materials\nCalculator\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Solar Panel (10 min charging)",
+        "charging": "Solar panel for charging"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:30.409Z"
+  },
+  {
+    "sttTong": 13472,
+    "sttHang": 55,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 150",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_150-3192.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-150.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-150.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "STN, monochrome graphics",
+        "size": "1.0 inches, 3.0 cm2",
+        "resolution": "96 x 64 pixels, 3:2 ratio (~115 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:34.980Z"
+  },
+  {
+    "sttTong": 13473,
+    "sttHang": 56,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 1240",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_1240-3045.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1240.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1240.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": ", -",
+        "resolution": "320 x 240 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nDocument viewer\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:36.211Z"
+  },
+  {
+    "sttTong": 13476,
+    "sttHang": 59,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 540",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_540-3042.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-540.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-540.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 47 x 11.3 mm (4.29 x 1.85 x 0.44 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.6% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "8MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML (Opera Mini)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:41.103Z"
+  },
+  {
+    "sttTong": 13474,
+    "sttHang": 57,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 840",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_840-3044.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-840.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-840.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 56 x 13.9 mm (4.17 x 2.20 x 0.55 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~40.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "Yes",
+        "internal": "100MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver, White, Pink, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:41.808Z"
+  },
+  {
+    "sttTong": 13478,
+    "sttHang": 61,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 360 H1",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_360_h1-2946.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-h1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-h1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.9 x 58 x 12.9 mm, 60 cc (4.56 x 2.28 x 0.51 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "3.5 inches, 34.9 cm2 (~51.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)\n3D user interface"
+      },
+      "platform": {
+        "os": "LiMo OS",
+        "cpu": "600 MHz Cortex-A8",
+        "gpu": "PowerVR SGX"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "HTML\nMP3/video player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 460 h",
+        "talk_time": "Up to 10 h (2G) / Up to 6 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:48.611Z"
+  },
+  {
+    "sttTong": 13479,
+    "sttHang": 62,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 360 M1",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_360_m1-2947.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-m1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-360-m1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 55.4 x 13.4 mm (4.41 x 2.18 x 0.53 in)",
+        "weight": "111 g (3.92 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.2 inches, 29.1 cm2 (~47.0% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)\nVodafone 360 3D UI applications"
+      },
+      "platform": {
+        "os": "Linux-based LiMo R2.0.1",
+        "cpu": "600 MHz Cortex-A8",
+        "gpu": "PowerVR SGX"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "480p@15fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "HTML\nMP3, AAC, AAC+, AAC+(e), WMA, AMR player\nDivX/XViD/MP4/H.264/WMV player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 490 h",
+        "talk_time": "Up to 10 h (2G) / Up to 6 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:50:54.837Z"
+  },
+  {
+    "sttTong": 13475,
+    "sttHang": 58,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 541",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_541-3043.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-541.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-541.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 52 x 16 mm (3.78 x 2.05 x 0.63 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nHome screen widgets"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 contacts, Photocall",
+        "call_records": "Yes",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 4 h 30 min",
+        "music_play": "Up to 15 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:05.091Z"
+  },
+  {
+    "sttTong": 13471,
+    "sttHang": 54,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 250",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_250-3193.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-250.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-250.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.45 inches, 6.8 cm2",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~125 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "Yes",
+        "internal": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB (charging only)"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Grey-Blue",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:08.298Z"
+  },
+  {
+    "sttTong": 13481,
+    "sttHang": 64,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 1231",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_1231-2919.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1231.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1231.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 65.4 x 14.5 mm (4.45 x 2.57 x 0.57 in)",
+        "weight": "130 g (4.59 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.5 inches, 19.4 cm2 (~26.2% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Standard"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "48MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/MP4 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 230 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.69 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:22.568Z"
+  },
+  {
+    "sttTong": 13480,
+    "sttHang": 63,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 533 Crystal",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_533_crystal-2928.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-533-crystal.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-533-crystal.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98.5 x 46.2 x 14.7 mm, 60 cc (3.88 x 1.82 x 0.58 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~27.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nSwarovski Elements animations and wallpapers"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "8MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML (Openwave 7.2.7)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:28.399Z"
+  },
+  {
+    "sttTong": 13465,
+    "sttHang": 48,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 543",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_543-3298.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-543.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-543.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.4 inches, 17.8 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML (Opera Mini)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:33.203Z"
+  },
+  {
+    "sttTong": 13483,
+    "sttHang": 66,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Indie",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_indie-2857.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-indie.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-indie.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88.5 x 52 x 13.5 mm (3.48 x 2.05 x 0.53 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "40 dialed, 40 received, 40 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 195 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Red, Rosa"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:37.617Z"
+  },
+  {
+    "sttTong": 13484,
+    "sttHang": 67,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 835",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_835-2852.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-835.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-835.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "40 dialed, 40 received, 40 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVodafone Music\nVodafone Messenger\nMP3 player\nOrganizer\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Premium silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:44.307Z"
+  },
+  {
+    "sttTong": 13486,
+    "sttHang": 69,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 735",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_735-2850.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-735.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-735.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.4 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "40 dialed, 40 received, 40 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVodafone Music\nVodafone Messenger\nMP3 player\nOrganizer\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:52.236Z"
+  },
+  {
+    "sttTong": 13467,
+    "sttHang": 50,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 345 Text",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_345_text-3300.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-350-messaging-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-350-messaging-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nCalculator\nFake calls\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, White, Pink",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:51:59.269Z"
+  },
+  {
+    "sttTong": 13457,
+    "sttHang": 40,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 555 Blue",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_555_blue-4052.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-555-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-555-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2011, July. Released 2011, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 61.1 x 12 mm (4.33 x 2.41 x 0.47 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.5% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "cpu": "200 MHz MTK 6235"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "40MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "radio": "FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nFacebook dedicated key\nOS level SNS integration\nMP3/eAAC+/WMA player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 324 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:00.024Z"
+  },
+  {
+    "sttTong": 13477,
+    "sttHang": 60,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 340",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_340-3046.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-340.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-340.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 45.5 x 12 mm (4.29 x 1.79 x 0.47 in)",
+        "weight": "69 g (2.43 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.5 inches, 7.1 cm2 (~14.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~137 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3/AAC player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White, Pink",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:06.063Z"
+  },
+  {
+    "sttTong": 13482,
+    "sttHang": 65,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone V-X760",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_v_x760-2859.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-v-x760.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-v-x760.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 52 x 16 mm (3.66 x 2.05 x 0.63 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~36.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nVodafone 3D UI"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:13.888Z"
+  },
+  {
+    "sttTong": 13429,
+    "sttHang": 12,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone Smart Turbo 7",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_smart_turbo_7-8381.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-turbo-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-smart-turbo-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140.6 x 72.4 x 9.5 mm (5.54 x 2.85 x 0.37 in)",
+        "weight": "167.9 g (5.93 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~67.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6735M (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Silver, Dark Grey",
+        "models": "VFD 500, VFD 502",
+        "sar_eu": "1.67 W/kg (head)",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:20.250Z"
+  },
+  {
+    "sttTong": 13492,
+    "sttHang": 75,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 332",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_332-2643.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-332.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-332.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45 x 12 mm (4.13 x 1.77 x 0.47 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.0 cm2 (~21.2% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls\n500 short messages"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:21.126Z"
+  },
+  {
+    "sttTong": 13488,
+    "sttHang": 71,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone V720",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_v720-2741.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-v720.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-v720.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 46 x 16.8 mm (3.82 x 1.81 x 0.66 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~27.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 3 h 42 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T17:52:21.473Z"
+  },
+  {
+    "sttTong": 13494,
+    "sttHang": 77,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 1210",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_1210-2458.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1210.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-1210.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 47 x 18 mm (4.25 x 1.85 x 0.71 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~29.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for Smartphone",
+        "cpu": "32-bit Intel XScale PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/MP4 player\nPocket Office \nOrganizer\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:30.496Z"
+  },
+  {
+    "sttTong": 13487,
+    "sttHang": 70,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 235",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_235-2849.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-235.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-235.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.5 x 46 x 13.5 mm (4.07 x 1.81 x 0.53 in)",
+        "weight": "68 g (2.40 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.5 cm2 (~22.0% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~101 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nOrganizer\nCurrency converter\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:34.908Z"
+  },
+  {
+    "sttTong": 13493,
+    "sttHang": 76,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 231",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_231-2589.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-231.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-231.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 12 mm (4.13 x 1.81 x 0.47 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.86 inches, 10.9 cm2 (~22.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~110 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:36.953Z"
+  },
+  {
+    "sttTong": 13490,
+    "sttHang": 73,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 830i",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_830i-2650.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-830i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-830i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 51.5 x 13.3 mm (4.06 x 2.03 x 0.52 in)",
+        "weight": "71 g (2.50 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+ player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.62 W/kg (head)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:44.926Z"
+  },
+  {
+    "sttTong": 13489,
+    "sttHang": 72,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 533",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_533-2651.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-533.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-533.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98.5 x 46.2 x 14.7 mm, 60 cc (3.88 x 1.82 x 0.58 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~27.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "8MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML (Openwave 7.2.7)",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Catwalk Red, Catwalk Lady"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:49.624Z"
+  },
+  {
+    "sttTong": 13498,
+    "sttHang": 81,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 527",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_527-2455.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-527.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-527.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 11.8 mm (4.21 x 1.85 x 0.46 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.7 inches, 9.1 cm2 (~18.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:50.847Z"
+  },
+  {
+    "sttTong": 13497,
+    "sttHang": 80,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 716",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_716-2461.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-716.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-716.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 45 x 14.5 mm (4.09 x 1.77 x 0.57 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.1 inches, 13.9 cm2 (~29.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~134 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:51.122Z"
+  },
+  {
+    "sttTong": 13496,
+    "sttHang": 79,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 810",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_810-2456.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-810.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-810.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 48 x 16.5 mm (3.86 x 1.89 x 0.65 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~31.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "25MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\n3gp/MP4 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:55.026Z"
+  },
+  {
+    "sttTong": 13500,
+    "sttHang": 83,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 228",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_228-2454.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-228.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-228.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97.5 x 47.5 x 14.3 mm (3.84 x 1.87 x 0.56 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h 50 min"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar_eu": "0.49 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:58.065Z"
+  },
+  {
+    "sttTong": 13501,
+    "sttHang": 84,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 710",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_710-2459.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-710.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-710.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91.2 x 46 x 23.5 mm (3.59 x 1.81 x 0.93 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~30.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nSecond external display, 96 x 64 pixels, 1 inch"
+      },
+      "memory": {
+        "card_slot": "miniSD, up to 2 GB",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "16MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nMP3 player\nVideo player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black, White, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:52:59.098Z"
+  },
+  {
+    "sttTong": 13491,
+    "sttHang": 74,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 526",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_526-2590.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-526.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-526.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 11.8 mm (4.21 x 1.85 x 0.46 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.7 inches, 9.1 cm2 (~18.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~121 ppi density)\ndownloadable wallpapers/tones/games"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "1.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nPush to talk"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:03.840Z"
+  },
+  {
+    "sttTong": 13504,
+    "sttHang": 87,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 225",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_225-2453.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-225.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-225.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 45 x 12.5 mm (4.09 x 1.77 x 0.49 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "4MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nCalculator\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 690 mAh battery",
+        "stand-by": "Up to 135 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.32 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:04.469Z"
+  },
+  {
+    "sttTong": 13503,
+    "sttHang": 86,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 226",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_226-2451.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-226.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-226.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 46 x 11 mm (4.06 x 1.81 x 0.43 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:10.371Z"
+  },
+  {
+    "sttTong": 13499,
+    "sttHang": 82,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 511",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_511-2462.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-511.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-511.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.9 x 46.3 x 10.9 mm (4.21 x 1.82 x 0.43 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~19.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:20.906Z"
+  },
+  {
+    "sttTong": 13485,
+    "sttHang": 68,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 736",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_736-2851.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-736.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-736.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.4 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "40 dialed, 40 received, 40 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVodafone Music\nVodafone Messenger\nMP3 player\nOrganizer\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "White, Pink, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:25.880Z"
+  },
+  {
+    "sttTong": 13495,
+    "sttHang": 78,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 725",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_725-2457.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-725.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-725.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2008, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.5 x 45 x 13.6 mm (4.27 x 1.77 x 0.54 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~30.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "CIF"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nOrganizer\nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.92 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:29.447Z"
+  },
+  {
+    "sttTong": 13502,
+    "sttHang": 85,
+    "brand": "Vodafone",
+    "deviceName": "Vodafone 227",
+    "deviceUrl": "https://www.gsmarena.com/vodafone_227-2452.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-227.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vodafone-227.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 48 x 14.3 mm (3.66 x 1.89 x 0.56 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h 50 min"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar_eu": "0.97 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T17:53:47.181Z"
+  }
+]

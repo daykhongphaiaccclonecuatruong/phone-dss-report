@@ -1,0 +1,4289 @@
+[
+  {
+    "sttTong": 2193,
+    "sttHang": 2,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C35 Plus",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c35_plus-14427.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 38, 40, 41, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, January",
+        "status": "Available. Released 2026, January"
+      },
+      "body": {
+        "dimensions": "171.5 x 79.9 x 8.8 mm (6.75 x 3.15 x 0.35 in)",
+        "weight": "209 g (7.37 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 660 nits (typ)",
+        "size": "6.9 inches, 114.9 cm2 (~83.9% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Mediatek Helio G81 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "50 MP, f/2.0 (wide), PDAF\nauxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Knight Black, Glacier Blue, Polar Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:08.670Z"
+  },
+  {
+    "sttTong": 2192,
+    "sttHang": 1,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C35c",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c35c-14833.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100\nHSDPA 850 / 1700(AWS) / 1900 / 900",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1\n2, 3, 4, 5, 7, 8, 12, 17, 25, 26, 28, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, July",
+        "status": "Available. Released 2026, July"
+      },
+      "body": {
+        "dimensions": "164.9 x 76.1 x 8.8 mm (6.49 x 3.00 x 0.35 in)",
+        "weight": "205 g (7.23 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 350 nits (typ)",
+        "size": "6.56 inches, 103.9 cm2 (~82.8% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 16 (Go edition)",
+        "chipset": "Mediatek Helio G81 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/1.8 (wide)\nauxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Moonlight Silver, Glacier Blue, Starlight Black, Arctic White, Sunset Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:08.712Z"
+  },
+  {
+    "sttTong": 2194,
+    "sttHang": 3,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C35",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c35-14426.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c35.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 38, 40, 41, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, May",
+        "status": "Available. Released 2025, May"
+      },
+      "body": {
+        "dimensions": "167.4 x 77.6 x 8.5 mm (6.59 x 3.06 x 0.33 in)",
+        "weight": "196.4 g (6.91 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 430 nits (typ)",
+        "size": "6.75 inches, 110.0 cm2 (~84.7% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G81 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM, 256GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "50 MP, f/2.0 (wide), PDAF\nauxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Flowing Silver, Radiant Purple, Brilliant Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:09.696Z"
+  },
+  {
+    "sttTong": 2196,
+    "sttHang": 5,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad CP12 Neo",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cp12_neo-13759.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12-neo1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12-neo1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - version 1\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - version 2",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 38, 40, 41, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, March 25",
+        "status": "Available. Released 2025, April"
+      },
+      "body": {
+        "dimensions": "164.2 x 75.7 x 8.8 mm (6.46 x 2.98 x 0.35 in)",
+        "weight": "196.2 g (6.91 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 450 nits (typ)",
+        "size": "6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition) - 64GB version onlyAndroid 14 - 128/256GB version",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 2GB RAM, 64GB 3GB RAM, 128GB 4GB RAM, 256GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/1.8 (wide), AF\nauxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Platinum Black, Dream Blue, Cherry Pink, Space Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:11.877Z"
+  },
+  {
+    "sttTong": 2195,
+    "sttHang": 4,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad CP12 Neo Plus",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cp12_neo_plus-14425.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12-neo-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12-neo-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - version 1\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - version 2",
+        "4g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 38, 40, 41, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, May",
+        "status": "Available. Released 2025, May"
+      },
+      "body": {
+        "dimensions": "164.2 x 75.7 x 8.8 mm (6.46 x 2.98 x 0.35 in)",
+        "weight": "196.2 g (6.91 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 450 nits (typ)",
+        "size": "6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition)",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 2GB RAM, 64GB 3GB RAM, 128GB 4GB RAM, 256GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/1.8 (wide), AF\nauxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0, (wide)",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Chocolate Brown, Snowflake White, Star Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:11.913Z"
+  },
+  {
+    "sttTong": 2198,
+    "sttHang": 7,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 40i",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_40i-13575.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-40i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-40i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41 - International\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, December",
+        "status": "Available. Released 2024, December"
+      },
+      "body": {
+        "dimensions": "166.2 x 77 x 8.3 mm (6.54 x 3.03 x 0.33 in)",
+        "weight": "202 g (7.13 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.56 inches, 103.4 cm2 (~80.8% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, CoolOS",
+        "chipset": "Mediatek MT6765 Helio G37 (12 nm)",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM, 256GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8 (wide), PDAF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "4500 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Phantom Black, Glacier Blue, Lite Pink, Ivory White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:13.457Z"
+  },
+  {
+    "sttTong": 2197,
+    "sttHang": 6,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad X100",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_x100-13669.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-x100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-x100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\nCDMA2000 1xEV-DO",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 38, 39, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, February 19",
+        "status": "Available. Released 2025, February"
+      },
+      "body": {
+        "dimensions": "169 x 76.3 x 8.6 mm (6.65 x 3.00 x 0.34 in)",
+        "weight": "213 g (7.51 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 450 nits (typ)",
+        "size": "6.78 inches, 109.2 cm2 (~84.7% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, CoolOS",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "256GB 8GB RAM, 512GB 12GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "triple": "108 MP, f/1.9 (wide), 1/1.67\", 0.64µm, PDAF\n5 MP, (ultrawide)\n2 MP (macro)",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.0, (wide)",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Starlit Black, Polar Silver, Palm Blue, Fairy Pink",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:14.072Z"
+  },
+  {
+    "sttTong": 2199,
+    "sttHang": 8,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C16s",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c16s-13535.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16s-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16s-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / CDMA2000 / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA\nCDMA2000 1x",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - International\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28, 38, 40, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, November",
+        "status": "Available. Released 2024, November"
+      },
+      "body": {
+        "dimensions": "167.9 x 77.9 x 8.7 mm (6.61 x 3.07 x 0.34 in)",
+        "weight": "215 g (7.58 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.75 inches, 110.0 cm2 (~84.1% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G36 (12 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8, (wide), AF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "Unspecified",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Midnight Black, Woodland Green, Sunset Orange",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:14.919Z"
+  },
+  {
+    "sttTong": 2200,
+    "sttHang": 9,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C16",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c16-13348.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c16.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 40, 41 - International\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28, 38, 40, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, September",
+        "status": "Available. Released 2024, September"
+      },
+      "body": {
+        "dimensions": "167.9 x 77.9 x 8.7 mm (6.61 x 3.07 x 0.34 in)",
+        "weight": "215 g (7.58 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.75 inches, 110.0 cm2 (~84.1% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8, (wide), AF\n2 MP (macro)",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "Unspecified",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Midnight Black, Woodland Green, Gulf Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:16.368Z"
+  },
+  {
+    "sttTong": 2201,
+    "sttHang": 10,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 30 Play",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_30_play-13149.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30-play.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30-play.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900 - version 1",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - version 1\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - version 2\nCDMA2000 1xEV-DO - version 1",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41 - version 1\n1, 2, 3, 4, 5, 7, 8, 12, 17, 28, 66, 71 - version 2",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "Expected announcement 2024, July",
+        "status": "Available. Released 2024, July"
+      },
+      "body": {
+        "dimensions": "169.6 x 76.6 x 8.5 mm (6.68 x 3.02 x 0.33 in)",
+        "weight": "208 g (7.34 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 450 nits",
+        "size": "6.79 inches, 109.5 cm2 (~84.3% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM, 256GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "triple": "64 MP, f/1.8, (wide), AF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Aurora Purple, Flowing Gold, Velvet Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:18.024Z"
+  },
+  {
+    "sttTong": 2202,
+    "sttHang": 11,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad C15",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_c15-13136.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c15.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-c15.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41 - International\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "164.2 x 75.7 x 8.8 mm (6.46 x 2.98 x 0.35 in)",
+        "weight": "196 g (6.91 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G36 (12 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 256GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8, (wide), AF\n2 MP (macro)",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Dreamy Blue, Ripple Purple, Midnight Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:18.919Z"
+  },
+  {
+    "sttTong": 2203,
+    "sttHang": 12,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 30i",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_30i-12766.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-30i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 34, 38, 40, 41 - International\n2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, December",
+        "status": "Available. Released 2023, December"
+      },
+      "body": {
+        "dimensions": "166.2 x 76.7 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+        "weight": "197.6 g (6.98 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.56 inches, 103.9 cm2 (~81.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, CoolOS",
+        "chipset": "Mediatek MT6765 Helio G37 (12 nm)",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "256GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.6 (wide), PDAF\nDepth camera",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "4500 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Cream White, Desert Gold, Lavender Purple, Sky Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:19.774Z"
+  },
+  {
+    "sttTong": 2204,
+    "sttHang": 13,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad CP12s",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cp12s-12729.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 28, 40, 41 - International\n2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, November 29",
+        "status": "Available. Released 2023, November 29"
+      },
+      "body": {
+        "dimensions": "169.7 x 76.7 x 8.2 mm (6.68 x 3.02 x 0.32 in)",
+        "weight": "209.7 g (7.41 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.79 inches, 109.5 cm2 (~84.1% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc Tiger T616 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM, 256GB 8GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "48 MP, f/1.8, (wide), AF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Pearl White, Glacier Blue, Mint Green, Starlight Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:20.199Z"
+  },
+  {
+    "sttTong": 2205,
+    "sttHang": 14,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad CP12",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cp12-12422.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 28, 40, 41 - International\n2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, June 15",
+        "status": "Available. Released 2023, June 15"
+      },
+      "body": {
+        "dimensions": "164.2 x 75.7 x 8.3 mm (6.46 x 2.98 x 0.33 in)",
+        "weight": "190 g (6.70 oz)",
+        "build": "Glass front, glass back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~82.6% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, (wide), AF\n2 MP (macro)",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue, Silver",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:21.585Z"
+  },
+  {
+    "sttTong": 2206,
+    "sttHang": 15,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 20+",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_20+-12421.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool20-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool20-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / CDMA2000 / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 2100\nCDMA2000 1x",
+        "4g_bands": "1, 3, 5, 8, 34, 39, 40, 41",
+        "speed": "HSPA, LTE (2CA)"
+      },
+      "launch": {
+        "announced": "2023, April",
+        "status": "Available. Released 2023, April"
+      },
+      "body": {
+        "dimensions": "164.3 x 75.7 x 8.7 mm (6.47 x 2.98 x 0.34 in)",
+        "weight": "197.1 g (6.95 oz)",
+        "build": "Glass front, glass back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~82.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11, CoolOS 2",
+        "chipset": "Mediatek MT6769 Helio G85 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "48 MP, f/1.8 (wide), 1/2.0\", PDAF\n0.3 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:23.744Z"
+  },
+  {
+    "sttTong": 2207,
+    "sttHang": 16,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad CP12p",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cp12p-12423.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12p.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cp12p.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100 - International\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 40, 41 - International\n2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, April 15",
+        "status": "Available. Released 2023, April 15"
+      },
+      "body": {
+        "dimensions": "166.2 x 76.7 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+        "weight": "194 g (6.84 oz)",
+        "build": "Glass front, glass back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~80.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, f/2.2, (wide), 1/3.0\", PDAF\n2 MP (macro)",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue, Light Blue",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:24.340Z"
+  },
+  {
+    "sttTong": 2208,
+    "sttHang": 17,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 20s",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_20s-11615.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20s-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20s-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100\nCDMA2000 1xEV-DO",
+        "4g_bands": "1, 3, 5, 8, 34, 39, 40, 41",
+        "5g_bands": "1, 28, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2022, June 14",
+        "status": "Available. Released 2022, June 14"
+      },
+      "body": {
+        "dimensions": "163 x 74.8 x 8.3 mm (6.42 x 2.94 x 0.33 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.58 inches, 104.3 cm2 (~85.5% screen-to-body ratio)",
+        "resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, CoolOS",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8 (wide), PDAF\n2 MP (macro)",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue, White",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:25.598Z"
+  },
+  {
+    "sttTong": 2209,
+    "sttHang": 18,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 20",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_20-11620.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / CDMA2000 / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 2100\nCDMA2000 1x",
+        "4g_bands": "1, 3, 5, 8, 34, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, May 26. Released 2021, June 01",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "164.3 x 75.7 x 8.7 mm (6.47 x 2.98 x 0.34 in)",
+        "weight": "199.6 g (7.05 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~82.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11, CoolOS 2",
+        "chipset": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "48 MP, f/1.8 (wide), PDAF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh"
+      },
+      "misc": {
+        "colors": "Black, Blue, White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:26.188Z"
+  },
+  {
+    "sttTong": 2212,
+    "sttHang": 21,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool S",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_s-10685.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, January 08. Released 2021, January 08",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "161.2 x 76.2 x 8.9 mm (6.35 x 3.00 x 0.35 in)",
+        "weight": "-",
+        "build": "Glass front, glass back, plastic frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.53 inches, 104.7 cm2 (~85.2% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Mediatek MT6771 Helio P60 (12 nm)",
+        "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)",
+        "gpu": "Mali-G72 MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM"
+      },
+      "main_camera": {
+        "quad": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.0, 120˚ (ultrawide)\n5 MP (macro)\nAuxiliary lens",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "25 MP, f/2.0, (wide), 1/2.78\", 0.9µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Moon White, Lapis Blue, Night Black",
+        "models": "2039",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:29.547Z"
+  },
+  {
+    "sttTong": 2211,
+    "sttHang": 20,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 10A",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_10a-10836.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-10a.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-10a.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021, March 29. Released 2021, March 29",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165 x 76 x 8.8 mm (6.50 x 2.99 x 0.35 in)",
+        "weight": "200 g (7.05 oz)",
+        "build": "Glass front, plastic back, plastic frame",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~81.8% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue, White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:30.146Z"
+  },
+  {
+    "sttTong": 2213,
+    "sttHang": 22,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 6",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_6-10513.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, October 15. Released 2020, October 15",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "162.4 x 76.5 x 9.2 mm (6.39 x 3.01 x 0.36 in)",
+        "weight": "198 g (6.98 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.53 inches, 104.7 cm2 (~84.3% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Mediatek MT6771T Helio P70 (12 nm)",
+        "cpu": "Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)",
+        "gpu": "Mali-G72 MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "triple": "48 MP, (wide), 1/2.0\", 0.8µm, PDAF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Motorized pop-up 21 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh"
+      },
+      "misc": {
+        "colors": "Gray, Blue",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:30.652Z"
+  },
+  {
+    "sttTong": 2214,
+    "sttHang": 23,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 12A",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_12a-10491.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool12a.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool12a.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, October 05. Released 2020, October 05",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.2 x 75.2 x 8.9 mm (6.15 x 2.96 x 0.35 in)",
+        "weight": "202.5 g (7.16 oz)",
+        "build": "Glass front, plastic frame, glass back",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.3 inches, 97.4 cm2 (~82.9% screen-to-body ratio)",
+        "resolution": "720 x 1560 pixels, 19.5:9 ratio (~273 ppi density)"
+      },
+      "platform": {
+        "os": "Android",
+        "chipset": "Spreadtrum",
+        "cpu": "Quad-core (1x2.0 GHz Cortex-A75 & 3x1.8 GHz Cortex-A55)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\n2 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh"
+      },
+      "misc": {
+        "colors": "Dream Black, Dream Blue, Fantasy Silver",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:32.282Z"
+  },
+  {
+    "sttTong": 2215,
+    "sttHang": 24,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 10",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_10-10492.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, June 05. Released 2020, June 12",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.7 x 76.5 x 9.1 mm (6.52 x 3.01 x 0.36 in)",
+        "weight": "202.8 g (7.16 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 106.6 cm2 (~84.1% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Mediatek MT6758 Helio P30 (16 nm) - ChinaMediatek MT6771 Helio P60 (12 nm) - International",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.65 GHz Cortex A53) - ChinaOcta-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53) - International",
+        "gpu": "Mali-G71 MP2"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "triple": "16 MP, f/1.5, PDAF\n0.3 MP\n0.3 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh"
+      },
+      "misc": {
+        "colors": "Glazed Black, Seashell White, Science Blue",
+        "models": "SEA-A0",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:34.464Z"
+  },
+  {
+    "sttTong": 2216,
+    "sttHang": 25,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Legacy 5G",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_legacy_5g-10030.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy-5g-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy-5g-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900\nCDMA2000 1xEV-DO",
+        "4g_bands": "LTE",
+        "5g_bands": "SA/NSA/Sub6",
+        "speed": "HSPA, LTE, 5G (2+ Gbps DL)"
+      },
+      "launch": {
+        "announced": "2020, January",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "165 x 77 x 9.5 mm (6.50 x 3.03 x 0.37 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, HDR10",
+        "size": "6.53 inches, 104.7 cm2 (~82.4% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "cpu": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "64GB 4GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "dual": "48 MP, (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, (ultrawide)",
+        "features": "LED flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Yellow/Blue",
+        "price": "About 360 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:36.031Z"
+  },
+  {
+    "sttTong": 2219,
+    "sttHang": 28,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 3 Plus",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_3_plus-9762.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-3-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-3-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 6, 7, 8, 19, 20, 28",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, June. Released 2019, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.7 x 70.9 x 8.2 mm (5.74 x 2.79 x 0.32 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.71 inches, 81.4 cm2 (~78.8% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Ocean Blue, Cherry Black",
+        "models": "1825-I01",
+        "price": "About 6000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:39.503Z"
+  },
+  {
+    "sttTong": 2217,
+    "sttHang": 26,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Legacy",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_legacy-9960.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-legacy.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 5, 12, 66, 71",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2019, May. Released 2019, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.9 x 80.5 x 8.4 mm (6.53 x 3.17 x 0.33 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.36 inches, 104.4 cm2 (~78.2% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~380 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+        "cpu": "Octa-core 1.8 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, AF\n5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:43.006Z"
+  },
+  {
+    "sttTong": 2221,
+    "sttHang": 30,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Mega 5A",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_mega_5a-9297.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega-5a-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega-5a-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 & TD-SCDMA",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, August. Released 2018, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.45 inches, 76.7 cm2",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Spreadtrum SC9850K",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-820MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP, f/2.0, PDAF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold",
+        "price": "About 7000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:44.260Z"
+  },
+  {
+    "sttTong": 2210,
+    "sttHang": 19,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 20 Pro",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_20_pro-11256.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-20-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800",
+        "3g_bands": "HSDPA 850 / 900 / 2100\nCDMA2000 1x",
+        "4g_bands": "LTE",
+        "5g_bands": "SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2021, December 02. Released 2021, December 02",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "162.8 x 74.8 x 8.3 mm (6.41 x 2.94 x 0.33 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.58 inches, 104.5 cm2 (~85.8% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~400 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11, CoolOS 2",
+        "chipset": "Mediatek Dimensity 900 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G68 MC4"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM, 128GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "triple": "50 MP, f/1.8 (wide), PDAF\n8 MP, (ultrawide)\n2 MP (macro)",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), unspecified sensors"
+      },
+      "battery": {
+        "type": "Li-Po 4500 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue, White, Gold",
+        "models": "CP05",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:44.486Z"
+  },
+  {
+    "sttTong": 2222,
+    "sttHang": 31,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 6",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_6-9189.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-6-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-6-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, May. Released 2018, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153.7 x 76.4 x 8.6 mm (6.05 x 3.01 x 0.34 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, 2.2, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "dual": "8 MP\n5 MP, depth sensor"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4070 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold",
+        "price": "About 9000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:48.240Z"
+  },
+  {
+    "sttTong": 2223,
+    "sttHang": 32,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 2",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_2-9183.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 & TD-SCDMA",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, April. Released 2018, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.7 x 73.3 x 9 mm (6.09 x 2.89 x 0.35 in)",
+        "weight": "160 g (5.64 oz)",
+        "build": "Glass front, aluminum back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM\nSplash resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 83.8 cm2 (~73.9% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6750 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3200 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:48.510Z"
+  },
+  {
+    "sttTong": 2220,
+    "sttHang": 29,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool Play 8",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_play_8-9488.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, December. Released 2018, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.5 x 74.8 x 8.5 mm (6.12 x 2.94 x 0.33 in)",
+        "weight": "177 g (6.24 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.2 inches, 96.9 cm2 (~83.3% screen-to-body ratio)",
+        "resolution": "1080 x 2246 pixels, 18.7:9 ratio (~402 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8 (Oreo), Cool UI 9",
+        "chipset": "Mediatek MT6750 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, AF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:48.606Z"
+  },
+  {
+    "sttTong": 2224,
+    "sttHang": 33,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool Play 6",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_play_6-8820.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-play-6-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-play-6-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900 & TD-SCDMA",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, August. Released 2017, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 75.2 x 8.5 mm (5.98 x 2.96 x 0.33 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~73.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat), Journey UI",
+        "chipset": "Qualcomm MSM8976 Pro Snapdragon 653 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A72)",
+        "gpu": "Adreno 510"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, PDAF\n13 MP",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4060 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, Black",
+        "models": "COR-I0",
+        "price": "About 15000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:48.712Z"
+  },
+  {
+    "sttTong": 2218,
+    "sttHang": 27,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool 5",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_5-9902.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, October. Released 2019, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "157 x 76 x 8 mm (6.18 x 2.99 x 0.31 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.22 inches, 96.6 cm2 (~80.9% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP, AF\n2 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.2, 26mm (wide), 1/3.06\", 1.0µm"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gradient Blue, Midnight Blue",
+        "price": "About 8000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:52.614Z"
+  },
+  {
+    "sttTong": 2226,
+    "sttHang": 35,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad NX1",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_nx1-8807.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-nx1-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-nx1-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2017, August. Released 2017, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.4, AF",
+        "features": "Dual-LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP, f/2.4"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 10300 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:52.691Z"
+  },
+  {
+    "sttTong": 2228,
+    "sttHang": 37,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 5 Lite",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_5_lite-8618.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, March. Released 2017, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.3 x 72.3 x 8.7 mm (5.72 x 2.85 x 0.34 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6 (Marshmallow), Cool UI 8",
+        "chipset": "Mediatek MT6735CP",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, Gray",
+        "models": "3505I",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:52.918Z"
+  },
+  {
+    "sttTong": 2225,
+    "sttHang": 34,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool M7",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_m7-8821.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-m7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-m7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2\nCDMA 800 & TD-SCDMA",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, August. Released 2017, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.1 x 74.3 x 6.9 mm (5.95 x 2.93 x 0.27 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~74.3% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat)",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/1.8, 1/2.55\", 1.4µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3200 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Matte Black, Dark Blue",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:53.291Z"
+  },
+  {
+    "sttTong": 2227,
+    "sttHang": 36,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Defiant",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_defiant-8754.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-defiant.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-defiant.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 12",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.5 x 71.4 x 10.2 mm (5.69 x 2.81 x 0.40 in)",
+        "weight": "184.3 g (6.49 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~66.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@24fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2450 mAh battery",
+        "stand-by": "Up to 216 h (3G)",
+        "talk_time": "Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Storm gray",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:53.421Z"
+  },
+  {
+    "sttTong": 2231,
+    "sttHang": 40,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool S1",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool_s1-8481.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-cool-s1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2016, December. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.4 x 74.7 x 7.5 mm (5.96 x 2.94 x 0.30 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~73.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow), eUI 5.8",
+        "chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+        "cpu": "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nTuned by Harman Kardon"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4070 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Gold",
+        "price": "About 420 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:57.092Z"
+  },
+  {
+    "sttTong": 2230,
+    "sttHang": 39,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Conjr",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_conjr-8511.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-conjr.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-conjr.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 7, 12",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, January. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72 x 8.7 mm (5.63 x 2.83 x 0.34 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6 (Marshmallow), Cool UI 8",
+        "chipset": "Mediatek MT6735CP",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, AF, OIS",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:57.659Z"
+  },
+  {
+    "sttTong": 2233,
+    "sttHang": 42,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Mega 3",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_mega_3-8464.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 20, 40",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, December. Released 2016, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 77 x 8.2 mm (5.98 x 3.03 x 0.32 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Nano-SIM + Nano-SIM + Nano-SIM (max 2 at a time)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), Cool UI",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Mali-T860"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio; recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 3050 mAh, non-removable",
+        "stand-by": "Up to 200 h (3G)",
+        "talk_time": "Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Champagne White, Moondust Grey, Gold White",
+        "models": "3503I",
+        "sar_eu": "0.68 W/kg (head)     0.66 W/kg (body)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:57.841Z"
+  },
+  {
+    "sttTong": 2232,
+    "sttHang": 41,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 3s",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_3s-8473.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, November. Released 2016, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.5 x 77.4 x 8.3 mm (6.08 x 3.05 x 0.33 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~69.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Qualcomm MSM8929 Snapdragon 415 (28 nm)",
+        "cpu": "Octa-core (4x1.3 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "32GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio; recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, non-removable",
+        "stand-by": "Up to 200 h (3G)",
+        "talk_time": "Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Gold",
+        "models": "Y91-I00",
+        "sar_eu": "0.57 W/kg (head)     0.65 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:39:58.784Z"
+  },
+  {
+    "sttTong": 2234,
+    "sttHang": 43,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 5",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_5-8364.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 75.7 x 8.9 mm (5.98 x 2.98 x 0.35 in)",
+        "weight": "173.4 g (6.10 oz)",
+        "sim": "Hybrid Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 6 (Marshmallow), Cool UI 8",
+        "chipset": "Qualcomm MSM8952 Snapdragon 617 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 4GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4010 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Royal Gold, Space Gray",
+        "models": "3600I",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:01.647Z"
+  },
+  {
+    "sttTong": 2235,
+    "sttHang": 44,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Modena 2",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_modena_2-8326.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.5 x 76.5 x 7.9 mm (6.08 x 3.01 x 0.31 in)",
+        "weight": "143 g (5.04 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6 (Marshmallow), Cool UI 8",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, Black",
+        "models": "E502",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:01.911Z"
+  },
+  {
+    "sttTong": 2237,
+    "sttHang": 46,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Torino",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_torino-8273.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, July. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154 x 76.5 x 8.7 mm (6.06 x 3.01 x 0.34 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Hybrid Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop), Cool UI 8",
+        "chipset": "Qualcomm MSM8952 Snapdragon 617 (28 nm)",
+        "cpu": "Octa-core (4x1.36 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable",
+        "stand-by": "Up to 250 h (2G) / Up to 250 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "White/Gold",
+        "models": "R108",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:03.011Z"
+  },
+  {
+    "sttTong": 2236,
+    "sttHang": 45,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Mega",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_mega-8267.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153 x 76.8 x 7.9 mm (6.02 x 3.02 x 0.31 in)",
+        "weight": "143 g (5.04 oz)",
+        "sim": "Hybrid Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 109.5 cm2 (~93.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6 (Marshmallow), Cool UI 8",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold, White, Black",
+        "models": "Y83-I00",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:04.976Z"
+  },
+  {
+    "sttTong": 2238,
+    "sttHang": 47,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 3 Plus",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_3_plus-8270.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 77 x 9 mm (5.98 x 3.03 x 0.35 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.3% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop), Cool UI 6",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 400 h (3G)",
+        "talk_time": "Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Champagne Gold, White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:06.124Z"
+  },
+  {
+    "sttTong": 2229,
+    "sttHang": 38,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Cool1 dual",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_cool1_dual-8272.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-cool1-dual.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/leeco-cool1-dual.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100\nTD-SCDMA",
+        "4g_bands": "1, 3, 5, 7, 8, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 74.8 x 8.2 mm (5.98 x 2.94 x 0.32 in)",
+        "weight": "167 g (5.89 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~73.3% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow), eUI 5.6",
+        "chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "cpu": "Octa-core (4x1.2 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
+        "gpu": "Adreno 510"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, PDAF\n13 MP",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4060 mAh, non-removable",
+        "charging": "18W wired, QC2, 50% in 30 min"
+      },
+      "misc": {
+        "colors": "Gold, Silver, Rose Gold",
+        "models": "R116, C1-U02",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:06.287Z"
+  },
+  {
+    "sttTong": 2239,
+    "sttHang": 48,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Max",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_max-8165.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-max.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-max.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, June. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 75.7 x 7.6 mm (5.98 x 2.98 x 0.30 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Hybrid Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8952 Snapdragon 617 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2, 1/4.0\", 1.4µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Royal Gold, Rose Gold",
+        "models": "A8-831",
+        "price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:07.177Z"
+  },
+  {
+    "sttTong": 2240,
+    "sttHang": 49,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Porto S",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_porto_s-7895.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72 x 7.6 mm (5.63 x 2.83 x 0.30 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.4, AF",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP, f/2.4",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, non-removable",
+        "stand-by": "Up to 200 h (2G) / Up to 150 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "models": "E570",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:08.069Z"
+  },
+  {
+    "sttTong": 2241,
+    "sttHang": 50,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Torino S",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_torino_s-7898.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-torino-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139 x 67.8 x 7.9 mm (5.47 x 2.67 x 0.31 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~64.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, non-removable",
+        "stand-by": "Up to 300 h (2G) / Up to 200 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Gold",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:09.943Z"
+  },
+  {
+    "sttTong": 2242,
+    "sttHang": 51,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 3 Lite",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_3_lite-7877.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note3-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note3-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 2, 3, 8, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140.8 x 70.4 x 8.9 mm (5.54 x 2.77 x 0.35 in)",
+        "weight": "142 g (5.01 oz)",
+        "sim": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~69.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black, White, Champagne white",
+        "models": "CP8298_I00",
+        "sar": "0.24 W/kg (head)     0.42 W/kg (body)",
+        "sar_eu": "0.24 W/kg (head)     0.42 W/kg (body)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:10.711Z"
+  },
+  {
+    "sttTong": 2243,
+    "sttHang": 52,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Roar",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_roar-7752.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-roar.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-roar.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, November. Released 2015, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133 x 65.4 x 9 mm (5.24 x 2.57 x 0.35 in)",
+        "weight": "-",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~64.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6580 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Yes"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:10.820Z"
+  },
+  {
+    "sttTong": 2244,
+    "sttHang": 53,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Note 3",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_note_3-7655.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-note-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151 x 77 x 9.3 mm (5.94 x 3.03 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "White",
+        "models": "CP8676_I02",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:12.424Z"
+  },
+  {
+    "sttTong": 2245,
+    "sttHang": 54,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Shine",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_shine-7654.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-shine.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-shine.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153 x 77.2 x 8.6 mm (6.02 x 3.04 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Gold",
+        "models": "R106",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:13.208Z"
+  },
+  {
+    "sttTong": 2247,
+    "sttHang": 56,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Porto",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_porto-7550.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-porto.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 8, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, August. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139 x 67.8 x 8 mm (5.47 x 2.67 x 0.31 in)",
+        "weight": "119 g (4.20 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~64.6% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~234 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, non-removable",
+        "stand-by": "Up to 240 h (2G) / Up to 200 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 6 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:14.883Z"
+  },
+  {
+    "sttTong": 2248,
+    "sttHang": 57,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad 3632",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_3632-8583.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-mega.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "Not announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "6.1 inches, 102.5 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~161 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.1 (Nougat)",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 308"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {},
+      "misc": {
+        "colors": "Gold",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:15.120Z"
+  },
+  {
+    "sttTong": 2246,
+    "sttHang": 55,
+    "brand": "Coolpad",
+    "deviceName": "Coolpad Modena",
+    "deviceUrl": "https://www.gsmarena.com/coolpad_modena-7551.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/coolpad-modena.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 8, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, August. Released 2015, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153 x 77.5 x 8.6 mm (6.02 x 3.05 x 0.34 in)",
+        "weight": "158 g (5.57 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable",
+        "stand-by": "Up to 330 h (2G) / Up to 270 h (3G)",
+        "talk_time": "Up to 10 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "models": "E501, E501_EU",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:40:20.718Z"
+  }
+]

@@ -1,0 +1,1013 @@
+{
+  "completedBrands": [
+    {
+      "name": "Nothing",
+      "actualCount": 16,
+      "expectedCount": 16,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.550Z"
+    },
+    {
+      "name": "Apple",
+      "actualCount": 146,
+      "expectedCount": 148,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:40.586Z"
+    },
+    {
+      "name": "Acer",
+      "actualCount": 117,
+      "expectedCount": 117,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.577Z"
+    },
+    {
+      "name": "alcatel",
+      "actualCount": 414,
+      "expectedCount": 414,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.580Z"
+    },
+    {
+      "name": "Allview",
+      "actualCount": 157,
+      "expectedCount": 157,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.582Z"
+    },
+    {
+      "name": "Amazon",
+      "actualCount": 25,
+      "expectedCount": 25,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.583Z"
+    },
+    {
+      "name": "Amoi",
+      "actualCount": 47,
+      "expectedCount": 47,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.585Z"
+    },
+    {
+      "name": "Archos",
+      "actualCount": 43,
+      "expectedCount": 43,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.587Z"
+    },
+    {
+      "name": "Asus",
+      "actualCount": 208,
+      "expectedCount": 208,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.589Z"
+    },
+    {
+      "name": "AT&T",
+      "actualCount": 4,
+      "expectedCount": 4,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.590Z"
+    },
+    {
+      "name": "Benefon",
+      "actualCount": 9,
+      "expectedCount": 9,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.591Z"
+    },
+    {
+      "name": "BenQ",
+      "actualCount": 35,
+      "expectedCount": 35,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.592Z"
+    },
+    {
+      "name": "BenQ-Siemens",
+      "actualCount": 28,
+      "expectedCount": 28,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.593Z"
+    },
+    {
+      "name": "Bird",
+      "actualCount": 61,
+      "expectedCount": 61,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.595Z"
+    },
+    {
+      "name": "BlackBerry",
+      "actualCount": 92,
+      "expectedCount": 92,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.596Z"
+    },
+    {
+      "name": "Blackview",
+      "actualCount": 138,
+      "expectedCount": 138,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.599Z"
+    },
+    {
+      "name": "BLU",
+      "actualCount": 369,
+      "expectedCount": 369,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.601Z"
+    },
+    {
+      "name": "Bosch",
+      "actualCount": 10,
+      "expectedCount": 10,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.602Z"
+    },
+    {
+      "name": "BQ",
+      "actualCount": 20,
+      "expectedCount": 20,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.603Z"
+    },
+    {
+      "name": "Casio",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.604Z"
+    },
+    {
+      "name": "Cat",
+      "actualCount": 22,
+      "expectedCount": 22,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.605Z"
+    },
+    {
+      "name": "Celkon",
+      "actualCount": 229,
+      "expectedCount": 229,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.607Z"
+    },
+    {
+      "name": "Chea",
+      "actualCount": 12,
+      "expectedCount": 12,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.609Z"
+    },
+    {
+      "name": "Coolpad",
+      "actualCount": 57,
+      "expectedCount": 57,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.610Z"
+    },
+    {
+      "name": "Cubot",
+      "actualCount": 107,
+      "expectedCount": 107,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.612Z"
+    },
+    {
+      "name": "Dell",
+      "actualCount": 20,
+      "expectedCount": 20,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.613Z"
+    },
+    {
+      "name": "Doogee",
+      "actualCount": 162,
+      "expectedCount": 162,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.614Z"
+    },
+    {
+      "name": "Emporia",
+      "actualCount": 15,
+      "expectedCount": 15,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.615Z"
+    },
+    {
+      "name": "Energizer",
+      "actualCount": 78,
+      "expectedCount": 78,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.616Z"
+    },
+    {
+      "name": "Ericsson",
+      "actualCount": 40,
+      "expectedCount": 40,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.617Z"
+    },
+    {
+      "name": "Eten",
+      "actualCount": 22,
+      "expectedCount": 22,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.619Z"
+    },
+    {
+      "name": "Fairphone",
+      "actualCount": 6,
+      "expectedCount": 6,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.620Z"
+    },
+    {
+      "name": "Fujitsu Siemens",
+      "actualCount": 2,
+      "expectedCount": 2,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.621Z"
+    },
+    {
+      "name": "Garmin-Asus",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.622Z"
+    },
+    {
+      "name": "Gigabyte",
+      "actualCount": 63,
+      "expectedCount": 63,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.623Z"
+    },
+    {
+      "name": "Gionee",
+      "actualCount": 95,
+      "expectedCount": 95,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.624Z"
+    },
+    {
+      "name": "Google",
+      "actualCount": 45,
+      "expectedCount": 46,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:40.626Z"
+    },
+    {
+      "name": "Haier",
+      "actualCount": 59,
+      "expectedCount": 59,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.628Z"
+    },
+    {
+      "name": "HMD",
+      "actualCount": 40,
+      "expectedCount": 40,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.632Z"
+    },
+    {
+      "name": "Honor",
+      "actualCount": 337,
+      "expectedCount": 337,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.638Z"
+    },
+    {
+      "name": "HP",
+      "actualCount": 41,
+      "expectedCount": 41,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.639Z"
+    },
+    {
+      "name": "HTC",
+      "actualCount": 297,
+      "expectedCount": 297,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.641Z"
+    },
+    {
+      "name": "Huawei",
+      "actualCount": 544,
+      "expectedCount": 545,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:40.644Z"
+    },
+    {
+      "name": "i-mate",
+      "actualCount": 34,
+      "expectedCount": 34,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.646Z"
+    },
+    {
+      "name": "i-mobile",
+      "actualCount": 37,
+      "expectedCount": 37,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.647Z"
+    },
+    {
+      "name": "Icemobile",
+      "actualCount": 61,
+      "expectedCount": 61,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:40.648Z"
+    },
+    {
+      "name": "Infinix",
+      "actualCount": 171,
+      "expectedCount": 172,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:54.512Z"
+    },
+    {
+      "name": "Innostream",
+      "actualCount": 18,
+      "expectedCount": 18,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.514Z"
+    },
+    {
+      "name": "iNQ",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.515Z"
+    },
+    {
+      "name": "Intex",
+      "actualCount": 15,
+      "expectedCount": 15,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.516Z"
+    },
+    {
+      "name": "itel",
+      "actualCount": 65,
+      "expectedCount": 65,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.518Z"
+    },
+    {
+      "name": "Jolla",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.519Z"
+    },
+    {
+      "name": "Karbonn",
+      "actualCount": 60,
+      "expectedCount": 60,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.521Z"
+    },
+    {
+      "name": "Kyocera",
+      "actualCount": 28,
+      "expectedCount": 28,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.522Z"
+    },
+    {
+      "name": "Lava",
+      "actualCount": 184,
+      "expectedCount": 184,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.523Z"
+    },
+    {
+      "name": "LeEco",
+      "actualCount": 9,
+      "expectedCount": 9,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.524Z"
+    },
+    {
+      "name": "Lenovo",
+      "actualCount": 266,
+      "expectedCount": 266,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.526Z"
+    },
+    {
+      "name": "LG",
+      "actualCount": 667,
+      "expectedCount": 667,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.529Z"
+    },
+    {
+      "name": "Maxon",
+      "actualCount": 31,
+      "expectedCount": 31,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.530Z"
+    },
+    {
+      "name": "Maxwest",
+      "actualCount": 41,
+      "expectedCount": 41,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.531Z"
+    },
+    {
+      "name": "Meizu",
+      "actualCount": 87,
+      "expectedCount": 87,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.532Z"
+    },
+    {
+      "name": "Micromax",
+      "actualCount": 289,
+      "expectedCount": 289,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.535Z"
+    },
+    {
+      "name": "Microsoft",
+      "actualCount": 32,
+      "expectedCount": 32,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.536Z"
+    },
+    {
+      "name": "Mitac",
+      "actualCount": 12,
+      "expectedCount": 12,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.537Z"
+    },
+    {
+      "name": "Mitsubishi",
+      "actualCount": 25,
+      "expectedCount": 25,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.538Z"
+    },
+    {
+      "name": "Modu",
+      "actualCount": 8,
+      "expectedCount": 8,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.539Z"
+    },
+    {
+      "name": "Motorola",
+      "actualCount": 700,
+      "expectedCount": 707,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:54.542Z"
+    },
+    {
+      "name": "MWg",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.543Z"
+    },
+    {
+      "name": "NEC",
+      "actualCount": 73,
+      "expectedCount": 73,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.544Z"
+    },
+    {
+      "name": "Neonode",
+      "actualCount": 3,
+      "expectedCount": 3,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.545Z"
+    },
+    {
+      "name": "NIU",
+      "actualCount": 30,
+      "expectedCount": 30,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.546Z"
+    },
+    {
+      "name": "Nokia",
+      "actualCount": 598,
+      "expectedCount": 598,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.549Z"
+    },
+    {
+      "name": "Nvidia",
+      "actualCount": 3,
+      "expectedCount": 3,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.551Z"
+    },
+    {
+      "name": "O2",
+      "actualCount": 45,
+      "expectedCount": 45,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.552Z"
+    },
+    {
+      "name": "OnePlus",
+      "actualCount": 114,
+      "expectedCount": 115,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:54.554Z"
+    },
+    {
+      "name": "Oppo",
+      "actualCount": 422,
+      "expectedCount": 424,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:17:54.560Z"
+    },
+    {
+      "name": "Orange",
+      "actualCount": 19,
+      "expectedCount": 19,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.566Z"
+    },
+    {
+      "name": "Oscal",
+      "actualCount": 33,
+      "expectedCount": 33,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.568Z"
+    },
+    {
+      "name": "Oukitel",
+      "actualCount": 121,
+      "expectedCount": 121,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.569Z"
+    },
+    {
+      "name": "Palm",
+      "actualCount": 17,
+      "expectedCount": 17,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:17:54.570Z"
+    },
+    {
+      "name": "Panasonic",
+      "actualCount": 123,
+      "expectedCount": 123,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.190Z"
+    },
+    {
+      "name": "Pantech",
+      "actualCount": 72,
+      "expectedCount": 72,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.192Z"
+    },
+    {
+      "name": "Parla",
+      "actualCount": 10,
+      "expectedCount": 10,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.193Z"
+    },
+    {
+      "name": "Philips",
+      "actualCount": 233,
+      "expectedCount": 233,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.195Z"
+    },
+    {
+      "name": "Plum",
+      "actualCount": 113,
+      "expectedCount": 113,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.196Z"
+    },
+    {
+      "name": "Posh",
+      "actualCount": 30,
+      "expectedCount": 30,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.198Z"
+    },
+    {
+      "name": "Prestigio",
+      "actualCount": 56,
+      "expectedCount": 56,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.199Z"
+    },
+    {
+      "name": "QMobile",
+      "actualCount": 90,
+      "expectedCount": 90,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.201Z"
+    },
+    {
+      "name": "Qtek",
+      "actualCount": 21,
+      "expectedCount": 21,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.202Z"
+    },
+    {
+      "name": "Razer",
+      "actualCount": 2,
+      "expectedCount": 2,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.203Z"
+    },
+    {
+      "name": "Realme",
+      "actualCount": 298,
+      "expectedCount": 298,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.206Z"
+    },
+    {
+      "name": "RugOne",
+      "actualCount": 3,
+      "expectedCount": 3,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.207Z"
+    },
+    {
+      "name": "Sagem",
+      "actualCount": 120,
+      "expectedCount": 120,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.209Z"
+    },
+    {
+      "name": "Samsung",
+      "actualCount": 1450,
+      "expectedCount": 1464,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:18:06.215Z"
+    },
+    {
+      "name": "Sendo",
+      "actualCount": 19,
+      "expectedCount": 19,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.216Z"
+    },
+    {
+      "name": "Sewon",
+      "actualCount": 25,
+      "expectedCount": 25,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.217Z"
+    },
+    {
+      "name": "Sharp",
+      "actualCount": 83,
+      "expectedCount": 83,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.219Z"
+    },
+    {
+      "name": "Siemens",
+      "actualCount": 94,
+      "expectedCount": 94,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.221Z"
+    },
+    {
+      "name": "Sonim",
+      "actualCount": 24,
+      "expectedCount": 24,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.222Z"
+    },
+    {
+      "name": "Sony",
+      "actualCount": 164,
+      "expectedCount": 164,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.224Z"
+    },
+    {
+      "name": "Sony Ericsson",
+      "actualCount": 188,
+      "expectedCount": 188,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.226Z"
+    },
+    {
+      "name": "Spice",
+      "actualCount": 120,
+      "expectedCount": 120,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.227Z"
+    },
+    {
+      "name": "T-Mobile",
+      "actualCount": 69,
+      "expectedCount": 69,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.228Z"
+    },
+    {
+      "name": "TCL",
+      "actualCount": 104,
+      "expectedCount": 104,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.230Z"
+    },
+    {
+      "name": "Tecno",
+      "actualCount": 195,
+      "expectedCount": 195,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.231Z"
+    },
+    {
+      "name": "Tel.Me.",
+      "actualCount": 7,
+      "expectedCount": 7,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.232Z"
+    },
+    {
+      "name": "Telit",
+      "actualCount": 30,
+      "expectedCount": 30,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.234Z"
+    },
+    {
+      "name": "Thuraya",
+      "actualCount": 2,
+      "expectedCount": 2,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.235Z"
+    },
+    {
+      "name": "Toshiba",
+      "actualCount": 35,
+      "expectedCount": 35,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.237Z"
+    },
+    {
+      "name": "Ulefone",
+      "actualCount": 150,
+      "expectedCount": 151,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:18:06.239Z"
+    },
+    {
+      "name": "Umidigi",
+      "actualCount": 80,
+      "expectedCount": 80,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.240Z"
+    },
+    {
+      "name": "Unnecto",
+      "actualCount": 30,
+      "expectedCount": 30,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.242Z"
+    },
+    {
+      "name": "Vertu",
+      "actualCount": 17,
+      "expectedCount": 17,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.243Z"
+    },
+    {
+      "name": "verykool",
+      "actualCount": 139,
+      "expectedCount": 139,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.244Z"
+    },
+    {
+      "name": "vivo",
+      "actualCount": 615,
+      "expectedCount": 616,
+      "errorCount": 0,
+      "isMatch": false,
+      "completedAt": "2026-09-05T15:18:06.247Z"
+    },
+    {
+      "name": "VK Mobile",
+      "actualCount": 31,
+      "expectedCount": 31,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.248Z"
+    },
+    {
+      "name": "Vodafone",
+      "actualCount": 87,
+      "expectedCount": 87,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.251Z"
+    },
+    {
+      "name": "Wiko",
+      "actualCount": 103,
+      "expectedCount": 103,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.253Z"
+    },
+    {
+      "name": "WND",
+      "actualCount": 5,
+      "expectedCount": 5,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.255Z"
+    },
+    {
+      "name": "XCute",
+      "actualCount": 4,
+      "expectedCount": 4,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.259Z"
+    },
+    {
+      "name": "Xiaomi",
+      "actualCount": 546,
+      "expectedCount": 546,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.262Z"
+    },
+    {
+      "name": "XOLO",
+      "actualCount": 81,
+      "expectedCount": 81,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.263Z"
+    },
+    {
+      "name": "Yezz",
+      "actualCount": 113,
+      "expectedCount": 113,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.265Z"
+    },
+    {
+      "name": "Yota",
+      "actualCount": 3,
+      "expectedCount": 3,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.266Z"
+    },
+    {
+      "name": "YU",
+      "actualCount": 13,
+      "expectedCount": 13,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.268Z"
+    },
+    {
+      "name": "ZTE",
+      "actualCount": 443,
+      "expectedCount": 443,
+      "errorCount": 0,
+      "isMatch": true,
+      "completedAt": "2026-09-05T15:18:06.270Z"
+    }
+  ],
+  "lastUpdated": "2026-09-05T15:18:06.270Z"
+}

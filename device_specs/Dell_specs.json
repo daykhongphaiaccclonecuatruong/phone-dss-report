@@ -1,0 +1,1467 @@
+[
+  {
+    "sttTong": 2356,
+    "sttHang": 1,
+    "brand": "Dell",
+    "deviceName": "Dell Venue 10 7000",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_10_7000-7188.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-10-7000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-10-7000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2015, April. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "243.4 x 195.4 x 6.2 mm (9.58 x 7.69 x 0.24 in)",
+        "weight": "597 g (1.32 lb)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "10.5 inches, 319.7 cm2 (~67.2% screen-to-body ratio)",
+        "resolution": "1600 x 2560 pixels, 16:10 ratio (~288 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Intel Atom Z3580",
+        "cpu": "Quad-core 2.3 GHz",
+        "gpu": "PowerVR G6430"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 7000 mAh, non-removable",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 460 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:42.137Z"
+  },
+  {
+    "sttTong": 2358,
+    "sttHang": 3,
+    "brand": "Dell",
+    "deviceName": "Dell Venue 8",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_8-5752.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "212 x 130 x 9.8 mm (8.35 x 5.12 x 0.39 in)",
+        "weight": "292 g (10.30 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 185.6 cm2 (~67.3% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Intel Atom Z2580",
+        "cpu": "Dual-core 2.0 GHz",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM, 32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4100 mAh, non-removable (15.5 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:42.732Z"
+  },
+  {
+    "sttTong": 2357,
+    "sttHang": 2,
+    "brand": "Dell",
+    "deviceName": "Dell Venue 8 7000",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_8_7000-6714.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-8-7000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-8-7000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE - cellular model only",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "215.9 x 124.2 x 6.1 mm (8.5 x 4.89 x 0.24 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "Micro-SIM - cellular model only"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "8.4 inches, 204.6 cm2 (~76.3% screen-to-body ratio)",
+        "resolution": "1600 x 2560 pixels, 16:10 ratio (~359 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 5.0.2 (Lollipop)",
+        "chipset": "Intel Atom Z3580",
+        "cpu": "Quad-core 2.3 GHz",
+        "gpu": "PowerVR G6430"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM, 32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.4, AF",
+        "features": "Depth & motion tracking sensors",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS - cellular model only",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 5900 mAh, non-removable (21 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:44.190Z"
+  },
+  {
+    "sttTong": 2360,
+    "sttHang": 5,
+    "brand": "Dell",
+    "deviceName": "Dell Venue 7",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_7-5751.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "193 x 118 x 9.6 mm (7.60 x 4.65 x 0.38 in)",
+        "weight": "234 g (8.25 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~62.4% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Intel Atom Z2560",
+        "cpu": "Dual-core 1.6 GHz",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4100 mAh, non-removable (15.5 Wh)"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:46.845Z"
+  },
+  {
+    "sttTong": 2362,
+    "sttHang": 7,
+    "brand": "Dell",
+    "deviceName": "Dell Streak 10 Pro",
+    "deviceUrl": "https://www.gsmarena.com/dell_streak_10_pro-4398.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-10-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-10-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "262.3 x 178 x 13 mm (10.33 x 7.01 x 0.51 in)",
+        "weight": "727 g (1.60 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.1 inches, 295.8 cm2 (~63.4% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nMP4/H.264/WMV player\nMP3/WAV/eAAC+/WMA player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:49.897Z"
+  },
+  {
+    "sttTong": 2359,
+    "sttHang": 4,
+    "brand": "Dell",
+    "deviceName": "Dell Venue 7 8 GB",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_7_8_gb-6053.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-7-8gb.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-7-8gb.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "193 x 118 x 9.6 mm (7.60 x 4.65 x 0.38 in)",
+        "weight": "234 g (8.25 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~62.4% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Intel Atom Z2560",
+        "cpu": "Dual-core 1.6 GHz",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4100 mAh, non-removable (15.5 Wh)"
+      },
+      "misc": {
+        "colors": "Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:51.735Z"
+  },
+  {
+    "sttTong": 2363,
+    "sttHang": 8,
+    "brand": "Dell",
+    "deviceName": "Dell Streak Pro D43",
+    "deviceUrl": "https://www.gsmarena.com/dell_streak_pro_d43-4384.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-pro-d43.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-pro-d43.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, December. Released 2012, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.9 x 64.5 x 10.3 mm (4.92 x 2.54 x 0.41 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "Super AMOLED",
+        "size": "4.3 inches, 51.0 cm2 (~63.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "chipset": "Qualcomm MSM8260 Snapdragon S3",
+        "cpu": "Dual-core 1.5 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Practically unlimited entries and fields, Photocal",
+        "call_records": "Practically unlimited",
+        "internal": "8GB ROM, 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass",
+        "messaging": "SMS(threaded view), MMS, Email, IM",
+        "games": "Yes + downloadable",
+        "java": "Yes, via Java MIDP emulator\nSNS integration\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument editor\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1520 mAh battery",
+        "stand-by": "Up to 281 h (2G) / Up to 353 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 450 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:52.349Z"
+  },
+  {
+    "sttTong": 2364,
+    "sttHang": 9,
+    "brand": "Dell",
+    "deviceName": "Dell Streak 7",
+    "deviceUrl": "https://www.gsmarena.com/dell_streak_7-3881.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100  / 1700",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "200 x 119.8 x 12.4 mm (7.87 x 4.72 x 0.49 in)",
+        "weight": "453.6 g (1.00 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo), 2.3 (Gingerbread), upgradable to 3.2 (Honeycomb)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP4/H.264/WMV player\nMP3/WAV/eAAC+/WMA player\nQuickOffice document viewer\nPhoto viewer/editor\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 2780 mAh battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:54.625Z"
+  },
+  {
+    "sttTong": 2365,
+    "sttHang": 10,
+    "brand": "Dell",
+    "deviceName": "Dell Streak 7 Wi-Fi",
+    "deviceUrl": "https://www.gsmarena.com/dell_streak_7_wi_fi-3882.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "200 x 119.8 x 12.4 mm (7.87 x 4.72 x 0.49 in)",
+        "weight": "453.6 g (1.00 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP4/H.264/WMV player\nMP3/WAV/eAAC+/WMA player\nQuickOffice document viewer\nPhoto viewer/editor\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 2780 mAh battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:56.287Z"
+  },
+  {
+    "sttTong": 2366,
+    "sttHang": 11,
+    "brand": "Dell",
+    "deviceName": "Dell Venue",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue-3281.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100\nHSDPA 900 / 2100\nHSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2010, December. Released 2010, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121 x 64 x 12.9 mm (4.76 x 2.52 x 0.51 in)",
+        "weight": "164 g (5.78 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "4.1 inches, 47.8 cm2 (~61.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)",
+        "protection": "Corning Gorilla Glass\nDell Stage UI"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP3/eAAC+/WAV/WMA9 player\nMP4/H.264/WMV9 player\nOrganizer\nQuick Office document viewer/editor\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 390 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:56.648Z"
+  },
+  {
+    "sttTong": 2367,
+    "sttHang": 12,
+    "brand": "Dell",
+    "deviceName": "Dell XCD35",
+    "deviceUrl": "https://www.gsmarena.com/dell_xcd35-3623.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xcd35-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xcd35-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2010, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 56 x 12.2 mm (4.49 x 2.20 x 0.48 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 34.9 cm2 (~54.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)",
+        "cpu": "600 MHz ARM 11"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1250 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:42:59.696Z"
+  },
+  {
+    "sttTong": 2368,
+    "sttHang": 13,
+    "brand": "Dell",
+    "deviceName": "Dell XCD28",
+    "deviceUrl": "https://www.gsmarena.com/dell_xcd28-3622.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xcd28.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xcd28.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 55 x 14.5 mm (4.02 x 2.17 x 0.57 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~43.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "256MB RAM, 256MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "browser": "HTML\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:00.386Z"
+  },
+  {
+    "sttTong": 2370,
+    "sttHang": 15,
+    "brand": "Dell",
+    "deviceName": "Dell Flash",
+    "deviceUrl": "https://www.gsmarena.com/dell_flash-3283.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-flash.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-flash.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "Not officially announced yet. Released Exp. release 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 58 x 11 mm (4.61 x 2.28 x 0.43 in)",
+        "weight": "110 g (3.88 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 34.9 cm2 (~51.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7230",
+        "cpu": "800 MHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "512MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, DLNA & UPnP",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nTV-Out\nMP3/WAV/eAAC+/WMA player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 725 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:01.395Z"
+  },
+  {
+    "sttTong": 2369,
+    "sttHang": 14,
+    "brand": "Dell",
+    "deviceName": "Dell Smoke",
+    "deviceUrl": "https://www.gsmarena.com/dell_smoke-3282.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-smoke.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-smoke.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "Not officially announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "120 x 59.8 x 10.5 mm (4.72 x 2.35 x 0.41 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~33.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7230",
+        "cpu": "800 MHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP3/WAV/eAAC+/WMA player\nMP4/H.264 player\nOrganizer\nDocument viewer/editor\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1170 mAh battery",
+        "stand-by": "Up to 576 h (3G)",
+        "talk_time": "Up to 6 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:02.002Z"
+  },
+  {
+    "sttTong": 2371,
+    "sttHang": 16,
+    "brand": "Dell",
+    "deviceName": "Dell Venue Pro",
+    "deviceUrl": "https://www.gsmarena.com/dell_venue_pro-3280.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-venue-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 63.5 x 15.2 mm (4.80 x 2.5 x 0.60 in)",
+        "weight": "192.8 g (6.77 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "4.1 inches, 47.8 cm2 (~61.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 7",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot) - not user accessible",
+        "internal": "8GB 512MB RAM, 16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nDocument viewer/editor\nMP4/H.264/WMV player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:04.796Z"
+  },
+  {
+    "sttTong": 2372,
+    "sttHang": 17,
+    "brand": "Dell",
+    "deviceName": "Dell Streak",
+    "deviceUrl": "https://www.gsmarena.com/dell_streak-3353.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-official.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-streak-official.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2010, May. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.9 x 79.1 x 10 mm (6.02 x 3.11 x 0.39 in)",
+        "weight": "220 g (7.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 71.2 cm2 (~58.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android OS 1.6 (Donut), upgradable to 2.2 (Froyo)",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, f/2.8, AF",
+        "features": "Dual-LED flash",
+        "video": "480p@20fps; 720p (via SW update)"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot (charges may apply)",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP4/H.264/WMV player\nMP3/WAV/eAAC+/WMA player\nQuickOffice document viewer\nPhoto viewer/editor\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 9 h 48 min"
+      },
+      "misc": {
+        "colors": "Black, Red, white",
+        "price": "About 190 EUR"
+      },
+      "our_tests": {
+        "camera": "Photo",
+        "loudspeaker": "Voice 70dB / Noise 75dB / Ring 80dB",
+        "audio_quality": "Noise -84.7dB / Crosstalk -82.5dB"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:05.395Z"
+  },
+  {
+    "sttTong": 2361,
+    "sttHang": 6,
+    "brand": "Dell",
+    "deviceName": "Dell XPS 10",
+    "deviceUrl": "https://www.gsmarena.com/dell_xps_10-5160.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xps-10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-xps-10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900  (optional)",
+        "3g_bands": "HSDPA (optional)",
+        "4g_bands": "LTE (optional)",
+        "speed": "HSPA/LTE (optional)",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, Q4. Released 2012, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "274.7 x 177.3 x 9.2 mm (10.81 x 6.98 x 0.36 in)",
+        "weight": "635 g (1.40 lb)",
+        "sim": "Single SIM (Micro-SIM) - optional\nOptional mobile dock with standard QWERTY keyboard and trackpad"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "10.1 inches, 281.1 cm2 (~57.7% screen-to-body ratio)",
+        "resolution": "1366 x 768 pixels, 16:9 ratio (~155 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows RT",
+        "cpu": "Dual-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32/64GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS (with LTE/HSPA+ configs)",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nPhoto viewer/editor\nDocument editor"
+      },
+      "battery": {
+        "type": "Li-Ion (28 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:05.702Z"
+  },
+  {
+    "sttTong": 2373,
+    "sttHang": 18,
+    "brand": "Dell",
+    "deviceName": "Dell Aero",
+    "deviceUrl": "https://www.gsmarena.com/dell_aero-3248.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-aero.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-aero.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 57.9 x 11.7 mm, 68.6 cc (4.80 x 2.28 x 0.46 in)",
+        "weight": "104 g (3.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 33.8 cm2 (~47.8% screen-to-body ratio)",
+        "resolution": "360 x 640 pixels, 16:9 ratio (~210 ppi density)",
+        "protection": "Corning Gorilla Glass\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake)",
+        "cpu": "Marvell PXA310 624 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "CIF@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash Lite\nMP4/H.264/WMV player\nMP3/WAV/eAAC+/WMA player\nQuickOffice document viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:06.376Z"
+  },
+  {
+    "sttTong": 2374,
+    "sttHang": 19,
+    "brand": "Dell",
+    "deviceName": "Dell Mini 3i",
+    "deviceUrl": "https://www.gsmarena.com/dell_mini_3i-3033.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-mini-3i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-mini-3i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 58.4 x 11.7 mm (4.80 x 2.30 x 0.46 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 33.8 cm2 (~47.4% screen-to-body ratio)",
+        "resolution": "360 x 640 pixels, 16:9 ratio (~210 ppi density)"
+      },
+      "platform": {
+        "os": "OPhone OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "internal": "256MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML\nMP4/H.264/WMV player\nMP3/e-AAC+/WMA player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 423 h",
+        "talk_time": "Up to 7 h 20 min"
+      },
+      "misc": {
+        "colors": "Passion Red, Oiled Bronze",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:06.723Z"
+  },
+  {
+    "sttTong": 2375,
+    "sttHang": 20,
+    "brand": "Dell",
+    "deviceName": "Dell Mini 3iX",
+    "deviceUrl": "https://www.gsmarena.com/dell_mini_3ix-3010.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-mini-3ix-official.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dell-mini-3ix-official.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 59.9 x 11.7 mm (4.72 x 2.36 x 0.46 in)",
+        "weight": "108 g (3.81 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 33.8 cm2 (~47.0% screen-to-body ratio)",
+        "resolution": "360 x 640 pixels, 16:9 ratio (~210 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "256MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML\nMP4/H.264/WMV player\nMP3/e-AAC+/WMA player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Oiled Bronze and Ocean Blue",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:43:09.582Z"
+  }
+]

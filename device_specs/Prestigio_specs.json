@@ -1,0 +1,4052 @@
+[
+  {
+    "sttTong": 9158,
+    "sttHang": 2,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5504 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5504_duo-6875.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5504-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5504-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147.1 x 72.5 x 8.5 mm (5.79 x 2.85 x 0.33 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.6% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1950 mAh, removable",
+        "stand-by": "Up to 696 h",
+        "talk_time": "Up to 27 h",
+        "music_play": "Up to 78 h"
+      },
+      "misc": {
+        "colors": "Black, metal, white"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:36:04.418Z"
+  },
+  {
+    "sttTong": 9159,
+    "sttHang": 3,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5503 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5503_duo-6874.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5503-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5503-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 73.3 x 10.9 mm (5.67 x 2.89 x 0.43 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, removable",
+        "stand-by": "Up to 1300 h",
+        "talk_time": "Up to 47 h",
+        "music_play": "Up to 146 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:36:44.805Z"
+  },
+  {
+    "sttTong": 9162,
+    "sttHang": 6,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 4 Quantum 10.1 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_quantum_10_1_3g-6208.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quantum-101.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quantum-101.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "260 x 170 x 9.5 mm (10.24 x 6.69 x 0.37 in)",
+        "weight": "612 g (1.35 lb)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3188",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 7000 mAh, non-removable",
+        "stand-by": "Up to 336 h",
+        "talk_time": "Up to 8 h 30 min",
+        "music_play": "Up to 32 h"
+      },
+      "misc": {
+        "colors": "Black/Deep Blue",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:36:51.241Z"
+  },
+  {
+    "sttTong": 9160,
+    "sttHang": 4,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 8500 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_8500_duo-6526.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-8500-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-8500-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 8.1",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 984 h",
+        "talk_time": "Up to 57 h",
+        "music_play": "Up to 176 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:16.922Z"
+  },
+  {
+    "sttTong": 9165,
+    "sttHang": 9,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 7600 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_7600_duo-6205.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-7600-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-7600-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "166.5 x 84.4 x 8.4 mm (6.56 x 3.32 x 0.33 in)",
+        "weight": "191 g (6.74 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~70.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Quad-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2600 mAh, removable",
+        "stand-by": "Up to 414 h",
+        "talk_time": "Up to 14 h",
+        "music_play": "Up to 33 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:31.866Z"
+  },
+  {
+    "sttTong": 9157,
+    "sttHang": 1,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5508 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5508_duo-6876.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5508-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5508-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.5 x 70.8 x 8.3 mm (5.61 x 2.79 x 0.33 in)",
+        "weight": "129 g (4.55 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, non-removable",
+        "stand-by": "Up to 545 h",
+        "talk_time": "Up to 34 h",
+        "music_play": "Up to 77 h"
+      },
+      "misc": {
+        "colors": "Black/metal"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:36.154Z"
+  },
+  {
+    "sttTong": 9163,
+    "sttHang": 7,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 4 Quantum 9.7 Colombia",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_quantum_9_7_colombia-6207.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quantum-97.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quantum-97.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "241.5 x 185 x 9.2 mm (9.51 x 7.28 x 0.36 in)",
+        "weight": "621 g (1.37 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "9.7 inches, 291.4 cm2 (~65.2% screen-to-body ratio)",
+        "resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3188",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 8000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/Deep Blue",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:41.571Z"
+  },
+  {
+    "sttTong": 9161,
+    "sttHang": 5,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 8400 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_8400_duo-6527.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-8400-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-8400-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "11 mm thickness",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 8.1",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 456 h",
+        "talk_time": "Up to 29 h",
+        "music_play": "Up to 75 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:46.891Z"
+  },
+  {
+    "sttTong": 9167,
+    "sttHang": 11,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5501 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5501_duo-6203.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5501-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5501-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "149.6 x 75 x 9.5 mm (5.89 x 2.95 x 0.37 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~61.4% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 423 h",
+        "talk_time": "Up to 16 h",
+        "music_play": "Up to 15 h"
+      },
+      "misc": {
+        "colors": "Blue",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:53.608Z"
+  },
+  {
+    "sttTong": 9168,
+    "sttHang": 12,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5500 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5500_duo-6202.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5500-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5500-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146 x 75.3 x 10.6 mm (5.75 x 2.96 x 0.42 in)",
+        "weight": "183 g (6.46 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 410 h",
+        "talk_time": "Up to 21 h",
+        "music_play": "Up to 36 h"
+      },
+      "misc": {
+        "colors": "Black/ color back panels",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:37:55.118Z"
+  },
+  {
+    "sttTong": 9169,
+    "sttHang": 13,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5451 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5451_duo-6201.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5450-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5450-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 67 x 10.3 mm (5.28 x 2.64 x 0.41 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~62.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 15 h",
+        "music_play": "Up to 16 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:00.133Z"
+  },
+  {
+    "sttTong": 9170,
+    "sttHang": 14,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5450 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5450_duo-6200.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5450-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5450-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 67 x 10.3 mm (5.28 x 2.64 x 0.41 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~62.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 15 h",
+        "music_play": "Up to 16 h"
+      },
+      "misc": {
+        "colors": "Black/ color back panels",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:01.206Z"
+  },
+  {
+    "sttTong": 9172,
+    "sttHang": 16,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5430 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5430_duo-5721.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5430-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5430-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 64.7 x 10 mm (4.96 x 2.55 x 0.39 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 51.0 cm2 (~62.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Intel Atom Z2420",
+        "cpu": "1.2 GHz",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 12 h",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:05.693Z"
+  },
+  {
+    "sttTong": 9173,
+    "sttHang": 17,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5400 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5400_duo-5720.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5400-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5400-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 63.5 x 9.9 mm (4.96 x 2.5 x 0.39 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:06.572Z"
+  },
+  {
+    "sttTong": 9174,
+    "sttHang": 18,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5300 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5300_duo-5719.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5300-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5300-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 77.2 x 9.9 mm (5.79 x 3.04 x 0.39 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.3 inches, 77.4 cm2 (~68.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~185 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 16 h",
+        "music_play": "Up to 17 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:10.709Z"
+  },
+  {
+    "sttTong": 9175,
+    "sttHang": 19,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5044 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5044_duo-5718.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5044-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5044-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 73 x 8.6 mm (5.71 x 2.87 x 0.34 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, removable",
+        "stand-by": "Up to 281 h",
+        "talk_time": "Up to 15 h",
+        "music_play": "Up to 22 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:11.058Z"
+  },
+  {
+    "sttTong": 9171,
+    "sttHang": 15,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 3400 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_3400_duo-5888.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-MultiPhone-3400-DUO.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-MultiPhone-3400-DUO.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cotex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 351 h",
+        "talk_time": "Up to 10 h",
+        "music_play": "Up to 24 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:12.675Z"
+  },
+  {
+    "sttTong": 9176,
+    "sttHang": 20,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 5000 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_5000_duo-5717.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5000-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5000-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.5 x 79 x 10.2 mm (5.85 x 3.11 x 0.40 in)",
+        "weight": "199 g (7.02 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 71.2 cm2 (~60.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2200 mAh, removable",
+        "stand-by": "Up to 259 h",
+        "talk_time": "Up to 15 h 30 min",
+        "music_play": "Up to 26 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:17.306Z"
+  },
+  {
+    "sttTong": 9166,
+    "sttHang": 10,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 7500",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_7500-6204.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-7500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-7500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 70.5 x 9.9 mm (5.67 x 2.78 x 0.39 in)",
+        "weight": "146 g (5.15 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2300 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:18.478Z"
+  },
+  {
+    "sttTong": 9177,
+    "sttHang": 21,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4505 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4505_duo-5716.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4505-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4505-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 66 x 10.5 mm (5.12 x 2.60 x 0.41 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 203 h",
+        "talk_time": "Up to 13 h",
+        "music_play": "Up to 20 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:20.009Z"
+  },
+  {
+    "sttTong": 9178,
+    "sttHang": 22,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4500 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4500_duo-5715.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4500-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4500-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135 x 69 x 9.6 mm (5.31 x 2.72 x 0.38 in)",
+        "weight": "158 g (5.57 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 58.8 cm2 (~63.2% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:10 ratio (~226 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1850 mAh, removable",
+        "stand-by": "Up to 237 h",
+        "talk_time": "Up to 11 h",
+        "music_play": "Up to 17 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:20.687Z"
+  },
+  {
+    "sttTong": 9179,
+    "sttHang": 23,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4322 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4322_duo-5714.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4322-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4322-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 67.7 x 10.5 mm (5.12 x 2.67 x 0.41 in)",
+        "weight": "133 g (4.69 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.3 inches, 52.6 cm2 (~59.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 169 h",
+        "talk_time": "Up to 10 h",
+        "music_play": "Up to 8 h 30 min"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:22.459Z"
+  },
+  {
+    "sttTong": 9180,
+    "sttHang": 24,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4300 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4300_duo-5713.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4300-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4300-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 68 x 10.5 mm (5.04 x 2.68 x 0.41 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 52.6 cm2 (~60.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1500 mAh, removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:24.010Z"
+  },
+  {
+    "sttTong": 9181,
+    "sttHang": 25,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4055 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4055_duo-5712.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4055-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4055-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127.1 x 64.1 x 12.8 mm (5.00 x 2.52 x 0.50 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~55.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 14 h 30 min",
+        "music_play": "Up to 33 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:26.197Z"
+  },
+  {
+    "sttTong": 9183,
+    "sttHang": 27,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4040 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4040_duo-5709.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4040-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4040-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 64 x 11 mm (4.88 x 2.52 x 0.43 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 225 h",
+        "talk_time": "Up to 10 h 30 min",
+        "music_play": "Up to 18 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:28.775Z"
+  },
+  {
+    "sttTong": 9184,
+    "sttHang": 28,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 3540 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_3540_duo-5708.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-3540-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-3540-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 62 x 13 mm (4.65 x 2.44 x 0.51 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~49.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 13 h",
+        "music_play": "Up to 22 h 30 min"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:31.425Z"
+  },
+  {
+    "sttTong": 9164,
+    "sttHang": 8,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 4 Ultra Quad 8.0 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_ultra_quad_8_0_3g-6206.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quad-80-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quad-80-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, Q1. Released 2014, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204.3 x 157.2 x 9.8 mm (8.04 x 6.19 x 0.39 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~61.7% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8389",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4600 mAh, non-removable",
+        "stand-by": "Up to 510 h",
+        "talk_time": "Up to 6 h",
+        "music_play": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:32.182Z"
+  },
+  {
+    "sttTong": 9185,
+    "sttHang": 29,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 4 Ultimate 8.0 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_ultimate_8_0_3g-5658.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-ultimate-80-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-ultimate-80-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204 x 154 x 9.6 mm (8.03 x 6.06 x 0.38 in)",
+        "weight": "-",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~63.1% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8389",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4850 mAh, non-removable",
+        "stand-by": "Up to 320 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:34.101Z"
+  },
+  {
+    "sttTong": 9186,
+    "sttHang": 30,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Prime Duo 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo_3g-5657.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "198 x 123 x 11.8 mm (7.80 x 4.84 x 0.46 in)",
+        "weight": "355 g (12.52 oz)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~57.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT8377 (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)",
+        "music_play": "Up to 36 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:35.686Z"
+  },
+  {
+    "sttTong": 9187,
+    "sttHang": 31,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio Multipad 4 Quantum 10.1",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_quantum_10_1-5656.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-101.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-101.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "260 x 170 x 9.5 mm (10.24 x 6.69 x 0.37 in)",
+        "weight": "612 g (1.35 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3188",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 7000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/Deep Blue",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:37.722Z"
+  },
+  {
+    "sttTong": 9182,
+    "sttHang": 26,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPhone 4044 Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multiphone_4044_duo-5710.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4044-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-4044-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 64 x 10.4 mm (4.92 x 2.52 x 0.41 in)",
+        "weight": "124 g (4.37 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577T (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 11 h",
+        "music_play": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:51.725Z"
+  },
+  {
+    "sttTong": 9188,
+    "sttHang": 32,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio Multipad 4 Quantum 9.7",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_quantum_9_7-5655.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-97.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-97.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "241.5 x 185 x 9.2 mm (9.51 x 7.28 x 0.36 in)",
+        "weight": "621 g (1.37 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "9.7 inches, 291.4 cm2 (~65.2% screen-to-body ratio)",
+        "resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3188",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 8000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/Deep Blue",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:38:59.184Z"
+  },
+  {
+    "sttTong": 9191,
+    "sttHang": 35,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 2 Pro Duo 8.0 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_2_pro_duo_8_0_3g-5582.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-pro-duo-3g2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-pro-duo-3g2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "203.4 x 151.9 x 10 mm (8.01 x 5.98 x 0.39 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~64.1% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT8377 (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 5300 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:39:04.126Z"
+  },
+  {
+    "sttTong": 9189,
+    "sttHang": 33,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio Multipad 4 Quantum 7.85",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_4_quantum_7_85-5654.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad4.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "203.5 x 139 x 8.9 mm (8.01 x 5.47 x 0.35 in)",
+        "weight": "406 g (14.32 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.85 inches, 190.8 cm2 (~67.5% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~163 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3188",
+        "cpu": "Quad-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 4700 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/Deep Blue",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:39:06.862Z"
+  },
+  {
+    "sttTong": 9195,
+    "sttHang": 39,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 10.1 Ultimate",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_10_1_ultimate-5578.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-101-ultimate.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-101-ultimate.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "175 x 256.8 x 10.2 mm (6.89 x 10.11 x 0.40 in)",
+        "weight": "660 g (1.46 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "MVA",
+        "size": "10.1 inches, 295.8 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 6400 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 6 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:39:14.166Z"
+  },
+  {
+    "sttTong": 9193,
+    "sttHang": 37,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 2 Ultra Duo 8.0",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_2_ultra_duo_8_0-5581.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo-3g2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo-3g2.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204 x 158 x 9.3 mm (8.03 x 6.22 x 0.37 in)",
+        "weight": "453 g (1.00 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~61.5% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4100 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:39:14.746Z"
+  },
+  {
+    "sttTong": 9197,
+    "sttHang": 41,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 2 Prime Duo 8.0",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_2_prime_duo_8_0-5576.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-prime-duo2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-prime-duo2.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204.2 x 154.8 x 8.5 mm (8.04 x 6.09 x 0.33 in)",
+        "weight": "360 g (12.70 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 4400 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:39:21.019Z"
+  },
+  {
+    "sttTong": 9190,
+    "sttHang": 34,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad Note 8.0 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_note_8_0_3g-5583.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-note-80-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-note-80-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "207 x 164 x 11.5 mm (8.15 x 6.46 x 0.45 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~58.4% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 6000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:02.185Z"
+  },
+  {
+    "sttTong": 9199,
+    "sttHang": 43,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 8.0 Ultra Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_8_0_ultra_duo-5574.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "207 x 164 x 11.5 mm (8.15 x 6.46 x 0.45 in)",
+        "weight": "450 g (0.99 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 198.2 cm2 (~58.4% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 6000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:05.007Z"
+  },
+  {
+    "sttTong": 9194,
+    "sttHang": 38,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 10.1 Ultimate 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_10_1_ultimate_3g-5579.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-101-ultimate.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-101-ultimate.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "175 x 256.8 x 10.2 mm (6.89 x 10.11 x 0.40 in)",
+        "weight": "680 g (1.50 lb)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "MVA",
+        "size": "10.1 inches, 295.8 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 6400 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 6 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:06.873Z"
+  },
+  {
+    "sttTong": 9196,
+    "sttHang": 40,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Prime 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_3g-5577.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "198 x 123 x 11.8 mm (7.80 x 4.84 x 0.46 in)",
+        "weight": "355 g (12.52 oz)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~57.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM transmitter",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:08.512Z"
+  },
+  {
+    "sttTong": 9203,
+    "sttHang": 47,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Pro Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_pro_duo-5570.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-pro-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-pro-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "195 x 123 x 12 mm (7.68 x 4.84 x 0.47 in)",
+        "weight": "356 g (12.56 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~57.5% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 4100 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:10.560Z"
+  },
+  {
+    "sttTong": 9204,
+    "sttHang": 48,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 8.0 HD",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_8_0_hd-5569.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "216.3 x 138.4 x 10.1 mm (8.52 x 5.45 x 0.40 in)",
+        "weight": "460 g (1.01 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 182.2 cm2 (~60.9% screen-to-body ratio)",
+        "resolution": "768 x 1280 pixels, 5:3 ratio (~187 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:12.957Z"
+  },
+  {
+    "sttTong": 9201,
+    "sttHang": 45,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Prime Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "191 x 120 x 8.9 mm (7.52 x 4.72 x 0.35 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~60.2% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:14.240Z"
+  },
+  {
+    "sttTong": 9206,
+    "sttHang": 50,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 HD +",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_hd_+-5567.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-hd-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-hd-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192.4 x 119 x 9.1 mm (7.57 x 4.69 x 0.36 in)",
+        "weight": "360 g (12.70 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~60.2% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:16.764Z"
+  },
+  {
+    "sttTong": 9198,
+    "sttHang": 42,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Ultra Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_ultra_duo-5575.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "188 x 116 x 9 mm (7.40 x 4.57 x 0.35 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~65.2% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:19.216Z"
+  },
+  {
+    "sttTong": 9208,
+    "sttHang": 52,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Ultra +",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_ultra_+-5565.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 116 x 10.7 mm (7.56 x 4.57 x 0.42 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~62.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:19.479Z"
+  },
+  {
+    "sttTong": 9205,
+    "sttHang": 49,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Ultra + New",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_ultra_+_new-5568.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-plus-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra-plus-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 116 x 10.7 mm (7.56 x 4.57 x 0.42 in)",
+        "weight": "305 g (10.76 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~62.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)"
+      },
+      "misc": {
+        "colors": "White, Black, Red",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:23.003Z"
+  },
+  {
+    "sttTong": 9210,
+    "sttHang": 54,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Prime +",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_+-5563.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197 x 110 x 10.5 mm (7.76 x 4.33 x 0.41 in)",
+        "weight": "257 g (9.07 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~64.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:25.239Z"
+  },
+  {
+    "sttTong": 9212,
+    "sttHang": 56,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Pro",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_pro-5561.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "191.8 x 123 x 9.5 mm (7.55 x 4.84 x 0.37 in)",
+        "weight": "290 g (10.23 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~59.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz Cortex-A5",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:26.844Z"
+  },
+  {
+    "sttTong": 9202,
+    "sttHang": 46,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 8.0 Pro Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_8_0_pro_duo-5571.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-pro-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-pro-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "203 x 153 x 11 mm (7.99 x 6.02 x 0.43 in)",
+        "weight": "490 g (1.08 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 198.2 cm2 (~63.8% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 4700 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:45.314Z"
+  },
+  {
+    "sttTong": 9211,
+    "sttHang": 55,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Prime",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_prime-5562.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197 x 113 x 10.5 mm (7.76 x 4.45 x 0.41 in)",
+        "weight": "290 g (10.23 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:49.303Z"
+  },
+  {
+    "sttTong": 9192,
+    "sttHang": 36,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 2 Ultra Duo 8.0 3G",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_2_ultra_duo_8_0_3g-5580.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo-3g2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-ultra-duo-3g2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204 x 158 x 9.3 mm (8.03 x 6.22 x 0.37 in)",
+        "weight": "453 g (1.00 lb)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~61.5% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT8377 (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 4600 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:51.306Z"
+  },
+  {
+    "sttTong": 9207,
+    "sttHang": 51,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 HD",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_hd-5566.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194.7 x 122.4 x 11.7 mm (7.67 x 4.82 x 0.46 in)",
+        "weight": "360 g (12.70 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~57.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 6 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:40:52.454Z"
+  },
+  {
+    "sttTong": 9200,
+    "sttHang": 44,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 9.7 Ultra Duo",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_9_7_ultra_duo-5573.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-97-ultra-duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-97-ultra-duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "243 x 190 x 10.5 mm (9.57 x 7.48 x 0.41 in)",
+        "weight": "580 g (1.28 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "9.7 inches, 291.4 cm2 (~63.1% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~132 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.6 GHz Cortex-A9",
+        "gpu": "Mali-400MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 7800 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 8 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:41:00.557Z"
+  },
+  {
+    "sttTong": 9209,
+    "sttHang": 53,
+    "brand": "Prestigio",
+    "deviceName": "Prestigio MultiPad 7.0 Ultra",
+    "deviceUrl": "https://www.gsmarena.com/prestigio_multipad_7_0_ultra-5564.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-ultra.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "187 x 113 x 11.2 mm (7.36 x 4.45 x 0.44 in)",
+        "weight": "326 g (11.50 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "Mali-400MP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 5 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:41:29.612Z"
+  }
+]

@@ -1,0 +1,2932 @@
+[
+  {
+    "sttTong": 2971,
+    "sttHang": 4,
+    "brand": "HMD",
+    "deviceName": "HMD Vibe2",
+    "deviceUrl": "https://www.gsmarena.com/hmd_vibe_2_5g-14668.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe2-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe2-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 40, 41",
+        "5g_bands": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, May 21",
+        "status": "Available. Released 2026, May 26"
+      },
+      "body": {
+        "dimensions": "168 x 77.7 x 8.6 mm (6.61 x 3.06 x 0.34 in)",
+        "weight": "210 g (7.41 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.75 inches, 110.0 cm2 (~84.3% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 16",
+        "chipset": "Unisoc T8200 (6 nm)",
+        "cpu": "Octa-core (2x2.3 GHz Cortex-A76 & 6x2.1 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide)\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Cosmic Lavender, Nordic Blue, Peach Pink",
+        "models": "TA-1764",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:44.592Z"
+  },
+  {
+    "sttTong": 2968,
+    "sttHang": 1,
+    "brand": "HMD",
+    "deviceName": "HMD 102",
+    "deviceUrl": "https://www.gsmarena.com/hmd_102-14914.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-102.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-102.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2025, December 02",
+        "status": "Available. Released 2025, December"
+      },
+      "body": {
+        "dimensions": "114.5 x 50 x 13.7 mm (4.51 x 1.97 x 0.54 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM + Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~17.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc SC6531E (22 nm)",
+        "cpu": "208 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "charging": "2.75W wired"
+      },
+      "misc": {
+        "colors": "Gray, Blue, Red",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:45.538Z"
+  },
+  {
+    "sttTong": 2969,
+    "sttHang": 2,
+    "brand": "HMD",
+    "deviceName": "HMD Asha 305 Lite",
+    "deviceUrl": "https://www.gsmarena.com/hmd_asha_305_lite-14832.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-asha-305.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-asha-305.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, July",
+        "status": "Available. Released 2026, July"
+      },
+      "body": {
+        "dimensions": "147 x 71.5 x 10.2 mm (5.79 x 2.81 x 0.40 in)",
+        "weight": "-",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~65.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android Open Source Project",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh"
+      },
+      "misc": {
+        "colors": "Gray, Green",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:45.649Z"
+  },
+  {
+    "sttTong": 2973,
+    "sttHang": 6,
+    "brand": "HMD",
+    "deviceName": "HMD Terra M",
+    "deviceUrl": "https://www.gsmarena.com/hmd_terra_m-14480.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-terra-m.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-terra-m.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, February 10",
+        "status": "Available. Released 2026, March"
+      },
+      "body": {
+        "dimensions": "146.5 x 66 x 14.5 mm (5.77 x 2.60 x 0.57 in)",
+        "weight": "210 g (7.41 oz)",
+        "sim": "Nano-SIM + eSIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nDrop resistant up to 1.8m\nDedicated red LED torch\nTwo programmable keys"
+      },
+      "display": {
+        "type": "TFT LCD, 550 nits",
+        "size": "2.8 inches, 24.3 cm2 (~25.1% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Smart OS 14",
+        "chipset": "Qualcomm Dragonwing QCM2290 (11 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "Adreno 702"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "32GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0 (wide), 1/4.0\", 1.12µm, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes (100 dB)",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, magnetic accessory connector pins"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Po 2510 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:50.165Z"
+  },
+  {
+    "sttTong": 2972,
+    "sttHang": 5,
+    "brand": "HMD",
+    "deviceName": "HMD Luma",
+    "deviceUrl": "https://www.gsmarena.com/hmd_luma-14517.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-luma.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-luma.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, February 27",
+        "status": "Available. Released 2026, March"
+      },
+      "body": {
+        "dimensions": "165.7 x 76.5 x 8.7 mm (6.52 x 3.01 x 0.34 in)",
+        "weight": "198 g (6.98 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 500 nits (peak)",
+        "size": "6.67 inches, 107.2 cm2 (~84.6% screen-to-body ratio)",
+        "resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, (wide)",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Titanium, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:50.172Z"
+  },
+  {
+    "sttTong": 2970,
+    "sttHang": 3,
+    "brand": "HMD",
+    "deviceName": "HMD Arc 2",
+    "deviceUrl": "https://www.gsmarena.com/hmd_arc_2-14788.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-arc2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-arc2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, July 09",
+        "status": "Available. Released 2026, July 20"
+      },
+      "body": {
+        "dimensions": "166.4 x 76.9 x 9 mm (6.55 x 3.03 x 0.35 in)",
+        "weight": "184.5 g (6.53 oz)",
+        "sim": "Nano-SIM\nIP54 dust protected and water resistant (water splashes) - EU only"
+      },
+      "display": {
+        "type": "IPS LCD, 460 nits (peak)",
+        "size": "6.52 inches, 102.6 cm2 (~80.2% screen-to-body ratio)",
+        "resolution": "576 x 1280 pixels, 20:9 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Dark Blue, Golden Beige",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:51.863Z"
+  },
+  {
+    "sttTong": 2976,
+    "sttHang": 9,
+    "brand": "HMD",
+    "deviceName": "HMD 101",
+    "deviceUrl": "https://www.gsmarena.com/hmd_101-14349.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-101.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-101.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2025, December",
+        "status": "Available. Released 2025, December"
+      },
+      "body": {
+        "dimensions": "114.3 x 50 x 14.3 mm (4.5 x 1.97 x 0.56 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM + Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~17.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 6533G"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB"
+      },
+      "camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Gray, Blue, Green",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:55.078Z"
+  },
+  {
+    "sttTong": 2975,
+    "sttHang": 8,
+    "brand": "HMD",
+    "deviceName": "HMD Watch P1",
+    "deviceUrl": "https://www.gsmarena.com/hmd_watch_p1-14448.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-watch-p1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-watch-p1.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2026, January 26",
+        "status": "Available. Released 2026, January"
+      },
+      "body": {
+        "dimensions": "45.5 x 37.9 x 11.2 mm (1.79 x 1.49 x 0.44 in)",
+        "weight": "40 g (1.41 oz)",
+        "sim": "No\nIP67 dust tight and water resistant (immersible up to 1m for 30 min)\nCompatible with standard 22mm straps"
+      },
+      "display": {
+        "type": "IPS LCD, 550 nits",
+        "size": "1.83 inches",
+        "resolution": "240 x 284 pixels (~203 ppi density)"
+      },
+      "platform": {
+        "os": "RTOS OS"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "Li-Po"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:00:55.117Z"
+  },
+  {
+    "sttTong": 2978,
+    "sttHang": 11,
+    "brand": "HMD",
+    "deviceName": "HMD Touch 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_touch_4g-14208.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, October 07",
+        "status": "Available. Released 2025, October 07"
+      },
+      "body": {
+        "dimensions": "102.3 x 61.9 x 10.9 mm (4.03 x 2.44 x 0.43 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nSplash resistant\nQuick-Call button"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "3.2 inches, 31.7 cm2 (~50.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~125 ppi density)"
+      },
+      "platform": {
+        "os": "RTOS Touch",
+        "chipset": "Unisoc T127"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "64MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "GPS, BDS",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "undefined\nMP3 player\nExpress Chat app"
+      },
+      "battery": {
+        "type": "Li-Ion 1950 mAh"
+      },
+      "misc": {
+        "colors": "Dark Blue, Cyan",
+        "models": "TA-1692",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:01.060Z"
+  },
+  {
+    "sttTong": 2980,
+    "sttHang": 13,
+    "brand": "HMD",
+    "deviceName": "HMD Vibe",
+    "deviceUrl": "https://www.gsmarena.com/hmd_vibe_5g-14145.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 40, 41",
+        "5g_bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 11",
+        "status": "Available. Released 2025, September 11"
+      },
+      "body": {
+        "dimensions": "165 x 75.8 x 8.7 mm (6.50 x 2.98 x 0.34 in)",
+        "weight": "190 g (6.70 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Nano-SIM + Nano-SIM\nDust and splash resistant\nXpress-On back panel covers"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.67 inches, 107.2 cm2 (~85.7% screen-to-body ratio)",
+        "resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T760 (6 nm)",
+        "cpu": "Octa-core (1x2.2 GHz Cortex-A76 & 3x Cortex-A76 & 4x Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide)\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black, Purple",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:05.431Z"
+  },
+  {
+    "sttTong": 2981,
+    "sttHang": 14,
+    "brand": "HMD",
+    "deviceName": "HMD 102 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_102_4g-14147.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-102-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-102-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 11",
+        "status": "Available. Released 2025, September 11"
+      },
+      "body": {
+        "dimensions": "118.2 x 50.2 x 14.3 mm (4.65 x 1.98 x 0.56 in)",
+        "weight": "84.2 g (2.96 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nDust protected and splash resistant"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.4 cm2 (~20.9% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 8910 FF-S"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "24MB"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "4.2",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Dark Blue, Red, Purple",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:05.802Z"
+  },
+  {
+    "sttTong": 2982,
+    "sttHang": 15,
+    "brand": "HMD",
+    "deviceName": "HMD 101 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_101_4g-14146.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-101-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-101-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 11",
+        "status": "Available. Released 2025, September 11"
+      },
+      "body": {
+        "dimensions": "118.2 x 50.2 x 14.3 mm (4.65 x 1.98 x 0.56 in)",
+        "weight": "83.5 g (2.96 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nDust protected and splash resistant"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.0 inches, 12.4 cm2 (~20.9% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 8910 FF-S"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "24MB"
+      },
+      "camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "4.2",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Dark Blue, Blue, Red",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:09.822Z"
+  },
+  {
+    "sttTong": 2983,
+    "sttHang": 16,
+    "brand": "HMD",
+    "deviceName": "HMD 3210",
+    "deviceUrl": "https://www.gsmarena.com/hmd_3210-13714.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-fcb-3210.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-fcb-3210.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, March 03",
+        "status": "Available. Released 2025, April"
+      },
+      "body": {
+        "dimensions": "122 x 52 x 13.1 mm (4.80 x 2.05 x 0.52 in)",
+        "weight": "-",
+        "build": "Plastic frame, plastic back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~28.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T107 (22 nm)",
+        "cpu": "1.0 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "No\nCloud Apps portal"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable"
+      },
+      "misc": {
+        "colors": "Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:11.639Z"
+  },
+  {
+    "sttTong": 2974,
+    "sttHang": 7,
+    "brand": "HMD",
+    "deviceName": "HMD Watch X1",
+    "deviceUrl": "https://www.gsmarena.com/hmd_watch_x1-14447.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-watch-x1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-watch-x1.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2026, January 26",
+        "status": "Available. Released 2026, January"
+      },
+      "body": {
+        "dimensions": "46.5 x 46.5 x 11 mm (1.83 x 1.83 x 0.43 in)",
+        "weight": "55.6 g (1.98 oz)",
+        "sim": "No\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nCompatible with standard 22mm straps"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "1.43 inches",
+        "resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "platform": {
+        "os": "RTOS OS"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "Li-Po",
+        "charging": "Wired"
+      },
+      "misc": {
+        "colors": "Gray, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:13.555Z"
+  },
+  {
+    "sttTong": 2977,
+    "sttHang": 10,
+    "brand": "HMD",
+    "deviceName": "HMD 100",
+    "deviceUrl": "https://www.gsmarena.com/hmd_100-14348.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2025, December",
+        "status": "Available. Released 2025, December"
+      },
+      "body": {
+        "dimensions": "114.3 x 50 x 14.3 mm (4.5 x 1.97 x 0.56 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "1.77 inches, 9.9 cm2 (~17.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 6533G"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "4MB"
+      },
+      "camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable"
+      },
+      "misc": {
+        "colors": "Gray, Red, Green",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:14.441Z"
+  },
+  {
+    "sttTong": 2984,
+    "sttHang": 17,
+    "brand": "HMD",
+    "deviceName": "HMD 2660 Flip",
+    "deviceUrl": "https://www.gsmarena.com/hmd_2660_flip-13690.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-2660-flip.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-2660-flip.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, March 02",
+        "status": "Available. Released 2025, March"
+      },
+      "body": {
+        "dimensions": "198.9 x 55 x 19 mm (7.83 x 2.17 x 0.75 in)",
+        "weight": "136.4 g (4.80 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.8 inches, 24.3 cm2 (~22.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nSecondary external 1.77\" display"
+      },
+      "platform": {
+        "chipset": "Unisoc T107 (22 nm)",
+        "cpu": "1.0 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "1450 mAh, removable",
+        "charging": "Compatible with a charging cradle"
+      },
+      "misc": {
+        "colors": "Twilight Violet, Raspberry Red, Cosy Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:14.779Z"
+  },
+  {
+    "sttTong": 2979,
+    "sttHang": 12,
+    "brand": "HMD",
+    "deviceName": "HMD Ivalo XE",
+    "deviceUrl": "https://www.gsmarena.com/hmd_ivalo_xe_5g-14207.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-ivalo-xe.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-ivalo-xe.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "LTE",
+        "5g_bands": "SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, September 09",
+        "status": "Available. Released 2026, Q1"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Glass front (Gorilla Glass Victus 2), aluminum frame (6000 series), glass-fiber reinforced plastic back",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.8m for 30 min)\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 1000 nits (HBM)",
+        "size": "6.32 inches, 96.4 cm2",
+        "resolution": "1080 x 2400 pixels*, 20:9 ratio (~416 ppi density)",
+        "protection": "Corning Gorilla Glass Victus 2\n*Exact display resolution is not officially revealed"
+      },
+      "platform": {
+        "os": "Android",
+        "chipset": "Qualcomm Dragonwing Q-6690 (4 nm)",
+        "cpu": "Octa-core (1x2.9 GHz Kryo Gold Prime & 3x2.7 GHz Kryo Gold & 4x2.0 GHz Kryo Silver)"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "256GB 12GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), PDAF\n50 MP, 120˚, (ultrawide)",
+        "features": "Laser AF, LED flash, HDR, panorama",
+        "video": "4K, 1080p, HDR, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "32 MP, (wide)",
+        "video": "1080p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "bluetooth": "5.4, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG, accessory connector pins"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer\nDesktop connection support\nDual FBE and FDE encryption\nCBRS, eMBMS, PPDR support\nMeets FIPS 140-3 (CSFC) and NIAP security standards\nRadio hardware kill-switch\nAReX anti-tampering\nFusion 3.1 modularity system\nDeveloped and manufactured in Europe"
+      },
+      "battery": {
+        "type": "4500 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:16.626Z"
+  },
+  {
+    "sttTong": 2985,
+    "sttHang": 18,
+    "brand": "HMD",
+    "deviceName": "HMD 150 Music",
+    "deviceUrl": "https://www.gsmarena.com/hmd_150_music-13689.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-150-music-2025.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-150-music-2025.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2025, March 02",
+        "status": "Available. Released 2025, March"
+      },
+      "body": {
+        "dimensions": "130.5 x 52.9 x 14.8 mm (5.14 x 2.08 x 0.58 in)",
+        "weight": "83.1 g (2.93 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes) - EU only\nUPI payment application (India only)"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "2.4 inches, 17.8 cm2 (~25.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 6531F"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "8MB 8MB RAM"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 1.1"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Blue, Gray, Violet"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:17.406Z"
+  },
+  {
+    "sttTong": 2987,
+    "sttHang": 20,
+    "brand": "HMD",
+    "deviceName": "HMD Aura 2",
+    "deviceUrl": "https://www.gsmarena.com/hmd_aura_2-13661.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-aura2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-aura2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, February 11",
+        "status": "Available. Released 2025, March 13"
+      },
+      "body": {
+        "dimensions": "166.4 x 76.9 x 9 mm (6.55 x 3.03 x 0.35 in)",
+        "weight": "185.4 g (6.53 oz)",
+        "sim": "Nano-SIM\nIP54 dust protected and water resistant (water splashes) - EU only\nRepair-it-yourself capable (display, back cover, battery and charging port repairs)"
+      },
+      "display": {
+        "type": "IPS LCD, 460 nits (peak)",
+        "size": "6.52 inches, 102.6 cm2 (~80.2% screen-to-body ratio)",
+        "resolution": "576 x 1280 pixels, 20:9 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "256GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Midnight Black, Icy Blue, Electric Purple",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:19.135Z"
+  },
+  {
+    "sttTong": 2989,
+    "sttHang": 22,
+    "brand": "HMD",
+    "deviceName": "HMD Arc",
+    "deviceUrl": "https://www.gsmarena.com/hmd_arc-13576.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-arc.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-arc.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, December 18",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "166.4 x 76.9 x 9 mm (6.55 x 3.03 x 0.35 in)",
+        "weight": "185.4 g (6.53 oz)",
+        "sim": "Nano-SIM\nIP54 dust protected and water resistant (water splashes) - EU only"
+      },
+      "display": {
+        "type": "IPS LCD, 460 nits (peak)",
+        "size": "6.52 inches, 102.6 cm2 (~80.2% screen-to-body ratio)",
+        "resolution": "576 x 1280 pixels, 20:9 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:21.788Z"
+  },
+  {
+    "sttTong": 2986,
+    "sttHang": 19,
+    "brand": "HMD",
+    "deviceName": "HMD 130 Music",
+    "deviceUrl": "https://www.gsmarena.com/hmd_130_music-13687.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-130-music-2025.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-130-music-2025.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2025, March 02",
+        "status": "Available. Released 2025, March"
+      },
+      "body": {
+        "dimensions": "130.5 x 52.9 x 14.8 mm (5.14 x 2.08 x 0.58 in)",
+        "weight": "83.1 g (2.93 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes) - EU only"
+      },
+      "display": {
+        "type": "TN TFT",
+        "size": "2.4 inches, 17.8 cm2 (~25.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc 6531F"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "8MB 8MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 1.1"
+      },
+      "features": {
+        "sensors": "No",
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Dark Blue, Purple, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:21.951Z"
+  },
+  {
+    "sttTong": 2988,
+    "sttHang": 21,
+    "brand": "HMD",
+    "deviceName": "HMD Key",
+    "deviceUrl": "https://www.gsmarena.com/hmd_key-13605.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-key.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-key.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January 02",
+        "status": "Available. Released 2025, February"
+      },
+      "body": {
+        "dimensions": "166.4 x 76.9 x 9 mm (6.55 x 3.03 x 0.35 in)",
+        "weight": "185.4 g (6.53 oz)",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 460 nits (peak)",
+        "size": "6.52 inches, 102.6 cm2 (~80.2% screen-to-body ratio)",
+        "resolution": "576 x 1280 pixels, 20:9 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc SC9832E",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-820MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, (wide), AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "4000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black, Blue",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:22.124Z"
+  },
+  {
+    "sttTong": 2990,
+    "sttHang": 23,
+    "brand": "HMD",
+    "deviceName": "HMD 105 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_105_4g-13337.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-105-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-105-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, September 13",
+        "status": "Available. Released 2024, September 22"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "93 g (3.32 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes) - EU/AU/NZ\nSplash resistant - ROW"
+      },
+      "display": {
+        "type": "TFT LCD, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~28.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T127"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB 128MB RAM"
+      },
+      "camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Pink, Cyan",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:24.874Z"
+  },
+  {
+    "sttTong": 2994,
+    "sttHang": 27,
+    "brand": "HMD",
+    "deviceName": "HMD Crest Max",
+    "deviceUrl": "https://www.gsmarena.com/hmd_crest_max-13235.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-crest-max.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-crest-max.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 40, 41",
+        "5g_bands": "1, 3, 28, 40, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, July 25",
+        "status": "Available. Released 2024, August 07"
+      },
+      "body": {
+        "dimensions": "163.9 x 76.4 x 8.4 mm (6.45 x 3.01 x 0.33 in)",
+        "weight": "205 g (7.23 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nRepair-it-yourself capable (display, back cover, battery and charging port repairs)\nDust and splash resistant"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "6.67 inches, 107.4 cm2 (~85.8% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T760 (6 nm)",
+        "cpu": "Octa-core (1x2.2 GHz Cortex-A76 & 3x Cortex-A76 & 4x Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "triple": "64 MP, (wide), AF\n5 MP, (ultrawide)\n2 MP (macro)",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Aqua Green, Royal Pink, Deep Purple",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:26.463Z"
+  },
+  {
+    "sttTong": 2992,
+    "sttHang": 25,
+    "brand": "HMD",
+    "deviceName": "HMD Fusion",
+    "deviceUrl": "https://www.gsmarena.com/hmd_fusion-13304.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-fusion.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-fusion.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 32, 38, 40, 41 - International\n2, 4, 5, 7, 8, 12, 13, 25, 26, 28, 41, 66, 71 - USA",
+        "5g_bands": "1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6 - International\n2, 4, 5, 7, 25, 41, 66, 71, 77, 78 SA/NSA/Sub6 - USA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, September 05",
+        "status": "Available. Released 2024, September 11"
+      },
+      "body": {
+        "dimensions": "164.2 x 75.5 x 8.3 mm (6.46 x 2.97 x 0.33 in)",
+        "weight": "202.5 g (7.16 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "· Nano-SIM + eSIM· Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)\nHMD Fusion toolkit: CAD file and API access for building your own outfits\nRepair-it-yourself capable (display, back cover, battery and charging port repairs)"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (peak)",
+        "size": "6.56 inches, 103.4 cm2 (~83.4% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, up to 2 major OS updates",
+        "chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Adreno 613"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "main_camera": {
+        "dual": "108 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "50 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6",
+        "bluetooth": "5.1, A2DP, LE, aptX Adaptive",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG, magnetic accessory connector pins"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "33W wired, PD, QC"
+      },
+      "misc": {
+        "colors": "Noir, Barca Fusion edition",
+        "price": "€ 219.90 / $ 249.99 / £ 134.99"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:26.649Z"
+  },
+  {
+    "sttTong": 2993,
+    "sttHang": 26,
+    "brand": "HMD",
+    "deviceName": "HMD Barbie",
+    "deviceUrl": "https://www.gsmarena.com/hmd_barbie-13254.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-barbie.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-barbie.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, August 28",
+        "status": "Available. Released 2024, August 28"
+      },
+      "body": {
+        "dimensions": "Unfolded: 201 x 55.1 x 10.9 mmFolded: 108.4 x 55.1 x 18.9 mm",
+        "weight": "123.5 g (4.37 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "TFT LCD",
+        "size": "2.8 inches, 24.3 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nSecondary external 1.77\" display"
+      },
+      "platform": {
+        "os": "KaiOS 3.1 (USA only)",
+        "chipset": "Unisoc T107 (22 nm) - INTQualcomm QM215 Snapdragon 215 (28 nm) - USA",
+        "cpu": "1.0 GHz Cortex-A7 - INTQuad-core 1.3 GHz Cortex-A53 - USA",
+        "gpu": "Adreno 308 (USA)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM, 128MB 64MB RAM\n128MB (INT)\n4GB (USA)"
+      },
+      "main_camera": {
+        "single": "0.3 MP (INT)\n5 MP (USA)",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n (USA only)",
+        "bluetooth": "5.0, A2DP (INT), 4.2, A2DP (USA)",
+        "positioning": "Yes (USA)",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable"
+      },
+      "misc": {
+        "colors": "Power Pink",
+        "models": "TA-1681",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:28.095Z"
+  },
+  {
+    "sttTong": 2991,
+    "sttHang": 24,
+    "brand": "HMD",
+    "deviceName": "HMD 110 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_110_4g-13336.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-110-4g-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-110-4g-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, September 13",
+        "status": "Available. Released 2024, September 22"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "93.5 g (3.32 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes) - EU/AU/NZ\nSplash resistant - ROW\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~28.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Unisoc T127"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "QVGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMP3 player"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable"
+      },
+      "misc": {
+        "colors": "Blue, Titanium"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:28.903Z"
+  },
+  {
+    "sttTong": 2995,
+    "sttHang": 28,
+    "brand": "HMD",
+    "deviceName": "HMD Crest",
+    "deviceUrl": "https://www.gsmarena.com/hmd_crest-13234.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-crest-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-crest-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 40, 41",
+        "5g_bands": "1, 3, 28, 40, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, July 25",
+        "status": "Available. Released 2024, August 07"
+      },
+      "body": {
+        "dimensions": "163.9 x 76.4 x 8.4 mm (6.45 x 3.01 x 0.33 in)",
+        "weight": "205 g (7.23 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nRepair-it-yourself capable (display, back cover, battery and charging port repairs)\nDust and splash resistant"
+      },
+      "display": {
+        "type": "OLED",
+        "size": "6.67 inches, 107.4 cm2 (~85.8% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T760 (6 nm)",
+        "cpu": "Octa-core (1x2.2 GHz Cortex-A76 & 3x Cortex-A76 & 4x Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Midnight Blue",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:29.601Z"
+  },
+  {
+    "sttTong": 2999,
+    "sttHang": 32,
+    "brand": "HMD",
+    "deviceName": "HMD Aura",
+    "deviceUrl": "https://www.gsmarena.com/hmd_aura-13048.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-aura.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-aura.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 20, 28, 38, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May 23",
+        "status": "Available. Released 2024, May 23"
+      },
+      "body": {
+        "dimensions": "163.9 x 75.5 x 8.9 mm (6.45 x 2.97 x 0.35 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 480 nits (typ)",
+        "size": "6.56 inches, 101.4 cm2 (~82.0% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels (~268 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Glacier Green, Indigo Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:35.429Z"
+  },
+  {
+    "sttTong": 3000,
+    "sttHang": 33,
+    "brand": "HMD",
+    "deviceName": "HMD T21",
+    "deviceUrl": "https://www.gsmarena.com/hmd_t21-13005.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-t21.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-t21.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May 15",
+        "status": "Available. Released 2024, May 15"
+      },
+      "body": {
+        "dimensions": "247.5 x 157.3 x 7.5 mm (9.74 x 6.19 x 0.30 in)",
+        "weight": "467 g (1.03 lb)",
+        "build": "Glass front, aluminum back",
+        "sim": "Nano-SIM\nSplash resistant\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD, 360 nits (typ)",
+        "size": "10.36 inches, 305.5 cm2 (~78.5% screen-to-body ratio)",
+        "resolution": "1200 x 2000 pixels, 5:3 ratio (~225 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc Tiger T612 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "battery": {
+        "type": "Li-Po 8200 mAh",
+        "charging": "18W wired, PD3.0"
+      },
+      "misc": {
+        "colors": "Black Steel",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:35.473Z"
+  },
+  {
+    "sttTong": 2997,
+    "sttHang": 30,
+    "brand": "HMD",
+    "deviceName": "HMD 110",
+    "deviceUrl": "https://www.gsmarena.com/hmd_110-13168.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-110.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-110.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2024, June 25",
+        "status": "Available. Released 2024, July 05"
+      },
+      "body": {
+        "dimensions": "115.5 x 49.5 x 14 mm (4.55 x 1.95 x 0.55 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT LCD, 65K colors",
+        "size": "2.0 inches, 12.4 cm2 (~21.7% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "platform": {
+        "os": "RTOS OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4 MB 4 MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "Dual-LED",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "undefined\nMP3 player"
+      },
+      "battery": {
+        "type": "1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Green",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:38.988Z"
+  },
+  {
+    "sttTong": 3002,
+    "sttHang": 35,
+    "brand": "HMD",
+    "deviceName": "HMD Vibe 4G",
+    "deviceUrl": "https://www.gsmarena.com/hmd_vibe-12957.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 12, 13, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April 24",
+        "status": "Available. Released 2024, June 04"
+      },
+      "body": {
+        "dimensions": "163.8 x 75.2 x 8.4 mm (6.45 x 2.96 x 0.33 in)",
+        "weight": "186 g (6.56 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+        "size": "6.56 inches, 109.2 cm2 (~88.7% screen-to-body ratio)",
+        "resolution": "720 x 1480 pixels, 18.5:9 ratio (~251 ppi density)",
+        "protection": "Toughened glass"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "cpu": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+        "gpu": "Adreno 610"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP, (wide)\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass, gyro, barometer"
+      },
+      "battery": {
+        "type": "4000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Charcoal",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:40.363Z"
+  },
+  {
+    "sttTong": 3001,
+    "sttHang": 34,
+    "brand": "HMD",
+    "deviceName": "HMD XR21",
+    "deviceUrl": "https://www.gsmarena.com/hmd_xr21-13004.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-xr21.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-xr21.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 43, 48, 66, 71",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, May 14",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "168 x 78.6 x 10.5 mm (6.61 x 3.09 x 0.41 in)",
+        "weight": "231 g (8.15 oz)",
+        "build": "Glass front (Gorilla Glass Victus), plastic back, plastic frame",
+        "sim": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 60 min)\nDrop resistant up to 1.8m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 450 nits (typ), 550 nits (HBM)",
+        "size": "6.49 inches, 101.7 cm2 (~77.0% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~406 ppi density)",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "platform": {
+        "os": "Android 12",
+        "chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)",
+        "gpu": "Adreno 619"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "64 MP, f/1.8, (wide), 1/2.0\", PDAF\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm",
+        "features": "Dual-LED dual-tone flash, second LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.4 (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "bluetooth": "5.1, A2DP, LE, aptX Adaptive",
+        "positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer\n3-year warranty (Europe, Australia, and New Zealand)"
+      },
+      "battery": {
+        "type": "Li-Po 4800 mAh",
+        "charging": "33W wired, PD2.0, QC3"
+      },
+      "misc": {
+        "colors": "Midnight Black",
+        "price": "About 600 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:42.604Z"
+  },
+  {
+    "sttTong": 3004,
+    "sttHang": 37,
+    "brand": "HMD",
+    "deviceName": "HMD Pulse+",
+    "deviceUrl": "https://www.gsmarena.com/hmd_pulse+-12956.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-plus-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-plus-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April 24",
+        "status": "Available. Released 2024, April 29"
+      },
+      "body": {
+        "dimensions": "163.2 x 75 x 8.5 mm (6.43 x 2.95 x 0.33 in)",
+        "weight": "187 g (6.60 oz)",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+        "size": "6.65 inches, 106.2 cm2 (~86.8% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~265 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Apricot Crush, Midnight Blue, Glacier Green",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:44.561Z"
+  },
+  {
+    "sttTong": 3006,
+    "sttHang": 39,
+    "brand": "HMD",
+    "deviceName": "HMD Pulse 2 Pro",
+    "deviceUrl": "https://www.gsmarena.com/hmd_pulse_2_pro-14106.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse2-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse2-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "Not announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "166.1 x 76.6 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+        "weight": "198 g (6.98 oz)",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.72 inches, 110.9 cm2 (~87.1% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~384 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), AF, OIS\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "20W wired"
+      },
+      "misc": {
+        "colors": "Glacier Green, Dark Blue",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:48.724Z"
+  },
+  {
+    "sttTong": 2998,
+    "sttHang": 31,
+    "brand": "HMD",
+    "deviceName": "HMD 105",
+    "deviceUrl": "https://www.gsmarena.com/hmd_105-13169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-105.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-105.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2024, June 25",
+        "status": "Available. Released 2024, July 08"
+      },
+      "body": {
+        "dimensions": "115.5 x 49.5 x 14 mm (4.55 x 1.95 x 0.55 in)",
+        "weight": "77.5 g (2.75 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "TFT LCD, 65K colors",
+        "size": "2.0 inches, 12.4 cm2 (~21.7% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "platform": {
+        "os": "RTOS OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4 MB 4 MB RAM"
+      },
+      "camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "undefined\nMP3 player"
+      },
+      "battery": {
+        "type": "1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Purple",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:51.544Z"
+  },
+  {
+    "sttTong": 3007,
+    "sttHang": 40,
+    "brand": "HMD",
+    "deviceName": "HMD Bold",
+    "deviceUrl": "https://www.gsmarena.com/hmd_bold-13996.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-plus-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-plus-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "Not announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.74 inches, 109.1 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T7200 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 256GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "20W wired"
+      },
+      "misc": {
+        "colors": "Black; other colors",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:55.024Z"
+  },
+  {
+    "sttTong": 2996,
+    "sttHang": 29,
+    "brand": "HMD",
+    "deviceName": "HMD Skyline",
+    "deviceUrl": "https://www.gsmarena.com/hmd_skyline-13153.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-skyline.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-skyline.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66, 71",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, July 18",
+        "status": "Available. Released 2024, July 19"
+      },
+      "body": {
+        "dimensions": "159.8 x 76 x 8.9 mm (6.29 x 2.99 x 0.35 in)",
+        "weight": "209.5 g (7.41 oz)",
+        "build": "Glass front (Gorilla Glass 3), aluminum frame, glass back",
+        "sim": "Nano-SIM + eSIM\nIP54 dust protected and water resistant (water splashes)\nRepair-it-yourself capable (display, back cover, battery and charging port repairs)"
+      },
+      "display": {
+        "type": "P-OLED, 144Hz, 1000 nits (peak), HDR10",
+        "size": "6.55 inches, 103.6 cm2 (~85.3% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 14, upgradable to Android 15, up to 2 major OS updates",
+        "chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+        "cpu": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
+        "gpu": "Adreno 710"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "main_camera": {
+        "triple": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, PDAF, OIS\n50 MP, f/2.0, (telephoto), 1/2.76\", 0.64µm, PDAF, 2x optical zoom\n13 MP, f/2.5, (ultrawide), 1/3\", 1.12µm",
+        "features": "LED flash, HDR",
+        "video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "50 MP, f/2.5, (wide), AF",
+        "video": "1080p@30/60fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+        "positioning": "GPS (L1+L5), GALILEO, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "4600 mAh, user replaceable",
+        "charging": "33W wired, PD3.0 PPS, QC4\n15W wireless (magnetic), Qi2\n5W reverse wireless"
+      },
+      "misc": {
+        "colors": "Neon Pink, Twisted Black, Blue Topaz",
+        "models": "TA-1600",
+        "price": "$ 399.99 / £ 249.95 / € 299.99"
+      },
+      "our_tests": {
+        "performance": "AnTuTu: 581311 (v10)\nGeekBench: 2899 (v6)\n3DMark: 795 (Wild Life Extreme)",
+        "display": "1060 nits max brightness (measured)",
+        "loudspeaker": "-24.4 LUFS (Very good)",
+        "battery": "Active use score 10:47h"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:01:57.522Z"
+  },
+  {
+    "sttTong": 3005,
+    "sttHang": 38,
+    "brand": "HMD",
+    "deviceName": "HMD Pulse",
+    "deviceUrl": "https://www.gsmarena.com/hmd_pulse-12939.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April 24",
+        "status": "Available. Released 2024, April 24"
+      },
+      "body": {
+        "dimensions": "163.2 x 75 x 8.5 mm (6.43 x 2.95 x 0.33 in)",
+        "weight": "187 g (6.60 oz)",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+        "size": "6.65 inches, 106.2 cm2 (~86.8% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~265 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 64GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Meteor Black, Dreamy Pink, Atmos Blue",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:02:00.394Z"
+  },
+  {
+    "sttTong": 3003,
+    "sttHang": 36,
+    "brand": "HMD",
+    "deviceName": "HMD Pulse Pro",
+    "deviceUrl": "https://www.gsmarena.com/hmd_pulse_pro-12952.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hmd-pulse-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April 24",
+        "status": "Available. Released 2024, April 26"
+      },
+      "body": {
+        "dimensions": "163.2 x 75 x 8.6 mm (6.43 x 2.95 x 0.34 in)",
+        "weight": "196 g (6.91 oz)",
+        "sim": "Nano-SIM\nDust and splash resistant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+        "size": "6.65 inches, 106.2 cm2 (~86.8% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~265 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GALILEO",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh, user replaceable",
+        "charging": "20W wired"
+      },
+      "misc": {
+        "colors": "Black Ocean, Clacier Creen, Twilight Purple",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:02:04.889Z"
+  }
+]

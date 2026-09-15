@@ -1,0 +1,546 @@
+[
+  {
+    "sttTong": 6370,
+    "sttHang": 2,
+    "brand": "Modu",
+    "deviceName": "Modu Night jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_night_jacket-3242.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-night-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-night-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97.5 x 53.5 x 15.9 mm (3.84 x 2.11 x 0.63 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~10.0% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "main_camera": {
+        "single": "3.2 MP",
+        "features": "flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nPhoto gallery\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Ultra Violet"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:34.819Z"
+  },
+  {
+    "sttTong": 6372,
+    "sttHang": 4,
+    "brand": "Modu",
+    "deviceName": "Modu Speedy jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_speedy_jacket-3240.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-speedy-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-speedy-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95 x 45.5 x 13 mm (3.74 x 1.79 x 0.51 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~12.1% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Red on Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:39.617Z"
+  },
+  {
+    "sttTong": 6373,
+    "sttHang": 5,
+    "brand": "Modu",
+    "deviceName": "Modu Shiny jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_shiny_jacket-3239.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-shiny-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-shiny-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95 x 45 x 13 mm (3.74 x 1.77 x 0.51 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~12.2% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:40.645Z"
+  },
+  {
+    "sttTong": 6374,
+    "sttHang": 6,
+    "brand": "Modu",
+    "deviceName": "Modu Mini jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_mini_jacket-3238.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-mini-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-mini-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91.3 x 43 x 12.3 mm (3.59 x 1.69 x 0.48 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~13.3% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:44.228Z"
+  },
+  {
+    "sttTong": 6375,
+    "sttHang": 7,
+    "brand": "Modu",
+    "deviceName": "Modu Express jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_express_jacket-3237.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-express-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-express-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.9 x 50 x 12.9 mm (4.05 x 1.97 x 0.51 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~10.2% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:45.827Z"
+  },
+  {
+    "sttTong": 6376,
+    "sttHang": 8,
+    "brand": "Modu",
+    "deviceName": "Modu Phone",
+    "deviceUrl": "https://www.gsmarena.com/modu_phone-3236.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-main-phone.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-main-phone.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "72.1 x 37.6 x 7.8 mm, 46.5 cc (2.84 x 1.48 x 0.31 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~19.3% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:49.363Z"
+  },
+  {
+    "sttTong": 6371,
+    "sttHang": 3,
+    "brand": "Modu",
+    "deviceName": "Modu Sport jacket",
+    "deviceUrl": "https://www.gsmarena.com/modu_sport_jacket-3241.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-sport-jacket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-sport-jacket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 45 x 14 mm (3.94 x 1.77 x 0.55 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "1.3 inches, 5.2 cm2 (~11.6% screen-to-body ratio)",
+        "resolution": "128 x 96 pixels, 4:3 ratio (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1.6GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS(threaded view)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nSport application\nBuilt-in pedometer\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 530 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min",
+        "music_play": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:51.859Z"
+  },
+  {
+    "sttTong": 6369,
+    "sttHang": 1,
+    "brand": "Modu",
+    "deviceName": "Modu T",
+    "deviceUrl": "https://www.gsmarena.com/modu_t-3554.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-t.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/modu-t.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 46.5 x 11 mm (2.99 x 1.83 x 0.43 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~42.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC6270"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 2 GB included",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "A-GPS only",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS(threaded view), MMS, Email, IM",
+        "browser": "Obligo Q7",
+        "games": "Yes",
+        "java": "Yes\nMP3 player\nMP4/H.263 player\nFacebook, Twitter, eBuddy, Flickr, Snaptu, YouTube\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 210 h (2G) / Up to 210 h (3G)",
+        "talk_time": "Up to 7 h (2G) / Up to 3 h (3G)",
+        "music_play": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:23:54.872Z"
+  }
+]

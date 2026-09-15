@@ -1,0 +1,360 @@
+[
+  {
+    "sttTong": 4548,
+    "sttHang": 1,
+    "brand": "iNQ",
+    "deviceName": "iNQ Cloud Touch",
+    "deviceUrl": "https://www.gsmarena.com/inq_cloud_touch-3773.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 62 x 13 mm (4.49 x 2.44 x 0.51 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~51.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "internal": "512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "WAP2.0 / xHTML\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 245 h (3G)",
+        "talk_time": "Up to 6 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red",
+        "price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:50.886Z"
+  },
+  {
+    "sttTong": 4549,
+    "sttHang": 2,
+    "brand": "iNQ",
+    "deviceName": "iNQ Cloud Q",
+    "deviceUrl": "https://www.gsmarena.com/inq_cloud_q-3772.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-q.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-q.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.6 inches, 19.2 cm2",
+        "resolution": "400 x 240 pixels, 5:3 ratio (~179 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP2.0 / xHTML\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:53.523Z"
+  },
+  {
+    "sttTong": 4551,
+    "sttHang": 4,
+    "brand": "iNQ",
+    "deviceName": "iNQ Mini 3G",
+    "deviceUrl": "https://www.gsmarena.com/inq_mini_3g-2998.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-mini-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-mini-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.9 x 45.8 x 12.8 mm (4.05 x 1.80 x 0.50 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~31.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP2.0 / xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nFacebook, Skype, Twitter applications and integration\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:55.891Z"
+  },
+  {
+    "sttTong": 4552,
+    "sttHang": 5,
+    "brand": "iNQ",
+    "deviceName": "iNQ iNQ1",
+    "deviceUrl": "https://www.gsmarena.com/inq_inq1-2999.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 47.6 x 14.4 mm (3.82 x 1.87 x 0.57 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~32.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP2.0 / xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nFacebook, Skype, Twitter applications and integration\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 330 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:59.164Z"
+  },
+  {
+    "sttTong": 4550,
+    "sttHang": 3,
+    "brand": "iNQ",
+    "deviceName": "iNQ Chat 3G",
+    "deviceUrl": "https://www.gsmarena.com/inq_chat_3g-3000.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-chat-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/inq-chat-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.5 x 61 x 12.8 mm (4.51 x 2.40 x 0.50 in)",
+        "weight": "122 g (4.30 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": ", -",
+        "resolution": "320 x 240 pixels, 4:3 ratio\nHome screen widgets"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "100MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM, Push GMail",
+        "browser": "WAP2.0 / xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nFacebook, Windows Live, Skype, Twitter applications and integration\nMP3/WAV/eAAC+ player\nMP4/H.263/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "-",
+        "talk_time": "-"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:04.850Z"
+  }
+]

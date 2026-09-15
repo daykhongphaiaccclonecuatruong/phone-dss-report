@@ -1,0 +1,884 @@
+[
+  {
+    "id": "acer-phones-59",
+    "name": "Acer",
+    "url": "https://www.gsmarena.com/acer-phones-59.php",
+    "relativeUrl": "acer-phones-59.php",
+    "expectedDevices": 117
+  },
+  {
+    "id": "alcatel-phones-5",
+    "name": "alcatel",
+    "url": "https://www.gsmarena.com/alcatel-phones-5.php",
+    "relativeUrl": "alcatel-phones-5.php",
+    "expectedDevices": 414
+  },
+  {
+    "id": "allview-phones-88",
+    "name": "Allview",
+    "url": "https://www.gsmarena.com/allview-phones-88.php",
+    "relativeUrl": "allview-phones-88.php",
+    "expectedDevices": 157
+  },
+  {
+    "id": "amazon-phones-76",
+    "name": "Amazon",
+    "url": "https://www.gsmarena.com/amazon-phones-76.php",
+    "relativeUrl": "amazon-phones-76.php",
+    "expectedDevices": 25
+  },
+  {
+    "id": "amoi-phones-28",
+    "name": "Amoi",
+    "url": "https://www.gsmarena.com/amoi-phones-28.php",
+    "relativeUrl": "amoi-phones-28.php",
+    "expectedDevices": 47
+  },
+  {
+    "id": "apple-phones-48",
+    "name": "Apple",
+    "url": "https://www.gsmarena.com/apple-phones-48.php",
+    "relativeUrl": "apple-phones-48.php",
+    "expectedDevices": 148
+  },
+  {
+    "id": "archos-phones-90",
+    "name": "Archos",
+    "url": "https://www.gsmarena.com/archos-phones-90.php",
+    "relativeUrl": "archos-phones-90.php",
+    "expectedDevices": 43
+  },
+  {
+    "id": "asus-phones-46",
+    "name": "Asus",
+    "url": "https://www.gsmarena.com/asus-phones-46.php",
+    "relativeUrl": "asus-phones-46.php",
+    "expectedDevices": 208
+  },
+  {
+    "id": "at&t-phones-57",
+    "name": "AT&T",
+    "url": "https://www.gsmarena.com/at&t-phones-57.php",
+    "relativeUrl": "at&t-phones-57.php",
+    "expectedDevices": 4
+  },
+  {
+    "id": "benefon-phones-15",
+    "name": "Benefon",
+    "url": "https://www.gsmarena.com/benefon-phones-15.php",
+    "relativeUrl": "benefon-phones-15.php",
+    "expectedDevices": 9
+  },
+  {
+    "id": "benq-phones-31",
+    "name": "BenQ",
+    "url": "https://www.gsmarena.com/benq-phones-31.php",
+    "relativeUrl": "benq-phones-31.php",
+    "expectedDevices": 35
+  },
+  {
+    "id": "benq_siemens-phones-42",
+    "name": "BenQ-Siemens",
+    "url": "https://www.gsmarena.com/benq_siemens-phones-42.php",
+    "relativeUrl": "benq_siemens-phones-42.php",
+    "expectedDevices": 28
+  },
+  {
+    "id": "bird-phones-34",
+    "name": "Bird",
+    "url": "https://www.gsmarena.com/bird-phones-34.php",
+    "relativeUrl": "bird-phones-34.php",
+    "expectedDevices": 61
+  },
+  {
+    "id": "blackberry-phones-36",
+    "name": "BlackBerry",
+    "url": "https://www.gsmarena.com/blackberry-phones-36.php",
+    "relativeUrl": "blackberry-phones-36.php",
+    "expectedDevices": 92
+  },
+  {
+    "id": "blackview-phones-116",
+    "name": "Blackview",
+    "url": "https://www.gsmarena.com/blackview-phones-116.php",
+    "relativeUrl": "blackview-phones-116.php",
+    "expectedDevices": 138
+  },
+  {
+    "id": "blu-phones-67",
+    "name": "BLU",
+    "url": "https://www.gsmarena.com/blu-phones-67.php",
+    "relativeUrl": "blu-phones-67.php",
+    "expectedDevices": 369
+  },
+  {
+    "id": "bosch-phones-10",
+    "name": "Bosch",
+    "url": "https://www.gsmarena.com/bosch-phones-10.php",
+    "relativeUrl": "bosch-phones-10.php",
+    "expectedDevices": 10
+  },
+  {
+    "id": "bq-phones-108",
+    "name": "BQ",
+    "url": "https://www.gsmarena.com/bq-phones-108.php",
+    "relativeUrl": "bq-phones-108.php",
+    "expectedDevices": 20
+  },
+  {
+    "id": "casio-phones-77",
+    "name": "Casio",
+    "url": "https://www.gsmarena.com/casio-phones-77.php",
+    "relativeUrl": "casio-phones-77.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "cat-phones-89",
+    "name": "Cat",
+    "url": "https://www.gsmarena.com/cat-phones-89.php",
+    "relativeUrl": "cat-phones-89.php",
+    "expectedDevices": 22
+  },
+  {
+    "id": "celkon-phones-75",
+    "name": "Celkon",
+    "url": "https://www.gsmarena.com/celkon-phones-75.php",
+    "relativeUrl": "celkon-phones-75.php",
+    "expectedDevices": 229
+  },
+  {
+    "id": "chea-phones-24",
+    "name": "Chea",
+    "url": "https://www.gsmarena.com/chea-phones-24.php",
+    "relativeUrl": "chea-phones-24.php",
+    "expectedDevices": 12
+  },
+  {
+    "id": "coolpad-phones-105",
+    "name": "Coolpad",
+    "url": "https://www.gsmarena.com/coolpad-phones-105.php",
+    "relativeUrl": "coolpad-phones-105.php",
+    "expectedDevices": 57
+  },
+  {
+    "id": "cubot-phones-130",
+    "name": "Cubot",
+    "url": "https://www.gsmarena.com/cubot-phones-130.php",
+    "relativeUrl": "cubot-phones-130.php",
+    "expectedDevices": 107
+  },
+  {
+    "id": "dell-phones-61",
+    "name": "Dell",
+    "url": "https://www.gsmarena.com/dell-phones-61.php",
+    "relativeUrl": "dell-phones-61.php",
+    "expectedDevices": 20
+  },
+  {
+    "id": "doogee-phones-129",
+    "name": "Doogee",
+    "url": "https://www.gsmarena.com/doogee-phones-129.php",
+    "relativeUrl": "doogee-phones-129.php",
+    "expectedDevices": 162
+  },
+  {
+    "id": "emporia-phones-93",
+    "name": "Emporia",
+    "url": "https://www.gsmarena.com/emporia-phones-93.php",
+    "relativeUrl": "emporia-phones-93.php",
+    "expectedDevices": 15
+  },
+  {
+    "id": "energizer-phones-106",
+    "name": "Energizer",
+    "url": "https://www.gsmarena.com/energizer-phones-106.php",
+    "relativeUrl": "energizer-phones-106.php",
+    "expectedDevices": 78
+  },
+  {
+    "id": "ericsson-phones-2",
+    "name": "Ericsson",
+    "url": "https://www.gsmarena.com/ericsson-phones-2.php",
+    "relativeUrl": "ericsson-phones-2.php",
+    "expectedDevices": 40
+  },
+  {
+    "id": "eten-phones-40",
+    "name": "Eten",
+    "url": "https://www.gsmarena.com/eten-phones-40.php",
+    "relativeUrl": "eten-phones-40.php",
+    "expectedDevices": 22
+  },
+  {
+    "id": "fairphone-phones-127",
+    "name": "Fairphone",
+    "url": "https://www.gsmarena.com/fairphone-phones-127.php",
+    "relativeUrl": "fairphone-phones-127.php",
+    "expectedDevices": 6
+  },
+  {
+    "id": "fujitsu_siemens-phones-50",
+    "name": "Fujitsu Siemens",
+    "url": "https://www.gsmarena.com/fujitsu_siemens-phones-50.php",
+    "relativeUrl": "fujitsu_siemens-phones-50.php",
+    "expectedDevices": 2
+  },
+  {
+    "id": "garmin_asus-phones-65",
+    "name": "Garmin-Asus",
+    "url": "https://www.gsmarena.com/garmin_asus-phones-65.php",
+    "relativeUrl": "garmin_asus-phones-65.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "gigabyte-phones-47",
+    "name": "Gigabyte",
+    "url": "https://www.gsmarena.com/gigabyte-phones-47.php",
+    "relativeUrl": "gigabyte-phones-47.php",
+    "expectedDevices": 63
+  },
+  {
+    "id": "gionee-phones-92",
+    "name": "Gionee",
+    "url": "https://www.gsmarena.com/gionee-phones-92.php",
+    "relativeUrl": "gionee-phones-92.php",
+    "expectedDevices": 95
+  },
+  {
+    "id": "google-phones-107",
+    "name": "Google",
+    "url": "https://www.gsmarena.com/google-phones-107.php",
+    "relativeUrl": "google-phones-107.php",
+    "expectedDevices": 46
+  },
+  {
+    "id": "haier-phones-33",
+    "name": "Haier",
+    "url": "https://www.gsmarena.com/haier-phones-33.php",
+    "relativeUrl": "haier-phones-33.php",
+    "expectedDevices": 59
+  },
+  {
+    "id": "hmd-phones-133",
+    "name": "HMD",
+    "url": "https://www.gsmarena.com/hmd-phones-133.php",
+    "relativeUrl": "hmd-phones-133.php",
+    "expectedDevices": 40
+  },
+  {
+    "id": "honor-phones-121",
+    "name": "Honor",
+    "url": "https://www.gsmarena.com/honor-phones-121.php",
+    "relativeUrl": "honor-phones-121.php",
+    "expectedDevices": 337
+  },
+  {
+    "id": "hp-phones-41",
+    "name": "HP",
+    "url": "https://www.gsmarena.com/hp-phones-41.php",
+    "relativeUrl": "hp-phones-41.php",
+    "expectedDevices": 41
+  },
+  {
+    "id": "htc-phones-45",
+    "name": "HTC",
+    "url": "https://www.gsmarena.com/htc-phones-45.php",
+    "relativeUrl": "htc-phones-45.php",
+    "expectedDevices": 297
+  },
+  {
+    "id": "huawei-phones-58",
+    "name": "Huawei",
+    "url": "https://www.gsmarena.com/huawei-phones-58.php",
+    "relativeUrl": "huawei-phones-58.php",
+    "expectedDevices": 545
+  },
+  {
+    "id": "i_mate-phones-35",
+    "name": "i-mate",
+    "url": "https://www.gsmarena.com/i_mate-phones-35.php",
+    "relativeUrl": "i_mate-phones-35.php",
+    "expectedDevices": 34
+  },
+  {
+    "id": "i_mobile-phones-52",
+    "name": "i-mobile",
+    "url": "https://www.gsmarena.com/i_mobile-phones-52.php",
+    "relativeUrl": "i_mobile-phones-52.php",
+    "expectedDevices": 37
+  },
+  {
+    "id": "icemobile-phones-69",
+    "name": "Icemobile",
+    "url": "https://www.gsmarena.com/icemobile-phones-69.php",
+    "relativeUrl": "icemobile-phones-69.php",
+    "expectedDevices": 61
+  },
+  {
+    "id": "infinix-phones-119",
+    "name": "Infinix",
+    "url": "https://www.gsmarena.com/infinix-phones-119.php",
+    "relativeUrl": "infinix-phones-119.php",
+    "expectedDevices": 172
+  },
+  {
+    "id": "innostream-phones-29",
+    "name": "Innostream",
+    "url": "https://www.gsmarena.com/innostream-phones-29.php",
+    "relativeUrl": "innostream-phones-29.php",
+    "expectedDevices": 18
+  },
+  {
+    "id": "inq-phones-60",
+    "name": "iNQ",
+    "url": "https://www.gsmarena.com/inq-phones-60.php",
+    "relativeUrl": "inq-phones-60.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "intex-phones-102",
+    "name": "Intex",
+    "url": "https://www.gsmarena.com/intex-phones-102.php",
+    "relativeUrl": "intex-phones-102.php",
+    "expectedDevices": 15
+  },
+  {
+    "id": "itel-phones-131",
+    "name": "itel",
+    "url": "https://www.gsmarena.com/itel-phones-131.php",
+    "relativeUrl": "itel-phones-131.php",
+    "expectedDevices": 65
+  },
+  {
+    "id": "jolla-phones-84",
+    "name": "Jolla",
+    "url": "https://www.gsmarena.com/jolla-phones-84.php",
+    "relativeUrl": "jolla-phones-84.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "karbonn-phones-83",
+    "name": "Karbonn",
+    "url": "https://www.gsmarena.com/karbonn-phones-83.php",
+    "relativeUrl": "karbonn-phones-83.php",
+    "expectedDevices": 60
+  },
+  {
+    "id": "kyocera-phones-17",
+    "name": "Kyocera",
+    "url": "https://www.gsmarena.com/kyocera-phones-17.php",
+    "relativeUrl": "kyocera-phones-17.php",
+    "expectedDevices": 28
+  },
+  {
+    "id": "lava-phones-94",
+    "name": "Lava",
+    "url": "https://www.gsmarena.com/lava-phones-94.php",
+    "relativeUrl": "lava-phones-94.php",
+    "expectedDevices": 184
+  },
+  {
+    "id": "leeco-phones-109",
+    "name": "LeEco",
+    "url": "https://www.gsmarena.com/leeco-phones-109.php",
+    "relativeUrl": "leeco-phones-109.php",
+    "expectedDevices": 9
+  },
+  {
+    "id": "lenovo-phones-73",
+    "name": "Lenovo",
+    "url": "https://www.gsmarena.com/lenovo-phones-73.php",
+    "relativeUrl": "lenovo-phones-73.php",
+    "expectedDevices": 266
+  },
+  {
+    "id": "lg-phones-20",
+    "name": "LG",
+    "url": "https://www.gsmarena.com/lg-phones-20.php",
+    "relativeUrl": "lg-phones-20.php",
+    "expectedDevices": 667
+  },
+  {
+    "id": "maxon-phones-14",
+    "name": "Maxon",
+    "url": "https://www.gsmarena.com/maxon-phones-14.php",
+    "relativeUrl": "maxon-phones-14.php",
+    "expectedDevices": 31
+  },
+  {
+    "id": "maxwest-phones-87",
+    "name": "Maxwest",
+    "url": "https://www.gsmarena.com/maxwest-phones-87.php",
+    "relativeUrl": "maxwest-phones-87.php",
+    "expectedDevices": 41
+  },
+  {
+    "id": "meizu-phones-74",
+    "name": "Meizu",
+    "url": "https://www.gsmarena.com/meizu-phones-74.php",
+    "relativeUrl": "meizu-phones-74.php",
+    "expectedDevices": 87
+  },
+  {
+    "id": "micromax-phones-66",
+    "name": "Micromax",
+    "url": "https://www.gsmarena.com/micromax-phones-66.php",
+    "relativeUrl": "micromax-phones-66.php",
+    "expectedDevices": 289
+  },
+  {
+    "id": "microsoft-phones-64",
+    "name": "Microsoft",
+    "url": "https://www.gsmarena.com/microsoft-phones-64.php",
+    "relativeUrl": "microsoft-phones-64.php",
+    "expectedDevices": 32
+  },
+  {
+    "id": "mitac-phones-25",
+    "name": "Mitac",
+    "url": "https://www.gsmarena.com/mitac-phones-25.php",
+    "relativeUrl": "mitac-phones-25.php",
+    "expectedDevices": 12
+  },
+  {
+    "id": "mitsubishi-phones-8",
+    "name": "Mitsubishi",
+    "url": "https://www.gsmarena.com/mitsubishi-phones-8.php",
+    "relativeUrl": "mitsubishi-phones-8.php",
+    "expectedDevices": 25
+  },
+  {
+    "id": "modu-phones-63",
+    "name": "Modu",
+    "url": "https://www.gsmarena.com/modu-phones-63.php",
+    "relativeUrl": "modu-phones-63.php",
+    "expectedDevices": 8
+  },
+  {
+    "id": "motorola-phones-4",
+    "name": "Motorola",
+    "url": "https://www.gsmarena.com/motorola-phones-4.php",
+    "relativeUrl": "motorola-phones-4.php",
+    "expectedDevices": 707
+  },
+  {
+    "id": "mwg-phones-56",
+    "name": "MWg",
+    "url": "https://www.gsmarena.com/mwg-phones-56.php",
+    "relativeUrl": "mwg-phones-56.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "nec-phones-12",
+    "name": "NEC",
+    "url": "https://www.gsmarena.com/nec-phones-12.php",
+    "relativeUrl": "nec-phones-12.php",
+    "expectedDevices": 73
+  },
+  {
+    "id": "neonode-phones-22",
+    "name": "Neonode",
+    "url": "https://www.gsmarena.com/neonode-phones-22.php",
+    "relativeUrl": "neonode-phones-22.php",
+    "expectedDevices": 3
+  },
+  {
+    "id": "niu-phones-79",
+    "name": "NIU",
+    "url": "https://www.gsmarena.com/niu-phones-79.php",
+    "relativeUrl": "niu-phones-79.php",
+    "expectedDevices": 30
+  },
+  {
+    "id": "nokia-phones-1",
+    "name": "Nokia",
+    "url": "https://www.gsmarena.com/nokia-phones-1.php",
+    "relativeUrl": "nokia-phones-1.php",
+    "expectedDevices": 598
+  },
+  {
+    "id": "nothing-phones-128",
+    "name": "Nothing",
+    "url": "https://www.gsmarena.com/nothing-phones-128.php",
+    "relativeUrl": "nothing-phones-128.php",
+    "expectedDevices": 16
+  },
+  {
+    "id": "nvidia-phones-97",
+    "name": "Nvidia",
+    "url": "https://www.gsmarena.com/nvidia-phones-97.php",
+    "relativeUrl": "nvidia-phones-97.php",
+    "expectedDevices": 3
+  },
+  {
+    "id": "o2-phones-30",
+    "name": "O2",
+    "url": "https://www.gsmarena.com/o2-phones-30.php",
+    "relativeUrl": "o2-phones-30.php",
+    "expectedDevices": 45
+  },
+  {
+    "id": "oneplus-phones-95",
+    "name": "OnePlus",
+    "url": "https://www.gsmarena.com/oneplus-phones-95.php",
+    "relativeUrl": "oneplus-phones-95.php",
+    "expectedDevices": 115
+  },
+  {
+    "id": "oppo-phones-82",
+    "name": "Oppo",
+    "url": "https://www.gsmarena.com/oppo-phones-82.php",
+    "relativeUrl": "oppo-phones-82.php",
+    "expectedDevices": 424
+  },
+  {
+    "id": "orange-phones-71",
+    "name": "Orange",
+    "url": "https://www.gsmarena.com/orange-phones-71.php",
+    "relativeUrl": "orange-phones-71.php",
+    "expectedDevices": 19
+  },
+  {
+    "id": "oscal-phones-134",
+    "name": "Oscal",
+    "url": "https://www.gsmarena.com/oscal-phones-134.php",
+    "relativeUrl": "oscal-phones-134.php",
+    "expectedDevices": 33
+  },
+  {
+    "id": "oukitel-phones-132",
+    "name": "Oukitel",
+    "url": "https://www.gsmarena.com/oukitel-phones-132.php",
+    "relativeUrl": "oukitel-phones-132.php",
+    "expectedDevices": 121
+  },
+  {
+    "id": "palm-phones-27",
+    "name": "Palm",
+    "url": "https://www.gsmarena.com/palm-phones-27.php",
+    "relativeUrl": "palm-phones-27.php",
+    "expectedDevices": 17
+  },
+  {
+    "id": "panasonic-phones-6",
+    "name": "Panasonic",
+    "url": "https://www.gsmarena.com/panasonic-phones-6.php",
+    "relativeUrl": "panasonic-phones-6.php",
+    "expectedDevices": 123
+  },
+  {
+    "id": "pantech-phones-32",
+    "name": "Pantech",
+    "url": "https://www.gsmarena.com/pantech-phones-32.php",
+    "relativeUrl": "pantech-phones-32.php",
+    "expectedDevices": 72
+  },
+  {
+    "id": "parla-phones-81",
+    "name": "Parla",
+    "url": "https://www.gsmarena.com/parla-phones-81.php",
+    "relativeUrl": "parla-phones-81.php",
+    "expectedDevices": 10
+  },
+  {
+    "id": "philips-phones-11",
+    "name": "Philips",
+    "url": "https://www.gsmarena.com/philips-phones-11.php",
+    "relativeUrl": "philips-phones-11.php",
+    "expectedDevices": 233
+  },
+  {
+    "id": "plum-phones-72",
+    "name": "Plum",
+    "url": "https://www.gsmarena.com/plum-phones-72.php",
+    "relativeUrl": "plum-phones-72.php",
+    "expectedDevices": 113
+  },
+  {
+    "id": "posh-phones-101",
+    "name": "Posh",
+    "url": "https://www.gsmarena.com/posh-phones-101.php",
+    "relativeUrl": "posh-phones-101.php",
+    "expectedDevices": 30
+  },
+  {
+    "id": "prestigio-phones-86",
+    "name": "Prestigio",
+    "url": "https://www.gsmarena.com/prestigio-phones-86.php",
+    "relativeUrl": "prestigio-phones-86.php",
+    "expectedDevices": 56
+  },
+  {
+    "id": "qmobile-phones-103",
+    "name": "QMobile",
+    "url": "https://www.gsmarena.com/qmobile-phones-103.php",
+    "relativeUrl": "qmobile-phones-103.php",
+    "expectedDevices": 90
+  },
+  {
+    "id": "qtek-phones-38",
+    "name": "Qtek",
+    "url": "https://www.gsmarena.com/qtek-phones-38.php",
+    "relativeUrl": "qtek-phones-38.php",
+    "expectedDevices": 21
+  },
+  {
+    "id": "razer-phones-117",
+    "name": "Razer",
+    "url": "https://www.gsmarena.com/razer-phones-117.php",
+    "relativeUrl": "razer-phones-117.php",
+    "expectedDevices": 2
+  },
+  {
+    "id": "realme-phones-118",
+    "name": "Realme",
+    "url": "https://www.gsmarena.com/realme-phones-118.php",
+    "relativeUrl": "realme-phones-118.php",
+    "expectedDevices": 298
+  },
+  {
+    "id": "rugone-phones-136",
+    "name": "RugOne",
+    "url": "https://www.gsmarena.com/rugone-phones-136.php",
+    "relativeUrl": "rugone-phones-136.php",
+    "expectedDevices": 3
+  },
+  {
+    "id": "sagem-phones-13",
+    "name": "Sagem",
+    "url": "https://www.gsmarena.com/sagem-phones-13.php",
+    "relativeUrl": "sagem-phones-13.php",
+    "expectedDevices": 120
+  },
+  {
+    "id": "samsung-phones-9",
+    "name": "Samsung",
+    "url": "https://www.gsmarena.com/samsung-phones-9.php",
+    "relativeUrl": "samsung-phones-9.php",
+    "expectedDevices": 1464
+  },
+  {
+    "id": "sendo-phones-18",
+    "name": "Sendo",
+    "url": "https://www.gsmarena.com/sendo-phones-18.php",
+    "relativeUrl": "sendo-phones-18.php",
+    "expectedDevices": 19
+  },
+  {
+    "id": "sewon-phones-26",
+    "name": "Sewon",
+    "url": "https://www.gsmarena.com/sewon-phones-26.php",
+    "relativeUrl": "sewon-phones-26.php",
+    "expectedDevices": 25
+  },
+  {
+    "id": "sharp-phones-23",
+    "name": "Sharp",
+    "url": "https://www.gsmarena.com/sharp-phones-23.php",
+    "relativeUrl": "sharp-phones-23.php",
+    "expectedDevices": 83
+  },
+  {
+    "id": "siemens-phones-3",
+    "name": "Siemens",
+    "url": "https://www.gsmarena.com/siemens-phones-3.php",
+    "relativeUrl": "siemens-phones-3.php",
+    "expectedDevices": 94
+  },
+  {
+    "id": "sonim-phones-54",
+    "name": "Sonim",
+    "url": "https://www.gsmarena.com/sonim-phones-54.php",
+    "relativeUrl": "sonim-phones-54.php",
+    "expectedDevices": 24
+  },
+  {
+    "id": "sony-phones-7",
+    "name": "Sony",
+    "url": "https://www.gsmarena.com/sony-phones-7.php",
+    "relativeUrl": "sony-phones-7.php",
+    "expectedDevices": 164
+  },
+  {
+    "id": "sony_ericsson-phones-19",
+    "name": "Sony Ericsson",
+    "url": "https://www.gsmarena.com/sony_ericsson-phones-19.php",
+    "relativeUrl": "sony_ericsson-phones-19.php",
+    "expectedDevices": 188
+  },
+  {
+    "id": "spice-phones-68",
+    "name": "Spice",
+    "url": "https://www.gsmarena.com/spice-phones-68.php",
+    "relativeUrl": "spice-phones-68.php",
+    "expectedDevices": 120
+  },
+  {
+    "id": "t_mobile-phones-55",
+    "name": "T-Mobile",
+    "url": "https://www.gsmarena.com/t_mobile-phones-55.php",
+    "relativeUrl": "t_mobile-phones-55.php",
+    "expectedDevices": 69
+  },
+  {
+    "id": "tcl-phones-123",
+    "name": "TCL",
+    "url": "https://www.gsmarena.com/tcl-phones-123.php",
+    "relativeUrl": "tcl-phones-123.php",
+    "expectedDevices": 104
+  },
+  {
+    "id": "tecno-phones-120",
+    "name": "Tecno",
+    "url": "https://www.gsmarena.com/tecno-phones-120.php",
+    "relativeUrl": "tecno-phones-120.php",
+    "expectedDevices": 195
+  },
+  {
+    "id": "tel_me_-phones-21",
+    "name": "Tel.Me.",
+    "url": "https://www.gsmarena.com/tel_me_-phones-21.php",
+    "relativeUrl": "tel_me_-phones-21.php",
+    "expectedDevices": 7
+  },
+  {
+    "id": "telit-phones-16",
+    "name": "Telit",
+    "url": "https://www.gsmarena.com/telit-phones-16.php",
+    "relativeUrl": "telit-phones-16.php",
+    "expectedDevices": 30
+  },
+  {
+    "id": "thuraya-phones-49",
+    "name": "Thuraya",
+    "url": "https://www.gsmarena.com/thuraya-phones-49.php",
+    "relativeUrl": "thuraya-phones-49.php",
+    "expectedDevices": 2
+  },
+  {
+    "id": "toshiba-phones-44",
+    "name": "Toshiba",
+    "url": "https://www.gsmarena.com/toshiba-phones-44.php",
+    "relativeUrl": "toshiba-phones-44.php",
+    "expectedDevices": 35
+  },
+  {
+    "id": "ulefone-phones-124",
+    "name": "Ulefone",
+    "url": "https://www.gsmarena.com/ulefone-phones-124.php",
+    "relativeUrl": "ulefone-phones-124.php",
+    "expectedDevices": 151
+  },
+  {
+    "id": "umidigi-phones-135",
+    "name": "Umidigi",
+    "url": "https://www.gsmarena.com/umidigi-phones-135.php",
+    "relativeUrl": "umidigi-phones-135.php",
+    "expectedDevices": 80
+  },
+  {
+    "id": "unnecto-phones-91",
+    "name": "Unnecto",
+    "url": "https://www.gsmarena.com/unnecto-phones-91.php",
+    "relativeUrl": "unnecto-phones-91.php",
+    "expectedDevices": 30
+  },
+  {
+    "id": "vertu-phones-39",
+    "name": "Vertu",
+    "url": "https://www.gsmarena.com/vertu-phones-39.php",
+    "relativeUrl": "vertu-phones-39.php",
+    "expectedDevices": 17
+  },
+  {
+    "id": "verykool-phones-70",
+    "name": "verykool",
+    "url": "https://www.gsmarena.com/verykool-phones-70.php",
+    "relativeUrl": "verykool-phones-70.php",
+    "expectedDevices": 139
+  },
+  {
+    "id": "vivo-phones-98",
+    "name": "vivo",
+    "url": "https://www.gsmarena.com/vivo-phones-98.php",
+    "relativeUrl": "vivo-phones-98.php",
+    "expectedDevices": 616
+  },
+  {
+    "id": "vk_mobile-phones-37",
+    "name": "VK Mobile",
+    "url": "https://www.gsmarena.com/vk_mobile-phones-37.php",
+    "relativeUrl": "vk_mobile-phones-37.php",
+    "expectedDevices": 31
+  },
+  {
+    "id": "vodafone-phones-53",
+    "name": "Vodafone",
+    "url": "https://www.gsmarena.com/vodafone-phones-53.php",
+    "relativeUrl": "vodafone-phones-53.php",
+    "expectedDevices": 87
+  },
+  {
+    "id": "wiko-phones-96",
+    "name": "Wiko",
+    "url": "https://www.gsmarena.com/wiko-phones-96.php",
+    "relativeUrl": "wiko-phones-96.php",
+    "expectedDevices": 103
+  },
+  {
+    "id": "wnd-phones-51",
+    "name": "WND",
+    "url": "https://www.gsmarena.com/wnd-phones-51.php",
+    "relativeUrl": "wnd-phones-51.php",
+    "expectedDevices": 5
+  },
+  {
+    "id": "xcute-phones-43",
+    "name": "XCute",
+    "url": "https://www.gsmarena.com/xcute-phones-43.php",
+    "relativeUrl": "xcute-phones-43.php",
+    "expectedDevices": 4
+  },
+  {
+    "id": "xiaomi-phones-80",
+    "name": "Xiaomi",
+    "url": "https://www.gsmarena.com/xiaomi-phones-80.php",
+    "relativeUrl": "xiaomi-phones-80.php",
+    "expectedDevices": 546
+  },
+  {
+    "id": "xolo-phones-85",
+    "name": "XOLO",
+    "url": "https://www.gsmarena.com/xolo-phones-85.php",
+    "relativeUrl": "xolo-phones-85.php",
+    "expectedDevices": 81
+  },
+  {
+    "id": "yezz-phones-78",
+    "name": "Yezz",
+    "url": "https://www.gsmarena.com/yezz-phones-78.php",
+    "relativeUrl": "yezz-phones-78.php",
+    "expectedDevices": 113
+  },
+  {
+    "id": "yota-phones-99",
+    "name": "Yota",
+    "url": "https://www.gsmarena.com/yota-phones-99.php",
+    "relativeUrl": "yota-phones-99.php",
+    "expectedDevices": 3
+  },
+  {
+    "id": "yu-phones-100",
+    "name": "YU",
+    "url": "https://www.gsmarena.com/yu-phones-100.php",
+    "relativeUrl": "yu-phones-100.php",
+    "expectedDevices": 13
+  },
+  {
+    "id": "zte-phones-62",
+    "name": "ZTE",
+    "url": "https://www.gsmarena.com/zte-phones-62.php",
+    "relativeUrl": "zte-phones-62.php",
+    "expectedDevices": 443
+  }
+]

@@ -1,0 +1,2980 @@
+[
+  {
+    "sttTong": 5883,
+    "sttHang": 1,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro 55M",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_55m-8540.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55-m.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55-m.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, October. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.9 x 77.6 x 8.2 mm (6.02 x 3.06 x 0.32 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6580 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, removable",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White, black"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:29.530Z"
+  },
+  {
+    "sttTong": 5885,
+    "sttHang": 3,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro 5M",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_5m-8538.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-5m.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-5m.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.2 x 73 x 10.3 mm (5.68 x 2.87 x 0.41 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.4% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Spreadtrum SC7731",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, BLue, Gold, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:33.800Z"
+  },
+  {
+    "sttTong": 5884,
+    "sttHang": 2,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro 55 LTE",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_55_lte-8539.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55m.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55m.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 2100",
+        "4g_bands": "2, 4, 5, 7, 12, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, November. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153 x 77.6 x 7.9 mm (6.02 x 3.06 x 0.31 in)",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 15 h"
+      },
+      "misc": {
+        "colors": "Dark Blue, White, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:35.931Z"
+  },
+  {
+    "sttTong": 5886,
+    "sttHang": 4,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 5s",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_5s-8412.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-5s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-5s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, July. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.4 x 72 x 9.1 mm (5.69 x 2.83 x 0.36 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.3% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6580M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 300 h (3G)",
+        "talk_time": "Up to 6 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Pink Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:46.331Z"
+  },
+  {
+    "sttTong": 5888,
+    "sttHang": 6,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro X4",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_x4-7930.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123.5 x 64 x 9.8 mm (4.86 x 2.52 x 0.39 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA, LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Gold, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:46.467Z"
+  },
+  {
+    "sttTong": 5887,
+    "sttHang": 5,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Gravity 5 LTE",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_gravity_5_lte-8021.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-5-lte-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-5-lte-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 72.8 x 8.9 mm (5.73 x 2.87 x 0.35 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8909 Snapdragon 210 (28 nm)",
+        "cpu": "Quad-core 1.1 GHz Cortex-A7",
+        "gpu": "Adreno 304"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 7 h 30 min"
+      },
+      "misc": {
+        "colors": "Black/Silver/Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:54.726Z"
+  },
+  {
+    "sttTong": 5890,
+    "sttHang": 8,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Vice",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_vice-7873.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-vice.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-vice.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 52 x 13.6 mm (4.17 x 2.05 x 0.54 in)",
+        "weight": "87 g (3.07 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~32.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "chipset": "Spreadtrum 6531D"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "No",
+        "java": "No\nAudio/Video player\nPhoto viewer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 900 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Red, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:06.073Z"
+  },
+  {
+    "sttTong": 5891,
+    "sttHang": 9,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Gravity 5.5 LTE",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_gravity_5_5_lte-7629.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-55-lte.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-55-lte.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 7, 17",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.5 x 78 x 7.5 mm (6.12 x 3.07 x 0.30 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6735 (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "Black, Gold, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:07.438Z"
+  },
+  {
+    "sttTong": 5889,
+    "sttHang": 7,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro X55",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_x55-7889.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, January. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150.5 x 76.3 x 7.8 mm (5.93 x 3.00 x 0.31 in)",
+        "weight": "174 g (6.14 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6580 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "Gold/White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:09.934Z"
+  },
+  {
+    "sttTong": 5892,
+    "sttHang": 10,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Gravity 5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_gravity_5-7589.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.4 x 72 x 9.1 mm (5.72 x 2.83 x 0.36 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2700 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 25 h"
+      },
+      "misc": {
+        "colors": "White/Black/Blue/Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:10.846Z"
+  },
+  {
+    "sttTong": 5894,
+    "sttHang": 12,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro X5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_x5-7565.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-x5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.7 x 72.8 x 9.4 mm (5.66 x 2.87 x 0.37 in)",
+        "weight": "154 g (5.43 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~65.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 170 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Rose Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:14.785Z"
+  },
+  {
+    "sttTong": 5893,
+    "sttHang": 11,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 6",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_6-7566.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-60.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-60.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "166 x 84 x 8.8 mm (6.54 x 3.31 x 0.35 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~71.2% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~184 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 380 h (3G)",
+        "talk_time": "Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:19.624Z"
+  },
+  {
+    "sttTong": 5898,
+    "sttHang": 16,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 4.5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_4_5-7360.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-45.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-45.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100\nHSDPA 850 / 1700 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.3 x 66.7 x 10 mm (5.29 x 2.63 x 0.39 in)",
+        "weight": "131 g (4.62 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.5 inches, 55.8 cm2 (~62.3% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 190 h (3G)",
+        "talk_time": "Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Gold, Gray, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:25.120Z"
+  },
+  {
+    "sttTong": 5895,
+    "sttHang": 13,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 3.5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_3_5-7564.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-35.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-35.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, August. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.6 x 62 x 11 mm (4.67 x 2.44 x 0.43 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~49.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 170 h (3G)",
+        "talk_time": "Up to 4 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Pink, Blue, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:26.097Z"
+  },
+  {
+    "sttTong": 5899,
+    "sttHang": 17,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro Phablet 71",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_phablet_71-6984.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-71.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-71.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "192 x 102 x 9.8 mm (7.56 x 4.02 x 0.39 in)",
+        "weight": "321 g (11.32 oz)",
+        "sim": "Dual SIM, (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~70.4% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Dark Blue, Golden, Gray, Pink, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:20:30.063Z"
+  },
+  {
+    "sttTong": 5902,
+    "sttHang": 20,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest MX-110",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_mx_110-6817.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-110.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-110.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 47 x 14.3 mm (4.33 x 1.85 x 0.56 in)",
+        "weight": "63.7 g (2.22 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "200 entries",
+        "call_records": "Yes",
+        "internal": "32MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio; built-in antenna",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "No\nMP3/AAC/WMA/WAV player\nMP4/H.264/WMV player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 800 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black, Red, Baby blue, Dark Blue, Hot pink, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:21:39.534Z"
+  },
+  {
+    "sttTong": 5900,
+    "sttHang": 18,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro 5.5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_5_5-6983.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 1700",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.2 x 78.8 x 8.7 mm (6.15 x 3.10 x 0.34 in)",
+        "weight": "174 g (6.14 oz)",
+        "sim": "Dual SIM, (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~67.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Pink, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:21:47.820Z"
+  },
+  {
+    "sttTong": 5896,
+    "sttHang": 14,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Blade",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_blade-7398.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-blade.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-blade.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 33",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.2 x 52.8 x 11.1 mm (4.06 x 2.08 x 0.44 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~32.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "cpu": "312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "8MB 8MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "No",
+        "java": "No\nMP3/AAC/WAV player\nMP4/H.264/H.263 player\nOrganizer\nPhoto viewer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White, Black, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:21:55.592Z"
+  },
+  {
+    "sttTong": 5897,
+    "sttHang": 15,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Nitro 5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_nitro_5-7379.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-nitro-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.6 x 72 x 9.6 mm (5.73 x 2.83 x 0.38 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Spreadtrum SC7731",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "1080p@25fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 170 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Silver, Black, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:02.033Z"
+  },
+  {
+    "sttTong": 5901,
+    "sttHang": 19,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_5-6840.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Maxwest-Astro-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Maxwest-Astro-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.8 x 73.4 x 9.3 mm (5.62 x 2.89 x 0.37 in)",
+        "weight": "154 g (5.43 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@25fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 170 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Rose Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:06.087Z"
+  },
+  {
+    "sttTong": 5903,
+    "sttHang": 21,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro 4",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_4-6720.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.5 x 64 x 9.8 mm (4.94 x 2.52 x 0.39 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "White/Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:10.578Z"
+  },
+  {
+    "sttTong": 5904,
+    "sttHang": 22,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Astro JR",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_astro_jr-6672.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-jr.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-astro-jr.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 62.8 x 11.4 mm (4.69 x 2.47 x 0.45 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~48.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "256MB 512MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:21.928Z"
+  },
+  {
+    "sttTong": 5905,
+    "sttHang": 23,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Virtue Z5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_virtue_z5-6517.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-virtue-z5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-virtue-z5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 75 x 9.3 mm (5.79 x 2.95 x 0.37 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~62.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:27.225Z"
+  },
+  {
+    "sttTong": 5906,
+    "sttHang": 24,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Gravity 5.5",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_gravity_5_5-6417.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 1700",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.2 x 78.8 x 8.7 mm (6.15 x 3.10 x 0.34 in)",
+        "weight": "174 g (6.14 oz)",
+        "sim": "Dual SIM, (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~67.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Broadcom VideoCore"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "White/Black/Blue/Rose Red/Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:31.467Z"
+  },
+  {
+    "sttTong": 5907,
+    "sttHang": 25,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Gravity 6",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_gravity_6-6358.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-gravity-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 / 1700",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, April. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "163.3 x 84 x 8.9 mm (6.43 x 3.31 x 0.35 in)",
+        "weight": "207 g (7.30 oz)",
+        "sim": "Dual SIM, (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~72.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Broadcom VideoCore"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:22:56.195Z"
+  },
+  {
+    "sttTong": 5908,
+    "sttHang": 26,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 330G",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_330g-6274.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/orbit-330g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/orbit-330g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, April. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 62.8 x 11.4 mm (4.69 x 2.47 x 0.45 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~48.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "512MB 512MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:23:22.393Z"
+  },
+  {
+    "sttTong": 5909,
+    "sttHang": 27,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 6200T",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_6200t-6273.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-6200t.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-6200t.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "167.3 x 85.4 x 9 mm (6.59 x 3.36 x 0.35 in)",
+        "weight": "210 g (7.41 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~69.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~184 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572AW",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2350 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:23:26.663Z"
+  },
+  {
+    "sttTong": 5910,
+    "sttHang": 28,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Android 330",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_android_330-6098.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-android-330.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-android-330.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 62.8 x 11.4 mm (4.69 x 2.47 x 0.45 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~48.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:23:41.474Z"
+  },
+  {
+    "sttTong": 5911,
+    "sttHang": 29,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Tab Phone 72DC",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_tab_phone_72dc-5860.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-72dc.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-72dc.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "UMTS 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, August. Released 2013, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "187 x 107 x 9.2 mm (7.36 x 4.21 x 0.36 in)",
+        "weight": "270 g (9.52 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 137.9 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean)",
+        "chipset": "Mediatek MT8377 (40 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nTV-out"
+      },
+      "battery": {
+        "type": "Li-Ion 2800 mAh, non-removable",
+        "stand-by": "Up to 50 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black/White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:23:52.097Z"
+  },
+  {
+    "sttTong": 5912,
+    "sttHang": 30,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest MX-210TV",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_mx_210tv-5859.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-MX-210TV.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-MX-210TV.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, September. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 45 x 17.5 mm (3.62 x 1.77 x 0.69 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~30.4% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Downloadable",
+        "java": "No\nSNS applications\nAnalog TV\nMP3/WAV/WMA player\nMP4/H.263 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:02.443Z"
+  },
+  {
+    "sttTong": 5915,
+    "sttHang": 33,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 5400T",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_5400t-5776.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-5400T-white-web.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-5400T-white-web.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1700 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, August. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 74.2 x 9.6 mm (5.63 x 2.92 x 0.38 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 900 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:08.643Z"
+  },
+  {
+    "sttTong": 5913,
+    "sttHang": 31,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Android 320",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_android_320-5778.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-android-320.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-android-320.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2013, September. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 62.4 x 13.4 mm (4.53 x 2.46 x 0.53 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~50.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:12.906Z"
+  },
+  {
+    "sttTong": 5916,
+    "sttHang": 34,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 4400",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_4400-5775.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-4400-white-web.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-4400-white-web.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, September. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 64 x 9.3 mm (5.0 x 2.52 x 0.37 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:13.551Z"
+  },
+  {
+    "sttTong": 5917,
+    "sttHang": 35,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 3000",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_3000-5774.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-3000-White-web.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-3000-White-web.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120.4 x 63.9 x 10.7 mm (4.74 x 2.52 x 0.42 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~47.4% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1100 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:14.892Z"
+  },
+  {
+    "sttTong": 5918,
+    "sttHang": 36,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit X50",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_x50-5773.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-X50-white-web2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-X50-white-web2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152 x 78 x 9.9 mm (5.98 x 3.07 x 0.39 in)",
+        "weight": "127 g without battery (4.48 oz)",
+        "sim": "Dual SIM (dual stand-by)"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~58.1% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:18.209Z"
+  },
+  {
+    "sttTong": 5919,
+    "sttHang": 37,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit Z50",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_z50-5641.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-z50.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-z50.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900  - D570a",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72 x 8.9 mm (5.63 x 2.83 x 0.35 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 900 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:19.031Z"
+  },
+  {
+    "sttTong": 5920,
+    "sttHang": 38,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 5400",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_5400-5640.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-5400.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-5400.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, April. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 74.2 x 9.6 mm (5.63 x 2.92 x 0.38 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6577 (40 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 900 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Black/Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:19.761Z"
+  },
+  {
+    "sttTong": 5921,
+    "sttHang": 39,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 4600",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_4600-5639.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-4600.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-orbit-4600.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, May. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136.5 x 70 x 8.9 mm (5.37 x 2.76 x 0.35 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.7 inches, 60.9 cm2 (~63.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~208 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Broadcom BCM21663",
+        "cpu": "1.2 GHz dual-core Cortex-A9",
+        "gpu": "Broadcom VideoCore IV"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 900 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Black/Blue, Black/Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:23.511Z"
+  },
+  {
+    "sttTong": 5922,
+    "sttHang": 40,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest MX-200TV",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_mx_200tv-5638.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-200tv.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-200tv.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 57 x 11 mm (4.02 x 2.24 x 0.43 in)",
+        "weight": "69 g (2.43 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~21.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "platform": {
+        "chipset": "Mediatek MT6250"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio; built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Downloadable",
+        "java": "No\nAnalog TV\nSNS apps\nMP3/AAC+/WAV/WMA player\nMP4/H.264 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black/Blue, Black/Pink, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:24.274Z"
+  },
+  {
+    "sttTong": 5914,
+    "sttHang": 32,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest Orbit 6200",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_orbit_6200-5777.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-6200-White-web.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Orbit-6200-White-web.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "167.3 x 85.4 x 9 mm (6.59 x 3.36 x 0.35 in)",
+        "weight": "210 g (7.41 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~69.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~184 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572AW",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2350 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:24.341Z"
+  },
+  {
+    "sttTong": 5923,
+    "sttHang": 41,
+    "brand": "Maxwest",
+    "deviceName": "Maxwest MX-100",
+    "deviceUrl": "https://www.gsmarena.com/maxwest_mx_100-5637.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maxwest-mx-100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 45 x 14 mm (4.33 x 1.77 x 0.55 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~20.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "200 entries",
+        "call_records": "Yes",
+        "internal": "32MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio; built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Downloadable",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 800 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:24:24.939Z"
+  }
+]

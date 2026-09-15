@@ -1,0 +1,1200 @@
+[
+  {
+    "sttTong": 4531,
+    "sttHang": 2,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO P10",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_p10-1190.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-p10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-p10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91.9 x 44 x 23.8 mm (3.62 x 1.73 x 0.94 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No\n3D Sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "3 + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nDictionary (EnglishChinese)\nMP3/MP4 Player\nVideo Recording (up to 90 min.)\nFlight Mode\nVoice memo\nBio-rhythm\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 830 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Silver, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:13.936Z"
+  },
+  {
+    "sttTong": 4530,
+    "sttHang": 1,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO A20",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_a20-1222.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-a20.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-a20.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93.9 x 46.4 x 23 mm (3.70 x 1.83 x 0.91 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external display TFT, 256K colors (96 x 96 pixels)"
+      },
+      "memory": {
+        "card_slot": "MMC",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "64MB (128MB optional)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nMP3/AAC/MP4 player\nVoice memo\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:15.694Z"
+  },
+  {
+    "sttTong": 4532,
+    "sttHang": 3,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO A10",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_a10-955.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ina10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ina10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 43 x 24 mm (3.54 x 1.69 x 0.94 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors CSTN display (96 x 64 pixels)\n4-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/3GP player \nPredictive text input\nVoice memo\nBio-rhythm\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:19.562Z"
+  },
+  {
+    "sttTong": 4534,
+    "sttHang": 5,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 50",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_50-743.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno50.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno50.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88.6 x 44.5 x 22.5 mm (3.49 x 1.75 x 0.89 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels, 11 lines\nSecond external display, STN, 65K colors (96 x 96 pixels)\n180 deg swivel\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "12MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:23.507Z"
+  },
+  {
+    "sttTong": 4535,
+    "sttHang": 6,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 36",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_36-1228.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-36.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/innostream-36.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "80 x 43 x 23.8 mm (3.15 x 1.69 x 0.94 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 143 pixels\nSecond external STN display, 65K colors (96 x 64 pixels)\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:24.764Z"
+  },
+  {
+    "sttTong": 4537,
+    "sttHang": 8,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 78",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_78-787.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno78.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno78.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43 x 23 mm (3.31 x 1.69 x 0.91 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, OLED, 65K colors\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:28.294Z"
+  },
+  {
+    "sttTong": 4536,
+    "sttHang": 7,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 79",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_79-788.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno79.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno79.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43 x 23 mm (3.31 x 1.69 x 0.91 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, OLED, 256 colors\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:29.418Z"
+  },
+  {
+    "sttTong": 4538,
+    "sttHang": 9,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 30",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_30-786.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno30.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno30.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 42 x 21 mm (3.23 x 1.65 x 0.83 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external CSTN display (96 x 64 pixels), 65K colors\nScreensavers and wallpapers\nDownloadable images"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input (iTAP)\nCalculator\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Standard battery, Li-Ion 830 mAh",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h - 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:30.058Z"
+  },
+  {
+    "sttTong": 4539,
+    "sttHang": 10,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 55",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_55-785.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 42 x 21.6 mm (3.35 x 1.65 x 0.85 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\n5-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS. EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStopwatch, Bio-rhythm\nVoice memo\nRemote control for IR"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 830 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:32.502Z"
+  },
+  {
+    "sttTong": 4542,
+    "sttHang": 13,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 90",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_90-662.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno90.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno90.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 46 x 26 mm (3.43 x 1.81 x 1.02 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, STN, 65K colors (96 x 64 pixels)\n7 color optic fiberlighting\n3 color keypad backlighting\nScreensavers and wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups, Photo call",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + downloadable",
+        "java": "No\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Pearl White, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:34.934Z"
+  },
+  {
+    "sttTong": 4544,
+    "sttHang": 15,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 80",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_80-663.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 44 x 22 mm (3.54 x 1.73 x 0.87 in)",
+        "weight": "97 g (3.42 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, STN, 65K colors (96 x 64 pixels)\n3 color keypad backlighting\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + Java dwnloadable",
+        "java": "Yes\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, White, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:40.623Z"
+  },
+  {
+    "sttTong": 4533,
+    "sttHang": 4,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 75",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_75-789.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2. Released 2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82.5 x 44 x 23 mm (3.25 x 1.73 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nRemote control for IR"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:41.296Z"
+  },
+  {
+    "sttTong": 4541,
+    "sttHang": 12,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 99",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_99-735.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno99.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno99.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 46 x 24 mm (3.43 x 1.81 x 0.94 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, STN, 65K colors (96 x 64 pixels)\n7 color indicator\n3 color keypad backlighting\nScreensavers and wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64) ringtones, composer",
+        "35mm_jack": "No\nVideo formats: JPG, GIF, WBMP, PNG\nAudio formats: MIDI, MIDI, i-Melody, AMR, SMAF"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + downloadable",
+        "java": "No\nPredictive text input for English, Chinese\nBio-rhythm\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:43.262Z"
+  },
+  {
+    "sttTong": 4545,
+    "sttHang": 16,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 120",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_120-664.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno120.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno120.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 44 x 23.3 mm (3.15 x 1.73 x 0.92 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LCD, 65K colors",
+        "resolution": "128 x 144 pixels, 10 lines\nSecond external display (64 x 80 pixels)\nScreensavers and wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(40) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 740 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:45.883Z"
+  },
+  {
+    "sttTong": 4547,
+    "sttHang": 18,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 100",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_100-666.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 43 x 20 mm (3.15 x 1.69 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LCD, 65K colors",
+        "resolution": "128 x 144 pixels, 10 lines\nSecond external display (64 x 80 pixels)\nScreensavers and wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(40) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 740 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:48.350Z"
+  },
+  {
+    "sttTong": 4546,
+    "sttHang": 17,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 110",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_110-665.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 43 x 20 mm (3.15 x 1.69 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LCD, 65K colors",
+        "resolution": "128 x 144 pixels, 10 lines\nSecond external display (64 x 80 pixels)\nScreensavers and wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(40) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 740 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:50.122Z"
+  },
+  {
+    "sttTong": 4543,
+    "sttHang": 14,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 89",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_89-784.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno89.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno89.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 43 x 24 mm (3.46 x 1.69 x 0.94 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, STN, 65K colors (96 x 64 pixels)\n3 color keypad backlighting\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups, Photo call",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic - SMAF, MIDI, I-Melody and AMR ringtones, composer",
+        "35mm_jack": "No\nAudio format: SMAF, MIDI, I-Melody and AMR\nImage format: WBMP, JPG, GIF and PNG"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + Java downloadable",
+        "java": "Yes\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "silver, white, blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:06:56.273Z"
+  },
+  {
+    "sttTong": 4540,
+    "sttHang": 11,
+    "brand": "Innostream",
+    "deviceName": "Innostream INNO 70",
+    "deviceUrl": "https://www.gsmarena.com/innostream_inno_70-686.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno70.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ininno70.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 52 x 22 mm (3.54 x 2.05 x 0.87 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display, OLED, 256 colors\nScreensavers and wallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, Photo call",
+        "call_records": "20 received, dialed and missed calls",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA, 180 deg. rotating lens",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 105 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T02:06:58.612Z"
+  }
+]

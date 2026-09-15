@@ -1,0 +1,5054 @@
+[
+  {
+    "sttTong": 7082,
+    "sttHang": 1,
+    "brand": "NEC",
+    "deviceName": "NEC Terrain",
+    "deviceUrl": "https://www.gsmarena.com/nec_terrain-5553.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-terrain.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-terrain.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "4, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127.5 x 64.5 x 14.5 mm (5.02 x 2.54 x 0.57 in)",
+        "weight": "171.8 g (6.07 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Yes\nIP67 dust/water resistant (up to 1m for 30 min)\nMIL-STD-810G compliant"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.1 inches, 29.8 cm2 (~36.2% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~258 ppi density)",
+        "protection": "Corning Gorilla Glass 2"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "cpu": "Dual-core 1.5 GHz Krait",
+        "gpu": "Adreno 225"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable",
+        "stand-by": "Up to 348 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 330 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:12.685Z"
+  },
+  {
+    "sttTong": 7085,
+    "sttHang": 4,
+    "brand": "NEC",
+    "deviceName": "NEC N344i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n344i-1610.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-N344i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-N344i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "109 x 47 x 11.9 mm (4.29 x 1.85 x 0.47 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "i-mode",
+        "games": "Downloadable",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nOrganizer\nPC Sync\nPhoto editor\nExchangable covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:17.279Z"
+  },
+  {
+    "sttTong": 7083,
+    "sttHang": 2,
+    "brand": "NEC",
+    "deviceName": "NEC 804N",
+    "deviceUrl": "https://www.gsmarena.com/nec_804n-1611.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-804N.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-804N.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 48 x 23 mm (3.66 x 1.89 x 0.91 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~33.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external 0.9-inch STN, 65K colors display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "450MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Downloadable",
+        "java": "No\nMP3 player with music assist buttons\nMail art\nPC Sync\nBilungual menus\nOR code reading\nDocument viewer (Word, Excel, PowerPoint, PDF)\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "Plumeria White, Coral Pink, Lapis Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:22.822Z"
+  },
+  {
+    "sttTong": 7086,
+    "sttHang": 5,
+    "brand": "NEC",
+    "deviceName": "NEC e373",
+    "deviceUrl": "https://www.gsmarena.com/nec_e373-1603.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e373.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e373.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 44 x 19.2 mm, 78 cc (3.62 x 1.73 x 0.76 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.9 inches, 11.4 cm2 (~28.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\n12 colour led backlight"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h 40 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:24.314Z"
+  },
+  {
+    "sttTong": 7087,
+    "sttHang": 6,
+    "brand": "NEC",
+    "deviceName": "NEC e636",
+    "deviceUrl": "https://www.gsmarena.com/nec_e636-1476.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e636.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e636.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 48 x 13.9 mm, 65 cc (4.02 x 1.89 x 0.55 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external mono OLED display"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:27.836Z"
+  },
+  {
+    "sttTong": 7089,
+    "sttHang": 8,
+    "brand": "NEC",
+    "deviceName": "NEC N500iS",
+    "deviceUrl": "https://www.gsmarena.com/nec_n500is-1428.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n500is.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n500is.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 13.6 mm (3.98 x 1.89 x 0.54 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "176 x 220 pixels, 1.9 inch\nSecond external mono OLED display (39x96 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "54MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP(Nec e959),  iMode(Nec N500iS)",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:33.591Z"
+  },
+  {
+    "sttTong": 7084,
+    "sttHang": 3,
+    "brand": "NEC",
+    "deviceName": "NEC e1108",
+    "deviceUrl": "https://www.gsmarena.com/nec_e1108-1927.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e1108.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e1108.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 44 x 18.5 mm (4.06 x 1.73 x 0.73 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~22.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "28MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Fluorescent Green, Metallic Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:34.437Z"
+  },
+  {
+    "sttTong": 7090,
+    "sttHang": 9,
+    "brand": "NEC",
+    "deviceName": "NEC N908",
+    "deviceUrl": "https://www.gsmarena.com/nec_n908-1719.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n908.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n908.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83.4 x 53.2 x 12.8 mm (3.28 x 2.09 x 0.50 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~33.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nHandwriting recognition"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "31MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "java": "Yes, MIDP 2.0\nPhoto editor\nMP3 player\nStopwatch\nUnit/Currency converter\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver , Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:38.572Z"
+  },
+  {
+    "sttTong": 7088,
+    "sttHang": 7,
+    "brand": "NEC",
+    "deviceName": "NEC N500i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n500i-1475.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n500i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n500i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 46 x 25 mm, 80 cc (3.66 x 1.81 x 0.98 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.9 inches, 30 x 37 mm, 11.4 cm2 (~26.6% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external 4096 colors OLED display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "54MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "i-mode",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 50 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:38.622Z"
+  },
+  {
+    "sttTong": 7091,
+    "sttHang": 10,
+    "brand": "NEC",
+    "deviceName": "NEC N938",
+    "deviceUrl": "https://www.gsmarena.com/nec_n938-1374.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n938.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n938.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 56 x 14 mm (3.43 x 2.20 x 0.55 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "176 x 220 pixels\nHandwriting recognition\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "java": "Yes\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 550 mAh battery",
+        "stand-by": "Up to 130 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:42.360Z"
+  },
+  {
+    "sttTong": 7092,
+    "sttHang": 11,
+    "brand": "NEC",
+    "deviceName": "NEC e353",
+    "deviceUrl": "https://www.gsmarena.com/nec_e353-1339.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e353.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e353.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 46 x 16 mm (4.61 x 1.81 x 0.63 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "176 x 220 pixels\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 770 mAh battery",
+        "stand-by": "Up to 190 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:43.796Z"
+  },
+  {
+    "sttTong": 7093,
+    "sttHang": 12,
+    "brand": "NEC",
+    "deviceName": "NEC e121",
+    "deviceUrl": "https://www.gsmarena.com/nec_e121-1399.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e121.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e121.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 44 x 12.4 mm (4.17 x 1.73 x 0.49 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "3.6MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:45.899Z"
+  },
+  {
+    "sttTong": 7095,
+    "sttHang": 14,
+    "brand": "NEC",
+    "deviceName": "NEC e949/L1",
+    "deviceUrl": "https://www.gsmarena.com/nec_e949_l1-1266.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-l1-e949.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-l1-e949.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 47.9 x 11.9 mm (4.02 x 1.89 x 0.47 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.9 inches, 30 x 37 mm, 11.4 cm2 (~23.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external mono OLED display (96x39 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "25MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nCurrency convertor\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:48.963Z"
+  },
+  {
+    "sttTong": 7096,
+    "sttHang": 15,
+    "brand": "NEC",
+    "deviceName": "NEC N600i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n600i-1329.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n600i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n600i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94.4 x 47.5 x 24.5 mm (3.72 x 1.87 x 0.96 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.4 cm2 (~27.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSecond external B/W STN display (30 x 120 pixels)\nIncoming LED indicator\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "i-mode",
+        "games": "Yes + downloadable",
+        "java": "Yes, DoJa 2.5\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:51.624Z"
+  },
+  {
+    "sttTong": 7097,
+    "sttHang": 16,
+    "brand": "NEC",
+    "deviceName": "NEC e540/N411i",
+    "deviceUrl": "https://www.gsmarena.com/nec_e540_n411i-1094.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n411i-e540.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n411i-e540.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 46 x 24 mm (3.66 x 1.81 x 0.94 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.9 inches, 30 x 37 mm, 11.4 cm2 (~26.6% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external 4096 colors STN display (128 x 128 pixels)\nIncoming LED indicator\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "26MB\n400 short messages\n400 emails"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, iMode (N411i only)",
+        "games": "Yes + downloadable",
+        "java": "Yes, DoJa 1.5\nMP3 player\nPredictive text input\nSyncML \nOrganizer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:56.274Z"
+  },
+  {
+    "sttTong": 7098,
+    "sttHang": 17,
+    "brand": "NEC",
+    "deviceName": "NEC N401i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n401i-1082.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n401i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n401i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 44 x 23 mm, 85 cc (3.54 x 1.73 x 0.91 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "size": "1.9 inches, 30 x  37 mm, 11.4 cm2 (~28.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external 4096 colors LCD display (30 x 120 pixels)\nIncoming LED indicator\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "22MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, EMail",
+        "browser": "iMode",
+        "games": "Yes + downloadable",
+        "java": "Yes, DoJa 1.5\nMP3 player\nPredictive text input\nOrganizer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:56:01.778Z"
+  },
+  {
+    "sttTong": 7100,
+    "sttHang": 19,
+    "brand": "NEC",
+    "deviceName": "NEC N900iG",
+    "deviceUrl": "https://www.gsmarena.com/nec_n900ig-967.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen900g.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen900g.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 50 x 28 mm (4.06 x 1.97 x 1.10 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio\nSecond external 65K colors TFT display (90 x 120 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "700 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML, iMode",
+        "games": "Yes + downloadable",
+        "java": "Yes\nBar-code reader\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Ocean Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:06.987Z"
+  },
+  {
+    "sttTong": 7099,
+    "sttHang": 18,
+    "brand": "NEC",
+    "deviceName": "NEC N343i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n343i-1174.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n343i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n343i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 43 x 12.7 mm (4.29 x 1.69 x 0.5 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "1.3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, EMail",
+        "browser": "iMode",
+        "games": "Yes + downloadable",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:56:11.903Z"
+  },
+  {
+    "sttTong": 7094,
+    "sttHang": 13,
+    "brand": "NEC",
+    "deviceName": "NEC e122",
+    "deviceUrl": "https://www.gsmarena.com/nec_e122-1338.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e122.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-e122.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.5 x 43 x 18 mm (4.04 x 1.69 x 0.71 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:12.332Z"
+  },
+  {
+    "sttTong": 7101,
+    "sttHang": 20,
+    "brand": "NEC",
+    "deviceName": "NEC N200",
+    "deviceUrl": "https://www.gsmarena.com/nec_n200-1020.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "70 x 51 x 18.6 mm (2.76 x 2.01 x 0.73 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nWallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:56:17.794Z"
+  },
+  {
+    "sttTong": 7102,
+    "sttHang": 21,
+    "brand": "NEC",
+    "deviceName": "NEC N160",
+    "deviceUrl": "https://www.gsmarena.com/nec_n160-995.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen160.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen160.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82.5 x 45 x 22.6 mm (3.25 x 1.77 x 0.89 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external 65K colors\ndisplay, (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "30MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "4",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:18.078Z"
+  },
+  {
+    "sttTong": 7103,
+    "sttHang": 22,
+    "brand": "NEC",
+    "deviceName": "NEC N923",
+    "deviceUrl": "https://www.gsmarena.com/nec_n923-1025.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen923.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen923.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004,Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 54 x 9.5 mm (3.35 x 2.13 x 0.37 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nWallpapers, screensavers\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2.7MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 300 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:56:23.834Z"
+  },
+  {
+    "sttTong": 7104,
+    "sttHang": 23,
+    "brand": "NEC",
+    "deviceName": "NEC N150",
+    "deviceUrl": "https://www.gsmarena.com/nec_n150-994.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 44 x 20 mm (3.58 x 1.73 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "3",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:30.239Z"
+  },
+  {
+    "sttTong": 7105,
+    "sttHang": 24,
+    "brand": "NEC",
+    "deviceName": "NEC e238",
+    "deviceUrl": "https://www.gsmarena.com/nec_e238-945.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee238.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee238.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 44 x 23 mm (3.54 x 1.73 x 0.91 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "176 x 220 pixels\nSecond external 4096 colors display (STN, 30 x 120 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 15 fields, Photo call, 20 groups",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "26MB\n400 short messages"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:36.944Z"
+  },
+  {
+    "sttTong": 7106,
+    "sttHang": 25,
+    "brand": "NEC",
+    "deviceName": "NEC N940",
+    "deviceUrl": "https://www.gsmarena.com/nec_n940-919.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen940.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen940.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101.5 x 51.5 x 20.7 mm (4.00 x 2.03 x 0.81 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT tochscreen, 256K colors",
+        "resolution": "176 x 220 pixels\nHandwriting recognition\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nTV tuner\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:43.004Z"
+  },
+  {
+    "sttTong": 7107,
+    "sttHang": 26,
+    "brand": "NEC",
+    "deviceName": "NEC N930",
+    "deviceUrl": "https://www.gsmarena.com/nec_n930-1149.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n930.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n930.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85.5 x 54 x 11.9 mm (3.37 x 2.13 x 0.47 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT tochscreen, 65K colors",
+        "resolution": "176 x 220 pixels\nHandwriting recognition\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:56:48.832Z"
+  },
+  {
+    "sttTong": 7108,
+    "sttHang": 27,
+    "brand": "NEC",
+    "deviceName": "NEC N630",
+    "deviceUrl": "https://www.gsmarena.com/nec_n630-1238.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n630.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n630.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 47 x 22 mm (3.90 x 1.85 x 0.87 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "176 x 220 pixels\nChinese handwriting recognition\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Compass, thermometer, sound level meter",
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPush to talk (VoIP service)\nPredictive text input\nOrganizer\nStopwatch\nImproved durability\nThermometer\nAutomatic volume control"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:57:38.903Z"
+  },
+  {
+    "sttTong": 7109,
+    "sttHang": 28,
+    "brand": "NEC",
+    "deviceName": "NEC N850",
+    "deviceUrl": "https://www.gsmarena.com/nec_n850-1237.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n850.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n850.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 46 x 24 mm (3.66 x 1.81 x 0.94 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.9 inches, 30 x 37 mm, 11.4 cm2 (~26.6% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external STN, 4096 colors display (128 x 128 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "26MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice dial/memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:57:44.251Z"
+  },
+  {
+    "sttTong": 7110,
+    "sttHang": 29,
+    "brand": "NEC",
+    "deviceName": "NEC N840",
+    "deviceUrl": "https://www.gsmarena.com/nec_n840-920.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen840.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen840.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 48 x 25 mm (3.94 x 1.89 x 0.98 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~31.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond external STN, 65K colors display (120 x 30 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD, 128 MB included",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 40 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:57:49.423Z"
+  },
+  {
+    "sttTong": 7111,
+    "sttHang": 30,
+    "brand": "NEC",
+    "deviceName": "NEC N750",
+    "deviceUrl": "https://www.gsmarena.com/nec_n750-1239.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n750.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec-n750.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92.9 x 45.8 x 23.6 mm (3.66 x 1.80 x 0.93 in)",
+        "weight": "97 g (3.42 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external OLED, 65K colors display (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:57:53.878Z"
+  },
+  {
+    "sttTong": 7112,
+    "sttHang": 31,
+    "brand": "NEC",
+    "deviceName": "NEC 802",
+    "deviceUrl": "https://www.gsmarena.com/nec_802-899.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ne802.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ne802.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 50 x 26 mm (3.94 x 1.97 x 1.02 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio\nSecond external TFT display, (120 x 90 pixels), 65K colors\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 430 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Royal bronze, Turquoise blue, Platinum silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:57:58.967Z"
+  },
+  {
+    "sttTong": 7113,
+    "sttHang": 32,
+    "brand": "NEC",
+    "deviceName": "NEC N500",
+    "deviceUrl": "https://www.gsmarena.com/nec_n500-937.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 48 x 14.5 mm (3.39 x 1.89 x 0.57 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "resolution": "176 x 220 pixels\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "White, black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:58:03.849Z"
+  },
+  {
+    "sttTong": 7114,
+    "sttHang": 33,
+    "brand": "NEC",
+    "deviceName": "NEC N342i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n342i-928.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen342i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen342i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 47 x 24 mm (3.39 x 1.85 x 0.94 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external STN mono display (96 x 64 pixels)\nDownloadable wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "i-mode",
+        "games": "2 - Raida, DeepWar + downloadable",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:58:09.598Z"
+  },
+  {
+    "sttTong": 7115,
+    "sttHang": 34,
+    "brand": "NEC",
+    "deviceName": "NEC e101",
+    "deviceUrl": "https://www.gsmarena.com/nec_e101-930.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee101.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee101.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 45 x 24 mm, 80 cc (3.31 x 1.77 x 0.94 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~27.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external STN mono display (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls\n1.5 MB user memory\nMMS 700KB\nJava 600KB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:58:14.910Z"
+  },
+  {
+    "sttTong": 7116,
+    "sttHang": 35,
+    "brand": "NEC",
+    "deviceName": "NEC N110",
+    "deviceUrl": "https://www.gsmarena.com/nec_n110-873.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 45 x 24 mm (3.31 x 1.77 x 0.94 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display (96 x 64 pixels)\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2.3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 250 h"
+      },
+      "misc": {
+        "colors": "Silver, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:58:21.935Z"
+  },
+  {
+    "sttTong": 7117,
+    "sttHang": 36,
+    "brand": "NEC",
+    "deviceName": "NEC N109",
+    "deviceUrl": "https://www.gsmarena.com/nec_n109-874.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen109.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen109.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 45 x 15 mm (4.02 x 1.77 x 0.59 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nWorld clock"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 570 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h 40 min"
+      },
+      "misc": {
+        "colors": "Silver, Black, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:58:41.776Z"
+  },
+  {
+    "sttTong": 7118,
+    "sttHang": 37,
+    "brand": "NEC",
+    "deviceName": "NEC N100",
+    "deviceUrl": "https://www.gsmarena.com/nec_n100-878.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 45 x 16 mm (4.02 x 1.77 x 0.63 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 fields",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 570 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 2 h 40 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:58:46.483Z"
+  },
+  {
+    "sttTong": 7119,
+    "sttHang": 38,
+    "brand": "NEC",
+    "deviceName": "NEC N920",
+    "deviceUrl": "https://www.gsmarena.com/nec_n920-865.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen920.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen920.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 54 x 9.6 mm (3.35 x 2.13 x 0.38 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nWallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:58:51.884Z"
+  },
+  {
+    "sttTong": 7120,
+    "sttHang": 39,
+    "brand": "NEC",
+    "deviceName": "NEC e338",
+    "deviceUrl": "https://www.gsmarena.com/nec_e338-858.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee338.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee338.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93.8 x 47.1 x 23.3 mm, 89 cc (3.69 x 1.85 x 0.92 in)",
+        "weight": "114 g (4.02 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 31 x 39 mm, 12.6 cm2 (~28.5% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls\nIn 18 MB internal memory:\n- 4 MB maximum for MMS\n- 960 KB maximum for JAVA appl.\n- 5 MB for personal files"
+      },
+      "main_camera": {
+        "single": "CIF, rotating lens",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No\nAudio formats: MIDI, MP3, AAC, WMA, WAV\nPicture formats: GIF, PNG, BMP,WBMP, JPEG, MPEG4 Video, WMV"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nVideo and audio streaming\nSyncML\nAudio/video player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:58:57.300Z"
+  },
+  {
+    "sttTong": 7121,
+    "sttHang": 40,
+    "brand": "NEC",
+    "deviceName": "NEC N620",
+    "deviceUrl": "https://www.gsmarena.com/nec_n620-831.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen620.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen620.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99.5 x 52.5 x 20 mm (3.92 x 2.07 x 0.79 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "resolution": "176 x 220 pixels\nWallpapers, screensavers\nChinese handwriting recognition \nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver and Dark Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:59:02.574Z"
+  },
+  {
+    "sttTong": 7122,
+    "sttHang": 41,
+    "brand": "NEC",
+    "deviceName": "NEC N610",
+    "deviceUrl": "https://www.gsmarena.com/nec_n610-830.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen610.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen610.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 48.5 x 21.2 mm (3.50 x 1.91 x 0.83 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "resolution": "176 x 220 pixels\nWallpapers, screensavers\nChinese handwriting recognition\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Red, Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:59:08.191Z"
+  },
+  {
+    "sttTong": 7123,
+    "sttHang": 42,
+    "brand": "NEC",
+    "deviceName": "NEC e228",
+    "deviceUrl": "https://www.gsmarena.com/nec_e228-810.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee228.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee228.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 54 x 21 mm (5.08 x 2.13 x 0.83 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "memory": {
+        "card_slot": "Memory Stick Duo",
+        "phonebook": "500",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "19MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nSyncML\nMP3/MP4 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:59:12.939Z"
+  },
+  {
+    "sttTong": 7124,
+    "sttHang": 43,
+    "brand": "NEC",
+    "deviceName": "NEC N410i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n410i-809.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen410i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen410i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 49 x 24 mm, 103 cc (3.98 x 1.93 x 0.94 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond STN, 65K colors (108 x 80 pixels)\nIncoming call LED with 12 colors\nWallpapers\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "iMode",
+        "games": "Yes + downloadable",
+        "java": "Yes\nMP4 player\nPredictive text input\nOrganizer\nVoice memo \nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:59:30.681Z"
+  },
+  {
+    "sttTong": 7125,
+    "sttHang": 44,
+    "brand": "NEC",
+    "deviceName": "NEC N400i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n400i-712.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen400i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen400i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 49 x 24 mm, 100 cc (3.98 x 1.93 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecond LCD 65K colors (108 x 80 pixels)\nIncoming call LED with 12 colors\nWallpapers\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "4MB\nTotal inbox mail size 600KB \n60 sec. voice memo"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "iMode",
+        "games": "Yes + downloadable",
+        "java": "Yes, DoJa 1.5\nPredictive text input\nOrganizer\nVoice dial/memo\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T05:59:57.532Z"
+  },
+  {
+    "sttTong": 7126,
+    "sttHang": 45,
+    "brand": "NEC",
+    "deviceName": "NEC N331i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n331i-713.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen331i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen331i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 24 mm, 90 cc (3.98 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond LCD display with 12 colors (30x96 pixels)\nWallpapers\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "iMode",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo \nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:00:39.300Z"
+  },
+  {
+    "sttTong": 7127,
+    "sttHang": 46,
+    "brand": "NEC",
+    "deviceName": "NEC e313",
+    "deviceUrl": "https://www.gsmarena.com/nec_e313-671.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee313.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee313.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146 x 54 x 20 mm, 125 cc (5.75 x 2.13 x 0.79 in)",
+        "weight": "126 g (4.44 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "220 x 176 pixels"
+      },
+      "memory": {
+        "card_slot": "Memory Stick Duo",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "19MB\n4 MB max for MMS"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "GPS",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:00:45.843Z"
+  },
+  {
+    "sttTong": 7128,
+    "sttHang": 47,
+    "brand": "NEC",
+    "deviceName": "NEC N910",
+    "deviceUrl": "https://www.gsmarena.com/nec_n910-615.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen910.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen910.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "57 x 52 x 22 mm (2.24 x 2.05 x 0.87 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external display 96 x 64 pixels (256 colors OLED)\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:00:52.040Z"
+  },
+  {
+    "sttTong": 7129,
+    "sttHang": 48,
+    "brand": "NEC",
+    "deviceName": "NEC N900",
+    "deviceUrl": "https://www.gsmarena.com/nec_n900-646.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 54 x 8.6 mm (3.35 x 2.13 x 0.34 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.0 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)\nWallpapers, screensavers\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 70 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:01:00.641Z"
+  },
+  {
+    "sttTong": 7130,
+    "sttHang": 49,
+    "brand": "NEC",
+    "deviceName": "NEC N830",
+    "deviceUrl": "https://www.gsmarena.com/nec_n830-802.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen830.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen830.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 49 x 24 mm (3.98 x 1.93 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)\nSecond STN 65K colors (108 x 80 pixels)\nDownloadable wallpapers,\nanimations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "java": "Yes\nPhoto editor\nPredictive text input\nOrganizer\nVoice recording\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:01:06.102Z"
+  },
+  {
+    "sttTong": 7131,
+    "sttHang": 50,
+    "brand": "NEC",
+    "deviceName": "NEC N820",
+    "deviceUrl": "https://www.gsmarena.com/nec_n820-773.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen820.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen820.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 24 mm, 90 cc (3.98 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.9% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)\nSecond STN 65K colors (108 x 80 pixels)\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Field golf 3D",
+        "java": "Yes\nPhoto editor\nPredictive text input\nOrganizer\nVoice recording\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:01:11.835Z"
+  },
+  {
+    "sttTong": 7132,
+    "sttHang": 51,
+    "brand": "NEC",
+    "deviceName": "NEC N710",
+    "deviceUrl": "https://www.gsmarena.com/nec_n710-824.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen710.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen710.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 45 x 26 mm (3.58 x 1.77 x 1.02 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~24.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external display 96 x 30 pixels (12 colors LCD)\nWallpapers\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "2 + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer\nPhoto editor\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:42.886Z"
+  },
+  {
+    "sttTong": 7133,
+    "sttHang": 52,
+    "brand": "NEC",
+    "deviceName": "NEC N700",
+    "deviceUrl": "https://www.gsmarena.com/nec_n700-562.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen700.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen700.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 43 x 23 mm (3.54 x 1.69 x 0.91 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 29 x 35 mm, 10.2 cm2 (~26.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external display 96 x 30 pixels (12 colors LCD)\nWallpapers\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 9 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "2",
+        "java": "No\nPredictive text input\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver, Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:45.612Z"
+  },
+  {
+    "sttTong": 7134,
+    "sttHang": 53,
+    "brand": "NEC",
+    "deviceName": "NEC N600",
+    "deviceUrl": "https://www.gsmarena.com/nec_n600-561.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93.5 x 48 x 25 mm (3.68 x 1.89 x 0.98 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "176 x 240 pixels, 4:3 ratio\nSecond external mono LCD display (96 x 64 pixels)\nWallpapers\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls\nHandwriting recognition software"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:48.444Z"
+  },
+  {
+    "sttTong": 7135,
+    "sttHang": 54,
+    "brand": "NEC",
+    "deviceName": "NEC c616v",
+    "deviceUrl": "https://www.gsmarena.com/nec_c616v-783.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec616v.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nec616v.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 53 x 26 mm, 120 cc (4.06 x 2.09 x 1.02 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 43 mm, 14.9 cm2 (~27.3% screen-to-body ratio)",
+        "resolution": "176 x 240 pixels, 4:3 ratio (~135 ppi density)\nSecond external monochrome display (120 x 30 pixels)\nWallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "Memory Stick Duo",
+        "phonebook": "500",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "19MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nMP3 player\nH.263 player\nOrganizer\nVoice recorder"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 1h 50 min"
+      },
+      "misc": {
+        "colors": "Silver or Graphite"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:50.460Z"
+  },
+  {
+    "sttTong": 7136,
+    "sttHang": 55,
+    "brand": "NEC",
+    "deviceName": "NEC e616",
+    "deviceUrl": "https://www.gsmarena.com/nec_e616-533.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee616.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee616.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 53 x 26 mm, 120 cc (4.06 x 2.09 x 1.02 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 43 mm, 14.9 cm2 (~27.3% screen-to-body ratio)",
+        "resolution": "176 x 240 pixels, 4:3 ratio (~135 ppi density)\nSecond external monochrome display (120 x 30 pixels)\nWallpapers\nDownloadable pictures and animations"
+      },
+      "memory": {
+        "card_slot": "Memory Stick Duo",
+        "phonebook": "500",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "19MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nMP3/H.263 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 1 h 50 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:53.898Z"
+  },
+  {
+    "sttTong": 7137,
+    "sttHang": 56,
+    "brand": "NEC",
+    "deviceName": "NEC e808y",
+    "deviceUrl": "https://www.gsmarena.com/nec_e808y-485.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee808y.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee808y.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 75 x 20 mm (5.63 x 2.95 x 0.79 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 160 pixels, 8 lines\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB\n20 sec voice memo\n12 sec video recorder"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nMedia player (audio and video)\nOrganizer\nVoice dial/memo\nVideo download\nFormats: MP4-Video, MP4 AAC, WMA, AMR, JPG, GIF, BMP, MIDI"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 70 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "2 - Gold, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:56.913Z"
+  },
+  {
+    "sttTong": 7138,
+    "sttHang": 57,
+    "brand": "NEC",
+    "deviceName": "NEC e808",
+    "deviceUrl": "https://www.gsmarena.com/nec_e808-482.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee808.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee808.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 80 x 23 mm (4.13 x 3.15 x 0.91 in)",
+        "weight": "200 g (7.05 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "162 x 132 pixels, 8 lines\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB\n20 sec voice memo \n12 sec video recorder"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nMedia player (audio and video)  \nOrganizer\nVoice dial \nVoice memo \nVideo download"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "2 - Gold, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:01:59.686Z"
+  },
+  {
+    "sttTong": 7139,
+    "sttHang": 58,
+    "brand": "NEC",
+    "deviceName": "NEC e606",
+    "deviceUrl": "https://www.gsmarena.com/nec_e606-481.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee606.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee606.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 53 x 32 mm, 140 cc (4.29 x 2.09 x 1.26 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 160 pixels, 8 lines\nNavi key\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB\n20 sec voice memo\n12 sec video recorder"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nMedia player (audio and video)\nPredictive text input\nOrganizer\nVoice dial/memo\nVideo download\nFormats: MP4-Video, MP4 AAC, WMA, AMR, JPG, GIF, BMP, MIDI"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:02:01.219Z"
+  },
+  {
+    "sttTong": 7140,
+    "sttHang": 59,
+    "brand": "NEC",
+    "deviceName": "NEC e530",
+    "deviceUrl": "https://www.gsmarena.com/nec_e530-548.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee530.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee530.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 24 mm, 90 cc (3.98 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "162 x 216 pixels, 4:3 ratio\nSecond LCD 4096 colors (80 x 108 pixels)\nDownload wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "2MB\n10 x 15 sec. voice memo"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice memo\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:05.889Z"
+  },
+  {
+    "sttTong": 7142,
+    "sttHang": 61,
+    "brand": "NEC",
+    "deviceName": "NEC e232",
+    "deviceUrl": "https://www.gsmarena.com/nec_e232-547.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee232.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee232.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 43 x 23 mm, 97 cc (3.54 x 1.69 x 0.91 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond 12 colors LED (30 x 96 pixels)\nDownload wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n10 x 20 sec. voice memo"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "5",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:02:10.994Z"
+  },
+  {
+    "sttTong": 7143,
+    "sttHang": 62,
+    "brand": "NEC",
+    "deviceName": "NEC N341i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n341i-414.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen341i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen341i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 24 mm, 90 cc (3.98 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "162 x 216 pixels, 4:3 ratio\nSecond LCD 4096 colors (80 x 108 pixels)\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "iMode",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice memo \nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:16.885Z"
+  },
+  {
+    "sttTong": 7144,
+    "sttHang": 63,
+    "brand": "NEC",
+    "deviceName": "NEC N223i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n223i-601.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen223i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen223i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 45 x 26 mm, 90 cc (3.46 x 1.77 x 1.02 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nSecond LCD (120 x 30 pixels) with 12 color \nDownload wallpaper, animation"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n10 x 20 sec voice memo"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "iMode",
+        "games": "5 -  Belt, Poker, Puzzle, Thief & UFO",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo \nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:22.038Z"
+  },
+  {
+    "sttTong": 7145,
+    "sttHang": 64,
+    "brand": "NEC",
+    "deviceName": "NEC N22i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n22i-413.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen22i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen22i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 27 mm, 94 cc (3.98 x 1.89 x 1.06 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nSecond LCD (120 x 30 pixels) with 12 color backlight\nDownloadable wallpapers, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n10 x 20 sec voice memo"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "iMode",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "5 - Belt, Poker, Puzzle, Thief, UFO",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo \nProfiles\nInterchangeable covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:26.749Z"
+  },
+  {
+    "sttTong": 7146,
+    "sttHang": 65,
+    "brand": "NEC",
+    "deviceName": "NEC N21i",
+    "deviceUrl": "https://www.gsmarena.com/nec_n21i-302.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen21i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nen21i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 52 x 24.7 mm (4.02 x 2.05 x 0.97 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "120 x 160 pixels, 10 lines, 4:3 ratio\nLED in 7 colors, color assigned to contact groups\nDynamic font size\nDownload wallpaper, animation and CLI pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP, iMode",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Thief, Rolling Band",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo/dial\nProfiles\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "165 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:33.203Z"
+  },
+  {
+    "sttTong": 7141,
+    "sttHang": 60,
+    "brand": "NEC",
+    "deviceName": "NEC e525",
+    "deviceUrl": "https://www.gsmarena.com/nec_e525-415.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee525.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nee525.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 48 x 24 mm, 90 cc (3.98 x 1.89 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "162 x 216 pixels, 4:3 ratio\nSecond LCD 4096 colors (80 x 108 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 8 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "1MB\n20 x 20 sec. voice memo"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "English, Spanish, French",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice memo\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:36.238Z"
+  },
+  {
+    "sttTong": 7148,
+    "sttHang": 67,
+    "brand": "NEC",
+    "deviceName": "NEC DB6000",
+    "deviceUrl": "https://www.gsmarena.com/nec_db6000-231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb6000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb6000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 50 x 26 mm, 100 cc (3.70 x 1.97 x 1.02 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nDynamic font size\nWake up picture downloadable via WAP"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "18",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo\nProfiles\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "195 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:40.387Z"
+  },
+  {
+    "sttTong": 7147,
+    "sttHang": 66,
+    "brand": "NEC",
+    "deviceName": "NEC DB7000",
+    "deviceUrl": "https://www.gsmarena.com/nec_db7000-301.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb7000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb7000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 52 x 24.7 mm (4.02 x 2.05 x 0.97 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nLED in 7 colors, color assigned to contact groups\nDynamic font size\nDownload wallpaper, animation and CLI pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo \nProfiles\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "165 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:40.994Z"
+  },
+  {
+    "sttTong": 7149,
+    "sttHang": 68,
+    "brand": "NEC",
+    "deviceName": "NEC DB5000",
+    "deviceUrl": "https://www.gsmarena.com/nec_db5000-230.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb5000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb5000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 46 x 23 mm, 85 cc (3.54 x 1.81 x 0.91 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "97 x 59 pixels, 5:3 ratio\nSee who is calling feature\n7 colour LED\nDynamic font size"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "18",
+        "java": "No\nPredictive text input\nProfiles\nOrganizer\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "200 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:41.134Z"
+  },
+  {
+    "sttTong": 7151,
+    "sttHang": 70,
+    "brand": "NEC",
+    "deviceName": "NEC DB4000",
+    "deviceUrl": "https://www.gsmarena.com/nec_db4000-157.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ned4000b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ned4000b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 42 x 22 mm, 89 cc (4.72 x 1.65 x 0.87 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "97 x 59 pixels, 5:3 ratio\nDynamic font size\nSoftkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "18",
+        "java": "No\nProfiles\nOrganizer\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "195 h",
+        "talk_time": "330 min"
+      },
+      "misc": {
+        "colors": "Metallic"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:45.066Z"
+  },
+  {
+    "sttTong": 7150,
+    "sttHang": 69,
+    "brand": "NEC",
+    "deviceName": "NEC DB4100",
+    "deviceUrl": "https://www.gsmarena.com/nec_db4100-205.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb4100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb4100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 42 x 22 mm, 89 cc (4.72 x 1.65 x 0.87 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "97 x 59 pixels, 5:3 ratio\nDynamic font size\nSoftkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "18",
+        "java": "No\nProfiles\nOrganizer\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "195 h",
+        "talk_time": "330 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:02:46.326Z"
+  },
+  {
+    "sttTong": 7152,
+    "sttHang": 71,
+    "brand": "NEC",
+    "deviceName": "NEC DB2000",
+    "deviceUrl": "https://www.gsmarena.com/nec_db2000-156.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ned2000b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ned2000b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 41 x 19 mm, 100 cc (5.16 x 1.61 x 0.75 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "5 dialed, 5 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "17",
+        "java": "No\nOrganizer\nScratchpad"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "150 - 300 h",
+        "talk_time": "200 - 480 min"
+      },
+      "misc": {
+        "colors": "Metallic"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:46.651Z"
+  },
+  {
+    "sttTong": 7153,
+    "sttHang": 72,
+    "brand": "NEC",
+    "deviceName": "NEC DB500",
+    "deviceUrl": "https://www.gsmarena.com/nec_db500-155.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb500b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nedb500b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 48 x 26 mm, 120 cc (5.28 x 1.89 x 1.02 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "5 dialed, 5 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "17",
+        "java": "No\nOrganizer\nScratchpad\nInterchangeable front covers"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "130 - 150 h",
+        "talk_time": "120 - 400 min"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:50.318Z"
+  },
+  {
+    "sttTong": 7154,
+    "sttHang": 73,
+    "brand": "NEC",
+    "deviceName": "NEC G9D+",
+    "deviceUrl": "https://www.gsmarena.com/nec_g9d+-154.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/neg9dpb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/neg9dpb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 49 x 22.5 mm (5.71 x 1.93 x 0.89 in)",
+        "weight": "200 g (7.05 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Hi-capacity NiMH",
+        "stand-by": "56 h",
+        "talk_time": "210 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:03:20.458Z"
+  }
+]

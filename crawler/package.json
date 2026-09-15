@@ -1,0 +1,24 @@
+{
+  "name": "gsmarena-crawler",
+  "version": "1.0.0",
+  "description": "Tool cào toàn bộ tên và thông tin dòng máy điện thoại từ GSMArena",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "stats": "node index.js --stats-only",
+    "sync": "node syncAndAudit.js",
+    "fresh": "node index.js --fresh",
+    "crawl-specs": "node crawl_all_specs.js",
+    "test-spec": "node test_single_spec.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "csv-writer": "^1.6.0",
+    "https-proxy-agent": "^9.1.0",
+    "playwright": "^1.63.0",
+    "xlsx": "^0.18.5"
+  }
+}

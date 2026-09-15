@@ -1,0 +1,354 @@
+[
+  {
+    "sttTong": 7077,
+    "sttHang": 1,
+    "brand": "MWg",
+    "deviceName": "MWg Zinc II",
+    "deviceUrl": "https://www.gsmarena.com/mwg_zinc_ii-2557.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-zinc-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-zinc-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.5 x 59 x 18 mm (4.31 x 2.32 x 0.71 in)",
+        "weight": "185 g (6.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.8 inches, 24.3 cm2 (~37.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "Samsung 2442 500 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\nStereo speakers"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nMP3/WMA/WMV/WAV/MP4 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:02.453Z"
+  },
+  {
+    "sttTong": 7079,
+    "sttHang": 3,
+    "brand": "MWg",
+    "deviceName": "MWg UBiQUiO 503g",
+    "deviceUrl": "https://www.gsmarena.com/mwg_ubiquio_503g-2555.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-503g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-503g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, April. Released 2007, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 65 x 17 mm (4.84 x 2.56 x 0.67 in)",
+        "weight": "157 g (5.54 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~22.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Intel XScale PXA 270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "96MB RAM, 192MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC/MP4 player\nPocket Office \nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:06.161Z"
+  },
+  {
+    "sttTong": 7080,
+    "sttHang": 4,
+    "brand": "MWg",
+    "deviceName": "MWg Atom V",
+    "deviceUrl": "https://www.gsmarena.com/mwg_atom_v-2554.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/atom-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/atom-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 59 x 15 mm (4.57 x 2.32 x 0.59 in)",
+        "weight": "133 g (4.69 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.8 inches, 24.3 cm2 (~35.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Intel XScale PXA 270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, SiRF Star III chipset",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/AAC/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:07.323Z"
+  },
+  {
+    "sttTong": 7078,
+    "sttHang": 2,
+    "brand": "MWg",
+    "deviceName": "MWg Atom Life",
+    "deviceUrl": "https://www.gsmarena.com/mwg_atom_life-2556.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-atom-life.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-atom-life.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 58 x 18 mm (4.17 x 2.28 x 0.71 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~36.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition\nStereo speakers"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Intel XScale PXA 270 624 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 1GB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/WMA/WMV/WAV/MP4 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:11.193Z"
+  },
+  {
+    "sttTong": 7081,
+    "sttHang": 5,
+    "brand": "MWg",
+    "deviceName": "MWg UBiQUiO 501",
+    "deviceUrl": "https://www.gsmarena.com/mwg_ubiquio_501-2553.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-501.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mwg-501.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 65 x 13.5 mm (4.80 x 2.56 x 0.53 in)",
+        "weight": "120 g (4.23 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 19.4 cm2 (~24.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "chipset": "TI OMAP 750",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPocket Office \nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1250 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T05:55:11.265Z"
+  }
+]

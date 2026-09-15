@@ -1,0 +1,6051 @@
+[
+  {
+    "sttTong": 14163,
+    "sttHang": 1,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era 2X",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_2x-8520.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-2x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-2x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, January. Released 2017, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 72.3 x 9.5 mm (5.67 x 2.85 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.25 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM, 16GB 3GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable",
+        "stand-by": "Up to 322 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black/Gun Metal, Latte Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:43.618Z"
+  },
+  {
+    "sttTong": 14164,
+    "sttHang": 2,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era 2",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_2-8395.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, October. Released 2016, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146.5 x 73 x 9.2 mm (5.77 x 2.87 x 0.36 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2 (~64.4% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Spreadtrum SC9832A",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-400MP3"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, f/2.0, 1.4µm, AF",
+        "features": "Panorama, LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2350 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, Blue, Gold",
+        "models": "era 2"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:46.588Z"
+  },
+  {
+    "sttTong": 14167,
+    "sttHang": 5,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era 4K",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_4k-7958.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4k.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4k.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71.8 x 9.2 mm (5.63 x 2.83 x 0.36 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Mediatek MT6735P (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 624 h (2G) / Up to 528 h (3G)",
+        "talk_time": "Up to 32 h (2G) / Up to 17 h (3G)"
+      },
+      "misc": {
+        "colors": "Blue, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:48.137Z"
+  },
+  {
+    "sttTong": 14165,
+    "sttHang": 3,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era 1X",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_1x-8339.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-1x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-1x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 72 x 8.6 mm (5.73 x 2.83 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Spreadtrum SC9832A",
+        "cpu": "Quad-core 1.3 GHz",
+        "gpu": "Mali-400MP3"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "dual-LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 185 h",
+        "talk_time": "Up to 22 h (2G) / Up to 13 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, Brown/Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:49.002Z"
+  },
+  {
+    "sttTong": 14166,
+    "sttHang": 4,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era X",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_x-7959.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 72 x 8.5 mm (5.73 x 2.83 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop), upgradable to 6.0 (Marshmallow)",
+        "chipset": "Spreadtrum SC9830A",
+        "cpu": "Quad-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:49.205Z"
+  },
+  {
+    "sttTong": 14169,
+    "sttHang": 7,
+    "brand": "XOLO",
+    "deviceName": "XOLO One HD",
+    "deviceUrl": "https://www.gsmarena.com/xolo_one_hd-7872.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-one-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-one-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, December. Released 2016, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72.6 x 9.5 mm (5.63 x 2.86 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT6580M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2300 mAh, removable",
+        "stand-by": "Up to 200 h (2G) / Up to 182 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Space Gray, White",
+        "sar_eu": "0.22 W/kg (head)     0.48 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:52.547Z"
+  },
+  {
+    "sttTong": 14168,
+    "sttHang": 6,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era 4G",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era_4g-7929.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4g-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4g-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2016, February. Released 2016, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 72 x 8.5 mm (5.73 x 2.83 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop), upgradable to 6.0 (Marshmallow)",
+        "chipset": "Spreadtrum SC9830A",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 455 h (2G) / Up to 329 h (3G)",
+        "talk_time": "Up to 13 h 30 min (2G) / Up to 10 h 45 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.26 W/kg (head)     0.23 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:52.938Z"
+  },
+  {
+    "sttTong": 14170,
+    "sttHang": 8,
+    "brand": "XOLO",
+    "deviceName": "XOLO Black 3GB",
+    "deviceUrl": "https://www.gsmarena.com/xolo_black_3gb-7871.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-3gb.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-3gb.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/7.2 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, December. Released 2015, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.5 x 76.6 x 7.3 mm (6.12 x 3.02 x 0.29 in)",
+        "weight": "-",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop) , HIVE Atlas UI",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "dual": "13 MP, f/2.0, AF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable",
+        "stand-by": "Up to 798 h (2G) / Up to 634 h (3G)",
+        "talk_time": "Up to 36 h (2G) / Up to 27 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.13 W/kg (head)     0.27 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:53.135Z"
+  },
+  {
+    "sttTong": 14172,
+    "sttHang": 10,
+    "brand": "XOLO",
+    "deviceName": "XOLO Black",
+    "deviceUrl": "https://www.gsmarena.com/xolo_black-7399.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-2015.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-2015.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "LTE 1800 TD-LTE 2300",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.5 x 76.6 x 7.3 mm (6.12 x 3.02 x 0.29 in)",
+        "weight": "-",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 82.6 cm2 (~69.3% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop), HIVE Atlas UI",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "dual": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable",
+        "stand-by": "Up to 736 h (2G) / Up to 699 h (3G)",
+        "talk_time": "Up to 36 h (2G) / Up to 24 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.13 W/kg (head)     0.27 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:54.485Z"
+  },
+  {
+    "sttTong": 14171,
+    "sttHang": 9,
+    "brand": "XOLO",
+    "deviceName": "XOLO Black 1X",
+    "deviceUrl": "https://www.gsmarena.com/xolo_black_1x-7729.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-1x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-1x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "LTE 1800 TD-LTE 2300",
+        "speed": "HSPA 42.2/7.2 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.6 x 72 x 7.6 mm (5.69 x 2.83 x 0.30 in)",
+        "weight": "-",
+        "sim": "Hybrid Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop), upgradable to 6.0 (Marshmallow), HIVE Atlas UI",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, PDAF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2400 mAh, non-removable",
+        "stand-by": "Up to 394 h (2G) / Up to 354 h (3G)",
+        "talk_time": "Up to 27 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.09 W/kg (head)     0.14 W/kg (body)",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:54.960Z"
+  },
+  {
+    "sttTong": 14174,
+    "sttHang": 12,
+    "brand": "XOLO",
+    "deviceName": "XOLO Cube 5.0",
+    "deviceUrl": "https://www.gsmarena.com/xolo_cube_5_0-7311.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-cube-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-cube-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, June. Released 2015, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71 x 6.9 mm (5.63 x 2.80 x 0.27 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 656 h (2G) / Up to 477 h (3G)",
+        "talk_time": "Up to 26 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Gold",
+        "sar_eu": "0.79 W/kg (head)     1.19 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:58.156Z"
+  },
+  {
+    "sttTong": 14176,
+    "sttHang": 14,
+    "brand": "XOLO",
+    "deviceName": "XOLO LT2000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_lt2000-7131.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-2000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-2000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/7.2 Mbps, LTE"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.4 x 75 x 9.3 mm (6.00 x 2.95 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~73.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 5.0 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2920 mAh, removable",
+        "stand-by": "Up to 760 h (2G) / Up to 693 h (3G)",
+        "talk_time": "Up to 30 h (2G) / Up to 17 h 20 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.28 W/kg (head)     0.30 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:58.741Z"
+  },
+  {
+    "sttTong": 14177,
+    "sttHang": 15,
+    "brand": "XOLO",
+    "deviceName": "XOLO A1010",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a1010-7107.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-1010.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-1010.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, March. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.7 x 72 x 8.8 mm (5.66 x 2.83 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 961 h (2G) / Up to 842 h (3G)",
+        "talk_time": "Up to 28 h (2G) / Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:27:59.780Z"
+  },
+  {
+    "sttTong": 14179,
+    "sttHang": 17,
+    "brand": "XOLO",
+    "deviceName": "XOLO 8X-1020",
+    "deviceUrl": "https://www.gsmarena.com/xolo_8x_1020-7064.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1020.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1020.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71.3 x 8.8 mm (5.63 x 2.81 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, non-removable",
+        "stand-by": "Up to 657 h (2G) / Up to 700 h (3G)",
+        "talk_time": "Up to 30 h (2G) / Up to 17 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.73 W/kg (head)     0.71 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:01.175Z"
+  },
+  {
+    "sttTong": 14181,
+    "sttHang": 19,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q520s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q520s-7010.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-520s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-520s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 1820 mAh, removable",
+        "stand-by": "Up to 610 h (2G) / Up to 527 h (3G)",
+        "talk_time": "Up to 19 h (2G) / Up to 11 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:04.729Z"
+  },
+  {
+    "sttTong": 14182,
+    "sttHang": 20,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q900s Plus",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q900s_plus-6887.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.8 x 67.2 x 7.2 mm (5.35 x 2.65 x 0.28 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 263 h (2G) / Up to 246 h (3G)",
+        "talk_time": "Up to 23 h (2G) / Up to 14 h (3G)",
+        "music_play": "Up to 30 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:05.272Z"
+  },
+  {
+    "sttTong": 14180,
+    "sttHang": 18,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q700 Club",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q700_club-7009.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 850 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.6 x 67 x 10.8 mm (5.30 x 2.64 x 0.43 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+        "talk_time": "Up to 21 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:05.278Z"
+  },
+  {
+    "sttTong": 14183,
+    "sttHang": 21,
+    "brand": "XOLO",
+    "deviceName": "XOLO Omega 5.5",
+    "deviceUrl": "https://www.gsmarena.com/xolo_omega_5_5-6851.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.5 x 76.6 x 10.6 mm (6.12 x 3.02 x 0.42 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2600 mAh, removable",
+        "stand-by": "Up to 780 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 31 h (2G) / Up to 13 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:07.200Z"
+  },
+  {
+    "sttTong": 14185,
+    "sttHang": 23,
+    "brand": "XOLO",
+    "deviceName": "XOLO Opus 3",
+    "deviceUrl": "https://www.gsmarena.com/xolo_opus_3-6844.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71.3 x 8.8 mm (5.63 x 2.81 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "5.0 inches, 68.9 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 550 h (2G) / Up to 550 h (3G)",
+        "talk_time": "Up to 26 h (2G) / Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.73 W/kg (head)     0.71 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:09.958Z"
+  },
+  {
+    "sttTong": 14184,
+    "sttHang": 22,
+    "brand": "XOLO",
+    "deviceName": "XOLO Omega 5.0",
+    "deviceUrl": "https://www.gsmarena.com/xolo_omega_5_0-6850.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 72 x 10.5 mm (5.67 x 2.83 x 0.41 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, non-removable",
+        "stand-by": "Up to 675 h (2G) / Up to 656 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 7 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:10.832Z"
+  },
+  {
+    "sttTong": 14178,
+    "sttHang": 16,
+    "brand": "XOLO",
+    "deviceName": "XOLO Win Q1000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_win_q1000-7065.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71.3 x 8.8 mm (5.63 x 2.81 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 8.1",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2200 mAh, removable",
+        "stand-by": "Up to 530 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 32 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Yellow",
+        "sar_eu": "0.69 W/kg (head)     0.78 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:13.274Z"
+  },
+  {
+    "sttTong": 14187,
+    "sttHang": 25,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1020",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1020-6793.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1020.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1020.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71 x 8.7 mm (5.63 x 2.80 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 487 h (2G) / Up to 454 h (3G)",
+        "talk_time": "Up to 25 h 40 min (2G) / Up to 12 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.37 W/kg (head)     0.54 W/kg (body)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:14.139Z"
+  },
+  {
+    "sttTong": 14173,
+    "sttHang": 11,
+    "brand": "XOLO",
+    "deviceName": "XOLO Era",
+    "deviceUrl": "https://www.gsmarena.com/xolo_era-7400.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-era.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 73.2 x 9.4 mm (5.63 x 2.88 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Spreadtrum 7731",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 511 h (2G) / Up to 523 h (3G)",
+        "talk_time": "Up to 24 h 30 min (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:14.588Z"
+  },
+  {
+    "sttTong": 14188,
+    "sttHang": 26,
+    "brand": "XOLO",
+    "deviceName": "XOLO One",
+    "deviceUrl": "https://www.gsmarena.com/xolo_one-6743.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-one.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-one.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 64.3 x 9.3 mm (5.04 x 2.53 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.5 inches, 55.8 cm2 (~67.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 430 h (2G) / Up to 377 h (3G)",
+        "talk_time": "Up to 19 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Brown, Red, Liverpool FC Limited Edition",
+        "sar_eu": "0.50 W/kg (head)     0.77 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:15.306Z"
+  },
+  {
+    "sttTong": 14189,
+    "sttHang": 27,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q2100",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q2100-6735.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.4 x 75 x 9.3 mm (6.00 x 2.95 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~73.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2800 mAh, removable",
+        "stand-by": "Up to 777 h (2G) / Up to 604 h (3G)",
+        "talk_time": "Up to 27 h (2G) / Up to 22 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.68 W/kg (head)     0.56 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:16.487Z"
+  },
+  {
+    "sttTong": 14191,
+    "sttHang": 29,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play 8X-1100",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play_8x_1100-6652.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141.5 x 70.8 x 8.7 mm (5.57 x 2.79 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 463 h (2G) / Up to 443 h (3G)",
+        "talk_time": "Up to 22 h 30 min (2G) / Up to 11 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.72 W/kg (head)     0.90 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:17.374Z"
+  },
+  {
+    "sttTong": 14193,
+    "sttHang": 31,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q700s plus",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q700s_plus-6624.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 64.6 x 8.9 mm (5.35 x 2.54 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.5 inches, 55.8 cm2 (~63.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 470 h (2G) / Up to 430 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Titanium Blue, Real Golden",
+        "sar_eu": "0.47 W/kg (head)     0.24 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:20.319Z"
+  },
+  {
+    "sttTong": 14192,
+    "sttHang": 30,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q510s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q510s-6626.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q510s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q510s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 63 x 9 mm (5.04 x 2.48 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.0 inches, 49.5 cm2 (~61.4% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 390 h (2G) / Up to 320 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Metal Blue, Real Golden, Rose Golden"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:20.325Z"
+  },
+  {
+    "sttTong": 14194,
+    "sttHang": 32,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1000s plus",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1000s_plus-6623.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 72.1 x 8 mm (5.79 x 2.84 x 0.31 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.58 W/kg (head)     0.56 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:20.563Z"
+  },
+  {
+    "sttTong": 14195,
+    "sttHang": 33,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q610s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q610s-6622.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q610s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q610s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 64.3 x 9.3 mm (5.04 x 2.53 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~67.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 430 h (2G) / Up to 377 h (3G)",
+        "talk_time": "Up to 19 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.31 W/kg (head)     0.26 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:21.605Z"
+  },
+  {
+    "sttTong": 14186,
+    "sttHang": 24,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q710s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q710s-6843.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q710s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q710s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, December. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135 x 67 x 8.5 mm (5.31 x 2.64 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.5 inches, 55.8 cm2 (~61.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, removable",
+        "stand-by": "Up to 640 h (2G) / Up to 600 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.41 W/kg (head)     1.02 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:24.346Z"
+  },
+  {
+    "sttTong": 14190,
+    "sttHang": 28,
+    "brand": "XOLO",
+    "deviceName": "XOLO Opus HD",
+    "deviceUrl": "https://www.gsmarena.com/xolo_opus_hd-6734.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014. Released 2014",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 71 x 7.9 mm (5.63 x 2.80 x 0.31 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.99 inches, 4.99, 68.6 cm2 (~67.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Broadcom VideoCore IV"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 28 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.52 W/kg (head)     0.60 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:26.210Z"
+  },
+  {
+    "sttTong": 14199,
+    "sttHang": 37,
+    "brand": "XOLO",
+    "deviceName": "XOLO A550S IPS",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a550s_ips-6551.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a550s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a550s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 63.9 x 9.1 mm (4.92 x 2.52 x 0.36 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~57.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 570 h (3G)",
+        "talk_time": "Up to 21 h (2G) / Up to 8 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:26.876Z"
+  },
+  {
+    "sttTong": 14200,
+    "sttHang": 38,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q900s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q900s-6531.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.8 x 67.2 x 7.2 mm (5.35 x 2.65 x 0.28 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~234 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 4.3 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 263 h (2G) / Up to 246 h (3G)",
+        "talk_time": "Up to 23 h (2G) / Up to 14 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:26.882Z"
+  },
+  {
+    "sttTong": 14198,
+    "sttHang": 36,
+    "brand": "XOLO",
+    "deviceName": "XOLO Hive 8X-1000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_hive_8x_1000-6556.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/XOLO-8X-1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/XOLO-8X-1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "140 x 70 x 7.9 mm (5.51 x 2.76 x 0.31 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592M (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1920 mAh, non-removable",
+        "stand-by": "Up to 352 h (2G) / Up to 321 h (3G)",
+        "talk_time": "Up to 11 h (2G) / Up to 7 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.31 W/kg (head)     0.31 W/kg (body)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:27.355Z"
+  },
+  {
+    "sttTong": 14196,
+    "sttHang": 34,
+    "brand": "XOLO",
+    "deviceName": "XOLO A1000s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a1000s-6577.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a1000s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a1000s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "141 x 72.5 x 8.8 mm (5.55 x 2.85 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "5.0 inches, 68.9 cm2 (~67.4% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 650 h (2G) / Up to 590 h (3G)",
+        "talk_time": "Up to 29 h (2G) / Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.89 W/kg (head)     0.71 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:29.946Z"
+  },
+  {
+    "sttTong": 14203,
+    "sttHang": 41,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play 6X-1000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play_6x_1000-6494.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139.9 x 70.2 x 8.5 mm (5.51 x 2.76 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~70.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6591",
+        "cpu": "Hexa-core 1.5 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2100 mAh, removable",
+        "stand-by": "Up to 581 h (2G) / Up to 532 h (3G)",
+        "talk_time": "Up to 25 h (2G) / Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.31 W/kg (head)     0.45 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:31.486Z"
+  },
+  {
+    "sttTong": 14204,
+    "sttHang": 42,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q2000L",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q2000l-6495.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2000l.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2000l.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155.7 x 78 x 8.4 mm (6.13 x 3.07 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Broadcom VideoCore IV"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable",
+        "stand-by": "Up to 555 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 26 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "1.05 W/kg (head)     1.17 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:34.302Z"
+  },
+  {
+    "sttTong": 14205,
+    "sttHang": 43,
+    "brand": "XOLO",
+    "deviceName": "XOLO Win Q900s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_win_q900s-6476.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-win.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-win.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.8 x 67.2 x 7.2 mm (5.35 x 2.65 x 0.28 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (Dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 8.1",
+        "chipset": "Qualcomm MSM8212 Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 263 h (2G) / Up to 246 h (3G)",
+        "talk_time": "Up to 23 h (2G) / Up to 14 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:34.606Z"
+  },
+  {
+    "sttTong": 14175,
+    "sttHang": 13,
+    "brand": "XOLO",
+    "deviceName": "XOLO Prime",
+    "deviceUrl": "https://www.gsmarena.com/xolo_prime-7244.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-prime.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-prime.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135 x 68 x 9.5 mm (5.31 x 2.68 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~60.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 500 h (2G) / Up to 400 h (3G)",
+        "talk_time": "Up to 21 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red",
+        "sar_eu": "0.89 W/kg (head)     0.71 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:35.614Z"
+  },
+  {
+    "sttTong": 14209,
+    "sttHang": 47,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q600s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q600s-6416.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q600s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q600s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136.5 x 68 x 7.9 mm (5.37 x 2.68 x 0.31 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~60.1% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Broadcom BCM23550",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Broadcom VideoCore IV"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 449 h (2G) / Up to 400 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 11 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.94 W/kg (head)     1.27 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:40.390Z"
+  },
+  {
+    "sttTong": 14208,
+    "sttHang": 46,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1200",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1200-6430.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.8 x 71.4 x 6.9 mm (5.70 x 2.81 x 0.27 in)",
+        "weight": "-",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, removable",
+        "stand-by": "Up to 418 h (2G) / Up to 385 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.31 W/kg (head)     0.45 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:40.397Z"
+  },
+  {
+    "sttTong": 14202,
+    "sttHang": 40,
+    "brand": "XOLO",
+    "deviceName": "XOLO A700s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a700s-6522.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a700s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a700s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135 x 67 x 8.9 mm (5.31 x 2.64 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable",
+        "stand-by": "Up to 623 h (2G) / Up to 565 h (3G)",
+        "talk_time": "Up to 22 h 20 min (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.31 W/kg (head)     0.30 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:40.486Z"
+  },
+  {
+    "sttTong": 14210,
+    "sttHang": 48,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500S Lite",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500s_lite-6402.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 63 x 9.2 mm (5.0 x 2.48 x 0.36 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 526 h (2G) / Up to 432 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.78 W/kg (head)     1.19 W/kg (body)",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:43.202Z"
+  },
+  {
+    "sttTong": 14213,
+    "sttHang": 51,
+    "brand": "XOLO",
+    "deviceName": "XOLO A510s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a510s-6257.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a510s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a510s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 63 x 9 mm (5.04 x 2.48 x 0.35 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 44.1 cm2 (~54.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 424 h (2G) / Up to 416 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 6 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:45.740Z"
+  },
+  {
+    "sttTong": 14212,
+    "sttHang": 50,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1010i",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1010i-6275.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.6 x 72.2 x 8.3 mm (5.65 x 2.84 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2250 mAh, non-removable",
+        "stand-by": "Up to 732 h (2G) / Up to 685 h (3G)",
+        "talk_time": "Up to 19 h (2G) / Up to 9 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.49 W/kg (head)     0.91 W/kg (body)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:46.229Z"
+  },
+  {
+    "sttTong": 14211,
+    "sttHang": 49,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q900T",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q900t-6347.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900t.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900t.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.8 x 67.6 x 9.3 mm (5.27 x 2.66 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~67.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 367 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.32 W/kg (head)     0.46 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:47.896Z"
+  },
+  {
+    "sttTong": 14214,
+    "sttHang": 52,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q2500",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q2500-6256.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "168 x 83 x 8.5 mm (6.61 x 3.27 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~71.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 600 h (3G)",
+        "talk_time": "Up to 40 h (2G) / Up to 15 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.74 W/kg (head)     0.41 W/kg (body)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:50.201Z"
+  },
+  {
+    "sttTong": 14215,
+    "sttHang": 53,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500 Club",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500_club-6051.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.5 x 61.9 x 9.3 mm (4.90 x 2.44 x 0.37 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~59.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 466 h (2G) / Up to 400 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.34 W/kg (head)     0.65 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:51.255Z"
+  },
+  {
+    "sttTong": 14216,
+    "sttHang": 54,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1010",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1010-6050.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.6 x 72.2 x 8.3 mm (5.65 x 2.84 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2250 mAh, removable",
+        "stand-by": "Up to 732 h (2G) / Up to 685 h (3G)",
+        "talk_time": "Up to 19 h (2G) / Up to 9 h 45 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.43 W/kg (head)     0.54 W/kg (body)",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:51.444Z"
+  },
+  {
+    "sttTong": 14217,
+    "sttHang": 55,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1100",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1100-6042.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q1100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q1100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.8 x 70.8 x 8.3 mm (5.66 x 2.79 x 0.33 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.3 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8228 Snapdragon 400 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A7",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 450 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 12 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.42 W/kg (head)     0.73 W/kg (body)",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:55.689Z"
+  },
+  {
+    "sttTong": 14219,
+    "sttHang": 57,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q3000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q3000-5927.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q3000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q3000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "164.8 x 81.6 x 8.9 mm (6.49 x 3.21 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 89.6 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~386 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, removable",
+        "stand-by": "Up to 667 h",
+        "talk_time": "Up to 33 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.37 W/kg (head)     0.53 W/kg (body)",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:55.902Z"
+  },
+  {
+    "sttTong": 14220,
+    "sttHang": 58,
+    "brand": "XOLO",
+    "deviceName": "XOLO LT900",
+    "deviceUrl": "https://www.gsmarena.com/xolo_lt900-5923.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-lt900.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-lt900.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "40",
+        "speed": "LTE"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128.7 x 66 x 9.8 mm (5.07 x 2.60 x 0.39 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 51.0 cm2 (~60.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~342 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "cpu": "Dual-core 1.5 GHz Krait",
+        "gpu": "Adreno 225"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1810 mAh, removable",
+        "stand-by": "Up to 362 h (2G) / Up to 301 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 14 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.60 W/kg (head)     0.53 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:57.467Z"
+  },
+  {
+    "sttTong": 14201,
+    "sttHang": 39,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q500s IPS",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q500s_ips-6525.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 63.2 x 9 mm (4.92 x 2.49 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 700 h (2G) / Up to 383 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 7 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.78 W/kg (head)     0.49 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:28:58.704Z"
+  },
+  {
+    "sttTong": 14221,
+    "sttHang": 59,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1000 Opus",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1000_opus-5906.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.3 x 72.9 x 9 mm (5.64 x 2.87 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "BCM23550",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Broadcom VideoCore IV"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, removable",
+        "stand-by": "Up to 700 h (2G) / Up to 526 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 11 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.53 W/kg (head)     0.47 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:01.198Z"
+  },
+  {
+    "sttTong": 14207,
+    "sttHang": 45,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1011",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1011-6462.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1011.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1011.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.6 x 72.2 x 8.3 mm (5.65 x 2.84 x 0.33 in)",
+        "weight": "-",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2250 mAh, non-removable",
+        "stand-by": "Up to 550 h (2G) / Up to 509 h (3G)",
+        "talk_time": "Up to 26 h (2G) / Up to 13 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.25 W/kg (head)     0.65 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:01.840Z"
+  },
+  {
+    "sttTong": 14224,
+    "sttHang": 62,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q800 X-Edition",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q800_x_edition-5845.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q800x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q800x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, February. Released 2013, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.5 x 67 x 9.6 mm (5.33 x 2.64 x 0.38 in)",
+        "weight": "143.5 g (5.04 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.65 W/kg (head)     0.95 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:02.817Z"
+  },
+  {
+    "sttTong": 14222,
+    "sttHang": 60,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play Tegra Note",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play_tegra_note-5890.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-tegra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-tegra.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "199 x 119 x 9.6 mm (7.83 x 4.69 x 0.38 in)",
+        "weight": "320 g (11.29 oz)",
+        "sim": "No\nStylus"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~60.0% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 4",
+        "cpu": "Quad-core 1.8 GHz Cortex-A15",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "Panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4100 mAh, non-removable",
+        "talk_time": "Up to 10 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:03.490Z"
+  },
+  {
+    "sttTong": 14218,
+    "sttHang": 56,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q700s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q700s-5974.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 64.6 x 8.9 mm (5.35 x 2.54 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~63.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 450 h (3G)",
+        "talk_time": "Up to 23 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Golden, Silver",
+        "sar_eu": "0.33 W/kg (head)     0.70 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:05.996Z"
+  },
+  {
+    "sttTong": 14225,
+    "sttHang": 63,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500S IPS",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500s_ips-5839.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-a500s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-a500s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 63.2 x 9 mm (4.92 x 2.49 x 0.35 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572W",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 492 h (2G) / Up to 470 h (3G)",
+        "talk_time": "Up to 10 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue",
+        "sar_eu": "0.72 W/kg (head)     0.53 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:06.600Z"
+  },
+  {
+    "sttTong": 14226,
+    "sttHang": 64,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q2000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q2000-5837.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q2000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q2000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156 x 77.8 x 9.8 mm (6.14 x 3.06 x 0.39 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2600 mAh, removable",
+        "stand-by": "Up to 520 h",
+        "talk_time": "Up to 17 h"
+      },
+      "misc": {
+        "colors": "White, Black",
+        "sar_eu": "0.23 W/kg (head)     0.35 W/kg (body)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:07.109Z"
+  },
+  {
+    "sttTong": 14227,
+    "sttHang": 65,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q900",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q900-5822.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137 x 70 x 9.9 mm (5.39 x 2.76 x 0.39 in)",
+        "weight": "138 g (4.87 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.7 inches, 60.9 cm2 (~63.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, removable",
+        "stand-by": "Up to 384 h (2G) / Up to 298 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "0.51 W/kg (head)     0.40 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:08.310Z"
+  },
+  {
+    "sttTong": 14206,
+    "sttHang": 44,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1000 Opus2",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1000_opus2-6477.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus2-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus2-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 73 x 9.3 mm (5.63 x 2.87 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.3 (Jelly Bean)",
+        "chipset": "Qualcomm Snapdragon 200 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 431 h (2G) / Up to 327 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 13 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.24 W/kg (head)     1.15 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:10.366Z"
+  },
+  {
+    "sttTong": 14229,
+    "sttHang": 67,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500L",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500l-5787.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500l.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500l.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.8 x 64.6 x 11.9 mm (4.91 x 2.54 x 0.47 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572W",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 681 h (2G) / Up to 556 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 7 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.33 W/kg (head)     0.51 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:11.720Z"
+  },
+  {
+    "sttTong": 14228,
+    "sttHang": 66,
+    "brand": "XOLO",
+    "deviceName": "XOLO A600",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a600-5821.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a600.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a600.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 67 x 9 mm (5.35 x 2.64 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572W",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 1900 mAh, removable",
+        "stand-by": "Up to 650 h (2G) / Up to 366 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.82 W/kg (head)     0.74 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:11.726Z"
+  },
+  {
+    "sttTong": 14231,
+    "sttHang": 69,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play Tab 7.0",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play_tab_7_0-5767.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-tab.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-tab.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "194.6 x 122.6 x 10.6 mm (7.66 x 4.83 x 0.42 in)",
+        "weight": "338 g (11.92 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 142.1 cm2 (~59.6% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual band",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 330 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:11.840Z"
+  },
+  {
+    "sttTong": 14230,
+    "sttHang": 68,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q700i",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q700i-5768.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.8 x 67.5 x 10.2 mm (5.35 x 2.66 x 0.40 in)",
+        "weight": "151.3 g (5.33 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~60.9% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589W-M",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2400 mAh, removable",
+        "stand-by": "Up to 378 h",
+        "talk_time": "Up to 17 h 40 min (2G) / Up to 16 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "0.76 W/kg (head)     0.65 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:13.146Z"
+  },
+  {
+    "sttTong": 14232,
+    "sttHang": 70,
+    "brand": "XOLO",
+    "deviceName": "XOLO Tab",
+    "deviceUrl": "https://www.gsmarena.com/xolo_tab-5686.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-tab-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-tab-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, September. Released 2013, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "214.2 x 154.9 x 11.3 mm (8.43 x 6.10 x 0.44 in)",
+        "weight": "480 g (1.06 lb)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 198.2 cm2 (~59.7% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:13.892Z"
+  },
+  {
+    "sttTong": 14236,
+    "sttHang": 74,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q600",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q600-5558.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q600.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q600.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.5 x 67 x 11.9 mm (5.26 x 2.64 x 0.47 in)",
+        "weight": "147.7 g (5.19 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~62.4% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 333 h (2G) / Up to 242 h (3G)",
+        "talk_time": "Up to 13 h 30 min (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "0.77 W/kg (head)     0.87 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:16.306Z"
+  },
+  {
+    "sttTong": 14234,
+    "sttHang": 72,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500S",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500s-5613.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, August. Released 2013, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 63.2 x 9 mm (4.92 x 2.49 x 0.35 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572W",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM Radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 492 h (2G) / Up to 470 h (3G)",
+        "talk_time": "Up to 10 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue",
+        "sar_eu": "0.93 W/kg (head)     0.81 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:18.098Z"
+  },
+  {
+    "sttTong": 14238,
+    "sttHang": 76,
+    "brand": "XOLO",
+    "deviceName": "XOLO X910",
+    "deviceUrl": "https://www.gsmarena.com/xolo_x910-5535.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x910.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x910.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, May. Released 2013, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 64.7 x 10 mm (4.96 x 2.55 x 0.39 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 51.0 cm2 (~62.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "chipset": "Intel Atom Z2460",
+        "cpu": "1.6 GHz",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "White, Black",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:18.785Z"
+  },
+  {
+    "sttTong": 14235,
+    "sttHang": 73,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play-5591.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-play.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "138.4 x 70 x 10.4 mm (5.45 x 2.76 x 0.41 in)",
+        "weight": "167 g (5.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~62.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.1 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 227 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.45 W/kg (head)     0.61 W/kg (body)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:18.792Z"
+  },
+  {
+    "sttTong": 14237,
+    "sttHang": 75,
+    "brand": "XOLO",
+    "deviceName": "XOLO X1000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_x1000-5532.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.9 x 67.6 x 9.1 mm (5.27 x 2.66 x 0.36 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.7 inches, 60.9 cm2 (~67.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.1 (Jelly Bean)",
+        "chipset": "Intel Atom Z2480",
+        "cpu": "2 GHz",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable",
+        "stand-by": "Up to 336 h",
+        "talk_time": "Up to 9 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.30 W/kg (head)     1.22 W/kg (body)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:19.066Z"
+  },
+  {
+    "sttTong": 14239,
+    "sttHang": 77,
+    "brand": "XOLO",
+    "deviceName": "XOLO X500",
+    "deviceUrl": "https://www.gsmarena.com/xolo_x500-5530.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-x500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 61 x 12.6 mm (4.35 x 2.40 x 0.50 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.5 inches, 36.5 cm2 (~54.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Intel Atom Z2420",
+        "cpu": "1.2 GHz",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 405 h (2G) / Up to 383 h (3G)",
+        "talk_time": "Up to 10 h (2G) / Up to 9 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:21.559Z"
+  },
+  {
+    "sttTong": 14241,
+    "sttHang": 79,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q800",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q800-5531.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q800.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q800.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, February. Released 2013, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.5 x 67 x 9.6 mm (5.33 x 2.64 x 0.38 in)",
+        "weight": "143.5 g (5.04 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589M (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.65 W/kg (head)     0.95 W/kg (body)",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:23.978Z"
+  },
+  {
+    "sttTong": 14243,
+    "sttHang": 81,
+    "brand": "XOLO",
+    "deviceName": "XOLO A500",
+    "deviceUrl": "https://www.gsmarena.com/xolo_a500-5529.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-a500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-a500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 63.5 x 11.8 mm (4.88 x 2.5 x 0.46 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.0 GHz",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 310 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.55 W/kg (head)     0.78 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:24.269Z"
+  },
+  {
+    "sttTong": 14242,
+    "sttHang": 80,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q700",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q700-5534.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, May. Released 2013, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "135.8 x 67.5 x 10.2 mm (5.35 x 2.66 x 0.40 in)",
+        "weight": "151.3 g (5.33 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~60.9% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589W-M",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2400 mAh, removable",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 17 h (2G) / Up to 16 h (3G)"
+      },
+      "misc": {
+        "colors": "Coffee Brown, Blue, Black",
+        "sar_eu": "0.86 W/kg (head)     0.55 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:25.040Z"
+  },
+  {
+    "sttTong": 14223,
+    "sttHang": 61,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q500",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q500-5877.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.5 x 63 x 10.7 mm (4.67 x 2.48 x 0.42 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~61.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable",
+        "stand-by": "Up to 333 h (2G) / Up to 242 h (3G)",
+        "talk_time": "Up to 13 h 20 min (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:27.283Z"
+  },
+  {
+    "sttTong": 14233,
+    "sttHang": 71,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1000s",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1000s-5642.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, August. Released 2013, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 72.1 x 7 mm (5.79 x 2.84 x 0.28 in)",
+        "weight": "158 g (5.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 327 h",
+        "talk_time": "Up to 22 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.80 W/kg (head)     0.85 W/kg (body)",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:38.148Z"
+  },
+  {
+    "sttTong": 14197,
+    "sttHang": 35,
+    "brand": "XOLO",
+    "deviceName": "XOLO Play 8X-1200",
+    "deviceUrl": "https://www.gsmarena.com/xolo_play_8x_1200-6564.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 68.5 x 9.7 mm (5.63 x 2.70 x 0.38 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~70.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592T",
+        "cpu": "Octa-core 2.0 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, non-removable",
+        "stand-by": "Up to 600 h (2G) / Up to 547 h (3G)",
+        "talk_time": "Up to 24 h (2G) / Up to 11 h 45 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:29:53.878Z"
+  },
+  {
+    "sttTong": 14240,
+    "sttHang": 78,
+    "brand": "XOLO",
+    "deviceName": "XOLO Q1000",
+    "deviceUrl": "https://www.gsmarena.com/xolo_q1000-5533.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/lava-q1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, May. Released 2013, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 70.8 x 8.8 mm (5.65 x 2.79 x 0.35 in)",
+        "weight": "171.1 g (6.03 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 350 h (2G) / Up to 346 h (3G)",
+        "talk_time": "Up to 14 h (2G) / Up to 10 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.80 W/kg (head)     0.67 W/kg (body)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:30:33.776Z"
+  }
+]

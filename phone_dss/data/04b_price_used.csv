@@ -1,0 +1,16 @@
+product_id,source,price,battery_health_percent,exterior_condition,warranty_status,crawled_at
+APL_IPH13_4_128,mock_used,7490000,86,good,no,2026-09-04 10:00:00
+APL_IPH15_6_128,mock_used,11990000,91,like-new,yes,2026-09-04 10:00:00
+APL_IPH15P_8_128,mock_used,17990000,92,like-new,yes,2026-09-04 10:00:00
+SAM_A35_8_128,mock_used,4790000,94,like-new,yes,2026-09-04 10:00:00
+SAM_A55_8_128,mock_used,6490000,95,like-new,yes,2026-09-04 10:00:00
+SAM_S23_8_128,mock_used,8490000,89,good,no,2026-09-04 10:00:00
+SAM_S24_8_256,mock_used,12990000,96,like-new,yes,2026-09-04 10:00:00
+XIA_RN13P5G_8_256,mock_used,5290000,94,good,yes,2026-09-04 10:00:00
+XIA_13T_12_256,mock_used,6790000,90,good,no,2026-09-04 10:00:00
+XIA_POCOX6P_12_512,mock_used,6490000,93,like-new,yes,2026-09-04 10:00:00
+OPP_RENO11F_8_256,mock_used,4990000,92,good,no,2026-09-04 10:00:00
+OPP_RENO12F_8_256,mock_used,5990000,95,like-new,yes,2026-09-04 10:00:00
+VIV_V30_12_256,mock_used,7990000,94,like-new,yes,2026-09-04 10:00:00
+RLM_12PROPLUS_12_256,mock_used,6990000,91,good,yes,2026-09-04 10:00:00
+RLM_GT6_16_512,mock_used,10490000,96,like-new,yes,2026-09-04 10:00:00

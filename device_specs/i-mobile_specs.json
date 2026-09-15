@@ -1,0 +1,2577 @@
+[
+  {
+    "sttTong": 4261,
+    "sttHang": 1,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile i858",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_i858-3327.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i858.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i858.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 67 x 12.8 mm (4.72 x 2.64 x 0.50 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.3 inches, 52.6 cm2 (~65.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)\n3D Widget UI"
+      },
+      "platform": {
+        "os": "Android 2.0 (Donut)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML\nTV tuner\nMP3/WAV/AAC player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:42.947Z"
+  },
+  {
+    "sttTong": 4262,
+    "sttHang": 2,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 8500",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_8500-3328.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/8500.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/8500.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 56.5 x 14.9 mm (4.41 x 2.22 x 0.59 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 30.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML\nMP3/WAV/AAC player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:43.768Z"
+  },
+  {
+    "sttTong": 4263,
+    "sttHang": 3,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 5230",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_5230-3329.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/5230.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/5230.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1\nGSM 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 58 x 14.4 mm (4.57 x 2.28 x 0.57 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~36.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "48MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "176x144@15fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAnalog TV\nMP3/AAC+ player\nH.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 7 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:45.911Z"
+  },
+  {
+    "sttTong": 4264,
+    "sttHang": 4,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile Hitz 2206",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_hitz_2206-3331.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz-2206.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz-2206.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1\nGSM 900 / 1800 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 59.4 x 13.4 mm (4.33 x 2.34 x 0.53 in)",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "220 x 176 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 667 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:47.361Z"
+  },
+  {
+    "sttTong": 4265,
+    "sttHang": 5,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 5220",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_5220-3330.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/5220.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/5220.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010. Released 2010",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.5 x 52.5 x 13 mm (4.59 x 2.07 x 0.51 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~29.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.1\nTV tuner/recorder\nMP3/AAC player\nH.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 420 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:48.607Z"
+  },
+  {
+    "sttTong": 4267,
+    "sttHang": 7,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile Hitz 212",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_hitz_212-2972.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz212.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz212.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 13.3 mm (4.13 x 1.81 x 0.52 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~20.4% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "undefined\nMP3 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black-Green, Silver-Blue, Silver-Orange, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:51.552Z"
+  },
+  {
+    "sttTong": 4270,
+    "sttHang": 10,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV550 Touch",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv550_touch-2877.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-tv550-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-tv550-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 52 x 14 mm (4.25 x 2.05 x 0.55 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~43.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:53.137Z"
+  },
+  {
+    "sttTong": 4269,
+    "sttHang": 9,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV650 Touch",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv650_touch-2878.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-tv650-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-tv650-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 55 x 13.4 mm (4.33 x 2.17 x 0.53 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.0 inches, 27.9 cm2 (~46.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:53.400Z"
+  },
+  {
+    "sttTong": 4271,
+    "sttHang": 11,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 630",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_630-2875.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-630.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-630.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 52.5 x 13 mm (4.53 x 2.07 x 0.51 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~29.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner/recorder\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 420 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:56.681Z"
+  },
+  {
+    "sttTong": 4272,
+    "sttHang": 12,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 628",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_628-2874.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-628.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-628.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 51 x 17 mm (4.45 x 2.01 x 0.67 in)",
+        "weight": "109.5 g (3.84 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:58.313Z"
+  },
+  {
+    "sttTong": 4273,
+    "sttHang": 13,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 620",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_620-2873.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-620.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-620.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 51.5 x 14.6 mm (4.49 x 2.03 x 0.57 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~30.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "14MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 420 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:58.541Z"
+  },
+  {
+    "sttTong": 4274,
+    "sttHang": 14,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 536",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_536-2872.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-536.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-536.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 51 x 13.7 mm (4.41 x 2.01 x 0.54 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:01.516Z"
+  },
+  {
+    "sttTong": 4275,
+    "sttHang": 15,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 638CG",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_638cg-2876.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-638cg.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-638cg.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nCDMA 800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 51 x 14.5 mm (4.45 x 2.01 x 0.57 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "25MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 8 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:02.813Z"
+  },
+  {
+    "sttTong": 4276,
+    "sttHang": 16,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile Hitz 232CG",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_hitz_232cg-2871.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-232cg.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-232cg.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nCDMA 800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.5 x 47.8 x 11.1 mm (4.31 x 1.88 x 0.44 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB (charging and headset only)"
+      },
+      "features": {
+        "messaging": "SMS(threaded view), EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 850 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:03.244Z"
+  },
+  {
+    "sttTong": 4277,
+    "sttHang": 17,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 535",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_535-2680.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-535.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-535.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, January. Released 2009, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 48 x 13.8 mm (4.25 x 1.89 x 0.54 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~28.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio; built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nTV tuner\nYamaha audio amplifier\nMP3 player\nMP4/3GP player\nOrganizer\nStop watch\nPrivate menu\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:06.848Z"
+  },
+  {
+    "sttTong": 4266,
+    "sttHang": 6,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV658 Touch&Move",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv658_touch&move-2974.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz658.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz658.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 56 x 13 mm (4.37 x 2.20 x 0.51 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~41.2% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio, built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS, Email, Push Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nMP3 player\nMP4/3GP player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:07.315Z"
+  },
+  {
+    "sttTong": 4278,
+    "sttHang": 18,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 627",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_627-2681.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-627.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-627.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 15.2 mm (4.29 x 1.81 x 0.60 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~24.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "63MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, Casio-Hitachi module, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio; built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nYamaha audio amplifier\nMP3 player\nMP4/3GP player\nOrganizer\nStop watch\nTalking disctionary\nPrivate menu\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 830 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:07.775Z"
+  },
+  {
+    "sttTong": 4279,
+    "sttHang": 19,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 533",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_533-2679.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-533.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-533.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, January. Released 2009, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.7 x 50 x 14.5 mm (4.44 x 1.97 x 0.57 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nTV tuner\nYamaha Audio Amplifier\nMP3 player\nMP4/3GP player\nOrganizer\nStop watch\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:08.168Z"
+  },
+  {
+    "sttTong": 4280,
+    "sttHang": 20,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 530",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_530-2678.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-530.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-530.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, September. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 50 x 16.4 mm (4.41 x 1.97 x 0.65 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nTV tuner\nYamaha Audio Amplifier\nMP3 player\nMP4/3GP player\nOrganizer\nStop watch\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:11.742Z"
+  },
+  {
+    "sttTong": 4281,
+    "sttHang": 21,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 523",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_523-2597.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-523.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-523.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 49 x 14.5 mm (4.33 x 1.93 x 0.57 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~27.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nTV tuner\nMotion sensor\nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch\nTalking dictionary"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:12.333Z"
+  },
+  {
+    "sttTong": 4282,
+    "sttHang": 22,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 522",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_522-2596.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-522.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-522.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 49 x 14.5 mm (4.37 x 1.93 x 0.57 in)",
+        "weight": "93.6 g (3.28 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~27.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "120MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nBuilt-in Yamaha Audio Amplifier\nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch\nTalking dictionary"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:13.055Z"
+  },
+  {
+    "sttTong": 4283,
+    "sttHang": 23,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 320",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_320-2677.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-320.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-320.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 49 x 12.8 mm (4.41 x 1.93 x 0.50 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~27.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nYamaha audio amplifier\nMP3 player\nMP4/3GP player \nOrganizer\nWorld clock\nStop watch\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:13.240Z"
+  },
+  {
+    "sttTong": 4284,
+    "sttHang": 24,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 319",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_319-2595.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-319.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-319.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, September. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 44 x 13.9 mm (3.78 x 1.73 x 0.55 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.67 inches, 8.8 cm2 (~20.8% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~123 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "VGA, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nYamaha Audio Amplifier\nMotion sensor\nMP3 player\nVideo player\nOrganizer\nWorld clock\nStop watch\nTalking dictionary"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 830 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:16.233Z"
+  },
+  {
+    "sttTong": 4268,
+    "sttHang": 8,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile Hitz 210",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_hitz_210-2971.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz210.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-hitz210.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 49 x 12.8 mm (4.41 x 1.93 x 0.50 in)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~18.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "300 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "undefined\nMP3 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:17.051Z"
+  },
+  {
+    "sttTong": 4285,
+    "sttHang": 25,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile TV 626",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_tv_626-2477.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-626.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-626.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, July. Released 2008",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.9 x 50 x 15.5 mm (4.48 x 1.97 x 0.61 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nWallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "87MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, Casio-Hitachi module, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV tuner\nTV-out\nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:17.893Z"
+  },
+  {
+    "sttTong": 4286,
+    "sttHang": 26,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 902",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_902-2421.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-902.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imobile-902.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 48 x 17.5 mm (4.02 x 1.89 x 0.69 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M",
+        "size": "2.0 inches, 12.4 cm2 (~25.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nWallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "phonebook": "500 entries",
+        "call_records": "Yes",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV-out\nMP3 player\nMP4 player\nPredictive text input\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:18.093Z"
+  },
+  {
+    "sttTong": 4287,
+    "sttHang": 27,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 625",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_625-2401.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-625.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-625.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, May. Released 2008, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 47 x 13 mm (4.13 x 1.85 x 0.51 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~25.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, Casio-Hitachi module, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nYamaha audio amplifier \nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 830 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:18.273Z"
+  },
+  {
+    "sttTong": 4288,
+    "sttHang": 28,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 903",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_903-2402.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-903.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-903.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, May. Released 2007, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 47 x 17 mm (4.17 x 1.85 x 0.67 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~24.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nwallpapers"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nMP3 player\nMP4 player\nTalkie Gang (short-distance radio transceiver function)\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:21.273Z"
+  },
+  {
+    "sttTong": 4289,
+    "sttHang": 29,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 613",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_613-2400.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-613.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-613.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, December. Released 2007, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 50 x 18 mm (4.45 x 1.97 x 0.71 in)",
+        "weight": "74.5 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~26.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "87MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV-out\nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:22.196Z"
+  },
+  {
+    "sttTong": 4290,
+    "sttHang": 30,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 520",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_520-2399.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-520.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-520.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, December. Released 2007, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 46 x 12.4 mm (4.09 x 1.81 x 0.49 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.76 inches, 9.7 cm2 (~20.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~160 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "phonebook": "1000 entries",
+        "call_records": "Yes",
+        "internal": "56MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nYamaha audio amplifier\nMP3 player\nMP4 player\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:22.675Z"
+  },
+  {
+    "sttTong": 4292,
+    "sttHang": 32,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 510",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_510-2397.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-510.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-510.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, April. Released 2006, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 44 x 15 mm (3.90 x 1.73 x 0.59 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nwallpapers"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nVideo player\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:58:23.014Z"
+  },
+  {
+    "sttTong": 4291,
+    "sttHang": 31,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 518",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_518-2398.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-518.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-518.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, December. Released 2007, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.5 x 49 x 16.5 mm (4.15 x 1.93 x 0.65 in)",
+        "weight": "101 g (3.56 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~24.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nwallpapers"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "88MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio, recording; built-in antenna",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nTV-out\nMP3 player\nMP4 player\nVoice memo\nOrganizer\nWorld clock\nStop watch\nSolar-Lunar calendar"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:23.557Z"
+  },
+  {
+    "sttTong": 4293,
+    "sttHang": 33,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 318",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_318-2396.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-318.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-318.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, March. Released 2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 45 x 14.8 mm (4.21 x 1.77 x 0.58 in)",
+        "weight": "85.9 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "120MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nYamaha audio amplifier\nMP3 player\nVideo player\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:58:25.995Z"
+  },
+  {
+    "sttTong": 4294,
+    "sttHang": 34,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 315",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_315-2395.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-315.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-315.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, November. Released 2007, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 46.3 x 15.1 mm (3.86 x 1.82 x 0.59 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.5 inches, 7.3 cm2 (~16.0% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC+ ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nMP3 player\nClock\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:58:27.240Z"
+  },
+  {
+    "sttTong": 4295,
+    "sttHang": 35,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 202",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_202-2676.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-202.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-202.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, November. Released 2008, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 44 x 14.5 mm (4.13 x 1.73 x 0.57 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~22.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/HTML",
+        "games": "Yes",
+        "java": "No\nMP3 player\nVoice memo\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:27.562Z"
+  },
+  {
+    "sttTong": 4296,
+    "sttHang": 36,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 201",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_201-2394.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-201.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile-201.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, May. Released 2008, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 15.5 mm (4.17 x 1.77 x 0.61 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.2% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)\nwallpapers, themes"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, VDO ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nYamaha Audio Amplifier\nMP3 player\nMP4/AVI player\nVoice memo\nPredictive text input\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Gray-Blue, Black-Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:27.921Z"
+  },
+  {
+    "sttTong": 4297,
+    "sttHang": 37,
+    "brand": "i-mobile",
+    "deviceName": "i-mobile 101",
+    "deviceUrl": "https://www.gsmarena.com/i_mobile_101-2393.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mobile.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, May. Released 2008, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 45 x 14.4 mm (4.06 x 1.77 x 0.57 in)",
+        "weight": "69.6 g (2.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.7% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)\nwallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 entries",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS(100)",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nOrganizer\nWorld clock\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:58:29.288Z"
+  }
+]

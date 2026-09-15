@@ -1,0 +1,1968 @@
+[
+  {
+    "sttTong": 5852,
+    "sttHang": 1,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C90",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c90-596.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac90.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac90.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 47 x 23 mm (3.27 x 1.85 x 0.91 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 11 fields",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:37.961Z"
+  },
+  {
+    "sttTong": 5853,
+    "sttHang": 2,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C80",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c80-597.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43.7 x 20.8 mm (3.31 x 1.72 x 0.82 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external display, 256 colors\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 11 fields",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:38.933Z"
+  },
+  {
+    "sttTong": 5854,
+    "sttHang": 3,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C180",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c180-598.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac180.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac180.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43.7 x 20.8 mm (3.31 x 1.72 x 0.82 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external OLED display, 256 colors\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 11 fields",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:39.906Z"
+  },
+  {
+    "sttTong": 5855,
+    "sttHang": 4,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-A30",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_a30-731.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/maa30.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/maa30.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 48.5 x 22.4 mm (3.54 x 1.91 x 0.88 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\n7 color LED indicator\nWallpaper\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:41.200Z"
+  },
+  {
+    "sttTong": 5856,
+    "sttHang": 5,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C60",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c60-580.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 45 x 22.9 mm (3.15 x 1.77 x 0.90 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 8 lines, 1:1 ratio\nSecond external display\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:42.279Z"
+  },
+  {
+    "sttTong": 5858,
+    "sttHang": 7,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C110",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c110-732.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 46 x 21 mm (3.39 x 1.81 x 0.83 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "-\nWallpaper\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\neZi\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:48.039Z"
+  },
+  {
+    "sttTong": 5857,
+    "sttHang": 6,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C20",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c20-581.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac20.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac20.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 46 x 23 mm (3.58 x 1.81 x 0.91 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels, 7 lines\nSecond external display ( orange LCD )\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nSync ML\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:14:48.102Z"
+  },
+  {
+    "sttTong": 5862,
+    "sttHang": 11,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-E80",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_e80-730.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mae80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mae80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Cancelled"
+      },
+      "body": {
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "-\nWallpaper\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 11 fields",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:15:01.720Z"
+  },
+  {
+    "sttTong": 5860,
+    "sttHang": 9,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-V10",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_v10-734.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mav10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mav10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "78 x 37 x 20.5 mm (3.07 x 1.46 x 0.81 in)",
+        "weight": "67 g (2.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external 4096 colors OLED display\nWallpaper\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:15:07.572Z"
+  },
+  {
+    "sttTong": 5859,
+    "sttHang": 8,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-E10",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_e10-579.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mae10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mae10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 48 x 22.6 mm (3.58 x 1.89 x 0.89 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "176 x 220 pixels, 10 lines\nSecond external display 4K CSTN\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, 6 contact groups",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nSync ML\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:15:13.303Z"
+  },
+  {
+    "sttTong": 5861,
+    "sttHang": 10,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-V30",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_v30-733.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mav30.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mav30.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 43 x 21 mm (3.19 x 1.69 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "-\nSecond external 4096 colors OLED display\nWallpaper\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\neZi\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:15:20.876Z"
+  },
+  {
+    "sttTong": 5864,
+    "sttHang": 13,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7750",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7750-736.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7750.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7750.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 21 mm (3.35 x 1.77 x 0.83 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "-\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nZi\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:15:22.462Z"
+  },
+  {
+    "sttTong": 5866,
+    "sttHang": 15,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C160",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c160-738.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac160.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac160.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "65 x 37 x 22 mm (2.56 x 1.46 x 0.87 in)",
+        "weight": "59 g (2.08 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "4096 colors",
+        "resolution": "-\nSecond external display (80 x 50 pixels)\n7 color LED Indicator"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:16:38.875Z"
+  },
+  {
+    "sttTong": 5865,
+    "sttHang": 14,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-C11",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_c11-737.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac11.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mac11.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 21 mm (3.35 x 1.77 x 0.83 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\n3 color LED indicator  \nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:16:48.061Z"
+  },
+  {
+    "sttTong": 5863,
+    "sttHang": 12,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7990",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7990-582.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7990.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7990.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "78 x 37 x 20.5 mm (3.07 x 1.46 x 0.81 in)",
+        "weight": "67 g (2.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 128 pixels, 8 lines, 1:1 ratio\nSecond external display OLED\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, 5 contact groups",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Downloadable",
+        "java": "No\nPredictive text input\nSync ML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:16:57.938Z"
+  },
+  {
+    "sttTong": 5867,
+    "sttHang": 16,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7940",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7940-583.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7940.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7940.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 45 x 24 mm (3.15 x 1.77 x 0.94 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "UFB, 65K colors",
+        "resolution": "128 x 128 pixels, 8 lines, 1:1 ratio\nSecond external display\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nSync ML\nVoice dial\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:17:05.467Z"
+  },
+  {
+    "sttTong": 5868,
+    "sttHang": 17,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7920",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7920-729.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7920.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7920.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "64.9 x 37 x 22.1 mm (2.56 x 1.46 x 0.87 in)",
+        "weight": "59 g (2.08 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Grayscale graphic, 4 shades",
+        "resolution": "128 x 128 pixels, 7 lines, 1:1 ratio\nSecond external display\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(4) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nSync ML\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:17:16.613Z"
+  },
+  {
+    "sttTong": 5869,
+    "sttHang": 18,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7830",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7830-584.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7830.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7830.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 47 x 19 mm (4.45 x 1.85 x 0.75 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "65K colors",
+        "resolution": "128 x 160 pixels, 11 lines\nSecond external display\nWallpaper"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, 5 contact groups",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nSync ML\nVoice dial\nOptional digital camera\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:17:26.927Z"
+  },
+  {
+    "sttTong": 5870,
+    "sttHang": 19,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-7600",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_7600-585.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma7600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 46 x 21 mm (3.35 x 1.81 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels, 6 lines\n7 color LED on the front cover\nWallpaper, screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, 5 contact groups",
+        "call_records": "20 received, dialed and missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "2",
+        "java": "No\nPredictive text input\nHi-Fi sounds \nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:17:42.992Z"
+  },
+  {
+    "sttTong": 5871,
+    "sttHang": 20,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6899",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6899-180.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6899b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6899b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 43 x 22 mm (4.29 x 1.69 x 0.87 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "5"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:17:47.693Z"
+  },
+  {
+    "sttTong": 5873,
+    "sttHang": 22,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6879",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6879-178.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6879b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6879b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 43 x 22 mm (4.33 x 1.69 x 0.87 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:18:31.097Z"
+  },
+  {
+    "sttTong": 5872,
+    "sttHang": 21,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6877",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6877-179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6877b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6877b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 43 x 22 mm (4.33 x 1.69 x 0.87 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "5"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:18:35.819Z"
+  },
+  {
+    "sttTong": 5875,
+    "sttHang": 24,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6815",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6815-176.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6815b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6815b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 23 mm (4.33 x 1.81 x 0.91 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 850 mAh battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:18:39.842Z"
+  },
+  {
+    "sttTong": 5876,
+    "sttHang": 25,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6814",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6814-175.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6814b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6814b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 23 mm (4.33 x 1.81 x 0.91 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 850 mAh battery",
+        "stand-by": "130 h",
+        "talk_time": "3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:18:44.833Z"
+  },
+  {
+    "sttTong": 5874,
+    "sttHang": 23,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6869",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6869-177.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6869b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6869b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 43 x 20 mm (4.33 x 1.69 x 0.79 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T03:18:45.203Z"
+  },
+  {
+    "sttTong": 5878,
+    "sttHang": 27,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6810",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6810-173.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6810b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6810b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 20 mm (4.33 x 1.81 x 0.79 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "6"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:18:57.904Z"
+  },
+  {
+    "sttTong": 5877,
+    "sttHang": 26,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6811",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6811-174.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6811b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6811b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 23 mm (4.33 x 1.81 x 0.91 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "6"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:03.265Z"
+  },
+  {
+    "sttTong": 5879,
+    "sttHang": 28,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6805",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6805-172.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6805b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6805b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 43 x 21 mm (4.29 x 1.69 x 0.83 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "Tetris",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:15.599Z"
+  },
+  {
+    "sttTong": 5881,
+    "sttHang": 30,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-3205F",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_3205f-170.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma3205b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma3205b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 45 x 21 mm (5.16 x 1.77 x 0.83 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "50 h",
+        "talk_time": "2 h"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:17.783Z"
+  },
+  {
+    "sttTong": 5882,
+    "sttHang": 31,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-3204",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_3204-169.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma3204b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma3204b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 45 x 21 mm (5.16 x 1.77 x 0.83 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "50 h",
+        "talk_time": "2 h"
+      },
+      "misc": {
+        "colors": "5"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:29.726Z"
+  },
+  {
+    "sttTong": 5880,
+    "sttHang": 29,
+    "brand": "Maxon",
+    "deviceName": "Maxon MX-6804",
+    "deviceUrl": "https://www.gsmarena.com/maxon_mx_6804-171.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6804b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ma6804b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 43 x 20 mm (4.29 x 1.69 x 0.79 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 12 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "20 dialed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "Tetris",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "100 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T03:19:41.512Z"
+  }
+]

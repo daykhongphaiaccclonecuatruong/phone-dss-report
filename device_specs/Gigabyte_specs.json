@@ -1,0 +1,4558 @@
+[
+  {
+    "sttTong": 2706,
+    "sttHang": 1,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Essence 4",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_essence_4-7703.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-essence4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-essence4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 62 x 9.6 mm (4.88 x 2.44 x 0.38 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~59.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:49.165Z"
+  },
+  {
+    "sttTong": 2708,
+    "sttHang": 3,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Essence",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_essence-7701.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-essence.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-essence.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 67 x 8.8 mm (5.28 x 2.64 x 0.35 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~62.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Spreadtrum SC7731",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:50.078Z"
+  },
+  {
+    "sttTong": 2707,
+    "sttHang": 2,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Classic Lite",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_classic_lite-7702.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-classic-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-classic-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 73 x 9.2 mm (5.63 x 2.87 x 0.36 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.0% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Spreadtrum SC7731",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:50.597Z"
+  },
+  {
+    "sttTong": 2713,
+    "sttHang": 8,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Akta A4",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_akta_a4-6832.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-Akta-A4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-Akta-A4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, November. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 73 x 9.6 mm (5.79 x 2.87 x 0.38 in)",
+        "weight": "158 g (5.57 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.2% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Navy Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:54.860Z"
+  },
+  {
+    "sttTong": 2711,
+    "sttHang": 6,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Mika MX",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mika_mx-6988.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mika-mx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mika-mx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 8",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 72 x 9.8 mm (5.63 x 2.83 x 0.39 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.9% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 20 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:55.469Z"
+  },
+  {
+    "sttTong": 2714,
+    "sttHang": 9,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Mika M3",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mika_m3-6797.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-Mika-M4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-Mika-M4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 70.5 x 8.3 mm (5.67 x 2.78 x 0.33 in)",
+        "weight": "146 g (5.15 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Navy Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:59.043Z"
+  },
+  {
+    "sttTong": 2712,
+    "sttHang": 7,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Roma RX",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_roma_rx-6989.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-roma-rx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-roma-rx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 73 x 9.5 mm (5.59 x 2.87 x 0.37 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 20 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:59.393Z"
+  },
+  {
+    "sttTong": 2715,
+    "sttHang": 10,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart GX2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_gx2-6587.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-arty-gx2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-arty-gx2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146.5 x 73.4 x 8.7 mm (5.77 x 2.89 x 0.34 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Dual SIM (Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.1% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm MSM8228 Snapdragon 400 (28 nm)",
+        "cpu": "Quad-core 1.6 GHz Cortex-A7",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh, removable",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:00.668Z"
+  },
+  {
+    "sttTong": 2716,
+    "sttHang": 11,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Guru (White Edition)",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_guru_(white_edition)-6586.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru-white.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru-white.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 72.1 x 8.5 mm (5.79 x 2.84 x 0.33 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:03.861Z"
+  },
+  {
+    "sttTong": 2709,
+    "sttHang": 4,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Classic",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_classic-7700.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-classic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-classic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, October. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 73 x 8.6 mm (5.71 x 2.87 x 0.34 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Spreadtrum SC7731",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, EDR",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 230 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black, Gray",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:04.416Z"
+  },
+  {
+    "sttTong": 2710,
+    "sttHang": 5,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Guru GX",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_guru_gx-6985.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru-gx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru-gx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "139 x 69 x 7 mm (5.47 x 2.72 x 0.28 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~71.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, non-removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 14 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:04.531Z"
+  },
+  {
+    "sttTong": 2717,
+    "sttHang": 12,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart T4 (Lite Edition)",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_t4_(lite_edition)-6585.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-t4-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-t4-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.5 x 64 x 10.3 mm (4.90 x 2.52 x 0.41 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:06.252Z"
+  },
+  {
+    "sttTong": 2720,
+    "sttHang": 15,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart T4",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_t4-6335.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-T4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-T4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, April. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 62 x 9.8 mm (4.96 x 2.44 x 0.39 in)",
+        "weight": "121 g (4.27 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~58.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:09.359Z"
+  },
+  {
+    "sttTong": 2721,
+    "sttHang": 16,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Saga S3",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_saga_s3-6334.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Saga-S3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Saga-S3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, April. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "168 x 83 x 8.5 mm (6.61 x 3.27 x 0.33 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~71.2% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 255 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:09.779Z"
+  },
+  {
+    "sttTong": 2723,
+    "sttHang": 18,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Guru",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_guru-5807.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 10 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 440 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:14.330Z"
+  },
+  {
+    "sttTong": 2724,
+    "sttHang": 19,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Alto A2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_alto_a2-5809.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-alto-a2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-alto-a2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:14.977Z"
+  },
+  {
+    "sttTong": 2722,
+    "sttHang": 17,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Rey R3",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_rey_r3-6211.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Rey-R3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Rey-R3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 66 x 10.5 mm (5.35 x 2.60 x 0.41 in)",
+        "weight": "138 g (4.87 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~62.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:17.794Z"
+  },
+  {
+    "sttTong": 2725,
+    "sttHang": 20,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Roma R2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_roma_r2-5808.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-roma-r2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-roma-r2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Red",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:19.596Z"
+  },
+  {
+    "sttTong": 2726,
+    "sttHang": 21,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Aku A1",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_aku_a1-5610.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-aku-a1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-aku-a1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 67 x 12.4 mm (5.35 x 2.64 x 0.49 in)",
+        "weight": "147.7 g (5.19 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~61.2% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 333 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:20.052Z"
+  },
+  {
+    "sttTong": 2729,
+    "sttHang": 24,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Sierra S1",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_sierra_s1-5516.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Sierra-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Sierra-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.5 x 72.5 x 8.9 mm (5.73 x 2.85 x 0.35 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:26.035Z"
+  },
+  {
+    "sttTong": 2718,
+    "sttHang": 13,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Arty A3",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_arty_a3-6584.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-arty-a3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-arty-a3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 73.2 x 9.4 mm (5.71 x 2.88 x 0.37 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.9% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:26.464Z"
+  },
+  {
+    "sttTong": 2719,
+    "sttHang": 14,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Mika M2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mika_m2-6583.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mika-m2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mika-m2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 72.8 x 8.5 mm (5.71 x 2.87 x 0.33 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:28.172Z"
+  },
+  {
+    "sttTong": 2727,
+    "sttHang": 22,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Tuku T2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_tuku_t2-5611.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-tuku-t2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-tuku-t2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 63.5 x 11.8 mm (4.88 x 2.5 x 0.46 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "cpu": "Dual-core 1.0 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 225 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, White, Orange, Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:31.109Z"
+  },
+  {
+    "sttTong": 2730,
+    "sttHang": 25,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Simba SX1",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_simba_sx1-5515.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Simba-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Simba-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 73 x 9.5 mm (5.67 x 2.87 x 0.37 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8230 Snapdragon 400 (28 nm)",
+        "cpu": "Dual-core 1.4 GHz Krait",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:31.691Z"
+  },
+  {
+    "sttTong": 2731,
+    "sttHang": 26,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Maya M1",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_maya_m1-5401.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Maya-M1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Maya-M1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 7.2/5.76 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, April. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 67 x 9.7 mm (5.35 x 2.64 x 0.38 in)",
+        "weight": "150.5 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577 (40 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Brown, Brown/White, Brown/Red",
+        "sar_eu": "0.75 W/kg (head)",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:32.039Z"
+  },
+  {
+    "sttTong": 2728,
+    "sttHang": 23,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Maya M1 v2",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_maya_m1_v2-5551.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Maya-M1-v2-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Maya-M1-v2-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 67 x 9.7 mm (5.35 x 2.64 x 0.38 in)",
+        "weight": "147 g (5.19 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~61.3% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray, White, Red",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:33.729Z"
+  },
+  {
+    "sttTong": 2733,
+    "sttHang": 28,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart GS202",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_gs202-5174.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-gs202.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-gs202.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, December. Released 2012, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130.5 x 66.5 x 10.9 mm (5.14 x 2.62 x 0.43 in)",
+        "weight": "147.6 g (5.19 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 52.6 cm2 (~60.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6577 (40 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White, Brown",
+        "sar_eu": "0.24 W/kg (head)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:36.435Z"
+  },
+  {
+    "sttTong": 2732,
+    "sttHang": 27,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart Rio R1",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_rio_r1-5400.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Rio-R1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Rio-R1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 7.2/0.384 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, April. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.2 x 63.8 x 10.5 mm (4.89 x 2.51 x 0.41 in)",
+        "weight": "130.5 g (4.59 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "cpu": "Dual-core 1.0 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 135 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Black/White, Black/Blue, Black/Pink, Black/Yellow",
+        "sar_eu": "0.58 W/kg (head)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:36.968Z"
+  },
+  {
+    "sttTong": 2734,
+    "sttHang": 29,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1362",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1362-4935.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1362.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1362.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only\nHSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132.5 x 67.7 x 11 mm (5.22 x 2.67 x 0.43 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.3 inches, 51.0 cm2 (~56.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~228 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "cpu": "Dual-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMP3/AAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1550 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray, White",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:36.997Z"
+  },
+  {
+    "sttTong": 2735,
+    "sttHang": 30,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1355",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1355-4547.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g1355.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g1355.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only\nHSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, February. Released 2012, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129.8 x 69.8 x 11.5 mm (5.11 x 2.75 x 0.45 in)",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.3 inches, 52.6 cm2 (~58.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.4 (Gingerbread)",
+        "chipset": "Qualcomm MSM7227T Snapdragon S1",
+        "cpu": "800 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/AAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 115 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:37.282Z"
+  },
+  {
+    "sttTong": 2736,
+    "sttHang": 31,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1345",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1345-4190.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1345.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1345.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only\nHSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 62.5 x 13.9 mm (4.72 x 2.46 x 0.55 in)",
+        "weight": "123.3 g (4.34 oz)",
+        "sim": "Dual SIM (Mini-SIM, no dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~48.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Qualcomm MSM7227T Snapdragon S1",
+        "cpu": "800 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/AAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 115 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:39.360Z"
+  },
+  {
+    "sttTong": 2737,
+    "sttHang": 32,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1342 Houston",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1342_houston-4637.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/huawei-houston-g1342.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/huawei-houston-g1342.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only\nHSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121 x 62.5 x 12.5 mm (4.76 x 2.46 x 0.49 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM7225AA Snapdragon S1",
+        "cpu": "800 MHz Cortex-A5",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/AAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 115 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:41.748Z"
+  },
+  {
+    "sttTong": 2740,
+    "sttHang": 35,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1317 Rola",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1317_rola-3694.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-rola.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-rola.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only\nHSDPA 850 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.5 x 60 x 13.3 mm (4.47 x 2.36 x 0.52 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 16M colors",
+        "size": "3.2 inches, 29.1 cm2 (~42.8% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/WMV/H.264 player\nOrganizer\nOffice document viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1260 mAh battery",
+        "stand-by": "Up to 115 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Glossy Black, Glossy White",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:41.929Z"
+  },
+  {
+    "sttTong": 2739,
+    "sttHang": 34,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1310",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1310-3720.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g1310.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g1310.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 only",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, January. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.5 x 60 x 12.9 mm (4.47 x 2.36 x 0.51 in)",
+        "weight": "117 g (4.13 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 30.5 cm2 (~44.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7225-1 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/AAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1260 mAh battery",
+        "stand-by": "Up to 255 h",
+        "talk_time": "Up to 4 h 40 min"
+      },
+      "misc": {
+        "colors": "Champagne gold, pearl white",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:42.871Z"
+  },
+  {
+    "sttTong": 2741,
+    "sttHang": 36,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1315 Skate",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1315_skate-3897.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Skate-G1315.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/GSmart-Skate-G1315.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.5 x 61.3 x 13.3 mm (4.47 x 2.41 x 0.52 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~52.4% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7225-1 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/WMV/H.264 player\nOrganizer\nOffice document viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1260 mAh battery",
+        "stand-by": "Up to 115 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, white"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:44.134Z"
+  },
+  {
+    "sttTong": 2742,
+    "sttHang": 37,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart S1205",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_s1205-3202.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-s1205.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-s1205.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 12",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.6 x 55 x 13.1 mm (4.35 x 2.17 x 0.52 in)",
+        "weight": "114.5 (4.02 oz)",
+        "sim": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.2 inches, 29.1 cm2 (~47.9% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional",
+        "cpu": "416 MHz Media Tek MT6516"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB ROM, 128MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/WMV/H.264 player\nPocket Office \nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1320 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 150 EUR"
+      },
+      "our_tests": {
+        "camera": "Photo",
+        "loudspeaker": "Voice 67dB / Noise 75dB / Ring 66dB",
+        "audio_quality": "Noise -89.6dB / Crosstalk -88.2dB"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:47.643Z"
+  },
+  {
+    "sttTong": 2745,
+    "sttHang": 40,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MW702",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mw702-2880.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mw702.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-mw702.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 59.8 x 14.8 mm (4.61 x 2.35 x 0.58 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~34.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "520MHz Marvell PXA270"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/eAAC+/WMA/WAV/AMR player\nWMV/MP4/3gp player\nOrganizer\nBusiness card scanner\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Iron Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:49.390Z"
+  },
+  {
+    "sttTong": 2747,
+    "sttHang": 42,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MS820",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_ms820-2415.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ms820.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ms820.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, June. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 59 x 14.1 mm (4.57 x 2.32 x 0.56 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~35.5% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "Marvell PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/eAAC+/WMA/WAV/AMR player\nWMV/MP4/3gp player\nOrganizer\nBusiness card scanner\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Dark Gray",
+        "price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:55.207Z"
+  },
+  {
+    "sttTong": 2748,
+    "sttHang": 43,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MS800",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_ms800-2414.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ms800.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ms800.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, February. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 59 x 15 mm (4.57 x 2.32 x 0.59 in)",
+        "weight": "133 g (4.69 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~35.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Marvell PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/eAAC+/WMA/WAV/AMR player\nWMV/MP4/3gp player\nOrganizer\nBusiness card scanner\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 360 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:52:59.982Z"
+  },
+  {
+    "sttTong": 2746,
+    "sttHang": 41,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart S1200",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_s1200-2720.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-s1200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-s1200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900 / 2100 - American version",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 52 x 11.4 mm (4.17 x 2.05 x 0.45 in)",
+        "weight": "102.5 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.1 inches, 27.4 cm2 (~49.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~301 ppi density)\nSmart Vision touch UI\nG-Widget"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1/6.5 Professional",
+        "chipset": "Qualcomm MSM7200A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "288MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/еAAC+/WMA/AMR player\nWMV/MP4/3gp player\nOrganizer\nТ9"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1010 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:00.397Z"
+  },
+  {
+    "sttTong": 2738,
+    "sttHang": 33,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart M3447",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_m3447-3763.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-M3447.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-M3447.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011. Released 2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 59 x 13 mm (4.33 x 2.32 x 0.51 in)",
+        "weight": "95 g (3.35 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~27.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "cpu": "MediaTek MT6268 246 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Push Email, IM",
+        "browser": "HTML",
+        "games": "Yes",
+        "java": "undefined\nMP3/eAAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 450 h (2G) / Up to 200 h (3G)",
+        "talk_time": "Up to 4 h 30 min (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:03.699Z"
+  },
+  {
+    "sttTong": 2750,
+    "sttHang": 45,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MW700",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mw700-2326.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gsmart-mw700.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gsmart-mw700.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, February. Released 2008",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 59 x 15 mm (4.57 x 2.32 x 0.59 in)",
+        "weight": "133 g (4.69 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~35.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Marvell PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/eAAC+/WMA/WAV/AMR player\nWMV/MP4/3gp player\nOrganizer\nBusiness card scanner\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White Light"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:05.527Z"
+  },
+  {
+    "sttTong": 2751,
+    "sttHang": 46,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart-3094.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "Not officially announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "103 x 54 x 13.4 mm (4.06 x 2.13 x 0.53 in)",
+        "weight": "-",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~43.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.6 (Donut)",
+        "chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nDedicated search key\nMP3/eAAC+/WAV/WMA9 player\nMP4/H.264/WMV9 player\nPhoto editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:10.099Z"
+  },
+  {
+    "sttTong": 2752,
+    "sttHang": 47,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart i350",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_i350-2072.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-i350.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-i350.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, June. Released 2008, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 54 x 18 mm (4.33 x 2.13 x 0.71 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.6 inches, 20.9 cm2 (~35.2% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~308 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel XScale PXA270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD, SDHC",
+        "internal": "256MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nJava\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 160 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:11.450Z"
+  },
+  {
+    "sttTong": 2743,
+    "sttHang": 38,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart G1305 Boston",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_g1305_boston-3201.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1305-codfish-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1305-codfish-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 56.8 x 12.4 mm (4.57 x 2.24 x 0.49 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 30.5 cm2 (~46.3% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.6 (Donut)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1230 mAh battery",
+        "stand-by": "Up to 410 h",
+        "talk_time": "Up to 7 h 10 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:12.221Z"
+  },
+  {
+    "sttTong": 2754,
+    "sttHang": 49,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart t600",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_t600-1917.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-t600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-t600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 55.5 x 18.5 mm (4.33 x 2.19 x 0.73 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.6 inches, 20.9 cm2 (~34.3% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~308 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Intel XScale PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "153MB 64MB RAM 256MB ROM\nIntel XScale PXA270, 520MHz"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "T-DMB radio",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nDVB-H/T TV broadcast receiver\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nT-DMB radio\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:15.906Z"
+  },
+  {
+    "sttTong": 2755,
+    "sttHang": 50,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart i300",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_i300-1817.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-i300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-i300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.5 x 51.5 x 19 mm (4.04 x 2.03 x 0.75 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~33.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)",
+        "cpu": "Intel XScale PXA272 520MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 256MB ROM\nIntel XScale PXA272, 520MHz"
+      },
+      "main_camera": {
+        "single": "2.1 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:17.114Z"
+  },
+  {
+    "sttTong": 2749,
+    "sttHang": 44,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MW998",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_mw998-2327.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gsmart_mw998.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gsmart_mw998.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2008, February. Released 2008",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 55.5 x 18.5 mm (4.35 x 2.19 x 0.73 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.6 inches, 20.9 cm2 (~34.1% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~308 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Marvell PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:18.669Z"
+  },
+  {
+    "sttTong": 2757,
+    "sttHang": 52,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart 2005",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_2005-1760.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smart.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smart.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 53.5 x 24 mm (4.29 x 2.11 x 0.94 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~30.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "2.1 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0\nTV-receiver: NTSC/PAL\n3D maps\nVoice navigation system\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Standard battery, Li-Ion 1300 mAh",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:24.741Z"
+  },
+  {
+    "sttTong": 2753,
+    "sttHang": 48,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart q60",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_q60-1918.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-q60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-q60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "111 x 64 x 14 mm (4.37 x 2.52 x 0.55 in)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.5 inches, 19.4 cm2 (~27.2% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Intel XScale PXA270 520MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "96MB RAM, 256MB ROM\nIntel XScale PXA270, 520MHz"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:25.031Z"
+  },
+  {
+    "sttTong": 2758,
+    "sttHang": 53,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart i",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_i-1759.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.2 x 53 x 19.5 mm (4.18 x 2.09 x 0.77 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~31.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "2.1 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0\nTV-receiver: NTSC/PAL\nPocket Ghost\nZip Tool\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920/1300 mAh battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:26.051Z"
+  },
+  {
+    "sttTong": 2756,
+    "sttHang": 51,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart i120",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_i120-1795.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti120.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti120.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.6 x 53.2 x 19.8 mm (4.20 x 2.09 x 0.78 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~31.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU3.3)",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nAnalog TV tuner (NTSC/PAL/Secam)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nWise Talk\nSmart Input\nAudio Mixer\nZIP Tool\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920/1300 mAh battery",
+        "stand-by": "Up to 125 h",
+        "talk_time": "Up to 3.5 h"
+      },
+      "misc": {
+        "colors": "Silver-black",
+        "price": "About 320 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:26.362Z"
+  },
+  {
+    "sttTong": 2744,
+    "sttHang": 39,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart MS802",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_ms802-2879.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-ms802.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-ms802.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 59.8 x 14.8 mm (4.61 x 2.35 x 0.58 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~34.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "520MHz Marvell PXA270"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; SiRF Star III chipset",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nPocket Office \nMP3/eAAC+/WMA/WAV/AMR player\nWMV/MP4/3gp player\nOrganizer\nBusiness card scanner\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Iron Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:29.536Z"
+  },
+  {
+    "sttTong": 2759,
+    "sttHang": 54,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte GSmart i (128)",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_gsmart_i_(128)-1758.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti128.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti128.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.6 x 53.2 x 19.8 mm (4.20 x 2.09 x 0.78 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.4 inches, 17.8 cm2 (~31.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nAnalog TV tuner (NTSC/PAL/Secam)\nPocket Office \nWindows MPlayer 10\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920/1300 mAh battery",
+        "stand-by": "Up to 125 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:29.626Z"
+  },
+  {
+    "sttTong": 2760,
+    "sttHang": 55,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte g-YoYo",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_g_yoyo-1755.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-yoyo.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-yoyo.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99.7 x 48.5 x 19.8 mm (3.93 x 1.91 x 0.78 in)",
+        "weight": "105g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~26.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "3D game/ 3-axis games",
+        "java": "No\nGPS Applications\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:30.772Z"
+  },
+  {
+    "sttTong": 2761,
+    "sttHang": 56,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte g-Cam",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_g_cam-1753.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-cam.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-cam.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 24.1 mm (4.13 x 1.81 x 0.95 in)",
+        "weight": "113g (3.99 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~26.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\n- Dual display (half and full-screen)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "xenon flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI, MP3, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPersonal Yellow Page\nText to speech\nTv-out\nPC Sync\nPictBridge photo plug-and-print\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:31.690Z"
+  },
+  {
+    "sttTong": 2763,
+    "sttHang": 58,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte g-re (b)",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_g_re_(b)-1751.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-re.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-re.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\n3-axis motion sensor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Hippy Orange, Hip-Hop Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:37.663Z"
+  },
+  {
+    "sttTong": 2762,
+    "sttHang": 57,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte Barbie",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_barbie-1752.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-barbie.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-barbie.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nBMI calculator\nFood calorie index\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Blue, Pink, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:37.670Z"
+  },
+  {
+    "sttTong": 2764,
+    "sttHang": 59,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte g-re (o)",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_g_re_(o)-1750.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-re.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-re.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\n3-axis motion sensor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Hippy Orange, Hip-Hop Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:38.783Z"
+  },
+  {
+    "sttTong": 2766,
+    "sttHang": 61,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte Keroro",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_keroro-1754.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-keroro.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-keroro.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Snoopy",
+        "java": "No\nMP3/MP4 player\nEnglish Tutor\nLunar and solar calendar\nCalorie Calculator\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:42.405Z"
+  },
+  {
+    "sttTong": 2767,
+    "sttHang": 62,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte Doraemon",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_doraemon-1748.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-doraemon.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-doraemon.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Doraemon",
+        "java": "Yes\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:42.477Z"
+  },
+  {
+    "sttTong": 2768,
+    "sttHang": 63,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte g-X5",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_g_x5-1747.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-x5.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-g-x5.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes\nE-map\nBuilt-in 3 axis sensor\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:43.091Z"
+  },
+  {
+    "sttTong": 2765,
+    "sttHang": 60,
+    "brand": "Gigabyte",
+    "deviceName": "Gigabyte Snoopy",
+    "deviceUrl": "https://www.gsmarena.com/gigabyte_snoopy-1749.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-snoopy.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/gigabyte-snoopy.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.7 x 54 x 25.6 mm (3.81 x 2.13 x 1.01 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 2.6M colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Snoopy",
+        "java": "Yes\nMP3/MP4 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:53:49.077Z"
+  }
+]

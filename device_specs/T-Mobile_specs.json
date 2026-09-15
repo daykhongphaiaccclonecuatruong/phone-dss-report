@@ -1,0 +1,5051 @@
+[
+  {
+    "sttTong": 11914,
+    "sttHang": 1,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile T Phone 3",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_t_phone_3_5g-14081.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-t-phone3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-t-phone3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100 - International\nHSDPA 850 / 1700(AWS) / 1900 / 2100 - USA",
+        "4g_bands": "2, 4, 5, 7, 12, 25, 26, 28, 41, 48, 66, 71 - USA",
+        "5g_bands": "1, 3, 7, 28, 38, 75, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, August 14",
+        "status": "Available. Released 2025, August 14"
+      },
+      "body": {
+        "dimensions": "166.5 x 77.1 x 9.3 mm (6.56 x 3.04 x 0.37 in)",
+        "weight": "218 g (7.69 oz)",
+        "sim": "Nano-SIM + eSIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.58 inches, 104.3 cm2 (~81.2% screen-to-body ratio)",
+        "resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)",
+        "protection": "Mohs level 6"
+      },
+      "platform": {
+        "os": "Android 15, up to 3 major OS updates",
+        "chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "gpu": "Adreno 710"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), PDAF, OIS\n2 MP (macro)",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "13 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors\nSatellite connectivity (USA only)"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "25W wired, PD3.0, QC3"
+      },
+      "misc": {
+        "colors": "Icy Silver",
+        "price": "About 150 EUR"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "46:58h endurance, 1000 cycles",
+        "free_fall": "Class A (350 falls)",
+        "repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:26.752Z"
+  },
+  {
+    "sttTong": 11917,
+    "sttHang": 4,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 7 Pro",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_7_pro-13145.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-7-pro-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-7-pro-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71",
+        "5g_bands": "1, 3, 7, 25, 28, 38, 41, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, May 13",
+        "status": "Available. Released 2024, June"
+      },
+      "body": {
+        "dimensions": "168.7 x 78 x 8.6 mm (6.64 x 3.07 x 0.34 in)",
+        "weight": "198 g (6.98 oz)",
+        "sim": "Nano-SIM + eSIM"
+      },
+      "display": {
+        "type": "AMOLED, 120Hz",
+        "size": "6.78 inches, 109.9 cm2 (~83.5% screen-to-body ratio)",
+        "resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "gpu": "Adreno 710"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "quad": "50 MP, (wide), PDAF, OIS\n5 MP, (ultrawide)\n2 MP (macro)\nAuxiliary lens",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 3.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "25W wired, PD3.0, QC3\n15W wireless"
+      },
+      "misc": {
+        "colors": "Azurite Blue",
+        "sar": "1.38 W/kg (head)     1.41 W/kg (body)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:31.492Z"
+  },
+  {
+    "sttTong": 11918,
+    "sttHang": 5,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 7",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_7-13146.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 2100",
+        "4g_bands": "2, 4, 5, 7, 12, 25, 26, 41, 66, 71",
+        "5g_bands": "25, 41, 66, 71, 77 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, May 13",
+        "status": "Available. Released 2024, June"
+      },
+      "body": {
+        "dimensions": "167.4 x 77.5 x 9.1 mm (6.59 x 3.05 x 0.36 in)",
+        "weight": "206 g (7.27 oz)",
+        "sim": "Nano-SIM + eSIM"
+      },
+      "display": {
+        "type": "AMOLED, 120Hz",
+        "size": "6.58 inches, 104.3 cm2 (~80.4% screen-to-body ratio)",
+        "resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "gpu": "Adreno 710"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "triple": "50 MP, (wide), PDAF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired, PD3.0, QC3"
+      },
+      "misc": {
+        "colors": "Arctic Gray",
+        "sar": "1.14 W/kg (head)     1.12 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:31.633Z"
+  },
+  {
+    "sttTong": 11916,
+    "sttHang": 3,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL Tab 2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_tab_2-14010.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-tab2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-tab2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 25, 26, 28, 38, 41, 66, 71",
+        "5g_bands": "SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, June 18",
+        "status": "Available. Released 2025, June 26"
+      },
+      "body": {
+        "dimensions": "240 x 156.5 x 8.4 mm (9.45 x 6.16 x 0.33 in)",
+        "weight": "412.8 g (14.57 oz)",
+        "sim": "Nano-SIM + eSIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~78.8% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.3, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:32.920Z"
+  },
+  {
+    "sttTong": 11920,
+    "sttHang": 7,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 6x",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_6x-12514.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-6x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-6x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 5, 7, 12, 25, 26, 41, 66, 71",
+        "5g_bands": "25, 41, 66, 71, 77 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2023, August 17",
+        "status": "Available. Released 2023, August 24"
+      },
+      "body": {
+        "dimensions": "166.6 x 76.4 x 8.8 mm (6.56 x 3.01 x 0.35 in)",
+        "weight": "194 g (6.84 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~80.6% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 or 13",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "triple": "50 MP, (wide), PDAF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP (USA)\n5 MP (Europe)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4500 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Gray, Blue",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:34.628Z"
+  },
+  {
+    "sttTong": 11921,
+    "sttHang": 8,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL Tab",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_tab-12516.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-tab.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl-tab.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71",
+        "5g_bands": "1, 3, 7, 25, 28, 38, 41, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2023, August 17",
+        "status": "Available. Released 2023, August 24"
+      },
+      "body": {
+        "dimensions": "247.6 x 157.1 x 7.9 mm (9.75 x 6.19 x 0.31 in)",
+        "weight": "513.1 g (1.13 lb)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.36 inches, 305.5 cm2 (~78.5% screen-to-body ratio)",
+        "resolution": "1200 x 2000 pixels, 5:3 ratio (~225 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP, (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 7040 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:36.567Z"
+  },
+  {
+    "sttTong": 11923,
+    "sttHang": 10,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 6",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_6-11937.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 71",
+        "5g_bands": "25, 41, 66, 71, 77 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2022, July 28",
+        "status": "Available. Released 2022, July 28"
+      },
+      "body": {
+        "dimensions": "166.6 x 76.4 x 8.8 mm (6.56 x 3.01 x 0.35 in)",
+        "weight": "194 g (6.84 oz)",
+        "sim": "Nano-SIM\nSplash resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~80.6% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "triple": "13 MP, (wide), AF\nAuxiliary lens\n2 MP (macro)",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4500 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Blue",
+        "models": "TMAF025G",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:39.141Z"
+  },
+  {
+    "sttTong": 11925,
+    "sttHang": 12,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 5G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_5g-10486.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71",
+        "5g_bands": "2, 25, 41, 66, 71 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2020, August 27. Released 2020, September 04",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.4 x 76.2 x 9.4 mm (6.51 x 3.00 x 0.37 in)",
+        "weight": "215 g (7.58 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.53 inches, 104.7 cm2 (~83.1% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Qualcomm SM7250 Snapdragon 765 5G (7 nm)",
+        "cpu": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "triple": "48 MP, (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, (ultrawide)\n5 MP (macro)",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4500 mAh"
+      },
+      "misc": {
+        "colors": "Nebula Black",
+        "models": "T790W, T790Z",
+        "price": "About 340 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:39.543Z"
+  },
+  {
+    "sttTong": 11926,
+    "sttHang": 13,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 4+",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_4+-10485.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, August 27. Released 2020, September 04",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "165.4 x 75.2 x 8.1 mm (6.51 x 2.96 x 0.32 in)",
+        "weight": "180 g (6.35 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 109.7 cm2 (~88.2% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~247 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
+        "cpu": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+        "gpu": "Adreno 610"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, PDAF\n5 MP",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh"
+      },
+      "misc": {
+        "colors": "Steel Gray",
+        "models": "5062W, 5062Z",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:41.077Z"
+  },
+  {
+    "sttTong": 11924,
+    "sttHang": 11,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL V+ 5G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_v+_5g-10997.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t‑mobile-revvl-v-plus-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t‑mobile-revvl-v-plus-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 12, 25, 26, 41, 66, 71",
+        "5g_bands": "25, 41, 66, 71 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2021, July 01. Released 2021, July 12",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "173.7 x 77.5 x 7.1 mm (6.84 x 3.05 x 0.28 in)",
+        "weight": "-",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.82 inches, 112.3 cm2 (~83.4% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels, 20:9 ratio (~257 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "triple": "16 MP, (wide), AF\n5 MP, (ultrawide)\n2 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "Yes"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Nebula Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:43.003Z"
+  },
+  {
+    "sttTong": 11927,
+    "sttHang": 14,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 4",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_4-10484.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 5, 7, 12, 25, 26, 41, 66, 71",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020, August 27. Released 2020, September 04",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "159 x 76 x 8.1 mm (6.26 x 2.99 x 0.32 in)",
+        "weight": "158.5 (5.61 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.22 inches, 96.6 cm2 (~79.9% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10",
+        "chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "PowerVR GE8300"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3500 mAh"
+      },
+      "misc": {
+        "colors": "Graphite",
+        "models": "5007Z, 5007W, TMRVL4G",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:43.145Z"
+  },
+  {
+    "sttTong": 11928,
+    "sttHang": 15,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Revvlry+",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvlry+-9764.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvlry-plus-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvlry-plus-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 12, 13, 20, 66, 71",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, July. Released 2019, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "158.5 x 75.2 x 8.6 mm (6.24 x 2.96 x 0.34 in)",
+        "weight": "-",
+        "sim": "Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.24 inches, 97.5 cm2 (~81.8% screen-to-body ratio)",
+        "resolution": "1080 x 2270 pixels, 19:9 ratio (~403 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
+        "gpu": "Adreno 509"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "16 MP, f/1.7, 1.22µm, PDAF, OIS\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "12 MP, (wide), 1/2.8\", 1.25µm",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "27W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:45.096Z"
+  },
+  {
+    "sttTong": 11919,
+    "sttHang": 6,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 6x Pro",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_6x_pro-12515.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-6x-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl-6x-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 38, 39, 40, 41, 66, 71",
+        "5g_bands": "25, 41, 66, 71, 77 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2023, August 17",
+        "status": "Available. Released 2023, August 24"
+      },
+      "body": {
+        "dimensions": "173.9 x 77.8 x 9 mm (6.85 x 3.06 x 0.35 in)",
+        "weight": "223.3 g (7.87 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.82 inches, 110.5 cm2 (~81.6% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 or 13",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM, 256GB 6GB RAM"
+      },
+      "main_camera": {
+        "quad": "50 MP, (wide), PDAF\n5 MP, (ultrawide)\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Black, Dark Blue",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:46.274Z"
+  },
+  {
+    "sttTong": 11929,
+    "sttHang": 16,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Revvlry",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvlry-9763.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvlry-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvlry-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4g_bands": "2, 4, 5, 7, 12, 38, 66, 71",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2019, July. Released 2019, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.6 x 71.4 x 8.1 mm (5.85 x 2.81 x 0.32 in)",
+        "weight": "-",
+        "sim": "Nano-SIM\nSplash resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.7 inches, 81.1 cm2 (~76.4% screen-to-body ratio)",
+        "resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1/3.1\", 1.12µm, PDAF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:46.682Z"
+  },
+  {
+    "sttTong": 11931,
+    "sttHang": 18,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Prism II",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_prism_ii-5550.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-prism-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-prism-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 62 x 12.4 mm (4.61 x 2.44 x 0.49 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~50.3% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "1.0 GHz Cortex-A5"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1750 mAh, removable",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:48.893Z"
+  },
+  {
+    "sttTong": 11934,
+    "sttHang": 21,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_2-4897.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 62 x 10 mm (4.49 x 2.44 x 0.39 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~64.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Qualcomm MSM8255T Snapdragon S2",
+        "cpu": "1.4 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 186 h",
+        "talk_time": "Up to 6 h 10"
+      },
+      "misc": {
+        "colors": "Black, Dark red",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:50.473Z"
+  },
+  {
+    "sttTong": 11915,
+    "sttHang": 2,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile T Tablet 2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_t_tablet_2_5g-14082.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-t-tablet2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-t-tablet2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "5g_bands": "1, 3, 7, 28, 38, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, August 14",
+        "status": "Available. Released 2025, August 14"
+      },
+      "body": {
+        "dimensions": "240.2 x 156.5 x 8.5 mm (9.46 x 6.16 x 0.33 in)",
+        "weight": "490 g (1.08 lb)",
+        "sim": "Nano-SIM + eSIM\nStylus support\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 290.4 cm2 (~77.2% screen-to-body ratio)",
+        "resolution": "1200 x 2000 pixels*, 5:3 ratio (~231 ppi density)",
+        "protection": "Mohs level 7\nNXT Paper technology\n* display resolution is not officially revealed"
+      },
+      "platform": {
+        "os": "Android 15, up to 6 major OS updates",
+        "chipset": "Mediatek MT8755",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.3, A2DP, LE",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Slate Black",
+        "price": "About 200 EUR"
+      },
+      "eu_label": {
+        "energy": "Class E",
+        "battery": "81:01h endurance, 1000 cycles",
+        "free_fall": "Class D (78 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:50.876Z"
+  },
+  {
+    "sttTong": 11935,
+    "sttHang": 22,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Prism",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_prism-4736.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-prism.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-prism.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, May. Released 2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.3 x 60.2 x 12.2 mm (4.58 x 2.37 x 0.48 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~52.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.5 (Gingerbread)",
+        "cpu": "600 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:51.255Z"
+  },
+  {
+    "sttTong": 11941,
+    "sttHang": 28,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile SpringBoard",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_springboard-4233.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-springboard.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-springboard.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "190 x 129 x 10.4 mm (7.48 x 5.08 x 0.41 in)",
+        "weight": "607.8 (1.34 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 142.1 cm2 (~58.0% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb), upgradable to 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8260 Snapdragon S3",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nT-Mobile TV\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument editor\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Non-removable Li-Po 7000 mAh battery",
+        "stand-by": "Up to 288 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:55.463Z"
+  },
+  {
+    "sttTong": 11940,
+    "sttHang": 27,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Energy",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_energy-4624.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-energy.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-energy.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2011. Released 2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.5 x 60 x 12 mm (4.59 x 2.36 x 0.47 in)",
+        "weight": "121 g (4.27 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~52.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 2 GB included",
+        "phonebook": "500 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "games": "Yes",
+        "java": "Yes\nSNS applications\nMP3/WAV/AAC+ player\nMP4/H.263 player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:57.782Z"
+  },
+  {
+    "sttTong": 11942,
+    "sttHang": 29,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch Q",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_q-4231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-mytouch-q.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-mytouch-q.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121 x 64 x 13 mm (4.76 x 2.52 x 0.51 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~47.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "2GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, UMA, hotspot",
+        "bluetooth": "3.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Gray, Violet",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:28:59.570Z"
+  },
+  {
+    "sttTong": 11939,
+    "sttHang": 26,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 4G Slide",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_4g_slide-4018.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-4g-slide.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-4g-slide.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 66 x 14 mm (4.80 x 2.60 x 0.55 in)",
+        "weight": "184 g (6.49 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "S-LCD",
+        "size": "3.7 inches, 39.0 cm2 (~48.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.4 (Gingerbread)",
+        "cpu": "Dual-core 1.2 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "4GB 768MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "Dual-LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "3.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1520 mAh battery",
+        "stand-by": "Up to 300 h (2G) / Up to 240 h (3G)",
+        "talk_time": "Up to 9 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "White, Black",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:04.507Z"
+  },
+  {
+    "sttTong": 11943,
+    "sttHang": 30,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch-4232.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-mytouch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-mytouch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 64 x 10 mm (4.80 x 2.52 x 0.39 in)",
+        "weight": "108 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "3.8 inches, 41.1 cm2 (~52.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "2GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, UMA, hotspot",
+        "bluetooth": "3.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 312 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:05.037Z"
+  },
+  {
+    "sttTong": 11944,
+    "sttHang": 31,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile G-Slate",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_g_slate-3932.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g-slate-3d.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g-slate-3d.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 10.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2011, February. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "243.8 x 150 x 12.7 mm (9.60 x 5.91 x 0.5 in)",
+        "weight": "621 g (1.37 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "3D LCD",
+        "size": "8.9 inches, 225.5 cm2 (~61.7% screen-to-body ratio)",
+        "resolution": "768 x 1280 pixels, 5:3 ratio (~168 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.0 (Honeycomb)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "32GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF\n5 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@24fps (2D), 720@30fps (3D)"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nHDMI port\nMP4/DivX/XviD/H.264/WMV player\nMP3/WAV/WMA/eAAC+ player\nDocument viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "stand-by": "Up to 273 h",
+        "talk_time": "Up to 9 h 20 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 710 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:09.755Z"
+  },
+  {
+    "sttTong": 11945,
+    "sttHang": 32,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Move",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_move-3990.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-move.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-move.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2011, June. Released 2011, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 57.4 x 12.5 mm (4.33 x 2.26 x 0.49 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread)",
+        "cpu": "600 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "150MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/AAC+/WAV/WMA player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery"
+      },
+      "misc": {
+        "colors": "Red, Black, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:13.169Z"
+  },
+  {
+    "sttTong": 11938,
+    "sttHang": 25,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vivacity",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vivacity-4347.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vivacity.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vivacity.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, November. Released 2011, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 58 x 10.5 mm (4.53 x 2.28 x 0.41 in)",
+        "weight": "118 g (4.16 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 34.9 cm2 (~52.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "512MB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:14.659Z"
+  },
+  {
+    "sttTong": 11946,
+    "sttHang": 33,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile G2x",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_g2x-3888.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, March. Released 2011, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.5 x 63.5 x 10.2 mm (4.90 x 2.5 x 0.40 in)",
+        "weight": "141.8 g (4.97 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread)",
+        "chipset": "Nvidia Tegra 2 AP20H",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@24fps, 720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass",
+        "browser": "HTML, Adobe Flash\nT-Mobile TV\nNVIDIA Tegra Zone \nT-Mobile Video Chat\nHDMI port\nDivX/Xvid/MP4/H.264/WMV player\nMP3/WAV/WMA/eAAC+ player\nDocument editor\nOrganizer\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 7 h 40 min"
+      },
+      "misc": {
+        "colors": "Dark Ale",
+        "price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:15.407Z"
+  },
+  {
+    "sttTong": 11933,
+    "sttHang": 20,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch Q 2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_q_2-4898.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-q-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-q-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.8 x 63.9 x 14.3 mm (4.91 x 2.52 x 0.56 in)",
+        "weight": "185 g (6.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Qualcomm MSM8255T Snapdragon S2",
+        "cpu": "1.4 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 185 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:20.163Z"
+  },
+  {
+    "sttTong": 11922,
+    "sttHang": 9,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile REVVL 6 Pro",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl_6_pro-11938.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl6-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/tmobile-revvl6-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 71",
+        "5g_bands": "25, 41, 66, 71, 77 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2022, July 28",
+        "status": "Available. Released 2022, July 28"
+      },
+      "body": {
+        "dimensions": "173.9 x 77.8 x 9 mm (6.85 x 3.06 x 0.35 in)",
+        "weight": "214 g (7.55 oz)",
+        "sim": "Nano-SIM\nSplash resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.82 inches, 110.5 cm2 (~81.6% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12",
+        "chipset": "Mediatek Dimensity 700 (7 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "quad": "50 MP, (wide), PDAF\n5 MP, (ultrawide)\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh",
+        "charging": "15W wired\nWireless"
+      },
+      "misc": {
+        "colors": "Dark Shadow",
+        "models": "TMAF035G",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:20.189Z"
+  },
+  {
+    "sttTong": 11948,
+    "sttHang": 35,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vairy Text II",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vairy_text_ii-4031.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-text-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-text-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1800 / 1900\nGSM 900 / 1800 / 1900",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.5 x 59 x 12.2 mm (4.67 x 2.32 x 0.48 in)",
+        "weight": "105 g (3.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.5% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "70MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+ player\nMP4/H.264 player\nDocument viewer\nOrganizer\nCalculator\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 726 h",
+        "talk_time": "Up 16 h 40 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.26 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:22.626Z"
+  },
+  {
+    "sttTong": 11950,
+    "sttHang": 37,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Comet",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_comet-3612.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/T-Mobile-Comet.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/T-Mobile-Comet.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104.1 x 55.9 x 12.7 mm (4.10 x 2.20 x 0.5 in)",
+        "weight": "102.1 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML, Adobe Flash\nMP3/WMA/eAAC+ player\nMP4/H.264 player\nOrganizer\nPhoto viewer/editor\nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 288 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:24.330Z"
+  },
+  {
+    "sttTong": 11949,
+    "sttHang": 36,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vibe E200",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vibe_e200-3624.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/T-Mobile-Vibe-E200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/T-Mobile-Vibe-E200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 53 x 15 mm (4.29 x 2.09 x 0.59 in)",
+        "weight": "95 g (3.35 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 22.3 cm2 (~38.6% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 2 GB included",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP4/H.263 player\nMP3/AAC+ player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 390 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Pink",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:26.127Z"
+  },
+  {
+    "sttTong": 11930,
+    "sttHang": 17,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Revvl",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_revvl-8809.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-revvl.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 (AWS)/ 1900",
+        "4g_bands": "2, 4, 5, 12, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, August. Released 2017, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.9 x 77 x 8.4 mm (5.98 x 3.03 x 0.33 in)",
+        "weight": "157.9 g (5.64 oz)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6738",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 288 h (3G)",
+        "talk_time": "Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:28.068Z"
+  },
+  {
+    "sttTong": 11937,
+    "sttHang": 24,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Arizona",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_arizona-4390.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-arizona.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-arizona.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 3.6/0.384 Mbps",
+        "gprs": "Class 12",
+        "edge": "Class 12"
+      },
+      "launch": {
+        "announced": "2011, Q4. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 55 x 12.9 mm (4.09 x 2.17 x 0.51 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~42.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "100MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.10 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:30.452Z"
+  },
+  {
+    "sttTong": 11955,
+    "sttHang": 42,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Pulse Mini",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_pulse_mini-3167.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-pulse-mini.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-pulse-mini.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 57 x 14 mm (4.17 x 2.24 x 0.55 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~40.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "300MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264 player\nDocument viewer \nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:32.279Z"
+  },
+  {
+    "sttTong": 11956,
+    "sttHang": 43,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 3G Fender Edition",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_3g_fender_edition-3089.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g-fender.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g-fender.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2010, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 56 x 14.7 mm (4.45 x 2.20 x 0.58 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.6 (Donut), upgradable to 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 16 GB included",
+        "internal": "192MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot (Android 2.2)",
+        "bluetooth": "2.0, A2DP (headset support only)",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nMP3/WAV/eAAC+ player\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1340 mAh battery",
+        "stand-by": "Up to 408 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Sunburst",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:37.160Z"
+  },
+  {
+    "sttTong": 11936,
+    "sttHang": 23,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Move Balance",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_move_balance-4389.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-move-balance.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-move-balance.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900\nHSDPA 900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2011, December. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.5 x 59.5 x 10.5 mm (4.67 x 2.34 x 0.41 in)",
+        "weight": "142 g (5.01 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.7 inches, 39.0 cm2 (~55.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.5 (Gingerbread)",
+        "cpu": "800 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 2000 mAh battery",
+        "stand-by": "Up to 770 h",
+        "talk_time": "Up to 11 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.54 W/kg (head)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:37.613Z"
+  },
+  {
+    "sttTong": 11958,
+    "sttHang": 45,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Tap",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_tap-3019.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-tap-midnight-blue.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-tap-midnight-blue.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.7 x 55.9 x 12.7 mm (4.20 x 2.20 x 0.5 in)",
+        "weight": "104.9 g (3.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~40.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "30 received, dialed and missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0 / xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.1\nMP3/AAC+/WAV player\nMP4/H.264 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Berry, Midnight Blue",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:38.948Z"
+  },
+  {
+    "sttTong": 11947,
+    "sttHang": 34,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick 4G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick_4g-3874.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-sidekick-4g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-sidekick-4g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100\nHSDPA 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, March. Released 2011, April 20",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 61 x 15 mm (5.0 x 2.40 x 0.59 in)",
+        "weight": "162 g (5.71 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nOptical trackpad"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 34.9 cm2 (~45.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Hummingbird",
+        "cpu": "1.0 GHz Cortex-A8",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Nо",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash\nT-Mobile TV\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nThinkFree Office document editor , PDF viewer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 456 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Matte black, Pearl magenta",
+        "sar": "0.34 W/kg (head)     0.96 W/kg (body)",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:44.087Z"
+  },
+  {
+    "sttTong": 11959,
+    "sttHang": 46,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Pulse",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_pulse-2911.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-pulse-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-pulse-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, August. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 63 x 13.5 mm (4.57 x 2.48 x 0.53 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.5 inches, 36.5 cm2 (~49.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "192MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nMP3/AAC+/WAV player\nMP4/H.264 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:44.317Z"
+  },
+  {
+    "sttTong": 11952,
+    "sttHang": 39,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile G2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_g2-3518.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 14.4/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, September. Released 2010, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119.4 x 61 x 15.2 mm (4.70 x 2.40 x 0.60 in)",
+        "weight": "184.3 g (6.49 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nOptical trackpad"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.7 inches, 39.0 cm2 (~53.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM7230",
+        "cpu": "800 MHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Nо",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML, Adobe Flash\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 430 h (2G) / Up to 430 h (3G)",
+        "talk_time": "Up to 9 h 50 min (2G) / Up to 6 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "White, Black",
+        "price": "About 420 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:45.338Z"
+  },
+  {
+    "sttTong": 11960,
+    "sttHang": 47,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vairy Text",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vairy_text-3196.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-text.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-text.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 58 x 13.9 mm (4.37 x 2.28 x 0.55 in)",
+        "weight": "103 g (3.63 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~27.7% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "800 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+ player\nMP4/H.264 player\nDocument viewer (Word, Excel, PPT, PDF)\nOrganizer\nCalculator\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 450 h",
+        "talk_time": "Up 9 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:46.642Z"
+  },
+  {
+    "sttTong": 11964,
+    "sttHang": 51,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 3G 1.2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_3g_1_2-3424.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2011. Released 2011",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 56 x 14.7 mm (4.45 x 2.20 x 0.58 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake)",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP (headset support only)",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nVoice memo\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "White, Black, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:52.129Z"
+  },
+  {
+    "sttTong": 11957,
+    "sttHang": 44,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile HD2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_hd2-3228.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-hd2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-hd2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, January. Released 2010, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 67 x 11 mm (4.80 x 2.64 x 0.43 in)",
+        "weight": "157 g (5.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "4.3 inches, 52.6 cm2 (~64.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional, Sense UI",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 16 GB included",
+        "internal": "576MB RAM, 1GB ROM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS; NaviPanel",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/WMV/H.264 player\nPocket Office \nHTC Peep, HTC Footprints\nT-mobile services: MobiTV, BLOCKBUSTER, Barnes & Nobl, Gogo Inflight Internet\nTransformers & Transformers 2 movies preloaded\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1230 mAh battery",
+        "stand-by": "Up to 480 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:29:54.483Z"
+  },
+  {
+    "sttTong": 11966,
+    "sttHang": 53,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile MDA Vario V",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mda_vario_v-2825.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mda-vario-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mda-vario-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 59.2 x 17.3 mm (4.57 x 2.33 x 0.68 in)",
+        "weight": "178.5 g (6.28 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.6 inches, 36.9 cm2 (~53.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~259 ppi density)\nTouchFLO 3D finger swipe navigation\nTouch-sensitive zoom bar\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7200A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "288MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "Factory locked by default, can be enabled",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nPocket Office \nVoice memo\nMP3 player\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 500 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 8 h 30 min (2G) / Up to 6 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black/Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:00.569Z"
+  },
+  {
+    "sttTong": 11961,
+    "sttHang": 48,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vairy Touch II",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vairy_touch_ii-3190.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-touch-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-touch-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, Feburary. Released 2010, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 50 x 12.5 mm (4.02 x 1.97 x 0.49 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 22.3 cm2 (~43.8% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC+/WAV/WMA player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h 50 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:01.244Z"
+  },
+  {
+    "sttTong": 11965,
+    "sttHang": 52,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 3G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_3g-2848.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 56 x 14.7 mm (4.45 x 2.20 x 0.58 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~48.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake)",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 4 GB included",
+        "internal": "192MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nVoice memo\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1340 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White, Black, Red",
+        "sar": "1.37 W/kg (head)     1.05 W/kg (body)",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:01.861Z"
+  },
+  {
+    "sttTong": 11967,
+    "sttHang": 54,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile MDA Compact V",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mda_compact_v-2824.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mda-compact-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mda-compact-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.9 x 53.1 x 13.7 mm (4.25 x 2.09 x 0.54 in)",
+        "weight": "117 g (4.13 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.2 inches, 29.1 cm2 (~50.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~292 ppi density)\nTouchFLO 3D finger swipe navigation\nTouch-sensitive zoom bar\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7200A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "288MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "480p@15fps"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nPocket Office \nVoice memo\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:08.176Z"
+  },
+  {
+    "sttTong": 11963,
+    "sttHang": 50,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Dash 3G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_dash_3g-2887.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-dash-3g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-dash-3g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, March. Released 2009, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.5 x 61.5 x 12 mm (4.59 x 2.42 x 0.47 in)",
+        "weight": "120 g (4.23 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~24.9% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Standard",
+        "cpu": "528 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "192MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264 player\nDocument viewer \nOrganizer\nCalculator\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 380 h (2G) / Up to 480 h (3G)",
+        "talk_time": "Up 8 h 30 min (2G) / Up to 5 h (3G)"
+      },
+      "misc": {
+        "colors": "Brown",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:12.142Z"
+  },
+  {
+    "sttTong": 11970,
+    "sttHang": 57,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Vairy Touch",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_vairy_touch-2858.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-vairy-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2009, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93 x 52 x 16 mm (3.66 x 2.05 x 0.63 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~36.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nT-Mobile 3D UI"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 contacts, Photocall",
+        "call_records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3/MP4 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:16.954Z"
+  },
+  {
+    "sttTong": 11953,
+    "sttHang": 40,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 3G Slide",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_3g_slide-3270.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-slide-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-slide-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 58 x 15 mm (4.49 x 2.28 x 0.59 in)",
+        "weight": "167 (5.89 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nOptical trackpad"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.4 inches, 34.4 cm2 (~52.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~170 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair), upgradable to 2.2 (Froyo)",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "512MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 286 h",
+        "talk_time": "Up to 6 h 40 min"
+      },
+      "misc": {
+        "colors": "White, Black, Red",
+        "sar": "0.75 W/kg (head)     0.65 W/kg (body)",
+        "price": "About 330 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:23.196Z"
+  },
+  {
+    "sttTong": 11973,
+    "sttHang": 60,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile MDA Vario IV",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mda_vario_iv-2581.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-vario-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-vario-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, June. Released 2008",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 51 x 18.1 mm (4.02 x 2.01 x 0.71 in)",
+        "weight": "165 g (5.82 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~46.7% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)\nTouchFLO 3D finger swipe navigation\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML (Opera 9.5)\nTV-out (cable not included)\nPocket Office \nVoice memo\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1340 mAh battery",
+        "stand-by": "Up to 406 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.34 W/kg (head)     0.87 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:23.887Z"
+  },
+  {
+    "sttTong": 11962,
+    "sttHang": 49,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile G2 Touch",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_g2_touch-2890.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2-touch.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g2-touch.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, July. Released 2009, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 56.2 x 14.4 mm (4.41 x 2.21 x 0.57 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~48.4% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 1.5 (Cupcake), Sense UI",
+        "chipset": "Qualcomm MSM7200A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "288MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nDedicated search key\nScenes quick profile switcher\nMP3/AAC+/WAV/WMA9 player\nMP4/H.264/WMV9 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1350 mAh battery",
+        "stand-by": "Up to 440 h (2G) / Up to 750 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:30.889Z"
+  },
+  {
+    "sttTong": 11972,
+    "sttHang": 59,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile G1",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_g1-2533.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-g1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nHSDPA 1700 / 2100 - American version",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2008, September. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 55.7 x 17.1 mm (4.61 x 2.19 x 0.67 in)",
+        "weight": "158 g (5.57 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 30.5 cm2 (~46.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 1.6 (Donut)",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "192MB RAM, 256MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP (headset support only)",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nVoice memo\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 406 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "White, Black, Brown",
+        "sar": "0.71 W/kg (head)     0.84 W/kg (body)",
+        "price": "About 290 EUR"
+      },
+      "our_tests": {
+        "audio_quality": "Noise -87.2dB / Crosstalk -86.1dB"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:30.954Z"
+  },
+  {
+    "sttTong": 11974,
+    "sttHang": 61,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Shadow",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_shadow-2564.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/htc-shadow.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/htc-shadow.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 53 x 15 mm (4.06 x 2.09 x 0.59 in)",
+        "weight": "150 g (5.29 oz)",
+        "keyboard": "Half-QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": ", 53 x 40 mm",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Standard",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC player\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.35 W/kg (head)     0.67 W/kg (body)",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:31.425Z"
+  },
+  {
+    "sttTong": 11951,
+    "sttHang": 38,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch 4G",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_4g-3520.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-hd.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-hd.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 1700 / 2100",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121.9 x 61 x 10.2 mm (4.80 x 2.40 x 0.40 in)",
+        "weight": "153.1 g (5.40 oz)",
+        "sim": "Mini-SIM\nOptical trackpad"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.8 inches, 41.1 cm2 (~55.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread), Sense UI",
+        "chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "4GB 768MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM radio",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo/dial/commands\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 552 h (2G) / Up to 432 h (3G)",
+        "talk_time": "Up to 9 h (2G) / Up to 10 h 20 min (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:34.867Z"
+  },
+  {
+    "sttTong": 11969,
+    "sttHang": 56,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Shadow 2",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_shadow_2-2656.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-shadow-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-shadow-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104.1 x 53.3 x 15.2 mm (4.10 x 2.10 x 0.60 in)",
+        "weight": "150.3 g (5.29 oz)",
+        "keyboard": "Half-QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Standard",
+        "chipset": "TI OMAP V1030",
+        "cpu": "260 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, UMA",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC player\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "White Mint, Black Burgundy",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:37.420Z"
+  },
+  {
+    "sttTong": 11976,
+    "sttHang": 63,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick-2576.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 58 x 18 mm (4.69 x 2.28 x 0.71 in)",
+        "weight": "128 g (4.52 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.6 inches, 19.2 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~179 ppi density)\nSwivel display"
+      },
+      "platform": {
+        "os": "Danger 4.7"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA audio player\nMP4 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1030 mAh battery",
+        "stand-by": "Up to 216 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:38.633Z"
+  },
+  {
+    "sttTong": 11979,
+    "sttHang": 66,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick 3",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick_3-2578.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 59 x 22 mm (5.12 x 2.32 x 0.87 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.6 inches, 20.1 cm2 (~26.2% screen-to-body ratio)",
+        "resolution": "160 x 240 pixels, 3:2 ratio (~111 ppi density)\nSwivel display"
+      },
+      "platform": {
+        "os": "Danger 3.0"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3 audio player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 4 h 50 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:38.880Z"
+  },
+  {
+    "sttTong": 11982,
+    "sttHang": 69,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile myTouch qwerty",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mytouch_qwerty-4770.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g312-qwerty.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g312-qwerty.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "Not officially announced yet",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.4 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "FM Radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nT-Mobile TV\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer \nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:43.276Z"
+  },
+  {
+    "sttTong": 11975,
+    "sttHang": 62,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile MDA Compact IV",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mda_compact_iv-2582.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-compact-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-compact-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, May. Released 2009, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 52 x 12 mm (4.33 x 2.05 x 0.47 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~42.4% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)\nTouchFLO 3D finger swipe navigation\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "4GB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "CIF@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML (Opera 9.5)\nPocket Office \nVoice memo\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 285 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.33 W/kg (head)     1.44 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:44.739Z"
+  },
+  {
+    "sttTong": 11981,
+    "sttHang": 68,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Dash",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_dash-2580.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/dash.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/dash.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 62.5 x 12.8 mm (4.39 x 2.46 x 0.50 in)",
+        "weight": "119 g (4.20 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nHTC JOGGR touch-sensitive navigation bar"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/WAV player\nPocket Office \nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 960 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:30:45.431Z"
+  },
+  {
+    "sttTong": 11980,
+    "sttHang": 67,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Wing",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_wing-2579.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/wing.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/wing.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 58.5 x 18.7 mm (4.29 x 2.30 x 0.74 in)",
+        "weight": "168 g (5.93 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/WAV player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1130 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:30:45.793Z"
+  },
+  {
+    "sttTong": 11971,
+    "sttHang": 58,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile MDA Basic",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_mda_basic-2648.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-basic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mda-basic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 59 x 16 mm (4.13 x 2.32 x 0.63 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~39.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nTouchFLO finger swipe navigation\nHandwriting recognition\n5-way navigation"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:31:01.965Z"
+  },
+  {
+    "sttTong": 11968,
+    "sttHang": 55,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick LX 2009",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick_lx_2009-2787.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-lx-2009.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-lx-2009.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 1700 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2009, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 61 x 16.3 mm (5.20 x 2.40 x 0.64 in)",
+        "weight": "165 g (5.82 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nTrackball"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.2 inches, 28.2 cm2 (~35.0% screen-to-body ratio)",
+        "resolution": "854 x 480 pixels, 16:9 ratio (~306 ppi density)\nSwivel display"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 1 GB included",
+        "phonebook": "2000 contacts, Photo call",
+        "call_records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/WMA/WAV audio player\nMP4/3gp player\nVoice memo\nMySpace, Facebook, Twitter, Photobucket, YouTube apps"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1250 mAh battery",
+        "stand-by": "Up to 192 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Orchid, Carbon",
+        "sar": "0.40 W/kg (head)     0.46 W/kg (body)",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:31:20.728Z"
+  },
+  {
+    "sttTong": 11954,
+    "sttHang": 41,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Garminfone",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_garminfone-3277.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-garminfone.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/t-mobile-garminfone.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 62.2 x 12 mm (4.57 x 2.45 x 0.47 in)",
+        "weight": "136 g (4.80 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~50.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@24fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS, Garmin navigation",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass",
+        "browser": "HTML\nMP3/eAAC+/WAV player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 144 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 340 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:31:42.633Z"
+  },
+  {
+    "sttTong": 11977,
+    "sttHang": 64,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick Slide",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick_slide-2218.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-slide.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-slide.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, September. Released 2007, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119.4 x 61 x 17.8 mm (4.70 x 2.40 x 0.70 in)",
+        "weight": "150 g (5.29 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.5 inches, 50.8 x 38 mm, 19.4 cm2 (~26.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "2000 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nMP3 player (iMelody,MIDI,MP3,AMR formats)\nPredictive text input\nCalculator \nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1130 mAh battery",
+        "stand-by": "Up to 156 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.67 W/kg (head)     0.37 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:31:51.468Z"
+  },
+  {
+    "sttTong": 11932,
+    "sttHang": 19,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Concord",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_concord-4949.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/zte-t-mobile-concord.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/zte-t-mobile-concord.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, August. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 62 x 11.4 mm (4.61 x 2.44 x 0.45 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~50.3% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.5 (Gingerbread)",
+        "chipset": "BCM21553",
+        "cpu": "832 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMP4/WMV/H.264 player\nMP3/WAV/WMA/eAAC+ player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 8 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:32:00.429Z"
+  },
+  {
+    "sttTong": 11978,
+    "sttHang": 65,
+    "brand": "T-Mobile",
+    "deviceName": "T-Mobile Sidekick LX",
+    "deviceUrl": "https://www.gsmarena.com/t_mobile_sidekick_lx-2577.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-lx.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sidekick-lx.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129.5 x 60 x 22 mm (5.10 x 2.36 x 0.87 in)",
+        "weight": "162 g (5.71 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "3.0 inches, 25.6 cm2 (~33.0% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "platform": {
+        "os": "Danger OS"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WMA audio player\nMP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1540 mAh battery",
+        "stand-by": "Up to 96 h",
+        "talk_time": "Up to 6 h 50 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.40 W/kg (head)     0.46 W/kg (body)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:32:28.826Z"
+  }
+]

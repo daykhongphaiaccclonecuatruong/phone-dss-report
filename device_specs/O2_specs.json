@@ -1,0 +1,3206 @@
+[
+  {
+    "sttTong": 7806,
+    "sttHang": 2,
+    "brand": "O2",
+    "deviceName": "O2 XDA Guide",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_guide-2617.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-guide.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-guide.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2008, December. Released 2009, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 53.5 x 14.5 mm (4.02 x 2.11 x 0.57 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~44.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nTouchFLO finger swipe navigation\nHandwriting recognition\n5-way navigation"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "No"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS; TomTom NAVIGATOR 7",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nHTC Footprints\nPocket Office \nVoice memo\nMP3/AAC player\n3GP/MP4/WMV/AVI player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1110 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 6 h 30 min"
+      },
+      "misc": {
+        "colors": "Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:01.234Z"
+  },
+  {
+    "sttTong": 7807,
+    "sttHang": 3,
+    "brand": "O2",
+    "deviceName": "O2 XDA Zest",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_zest-2594.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-zest.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-zest.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 60.5 x 16.5 mm (4.02 x 2.38 x 0.65 in)",
+        "weight": "102.5 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~39.3% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "624MHz Marvell TavorP"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nSiRF star III chipset\nPocket Office \nVoice memo\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:07.888Z"
+  },
+  {
+    "sttTong": 7809,
+    "sttHang": 5,
+    "brand": "O2",
+    "deviceName": "O2 XDA Stellar",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_stellar-2179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-stellar.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-stellar.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, November",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "112 x 59 x 18.6 mm (4.41 x 2.32 x 0.73 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~36.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nBusiness card reader\nVoice memo\nMedia Player 10"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1350 mAh battery",
+        "stand-by": "Up to 365 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:14.095Z"
+  },
+  {
+    "sttTong": 7810,
+    "sttHang": 6,
+    "brand": "O2",
+    "deviceName": "O2 XDA Orbit II",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_orbit_ii-2180.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orbit2-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orbit2-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nHSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, November. Released 2008, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 58 x 15.5 mm (4.33 x 2.28 x 0.61 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nTouchFLO finger swipe navigation\nHandwriting recognition\n4-way navigation wheel"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), SD 2.0 compatible",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, CoPilot Live Navigator",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/WAV/AMR-NB\nplayer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1350 mAh battery",
+        "stand-by": "Up to 400 h (2G) / Up to 450 h (3G)",
+        "talk_time": "Up to 7 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.72 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:21.601Z"
+  },
+  {
+    "sttTong": 7808,
+    "sttHang": 4,
+    "brand": "O2",
+    "deviceName": "O2 XDA Ignito",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_ignito-2491.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-ignito.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-ignito.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, August. Released 2008, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 51 x 11.5 mm (4.02 x 2.01 x 0.45 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~46.7% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)\nTouchFLO 3D finger swipe navigation\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "4GB 192MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "CIF@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nPocket Office \nVoice memo\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 900 mAh battery",
+        "stand-by": "Up to 285 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:37.607Z"
+  },
+  {
+    "sttTong": 7811,
+    "sttHang": 7,
+    "brand": "O2",
+    "deviceName": "O2 XDA Comet",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_comet-2181.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-comet.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-comet.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 58 x 19 mm (4.17 x 2.28 x 0.75 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.7 inches, 22.6 cm2 (~36.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel XScale PXA 270 620 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 1GB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:49.743Z"
+  },
+  {
+    "sttTong": 7805,
+    "sttHang": 1,
+    "brand": "O2",
+    "deviceName": "O2 XDA Serra",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_serra-2780.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda_serra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda_serra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, July. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 51 x 18.1 mm (4.02 x 2.01 x 0.71 in)",
+        "weight": "165 g (5.82 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~46.7% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "288MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WAV/WMA player\nMP4/WMV/3gp player\nPocket Office \nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1340 mAh battery",
+        "stand-by": "Up to 406 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:57:56.076Z"
+  },
+  {
+    "sttTong": 7814,
+    "sttHang": 10,
+    "brand": "O2",
+    "deviceName": "O2 XDA Argon",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_argon-2178.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-argon.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-argon.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 18.8 mm (5.12 x 2.76 x 0.74 in)",
+        "weight": "200 g (7.05 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\nHandwriting recognition\n5-way navigation"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "32-bit Samsung SC3 2442 400 MHz"
+      },
+      "memory": {
+        "card_slot": "SD",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:01.269Z"
+  },
+  {
+    "sttTong": 7816,
+    "sttHang": 12,
+    "brand": "O2",
+    "deviceName": "O2 Cocoon",
+    "deviceUrl": "https://www.gsmarena.com/o2_cocoon-2002.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-cocoon.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-cocoon.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 49 x 21 mm (3.70 x 1.93 x 0.83 in)",
+        "weight": "114 g (4.02 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.28 inches, 16.1 cm2 (~35.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~175 ppi density)\nHidden LED display on front shell"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2GB"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Tetris, Ice Hockey, Sims2 + downloadable",
+        "java": "Yes\nMP3/AAC/AAC+ player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White"
+      },
+      "our_tests": {
+        "loudspeaker": "Voice 65dB / Noise 65dB / Ring 78dB",
+        "audio_quality": "Noise -80.1dB / Crosstalk -79.6dB"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:14.833Z"
+  },
+  {
+    "sttTong": 7812,
+    "sttHang": 8,
+    "brand": "O2",
+    "deviceName": "O2 XDA Nova",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_nova-2183.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-nova.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-nova.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2007, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 58 x 14 mm (3.94 x 2.28 x 0.55 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~41.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nTouchFLO finger swipe navigation\nHandwriting recognition\n5-way navigation"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot), 1 GB included",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Soft Black, Wasabi Green",
+        "price": "About 520 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:19.361Z"
+  },
+  {
+    "sttTong": 7819,
+    "sttHang": 15,
+    "brand": "O2",
+    "deviceName": "O2 XDA Zinc",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_zinc-1819.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-zinc.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-zinc.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 58 x 22.6 mm (4.29 x 2.28 x 0.89 in)",
+        "weight": "175 g (6.17 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale PXA 270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:52.640Z"
+  },
+  {
+    "sttTong": 7815,
+    "sttHang": 11,
+    "brand": "O2",
+    "deviceName": "O2 XDA Star",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_star-2137.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-star.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-star.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "107 x 55 x 15.8 mm (4.21 x 2.17 x 0.62 in)",
+        "weight": "120 g (4.23 oz)",
+        "keyboard": "Half-QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.6 inches, 20.9 cm2 (~35.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)\nTouchFLO finger swipe navigation\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "96MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1120 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:55.263Z"
+  },
+  {
+    "sttTong": 7813,
+    "sttHang": 9,
+    "brand": "O2",
+    "deviceName": "O2 XDA Terra",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_terra-2182.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-terra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-terra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 59 x 17 mm (4.29 x 2.32 x 0.67 in)",
+        "weight": "168 g (5.93 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.7 inches, 42 x 57 mm, 22.6 cm2 (~35.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:56.827Z"
+  },
+  {
+    "sttTong": 7818,
+    "sttHang": 14,
+    "brand": "O2",
+    "deviceName": "O2 XDA Atom Life",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_atom_life-1834.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom-life.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom-life.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 58 x 18 mm (4.17 x 2.28 x 0.71 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~36.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale PXA 270 620 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 1GB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:58:58.139Z"
+  },
+  {
+    "sttTong": 7821,
+    "sttHang": 17,
+    "brand": "O2",
+    "deviceName": "O2 XDA Orbit",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_orbit-1714.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orbit.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orbit.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 16.8 mm (4.25 x 2.28 x 0.66 in)",
+        "weight": "129 g (4.55 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, CoPilot Live Navigator",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:01.787Z"
+  },
+  {
+    "sttTong": 7820,
+    "sttHang": 16,
+    "brand": "O2",
+    "deviceName": "O2 XDA Graphite",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_graphite-1818.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-graphite.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-graphite.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109.5 x 46.9 x 18 mm (4.31 x 1.85 x 0.71 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~29.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "cpu": "Intel XScale PXA 270 416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVideo telephony\nMP3/WMA/WAV/AMR-NB/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:02.259Z"
+  },
+  {
+    "sttTong": 7822,
+    "sttHang": 18,
+    "brand": "O2",
+    "deviceName": "O2 Cosmo",
+    "deviceUrl": "https://www.gsmarena.com/o2_cosmo-1713.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-cosmo.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-cosmo.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 62 x 13 mm (4.37 x 2.44 x 0.51 in)",
+        "weight": "130 g (4.59 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 50 x 37 mm, 17.8 cm2 (~25.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nHTC JOGGR touch-sensitive navigation bar"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPocket Office \nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T12:59:04.501Z"
+  },
+  {
+    "sttTong": 7823,
+    "sttHang": 19,
+    "brand": "O2",
+    "deviceName": "O2 XDA Stealth",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_stealth-1709.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-stealth.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-stealth.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 53 x 22.5 mm (4.33 x 2.09 x 0.89 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~30.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale PXA 272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 192MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:05.853Z"
+  },
+  {
+    "sttTong": 7824,
+    "sttHang": 20,
+    "brand": "O2",
+    "deviceName": "O2 Jet",
+    "deviceUrl": "https://www.gsmarena.com/o2_jet-1735.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-jet.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-jet.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 47 x 20 mm (4.61 x 1.85 x 0.79 in)",
+        "weight": "121 g (4.27 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~22.9% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "56MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes+ downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 540 h",
+        "talk_time": "Up to 9 h 50 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:07.862Z"
+  },
+  {
+    "sttTong": 7827,
+    "sttHang": 23,
+    "brand": "O2",
+    "deviceName": "O2 XDA Trion",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_trion-1572.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-trion.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-trion.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 850 / 1900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 58 x 22 mm (4.45 x 2.28 x 0.87 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "400 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "QCIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1350 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 360 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:12.751Z"
+  },
+  {
+    "sttTong": 7828,
+    "sttHang": 24,
+    "brand": "O2",
+    "deviceName": "O2 XDA Neo",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_neo-1522.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-neo.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-neo.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.8 x 59.3 x 18.4 mm (4.28 x 2.33 x 0.72 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "SD/MMC",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:15.612Z"
+  },
+  {
+    "sttTong": 7825,
+    "sttHang": 21,
+    "brand": "O2",
+    "deviceName": "O2 Ice",
+    "deviceUrl": "https://www.gsmarena.com/o2_ice-1706.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-ice.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-ice.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 44 x 14 mm (4.65 x 1.73 x 0.55 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes+ downloadable",
+        "java": "Yes\nMP3 player\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 312 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:18.770Z"
+  },
+  {
+    "sttTong": 7829,
+    "sttHang": 25,
+    "brand": "O2",
+    "deviceName": "O2 XDA Atom",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_atom-1372.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 18.5 mm (4.02 x 2.28 x 0.73 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~38.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:26.182Z"
+  },
+  {
+    "sttTong": 7826,
+    "sttHang": 22,
+    "brand": "O2",
+    "deviceName": "O2 XDA Atom Exec",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_atom_exec-1625.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom-exec.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-atom-exec.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 18.5 mm (4.02 x 2.28 x 0.73 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.7 inches, 22.6 cm2 (~38.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale PXA 27x 520MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 192MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1530 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:27.838Z"
+  },
+  {
+    "sttTong": 7817,
+    "sttHang": 13,
+    "brand": "O2",
+    "deviceName": "O2 XDA Flame",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_flame-1981.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-flame.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-flame.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 74 x 17.5 mm (4.96 x 2.91 x 0.69 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "3.6 inches, 40.1 cm2 (~43.0% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~222 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel XScale PXA 270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 2GB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "miniUSB, OTG"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/AAC player\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1620 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:32.643Z"
+  },
+  {
+    "sttTong": 7832,
+    "sttHang": 28,
+    "brand": "O2",
+    "deviceName": "O2 XDA mini S",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_mini_s-1274.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xdamini-s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xdamini-s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 23 mm (4.25 x 2.28 x 0.91 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD, up to 2 GB",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nPocket Office \nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:34.920Z"
+  },
+  {
+    "sttTong": 7835,
+    "sttHang": 31,
+    "brand": "O2",
+    "deviceName": "O2 XDA phone",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_phone-1276.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-phone.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-phone.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 46 x 17.5 mm (4.21 x 1.81 x 0.69 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1150 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:43.138Z"
+  },
+  {
+    "sttTong": 7830,
+    "sttHang": 26,
+    "brand": "O2",
+    "deviceName": "O2 XDA Orion",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_orion-1373.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orion.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-orion.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46 x 17.5 mm (4.23 x 1.81 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1150 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T12:59:49.053Z"
+  },
+  {
+    "sttTong": 7836,
+    "sttHang": 32,
+    "brand": "O2",
+    "deviceName": "O2 Xphone IIm",
+    "deviceUrl": "https://www.gsmarena.com/o2_xphone_iim-1179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xphoneIIm.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xphoneIIm.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 47 x 19 mm (4.21 x 1.85 x 0.75 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003 SE",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:51.893Z"
+  },
+  {
+    "sttTong": 7831,
+    "sttHang": 27,
+    "brand": "O2",
+    "deviceName": "O2 XDA Exec",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_exec-1279.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-exec.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xda-exec.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 81 x 25 mm (5.0 x 3.19 x 0.98 in)",
+        "weight": "285 g (10.05 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.6 inches, 73 x 55 mm, 40.1 cm2 (~39.0% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~222 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No\nDual speakers"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1620 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:59:52.961Z"
+  },
+  {
+    "sttTong": 7839,
+    "sttHang": 35,
+    "brand": "O2",
+    "deviceName": "O2 X4",
+    "deviceUrl": "https://www.gsmarena.com/o2_x4-1092.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x4.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x4.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89.9 x 45.1 x 24 mm (3.54 x 1.78 x 0.94 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external 4096 colors display\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD, 32 MB included",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:00:00.083Z"
+  },
+  {
+    "sttTong": 7833,
+    "sttHang": 29,
+    "brand": "O2",
+    "deviceName": "O2 X2i",
+    "deviceUrl": "https://www.gsmarena.com/o2_x2i-1350.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x2i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x2i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 44 x 22 mm (3.50 x 1.73 x 0.87 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external OLED display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 237 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:00:14.332Z"
+  },
+  {
+    "sttTong": 7838,
+    "sttHang": 34,
+    "brand": "O2",
+    "deviceName": "O2 XM",
+    "deviceUrl": "https://www.gsmarena.com/o2_xm-1156.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xm.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-xm.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 47 x 23.5 mm (3.50 x 1.85 x 0.93 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external color display"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO",
+        "phonebook": "250 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "13.8MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:00:16.680Z"
+  },
+  {
+    "sttTong": 7834,
+    "sttHang": 30,
+    "brand": "O2",
+    "deviceName": "O2 X7",
+    "deviceUrl": "https://www.gsmarena.com/o2_x7-1275.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x7.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x7.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 41 x 21 mm (3.35 x 1.61 x 0.83 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "7MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 730 mAh battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:00:22.397Z"
+  },
+  {
+    "sttTong": 7841,
+    "sttHang": 37,
+    "brand": "O2",
+    "deviceName": "O2 XDA IIs",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_iis-933.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 71 x 19 mm (4.92 x 2.80 x 0.75 in)",
+        "weight": "210 g (7.41 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel XScale PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO",
+        "internal": "128MB RAM, 96MB ROM\n44 MB ROM available"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1490 mAh battery",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:00:23.480Z"
+  },
+  {
+    "sttTong": 7843,
+    "sttHang": 39,
+    "brand": "O2",
+    "deviceName": "O2 Xphone II",
+    "deviceUrl": "https://www.gsmarena.com/o2_xphone_ii-918.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xphone2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xphone2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 44 x 18 mm (4.21 x 1.73 x 0.71 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~32.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n5-way navigation key\nDownloadable pictures"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003 SE OS",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD, 64 MB included",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/MP4 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:00:28.433Z"
+  },
+  {
+    "sttTong": 7837,
+    "sttHang": 33,
+    "brand": "O2",
+    "deviceName": "O2 X1b",
+    "deviceUrl": "https://www.gsmarena.com/o2_x1b-1221.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x1b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2-x1b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 44 x 18 mm (4.02 x 1.73 x 0.71 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "16MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:00:32.558Z"
+  },
+  {
+    "sttTong": 7846,
+    "sttHang": 42,
+    "brand": "O2",
+    "deviceName": "O2 X1i",
+    "deviceUrl": "https://www.gsmarena.com/o2_x1i-941.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x1i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x1i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 45 x 18 mm (4.02 x 1.77 x 0.71 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2 - Jumping Bear , Mini Golf",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 235 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:00:47.254Z"
+  },
+  {
+    "sttTong": 7845,
+    "sttHang": 41,
+    "brand": "O2",
+    "deviceName": "O2 X2",
+    "deviceUrl": "https://www.gsmarena.com/o2_x2-760.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004,1 Q",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 44 x 21 mm (3.19 x 1.73 x 0.83 in)",
+        "weight": "89 g (3.14 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external OLED display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "1MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 170 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:00:55.868Z"
+  },
+  {
+    "sttTong": 7847,
+    "sttHang": 43,
+    "brand": "O2",
+    "deviceName": "O2 XDA II",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_ii-697.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 19 mm (5.12 x 2.76 x 0.75 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 for PocketPC Phone Edition",
+        "cpu": "Intel Strong PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:01:00.263Z"
+  },
+  {
+    "sttTong": 7840,
+    "sttHang": 36,
+    "brand": "O2",
+    "deviceName": "O2 XDA II mini",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_ii_mini-944.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2sm.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2sm.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black, silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:01:21.917Z"
+  },
+  {
+    "sttTong": 7848,
+    "sttHang": 44,
+    "brand": "O2",
+    "deviceName": "O2 Xphone",
+    "deviceUrl": "https://www.gsmarena.com/o2_xphone-698.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xphone.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xphone.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 24 mm (4.72 x 1.97 x 0.94 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003",
+        "chipset": "TI OMAP 710",
+        "cpu": "133 MHz  ARM925"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "64MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket applications(Outlook, IE, MSN, ActiveSync)\nMP3/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:01:23.865Z"
+  },
+  {
+    "sttTong": 7842,
+    "sttHang": 38,
+    "brand": "O2",
+    "deviceName": "O2 XDA IIi",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda_iii-999.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda2i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 19 mm (5.12 x 2.76 x 0.75 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Xscale PXA272 520 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO",
+        "internal": "128MB RAM, 96MB ROM\n44 MB ROM available"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/MP4 player\nPDF, PPT viewer \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:01:27.294Z"
+  },
+  {
+    "sttTong": 7844,
+    "sttHang": 40,
+    "brand": "O2",
+    "deviceName": "O2 X3",
+    "deviceUrl": "https://www.gsmarena.com/o2_x3-761.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x3.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2x3.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004,1 Q",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 42 x 26 mm (3.19 x 1.65 x 1.02 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 4096 colors display\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD, 32 MB included",
+        "phonebook": "500",
+        "call_records": "Yes",
+        "internal": "3MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/MP4 player\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:01:29.161Z"
+  },
+  {
+    "sttTong": 7849,
+    "sttHang": 45,
+    "brand": "O2",
+    "deviceName": "O2 XDA",
+    "deviceUrl": "https://www.gsmarena.com/o2_xda-696.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/o2xda.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 73 x 18 mm (5.08 x 2.87 x 0.71 in)",
+        "weight": "201 g (7.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 4096 colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~40.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows PocketPC",
+        "cpu": "Intel Strong PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "64MB RAM, 32MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMedia player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:01:34.267Z"
+  }
+]

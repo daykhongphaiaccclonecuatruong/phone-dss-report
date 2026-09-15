@@ -1,0 +1,836 @@
+[
+  {
+    "sttTong": 6332,
+    "sttHang": 1,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO Explora K75",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_explora_k75-2817.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-k75.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-k75.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.3 x 61.5 x 11.9 mm (4.54 x 2.42 x 0.47 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "3.5 inches, 34.9 cm2 (~49.2% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~133 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, Qualcomm gpsOne",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML 4.0\nMIO Spirit Mobile navigation\nMP3/MP4 player\nOrganizer\nPocket Office \nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:06.565Z"
+  },
+  {
+    "sttTong": 6335,
+    "sttHang": 4,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO Leap K1",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_leap_k1-3207.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-leap-k1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-leap-k1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, June. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.1 x 53.5 x 14.5 mm (4.14 x 2.11 x 0.57 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.6 inches, 20.9 cm2 (~37.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)\nSecondary OLED 65K display, 1.7\" inches"
+      },
+      "platform": {
+        "os": "Windows Mobile 6.1 Professional",
+        "cpu": "Samsung S3C 2443, 400MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64MB RAM, 1GB"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS, SiRF Star III chipset, MioMap navigation",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nDual-face phone\nMP3/WMA/WAV/eAAC player\nMP4/H.263 player\nPocket Office \nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 790 mAh battery",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:12.061Z"
+  },
+  {
+    "sttTong": 6333,
+    "sttHang": 2,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO Explora K70",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_explora_k70-2735.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-k70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-k70.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.3 x 61.5 x 11.9 mm (4.54 x 2.42 x 0.47 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "3.5 inches, 34.9 cm2 (~49.2% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~133 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, Qualcomm gpsOne",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML 4.0\nCar antenna connector\nMP3/MP4 player\nOrganizer\nPocket Office \nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:12.837Z"
+  },
+  {
+    "sttTong": 6334,
+    "sttHang": 3,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO Leap G50",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_leap_g50-3206.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitak-mio-leap-g50.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitak-mio-leap-g50.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2008, August. Released Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 58.5 x 14.2 mm (3.86 x 2.30 x 0.56 in)",
+        "weight": "119 g (4.20 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~42.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Windows Mobile 6.1 Professional",
+        "cpu": "Samsung S3C 2443, 400MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/WMA/WAV/eAAC player\nMP4/H.263 player\nPocket Office \nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:14.257Z"
+  },
+  {
+    "sttTong": 6336,
+    "sttHang": 5,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO A502",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_a502-2159.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a502.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a502.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, Q4",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "95.7 x 59.6 x 20.7 mm (3.77 x 2.35 x 0.81 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.7 inches, 22.6 cm2 (~39.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition\n5 way joystick"
+      },
+      "platform": {
+        "os": "Windows Mobile 6 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, SDIO",
+        "internal": "64MB RAM, ROM varies by region"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML 4.0\nCar antenna connector\nMP3/MP4 player\nOrganizer\nPocket Office \nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 200 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:15.123Z"
+  },
+  {
+    "sttTong": 6337,
+    "sttHang": 6,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO A501",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_a501-2122.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a501.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a501.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, Q4",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "95.7 x 59.6 x 20.7 mm, 118 cc (3.77 x 2.35 x 0.81 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.7 inches, 22.6 cm2 (~39.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition\n5 way joystick"
+      },
+      "platform": {
+        "os": "Windows Mobile 5 AKU3.3",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, SDIO",
+        "internal": "256MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML 4.0\nCar antenna connector\nMP3/MP4 player\nOrganizer\nPocket Office \neUtility\nE-viewer\nMio Menu\nCustomized Today screen\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:17.661Z"
+  },
+  {
+    "sttTong": 6338,
+    "sttHang": 7,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO A702",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_a702-2109.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a702.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mio-a702.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, September. Released 2007, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 57.5 x 16.5 mm (4.33 x 2.26 x 0.65 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.7 inches, 22.6 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 256MB to 2GB (depends on region)"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nMP3/MP4 player\nPocket Office \nOrganizer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1130 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "price": "About 340 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:18.634Z"
+  },
+  {
+    "sttTong": 6339,
+    "sttHang": 8,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO A701",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_a701-1261.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-a701.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-a701.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 59 x 22 mm (4.61 x 2.32 x 0.87 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.7 inches, 41 x 54 mm, 22.6 cm2 (~32.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)\nHandwriting recognition \n5 way navigation key"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel PXA270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD, up to 2 GB",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "GPS, SiRF Star III chipset",
+        "radio": "No",
+        "usb": "1.0"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML(IE 4.0)\nPocket Office \nMP3/MP4 player\nOrganizer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:18:21.016Z"
+  },
+  {
+    "sttTong": 6340,
+    "sttHang": 9,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO 8870",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_8870-929.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-8870.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-8870.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 49 x 21 mm, 110 cc (4.33 x 1.93 x 0.83 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~28.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nAnimated screensavers\nColor backgrounds"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE Smartphone",
+        "cpu": "Intel PXA262 200 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD, up to 1 GB",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, Hi-Fi ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nMP3/MP4 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:18:22.172Z"
+  },
+  {
+    "sttTong": 6342,
+    "sttHang": 11,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO 8390",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_8390-590.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-8390.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mitac-mio-8390.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 51 x 24 mm (3.90 x 2.01 x 0.94 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors (65K effective)",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels, 8 lines (~128 ppi density)\nSecond LCD display (48 x 64 pixels)"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003",
+        "cpu": "Intel PXA262 200 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "16MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40), MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nSync ML\nMP4 encoder/decoder\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1050 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Dazzling silver, opulent red"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:25.509Z"
+  },
+  {
+    "sttTong": 6343,
+    "sttHang": 12,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO 8380",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_8380-589.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mtc8380.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mtc8380.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 52 x 30 mm (3.82 x 2.05 x 1.18 in)",
+        "weight": "143 g (5.04 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65k colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels, 8 lines (~128 ppi density)\nSecond LCD display (48 x 64 pixels)"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2002",
+        "cpu": "Intel PXA255 200 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD",
+        "internal": "16MB RAM, 32MB ROM"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nSync ML\nMP4 encoder/decoder\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1050 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T04:18:28.495Z"
+  },
+  {
+    "sttTong": 6341,
+    "sttHang": 10,
+    "brand": "Mitac",
+    "deviceName": "Mitac MIO 8860",
+    "deviceUrl": "https://www.gsmarena.com/mitac_mio_8860-726.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/mtc8860.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mtc8860.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors (65K effective)",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nSecond external display 65K colors"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003",
+        "cpu": "Intel XScale 200 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SD"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T04:18:43.943Z"
+  }
+]

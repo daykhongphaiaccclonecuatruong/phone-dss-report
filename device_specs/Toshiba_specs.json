@@ -1,0 +1,2530 @@
+[
+  {
+    "sttTong": 12321,
+    "sttHang": 1,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite Go",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_go-6466.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-go.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-go.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "199 x 119.8 x 10.9 mm (7.83 x 4.72 x 0.43 in)",
+        "weight": "354.4 g (12.49 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Intel Atom Z3735G",
+        "cpu": "Quad-core 1.33 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3500 mAh, non-removable (13 Wh)",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver, Black/White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:09.731Z"
+  },
+  {
+    "sttTong": 12324,
+    "sttHang": 4,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite Write",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_write-5501.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-write-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-write-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "261.6 x 177.8 x 10.2 mm (10.30 x 7.00 x 0.40 in)",
+        "weight": "671.3 g (1.48 lb)",
+        "sim": "No\nStylus"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~63.6% screen-to-body ratio)",
+        "resolution": "2560 x 1600 pixels, 16:10 ratio (~299 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.1 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 4",
+        "cpu": "Quad-core Cortex-A15",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po (33 Wh)",
+        "talk_time": "Up to 11 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 440 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:11.993Z"
+  },
+  {
+    "sttTong": 12323,
+    "sttHang": 3,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite Pro",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_pro-5500.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-pro-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-pro-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "261.6 x 177.8 x 10.2 mm (10.30 x 7.00 x 0.40 in)",
+        "weight": "630.5 g (1.39 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~63.6% screen-to-body ratio)",
+        "resolution": "2560 x 1600 pixels, 16:10 ratio (~299 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.1 (Jelly Bean), upgradаble to 4.3 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 4",
+        "cpu": "Quad-core Cortex-A15",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po (33 Wh)",
+        "talk_time": "Up to 11 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:13.538Z"
+  },
+  {
+    "sttTong": 12327,
+    "sttHang": 7,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite 13 AT335",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_13_at335-4691.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-13-AT335.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-13-AT335.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, April. Released 2012, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "343.8 x 211.2 x 9.8 mm (13.54 x 8.31 x 0.39 in)",
+        "weight": "998 g (2.20 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "13.3 inches, 644.9 cm2 (~88.8% screen-to-body ratio)",
+        "resolution": "1600 x 900 pixels, 16:9 ratio (~120 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "ULP GeForce 2"
+      },
+      "memory": {
+        "card_slot": "SD/microSDHC (dedicated slot)",
+        "internal": "32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with four speakers",
+        "35mm_jack": "Yes\nSRS audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Po battery (38 Wh)",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 13 h"
+      },
+      "misc": {
+        "colors": "Dark gray metallic",
+        "price": "About 540 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:13.673Z"
+  },
+  {
+    "sttTong": 12325,
+    "sttHang": 5,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite Pure",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_pure-5502.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-pure-new.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-pure-new.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, June. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "261.6 x 177.8 x 10.2 mm (10.30 x 7.00 x 0.40 in)",
+        "weight": "598.7 g (1.32 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~63.6% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.1 (Jelly Bean), upgradаble to 4.3 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "1.2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po (25 Wh)",
+        "talk_time": "Up to 13 h 30 min (multimedia)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:14.566Z"
+  },
+  {
+    "sttTong": 12326,
+    "sttHang": 6,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite 10 SE",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_10_se-5154.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-se.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-se.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, December. Released 2012, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "261.6 x 180.3 x 10.2 mm (10.30 x 7.10 x 0.40 in)",
+        "weight": "639.6 g (1.41 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "ULP GeForce 2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nSRS audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass"
+      },
+      "battery": {
+        "type": "Li-Po (25 Wh)",
+        "talk_time": "Up to 12 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:14.993Z"
+  },
+  {
+    "sttTong": 12328,
+    "sttHang": 8,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite 10 AT305",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_10_at305-4692.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-AT305.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-AT305.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, April. Released 2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "262 x 178 x 9 mm (10.31 x 7.01 x 0.35 in)",
+        "weight": "599 g (1.32 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit LCD,",
+        "size": "10.1 inches, 295.8 cm2 (~63.4% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "ULP GeForce 2"
+      },
+      "memory": {
+        "card_slot": "SD/microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nSRS audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Po battery (25 Wh)",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:15.130Z"
+  },
+  {
+    "sttTong": 12329,
+    "sttHang": 9,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite 7.7 AT275",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_7_7_at275-4693.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-77-AT275.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-77-AT275.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012, April. Released 2012, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "204.5 x 135.2 x 7.8 mm (8.05 x 5.32 x 0.31 in)",
+        "weight": "332 g (11.71 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "7.7 inches, 171.9 cm2 (~62.2% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~196 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Nvidia Tegra 3",
+        "cpu": "Quad-core 1.5 GHz",
+        "gpu": "ULP GeForce 2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nSRS audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Po battery (15 Wh)"
+      },
+      "misc": {
+        "colors": "Dark gray metallic",
+        "price": "About 410 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:16.675Z"
+  },
+  {
+    "sttTong": 12330,
+    "sttHang": 10,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite AT200",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_at200-4400.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-at200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-at200.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, September. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "256 x 176 x 7.7 mm (10.08 x 6.93 x 0.30 in)",
+        "weight": "558 g (1.23 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit LCD,",
+        "size": "10.1 inches, 295.8 cm2 (~65.6% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb)",
+        "chipset": "TI OMAP 4430",
+        "cpu": "1.2 GHz",
+        "gpu": "PowerVR SGX540"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "talk_time": "Up to 8 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 530 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:17.794Z"
+  },
+  {
+    "sttTong": 12331,
+    "sttHang": 11,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Thrive 7",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_thrive_7-4203.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-thrive-7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-thrive-7.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2011, September. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "189 x 128.1 x 11.9 mm (7.44 x 5.04 x 0.47 in)",
+        "weight": "400 g (14.11 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "LED-backlit LCD,",
+        "size": "7.0 inches, 142.1 cm2 (~58.7% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.2 (Honeycomb)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery (15 Wh)",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:18.330Z"
+  },
+  {
+    "sttTong": 12333,
+    "sttHang": 13,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Thrive",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_thrive-3970.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-thrive.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-thrive.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, June. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "273 x 177 x 16 mm (10.75 x 6.97 x 0.63 in)",
+        "weight": "725 g (1.60 lb)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~61.2% screen-to-body ratio)",
+        "resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 3.0 (Honeycomb), upgradable to 3.2 (Honeycomb)",
+        "chipset": "Nvidia Tegra 2 T20",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "ULP GeForce"
+      },
+      "memory": {
+        "card_slot": "SD, up to 32 GB",
+        "internal": "8GB 1GB RAM, 16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "miniUSB 2.0, USB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass",
+        "browser": "HTML5, Adobe Flash\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nDocument viewer\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:20.018Z"
+  },
+  {
+    "sttTong": 12334,
+    "sttHang": 14,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba K01",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_k01-3161.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-k01.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-k01.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 65 x 12.9 mm (4.80 x 2.56 x 0.51 in)",
+        "weight": "158 g (5.57 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 65K colors",
+        "size": "4.1 inches, 47.8 cm2 (~60.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)\n3D UI\nShake control"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional, upgradable to Windows Mobile 6.5.3",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nMP3/WAV/WMA/eAAC+ player\nMP4/H.264/WMV player\nOrganizer\nFacebook and YouTube apps\nPhoto editor\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.37 W/kg (head)     0.36 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:20.558Z"
+  },
+  {
+    "sttTong": 12322,
+    "sttHang": 2,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Excite 7c AT7-B8",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_excite_7c_at7_b8-6467.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-7c-at7-b8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-excite-7c-at7-b8.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "199 x 119.8 x 10.9 mm (7.83 x 4.72 x 0.43 in)",
+        "weight": "354.4 g (12.49 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.0 inches, 137.9 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Rockchip RK3168",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 3500 mAh, non-removable (13 Wh)",
+        "talk_time": "Up to 11 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:21.872Z"
+  },
+  {
+    "sttTong": 12335,
+    "sttHang": 15,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TG02",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_tg02-3159.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tg02.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tg02.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 66 x 9.9 mm (4.96 x 2.60 x 0.39 in)",
+        "weight": "119 g (4.20 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "4.1 inches, 47.8 cm2 (~57.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)\n3D UI\nShake control"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5 Professional",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nOrganizer\nMP3/eAAC+/WMA player\nMP4/H.264/WMV player\nFacebook and YouTube apps\nPhoto editor\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 275 h (2G) / Up to 220 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.20 W/kg (head)     0.30 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:22.483Z"
+  },
+  {
+    "sttTong": 12337,
+    "sttHang": 17,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G810",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g810-2273.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g810.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g810.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/2 Mbps"
+      },
+      "launch": {
+        "announced": "2008, February. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 58 x 14 mm (4.33 x 2.28 x 0.55 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.83 inches, 24.8 cm2 (~38.9% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~141 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nMP3/ACC+ player\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:22.905Z"
+  },
+  {
+    "sttTong": 12336,
+    "sttHang": 16,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TG01",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_tg01-2662.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tg01.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tg01.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2009, January. Released 2009, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 9.9 mm (5.12 x 2.76 x 0.39 in)",
+        "weight": "129 g (4.55 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "4.1 inches, 47.8 cm2 (~52.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)\n3D UI\nShake control"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional, upgradable to Windows Mobile 6.5",
+        "chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nMP3/eAAC+/WMA player\nMP4/H.264/WMV player\nFacebook and YouTube apps\nPhoto editor\nVoice memo/dial\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 276 h (2G) / Up to 220 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.37 W/kg (head)     0.44 W/kg (body)",
+        "price": "About 500 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:23.281Z"
+  },
+  {
+    "sttTong": 12338,
+    "sttHang": 18,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G910 / G920",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g910___g920-2231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g910.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g910.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, January. Released 2008, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 64 x 19.8 mm, 145 cc (4.61 x 2.52 x 0.78 in)",
+        "weight": "183 g (6.46 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.0 inches, 25.6 cm2 (~34.2% screen-to-body ratio)",
+        "resolution": "800 x 480 pixels (Wide-VGA), 5:3 ratio (~311 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g, VoIP over WLAN",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (Opera 8.6)\nPocket Office \nMP3/ACC+ player\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1320 mAh battery",
+        "stand-by": "Up to 330 h",
+        "talk_time": "Up to 4 h 25 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "sar": "0.33 W/kg (head)     0.66 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:23.449Z"
+  },
+  {
+    "sttTong": 12341,
+    "sttHang": 21,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G900",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g900-1905.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 61 x 21.5 mm (4.69 x 2.40 x 0.85 in)",
+        "weight": "198 g (6.98 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.0 inches, 25.6 cm2 (~35.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~311 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Professional",
+        "cpu": "Marvell PXA270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "40MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g, VoIP over WLAN",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted)",
+        "browser": "WAP 2.0/xHTML, HTML (Opera 8.6)\nPocket Office \nMP3/ACC+ player\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1320 mAh battery",
+        "stand-by": "Up to 320 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver",
+        "sar": "0.50 W/kg (head)     1.13 W/kg (body)",
+        "price": "About 410 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:26.780Z"
+  },
+  {
+    "sttTong": 12342,
+    "sttHang": 22,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G500",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g500-1904.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96 x 49 x 22.9 mm (3.78 x 1.93 x 0.90 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.3 inches, 16.4 cm2 (~34.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0",
+        "cpu": "32-bit Intel XScale PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration, MP3 ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g, VoIP over WLAN",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted)",
+        "browser": "WAP 2.0/xHTML, HTML (Opera 8.6)\nPocket Office \nMP3/WMA/ACC+ player\nMP4/WMV/H.264/H.263 player\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 240 h (2G) / Up to 240 h (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 3 h (3G)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "sar": "0.22 W/kg (head)     1.44 W/kg (body)",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:27.332Z"
+  },
+  {
+    "sttTong": 12346,
+    "sttHang": 26,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS705",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts705-1699.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts705.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts705.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 15 mm (4.13 x 1.81 x 0.59 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "rotating",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/ACC/ACC+ player\nPredictive text input\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:27.343Z"
+  },
+  {
+    "sttTong": 12340,
+    "sttHang": 20,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G710",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g710-2232.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g710.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g710.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, January. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 62 x 13 mm (4.53 x 2.44 x 0.51 in)",
+        "weight": "130 g (4.59 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.46 inches, 18.7 cm2 (~26.3% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~163 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6 Standard",
+        "chipset": "TI OMAP V1030",
+        "cpu": "260 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (IE)\nPocket Office \nMP3/ACC+ player\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:28.595Z"
+  },
+  {
+    "sttTong": 12343,
+    "sttHang": 23,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS605",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts605-1814.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts605.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts605.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 47 x 10.3 mm (4.45 x 1.85 x 0.41 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.93 inches, 11.7 cm2 (~22.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~146 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "5.5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, WSP",
+        "games": "3 embedded",
+        "java": "Yes, MIDP 2.0\nMP3/ACC+ player\nPredictive text input\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Pink, Green, Champagne, Copper, Silver, Aubergine"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:28.660Z"
+  },
+  {
+    "sttTong": 12345,
+    "sttHang": 25,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS32",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts32-1812.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts32.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts32.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 47 x 10.3 mm (4.45 x 1.85 x 0.41 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.93 inches, 11.7 cm2 (~22.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~146 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "5.5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/ACC/ACC+ player\nPredictive text input\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Lunar Graphite, Desert Gold, Midnight Purple"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:31.347Z"
+  },
+  {
+    "sttTong": 12349,
+    "sttHang": 29,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba 904T",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_904t-1618.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-904T.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-904T.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 50 x 26 mm (4.41 x 1.97 x 1.02 in)",
+        "weight": "146 g (5.15 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external 1.16-inch STN display (33 x 160 pixels)\nRotate 180 deg display"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nMP3 player\nPC Sync\nPredictive text input\nElectronic dictionary\nOrganizer\nPhoto editor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4.5 h"
+      },
+      "misc": {
+        "colors": "Forest Green, Urban Silver, Canyon Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:31.846Z"
+  },
+  {
+    "sttTong": 12332,
+    "sttHang": 12,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba Windows Phone IS12T",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_windows_phone_is12t-4076.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-windows-phone-is12t.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-windows-phone-is12t.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / EVDO",
+        "2g_bands": "CDMA 800 / 1900\nGSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "CDMA2000 1xEV-DO",
+        "speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "launch": {
+        "announced": "2011, July. Released 2011, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 59 x 10.6 mm (4.65 x 2.32 x 0.42 in)",
+        "weight": "113 g (3.99 oz)",
+        "sim": "Mini-SIM\nIPX8 water resistant"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.7 inches, 39.0 cm2 (~56.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 7.5 Mango",
+        "chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB (28GB user available)"
+      },
+      "main_camera": {
+        "single": "13.2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g/n",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMP3/AAC+/WAV/WMA9 player\nMP4/WMV9 player\nDocument viewer/editor\nFacebook integration"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1460 mAh battery",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 6 h 40 min"
+      },
+      "misc": {
+        "colors": "Citrus, Magenta, Black",
+        "price": "About 590 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:32.571Z"
+  },
+  {
+    "sttTong": 12351,
+    "sttHang": 31,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba 705T",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_705t-1571.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-705t.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-705t.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 47 x 23 mm (3.86 x 1.85 x 0.91 in)",
+        "weight": "121 g (4.27 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.4 cm2 (~26.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSecond external mono display (160 x 96 pixels)\nWallpapers and mail animations"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes, Photocall",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nTV-out\nElectronic dictionary\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Shell White, Urban Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:33.580Z"
+  },
+  {
+    "sttTong": 12350,
+    "sttHang": 30,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba 903T",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_903t-1613.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-903T.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-903T.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 50 x 25 mm (4.37 x 1.97 x 0.98 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "2.4 inches, 17.8 cm2 (~32.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external 1.1-inch TFT display, 65K colors, (112 x 112 pixels)\nRotate 180 deg display"
+      },
+      "memory": {
+        "card_slot": "SD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "Yes\nMP3 player\nPC Sync\nTV-out\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 5.4 h"
+      },
+      "misc": {
+        "colors": "Blaze Orange, Deep Sea Blue, Haze White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:35.178Z"
+  },
+  {
+    "sttTong": 12353,
+    "sttHang": 33,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS808",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts808-1700.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts808.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts808.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 47 x 23 mm (3.86 x 1.85 x 0.91 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 48.8 x 36.6 mm, 17.8 cm2 (~38.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external mono STN display (96 x 160 pixels)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "Yes + downloadable",
+        "java": "Yes\nMP3 player\nTV-out\nVoice memo\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 2 h 50 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:36.142Z"
+  },
+  {
+    "sttTong": 12352,
+    "sttHang": 32,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS921",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts921-1532.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts921.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts921.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 50 x 25 mm (4.37 x 1.97 x 0.98 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 48.8 x 36.6 mm, 17.8 cm2 (~32.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external 65K colors display (112 x 112 pixels)"
+      },
+      "memory": {
+        "card_slot": "SD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "2 + downloadable",
+        "java": "Yes\nMP3/AAC player\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Glossy Red, Purplish Silver, Matte Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:38.756Z"
+  },
+  {
+    "sttTong": 12355,
+    "sttHang": 35,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS10",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts10-1528.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 46 x 17 mm, 75 cc (3.82 x 1.81 x 0.67 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono FSTN display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "2 + downloadable",
+        "java": "No\nVoice memo\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:39.383Z"
+  },
+  {
+    "sttTong": 12354,
+    "sttHang": 34,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS803",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts803-1529.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts803.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts803.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 47 x 26 mm (3.94 x 1.85 x 1.02 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 48.8 x 36.6 mm, 17.8 cm2 (~38.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external mono STN display (96 x 160 pixels)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "2.26 MP, AF",
+        "features": "LED flash",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "2 + downloadable",
+        "java": "Yes\nMP3 player\nTV-out\nVoice memo\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:40.079Z"
+  },
+  {
+    "sttTong": 12344,
+    "sttHang": 24,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TX80",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_tx80-1813.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tx80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tx80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 49 x 20 mm (3.82 x 1.93 x 0.79 in)",
+        "weight": "111 g (3.92 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~37.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)\nSecond external mono OLED display, 96 x 39 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "40MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+ player\nPredictive text input\nPhoto editor\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 330 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Cosmo Pink, Sugar White, Honeycomb Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:48.467Z"
+  },
+  {
+    "sttTong": 12347,
+    "sttHang": 27,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TS608",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_ts608-1698.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts608.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-ts608.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46.9 x 9.9 mm (4.33 x 1.85 x 0.39 in)",
+        "weight": "81 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.93 inches, 11.7 cm2 (~22.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~146 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "8MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, WSP",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nPhoto editor\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:49.369Z"
+  },
+  {
+    "sttTong": 12339,
+    "sttHang": 19,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba G450",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_g450-2237.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g450.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-g450.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 36 x 16 mm (3.86 x 1.42 x 0.63 in)",
+        "weight": "57 g (2.01 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphics",
+        "resolution": "96 x 39 pixels"
+      },
+      "platform": {
+        "chipset": "Qualcomm MSM6280",
+        "cpu": "ARM 9"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "160MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3, AAC, AAC+, eAAC+ player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Red, White",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:43:17.774Z"
+  },
+  {
+    "sttTong": 12348,
+    "sttHang": 28,
+    "brand": "Toshiba",
+    "deviceName": "Toshiba TX62",
+    "deviceUrl": "https://www.gsmarena.com/toshiba_tx62-1626.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tx62.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/toshiba-tx62.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98 x 47 x 23 mm (3.86 x 1.85 x 0.91 in)",
+        "weight": "121 g (4.27 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.4 cm2 (~26.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSecond external 1.3-inch mono STN display"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "40MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\nExternal music control keypad"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes+ downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+ player\nTV-out\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 370 h",
+        "talk_time": "Up to 3 h 10 min"
+      },
+      "misc": {
+        "colors": "Black, Green, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:43:33.398Z"
+  }
+]

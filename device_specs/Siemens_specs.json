@@ -1,0 +1,6297 @@
+[
+  {
+    "sttTong": 11327,
+    "sttHang": 4,
+    "brand": "Siemens",
+    "deviceName": "Siemens ME75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_me75-1324.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-me75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-me75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 18 mm (4.13 x 1.81 x 0.71 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM\nDust, shock and splash resistant"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nOrganizer\nSyncML\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 450 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Amazon Green, Atlas Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:11.469Z"
+  },
+  {
+    "sttTong": 11329,
+    "sttHang": 6,
+    "brand": "Siemens",
+    "deviceName": "Siemens AX72",
+    "deviceUrl": "https://www.gsmarena.com/siemens_ax72-1327.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ax72.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ax72.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.6 x 46.8 x 17.5 mm (4.16 x 1.84 x 0.69 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n1.5 MB free memory"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Basalt Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:20.336Z"
+  },
+  {
+    "sttTong": 11326,
+    "sttHang": 3,
+    "brand": "Siemens",
+    "deviceName": "Siemens AF51",
+    "deviceUrl": "https://www.gsmarena.com/siemens_af51-1377.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-af51.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-af51.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "79 x 41 x 19.6 mm (3.11 x 1.61 x 0.77 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio\nSecond external 65K colors display, CSTN (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 620 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Panther Black, Dolphin Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:24.440Z"
+  },
+  {
+    "sttTong": 11330,
+    "sttHang": 7,
+    "brand": "Siemens",
+    "deviceName": "Siemens SG75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sg75-1288.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sg75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sg75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Sep",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "98 x 49.5 x 23 mm, 104 cc (3.86 x 1.95 x 0.91 in)",
+        "weight": "123 g (4.34 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFD, 256K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.6 cm2 (~26.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "70MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nVideo telephony\nMP3 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Po 920 mAh battery",
+        "stand-by": "Up to 325 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Metallic White"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:27.151Z"
+  },
+  {
+    "sttTong": 11332,
+    "sttHang": 9,
+    "brand": "Siemens",
+    "deviceName": "Siemens CC75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cc75-1247.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cc75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cc75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "111 x 44 x 12.6 mm, 65 cc (4.37 x 1.73 x 0.50 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "3MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "No\nPredictive text input\nOrganizer\nBirthday reminder\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery (EBA-720)",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Aluminium Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:30.178Z"
+  },
+  {
+    "sttTong": 11324,
+    "sttHang": 1,
+    "brand": "Siemens",
+    "deviceName": "Siemens AL21",
+    "deviceUrl": "https://www.gsmarena.com/siemens_al21-1379.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-al21.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-al21.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86.8 x 45.8 x 19.2 mm (3.42 x 1.80 x 0.76 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Red Temptation, Black Magic"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:31.533Z"
+  },
+  {
+    "sttTong": 11335,
+    "sttHang": 12,
+    "brand": "Siemens",
+    "deviceName": "Siemens S75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s75-1212.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-s75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-s75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 47 x 18.5 mm, 84 cc (4.06 x 1.85 x 0.73 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 28 x 38 mm, 11.2 cm2 (~23.1% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC, up to 1 GB, 128 MB included",
+        "phonebook": "1000 x 43 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "20MB\n100 short messages"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPush to Talk\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nSyncML\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Piano Black, Zirconia"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:32.806Z"
+  },
+  {
+    "sttTong": 11336,
+    "sttHang": 13,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl75-1213.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sl75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sl75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92 x 48 x 23 mm, 78 cc (3.62 x 1.89 x 0.91 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "132 x 176 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 x 23 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "52MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "SeaBattle, Wappo 2, Golf + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Pure Silver, Polar White, Onyx Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:33.453Z"
+  },
+  {
+    "sttTong": 11331,
+    "sttHang": 8,
+    "brand": "Siemens",
+    "deviceName": "Siemens SFG75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sfg75-1289.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sfg75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sfg75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Sep",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 45 x 24 mm, 97 cc (3.54 x 1.77 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 30 x 40 mm, 12.6 cm2 (~31.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nSecond CSTN display (96 x 96 pixels), 65K colors\nWallpapers\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVideo telephony\nMP3/MP4 player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 840 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:34.215Z"
+  },
+  {
+    "sttTong": 11337,
+    "sttHang": 14,
+    "brand": "Siemens",
+    "deviceName": "Siemens C75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c75-1186.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-c75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-c75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 44 x 17 mm (4.06 x 1.73 x 0.67 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio\n5-way joystick\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "100 received, 100 dialed and 100 missed calls",
+        "internal": "10MB\n100 short messages"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nStopwatch\nOrganizer\nVoice memo\nClip-it covers\nUser profiles\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Palladium and Light Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:35.254Z"
+  },
+  {
+    "sttTong": 11338,
+    "sttHang": 15,
+    "brand": "Siemens",
+    "deviceName": "Siemens SP65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sp65-1135.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisp65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisp65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 48 x 18 mm, 85 cc (4.29 x 1.89 x 0.71 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.1 inches, 32 x 42 mm, 13.7 cm2 (~26.1% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio (~105 ppi density)\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "1000 x 20 fields",
+        "call_records": "100 dialed, 100 received, 100 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nStopwatch\nReminder list\nVoice memo\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Steel black, Bordeaux"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:35.778Z"
+  },
+  {
+    "sttTong": 11328,
+    "sttHang": 5,
+    "brand": "Siemens",
+    "deviceName": "Siemens AP75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_ap75-1326.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ap75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ap75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 44 x 18 mm (4.02 x 1.73 x 0.71 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n500 KB free memory"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 860 mAh battery",
+        "stand-by": "Up to 161 h",
+        "talk_time": "Up to 5 h 40 min"
+      },
+      "misc": {
+        "colors": "Cosmic Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:36.052Z"
+  },
+  {
+    "sttTong": 11339,
+    "sttHang": 16,
+    "brand": "Siemens",
+    "deviceName": "Siemens SXG75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sxg75-1101.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sxg75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-sxg75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 53 x 20 mm, 108 cc (4.39 x 2.09 x 0.79 in)",
+        "weight": "134 g (4.73 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "250 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "128MB\n64 MB free memory"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nInfrared transfer of data between compatible phones\nXpress-on covers\nProfiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Metallic White, Metallic Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:38.379Z"
+  },
+  {
+    "sttTong": 11340,
+    "sttHang": 17,
+    "brand": "Siemens",
+    "deviceName": "Siemens M75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m75-1100.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-m75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-m75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110.5 x 51.5 x 20.8 mm, 104 cc (4.35 x 2.03 x 0.82 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM\nDust, shock and splash resistant\nMetal frame"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 28 x 38 mm, 11.2 cm2 (~19.6% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC, 32 MB included",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "14MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3/AAC player\nVideo player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Safari Green, Volcano Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:38.539Z"
+  },
+  {
+    "sttTong": 11341,
+    "sttHang": 18,
+    "brand": "Siemens",
+    "deviceName": "Siemens CX75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cx75-1099.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cx75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cx75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 48 x 19 mm, 90 cc (4.41 x 1.89 x 0.75 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 28 x 38 mm, 11.2 cm2 (~20.8% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 4:3 ratio (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "14MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, EMail, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPush and Talk\nMP3/AAC player\nPredictive text input\nOrganizer\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Titan grey, Sand silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:38.714Z"
+  },
+  {
+    "sttTong": 11333,
+    "sttHang": 10,
+    "brand": "Siemens",
+    "deviceName": "Siemens CF110",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cf110-1248.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cf110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cf110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 45 x 18 mm, 68 cc (3.27 x 1.77 x 0.71 in)",
+        "weight": "76.5 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery (EBA-160)",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Moonlight Silver, Midnight Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:39.302Z"
+  },
+  {
+    "sttTong": 11343,
+    "sttHang": 20,
+    "brand": "Siemens",
+    "deviceName": "Siemens CL75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cl75-1097.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cl75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cl75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 44 x 23 mm, 74 cc (3.43 x 1.73 x 0.91 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors display, CSTN (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 20 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "11MB\n100 short messages"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2- Angels&Clouds, C’est La Vie + downloadable",
+        "java": "Yes, MIDP 1.0\nPush to talk\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silk Flower Red,  Pin Striped Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:40.571Z"
+  },
+  {
+    "sttTong": 11342,
+    "sttHang": 19,
+    "brand": "Siemens",
+    "deviceName": "Siemens CF75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cf75-1098.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cf75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-cf75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 47 x 22 mm, 80 cc (3.70 x 1.85 x 0.87 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external 4K colors display, CSTN (96 x 64 pixels)\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 x 20 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, EMail",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPush to talk\nMedia player\nPredictive text input\nOrganizer\nSyncML\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Ocean blue, Pearl black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:42.845Z"
+  },
+  {
+    "sttTong": 11345,
+    "sttHang": 22,
+    "brand": "Siemens",
+    "deviceName": "Siemens A75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a75-1084.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 44 x 20 mm (3.98 x 1.73 x 0.79 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\n4-way navigation key\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 numbers, 4 groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n100 short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "2 - Stack Attack Junior and Magic Picture",
+        "java": "No\nPredictive text input\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "2 - Atlantic Blue, Polar Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:43.560Z"
+  },
+  {
+    "sttTong": 11347,
+    "sttHang": 24,
+    "brand": "Siemens",
+    "deviceName": "Siemens SF65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sf65-888.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisf65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisf65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 44 x 23 mm, 86 cc (3.58 x 1.73 x 0.91 in)",
+        "weight": "97 g (3.42 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSwivel and rotate 180 deg\nScreensavers and wallpapers\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 9 files, Photo call",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, EMail",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 660 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "2 - Polar white, Onyx black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:43.602Z"
+  },
+  {
+    "sttTong": 11350,
+    "sttHang": 27,
+    "brand": "Siemens",
+    "deviceName": "Siemens SX66",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sx66-992.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisx66.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisx66.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 71 x 18 mm (4.92 x 2.80 x 0.71 in)",
+        "weight": "210 g (7.41 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Xscale PXA272 520 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:47.240Z"
+  },
+  {
+    "sttTong": 11351,
+    "sttHang": 28,
+    "brand": "Siemens",
+    "deviceName": "Siemens SK65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sk65-861.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisk65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisk65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 47 x 22 mm, 115 cc (4.72 x 1.85 x 0.87 in)",
+        "weight": "144 g (5.08 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 4:3 ratio\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "2000",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "64MB\n30 MB available to user"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "3 - Chess master, Golf and Sea Battle + downloadable",
+        "java": "Yes, MIDP 2.0\nPush to talk (VoIP service)\nE-mail push based on BlackBerry Built-In technology from RIM\nPredictive text input\nSyncML\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-660)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:48.223Z"
+  },
+  {
+    "sttTong": 11348,
+    "sttHang": 25,
+    "brand": "Siemens",
+    "deviceName": "Siemens CX70 Emoty",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cx70_emoty-885.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx70em.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx70em.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 56 x 24 mm (4.53 x 2.20 x 0.94 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio\n5-way joystick\nDownloadable logos\nIntegrated stroke, press and shake sensors control 3 preinstalled Emoty characters"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in shared memory, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "9.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPush-To-Talk\nPredictive text input\nStopwatch\nOrganizer\nEmoty characters can be sent via MMS\nClip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Bluewater"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:48.925Z"
+  },
+  {
+    "sttTong": 11346,
+    "sttHang": 23,
+    "brand": "Siemens",
+    "deviceName": "Siemens A70",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a70-1083.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a70.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a70.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 45 x 20 mm (3.98 x 1.77 x 0.79 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels\nSoftkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries (SIM)",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "2 -  Balloon Shooter and Stack Attack",
+        "java": "No\nPredictive text input\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "2 - Pebble, Palladium"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:50.325Z"
+  },
+  {
+    "sttTong": 11325,
+    "sttHang": 2,
+    "brand": "Siemens",
+    "deviceName": "Siemens A31",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a31-1378.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a31.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-a31.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 46 x 17.6 mm, 75 cc (4.02 x 1.81 x 0.69 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Anthracite, Ruby Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:51.939Z"
+  },
+  {
+    "sttTong": 11353,
+    "sttHang": 30,
+    "brand": "Siemens",
+    "deviceName": "Siemens A62",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a62-981.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia62.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia62.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 45 x 19 mm, 72 cc (3.98 x 1.77 x 0.75 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\n4-way navi key\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "MagicPicture, Stack Attack  + downloadable",
+        "java": "No\nPredictive text input\nCurrency converter\nCalculator\nStopwatch\nReminder list"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Denim Blue and Mystic Purple"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:56.241Z"
+  },
+  {
+    "sttTong": 11356,
+    "sttHang": 33,
+    "brand": "Siemens",
+    "deviceName": "Siemens CFX65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cfx65-822.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicfx65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicfx65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 48 x 23 mm, 78 cc (3.35 x 1.89 x 0.91 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external display B/W (96 x 64 pixels)\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 x 14 fields, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email(receive only)",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nStopwatch\nSupported formats: JPEG, GIF, PNG, BMP, WBMP\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery (EBA-670)",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "2 - Chameleon, Blue Pearl"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:56.706Z"
+  },
+  {
+    "sttTong": 11355,
+    "sttHang": 32,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl65-823.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 47.6 x 21 mm, 78 cc (3.54 x 1.87 x 0.83 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.5 cm2 (~24.4% screen-to-body ratio)",
+        "resolution": "130 x 130 pixels, 7 lines, 1:1 ratio (~102 ppi density)\n5-way navi key\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "11MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes - Golf, Rally + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nStopwatch\nOrganizer\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-650)",
+        "stand-by": "Up to 230",
+        "talk_time": "Up to 4h 3 min"
+      },
+      "misc": {
+        "colors": "2 - Ivory, Ebony"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:12:58.831Z"
+  },
+  {
+    "sttTong": 11359,
+    "sttHang": 36,
+    "brand": "Siemens",
+    "deviceName": "Siemens C65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c65-702.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - Siemens C66",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45 x 16 mm, 76 cc (4.13 x 1.77 x 0.63 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in shared memory",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "10MB"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Photopet + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nStopwatch\nOrganizer\nSyncML\nClip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery (EBA-670)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Blue Shadow"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:00.959Z"
+  },
+  {
+    "sttTong": 11334,
+    "sttHang": 11,
+    "brand": "Siemens",
+    "deviceName": "Siemens C72",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c72-1259.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-c72.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-c72.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 47 x 18 mm (4.13 x 1.85 x 0.71 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "100 received, 100 dialed and 100 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nStopwatch\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Liquid Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:05.955Z"
+  },
+  {
+    "sttTong": 11361,
+    "sttHang": 38,
+    "brand": "Siemens",
+    "deviceName": "Siemens CX65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cx65-657.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - Siemens CX66",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 18 mm (4.25 x 1.81 x 0.71 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.1 inches, 13.7 cm2 (~27.5% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio (~105 ppi density)\n5-way joystick\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in mem, PhotoCall",
+        "call_records": "100 received, 100 dialed and 100 missed calls",
+        "internal": "11MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice memo\nClip-it covers\nUser profiles\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-660)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Cool Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:07.435Z"
+  },
+  {
+    "sttTong": 11360,
+    "sttHang": 37,
+    "brand": "Siemens",
+    "deviceName": "Siemens CXT65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cxt65-867.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicxt65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicxt65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 18 mm (4.25 x 1.81 x 0.71 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio\n5-way joystick\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in shared memory, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "11MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nStopwatch\nOrganizer\nVoice dial\nVoice command\nClip-it covers\nUser profiles\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Cool Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:07.802Z"
+  },
+  {
+    "sttTong": 11352,
+    "sttHang": 29,
+    "brand": "Siemens",
+    "deviceName": "Siemens A65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a65-849.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 45 x 19 mm, 72 cc (3.98 x 1.77 x 0.75 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Stack Attack Jr, Wappo, Magic Picture  + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nCurrency converter\nCalculator\nStopwatch\nReminder list\nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Sparkling Silver and Mystery Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:09.941Z"
+  },
+  {
+    "sttTong": 11362,
+    "sttHang": 39,
+    "brand": "Siemens",
+    "deviceName": "Siemens CF62",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cf62-656.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicf62.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicf62.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - Siemens CF63",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 45 x 22 mm, 78 cc (3.23 x 1.77 x 0.87 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "130 x 130 pixels, 1:1 ratio\nSecond external monochrome display (blue illuminated)\n4-way navi key\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 15 fields",
+        "call_records": "10 dialed, 20 received, 20 missed calls\n100 short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPredictive text input\nOrganizer\nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery (EBA-670)",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "2 - Cool Grey, Cool Cashmere"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:10.348Z"
+  },
+  {
+    "sttTong": 11363,
+    "sttHang": 40,
+    "brand": "Siemens",
+    "deviceName": "Siemens A57",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a57-829.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia57.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia57.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 46 x 21.5 mm, 75 cc (4.06 x 1.81 x 0.85 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nSoftkeys\nDownloadable logos, animations"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries, 4 groups, Picture call",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n25 short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "4 - Stack Attack, Balloon Shooter, Move the Box, Wacko",
+        "java": "No\nPredictive text input\nOrganizer\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Cassis, Pebble"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:12.179Z"
+  },
+  {
+    "sttTong": 11364,
+    "sttHang": 41,
+    "brand": "Siemens",
+    "deviceName": "Siemens PenPhone",
+    "deviceUrl": "https://www.gsmarena.com/siemens_penphone-649.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sipen.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sipen.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "140 x 25 x 19 mm (5.51 x 0.98 x 0.75 in)",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "LCD",
+        "resolution": "undefined\n5-way navi key"
+      },
+      "memory": {
+        "card_slot": "No"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "java": "No\nHandwriting recognition\nAppointments and contacts"
+      },
+      "battery": {
+        "type": "Removable battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:13.251Z"
+  },
+  {
+    "sttTong": 11354,
+    "sttHang": 31,
+    "brand": "Siemens",
+    "deviceName": "Siemens A51",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a51-982.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia51.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia51.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 46 x 21 mm, 75 cc (4.06 x 1.81 x 0.83 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Stack Attack and Wacko",
+        "java": "No\nPredictive text input\nCurrency converter\nCalculator\nExchangable covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Urban Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:14.355Z"
+  },
+  {
+    "sttTong": 11366,
+    "sttHang": 43,
+    "brand": "Siemens",
+    "deviceName": "Siemens CL55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cl55-574.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicl55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicl55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 41 x 22 mm (3.27 x 1.61 x 0.87 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nDual screen display\nNavi key\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 x 5 fields, 5 contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nExtra-long Chinese SMS \nOrganizer\nVoice memo\nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "3 - Silver, Red, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:15.748Z"
+  },
+  {
+    "sttTong": 11365,
+    "sttHang": 42,
+    "brand": "Siemens",
+    "deviceName": "Siemens ST60",
+    "deviceUrl": "https://www.gsmarena.com/siemens_st60-619.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sist60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sist60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 49 x 22 mm, 76 cc (3.90 x 1.93 x 0.87 in)",
+        "weight": "87 g (3.07 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\n5-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries, Photo call",
+        "call_records": "10 dialed, 20 received, 20 missed calls",
+        "internal": "5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Tetris + Java games",
+        "java": "Yes\nPredictive text input\nOrganizer\nVoice dial\nVoice command"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-595)",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:16.328Z"
+  },
+  {
+    "sttTong": 11357,
+    "sttHang": 34,
+    "brand": "Siemens",
+    "deviceName": "Siemens S65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s65-700.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 48 x 18 mm, 85 cc (4.29 x 1.89 x 0.71 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.1 inches, 32 x 42 mm, 13.7 cm2 (~26.1% screen-to-body ratio)",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio (~105 ppi density)\nDownload assistant for logos"
+      },
+      "memory": {
+        "card_slot": "RS-MMC, 32 MB included",
+        "phonebook": "1000 x 20 fields",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "11MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nStopwatch\nVoice memo\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-660)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Steel Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:16.397Z"
+  },
+  {
+    "sttTong": 11368,
+    "sttHang": 45,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 7",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_7-553.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel7.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel7.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 26 mm (4.13 x 1.81 x 1.02 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nVoice dial\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 290 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Copper Polished and Midnight Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:19.004Z"
+  },
+  {
+    "sttTong": 11370,
+    "sttHang": 47,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 5",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_5-551.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel5.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel5.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 52 x 17 mm, 58 cc (3.43 x 2.05 x 0.67 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, 4096 colors",
+        "resolution": "101 x 80 pixels, 5 lines\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "2",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 390 h",
+        "talk_time": "Up to 5 h 40 min"
+      },
+      "misc": {
+        "colors": "Ultra Blue and Mercury"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:20.210Z"
+  },
+  {
+    "sttTong": 11349,
+    "sttHang": 26,
+    "brand": "Siemens",
+    "deviceName": "Siemens CX70",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cx70-869.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx70.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicx70.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 18 mm (4.25 x 1.81 x 0.71 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio\n5-way joystick\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in shared memory, Photo call",
+        "call_records": "100 dialed, 100 received, 100 missed calls",
+        "internal": "9.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes\nPush-To-Talk\nPredictive text input\nStopwatch\nOrganizer\nVoice dial, command\nClip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:24.444Z"
+  },
+  {
+    "sttTong": 11372,
+    "sttHang": 49,
+    "brand": "Siemens",
+    "deviceName": "Siemens C62",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c62-540.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic62.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic62.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 44 x 20 mm, 82 cc (3.98 x 1.73 x 0.79 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 128 pixels, 7 lines, 1:1 ratio\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 x 4 fields, 4 contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.6MB\n600 KB memory free\n100 short messages\n100 calendar events\nMessage templates\n30 sec voice memo"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "games": "2 - Achevo, Falling",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo\nOptional digital camera (VGA 640 x 480)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 630 mAh battery (EBA-610)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "3 -  Eagle White, Pidgeon Blue and Cherry Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:25.674Z"
+  },
+  {
+    "sttTong": 11367,
+    "sttHang": 44,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 8",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_8-554.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel8.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel8.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "91 x 56 x 23 mm (3.58 x 2.20 x 0.91 in)",
+        "weight": "67 g (2.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 290 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Diamond pink and Silver glam"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:28.481Z"
+  },
+  {
+    "sttTong": 11369,
+    "sttHang": 46,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 6",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_6-552.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel6.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel6.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 75 x 26 mm, 101 cc (3.31 x 2.95 x 1.02 in)",
+        "weight": "89 g (3.14 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\nRound keypad design\nTwo integrated mirrors flat and magnifying\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "Downloadable",
+        "languages": "Major European and Asian languages",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 290 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Platinum Blush and Sheer Bronze"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:29.146Z"
+  },
+  {
+    "sttTong": 11375,
+    "sttHang": 52,
+    "brand": "Siemens",
+    "deviceName": "Siemens ST55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_st55-480.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sist55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sist55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 47 x 22 mm (3.90 x 1.85 x 0.87 in)",
+        "weight": "87 g (3.07 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "120 x 160 pixels, 7 lines, 4:3 ratio\n5-way navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255 x 15 entries",
+        "call_records": "10 dialed, 20 received, 20 missed calls\n1.2 MB for photos\n1.3 MB for MMS\n1.1 MB for email messages\n100 short messages"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Wacko, Toggle, Tetris + Java",
+        "java": "No\nPredictive text input\nOrganizer\nUser profiles\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-595)",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:29.568Z"
+  },
+  {
+    "sttTong": 11371,
+    "sttHang": 48,
+    "brand": "Siemens",
+    "deviceName": "Siemens U15",
+    "deviceUrl": "https://www.gsmarena.com/siemens_u15-549.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siu15.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siu15.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "136 x 53 x 24 mm, 140 cc (5.35 x 2.09 x 0.94 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "176 x 220 pixels\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "Yes\n64 MB flash memory included"
+      },
+      "main_camera": {
+        "single": "2 cameras VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Satin green",
+        "java": "Yes\nMP3/MP4 player\nOrganizer\nSync ML \nPredictive text input\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Po 800 mAh battery (EBA-010)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 1h 50 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:31.110Z"
+  },
+  {
+    "sttTong": 11378,
+    "sttHang": 55,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 1",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_1-506.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel1.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel1.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 46 x 19 mm, 72 cc (3.98 x 1.81 x 0.75 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nPredefined short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 610 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:33.476Z"
+  },
+  {
+    "sttTong": 11377,
+    "sttHang": 54,
+    "brand": "Siemens",
+    "deviceName": "Siemens C60",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c60-475.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 47 x 23 mm (4.33 x 1.85 x 0.91 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels, 5 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries, contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.86MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - StackAttack 2, Move the Box",
+        "java": "Yes\nPredictive text input\nCurrency converter\nCalculator\nStopwatch\nReminder list\nUser profiles\nExchangeable Clip-it covers\nOptional digital camera (VGA 640 x 480)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "3 - Sky, Petrol and Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:33.568Z"
+  },
+  {
+    "sttTong": 11376,
+    "sttHang": 53,
+    "brand": "Siemens",
+    "deviceName": "Siemens MC60",
+    "deviceUrl": "https://www.gsmarena.com/siemens_mc60-476.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/simc60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/simc60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 46 x 21 mm, 88 cc (4.33 x 1.81 x 0.83 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 x 14 fields, 5 contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1MB\n10 voice dial commands\n20 voice dial numbers \n500 calendar items"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice command/dial\nUser profiles\nExchangeable covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "3 - Aquamarine, Titanium and Grenadine"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:34.799Z"
+  },
+  {
+    "sttTong": 11373,
+    "sttHang": 50,
+    "brand": "Siemens",
+    "deviceName": "Siemens A60",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a60-539.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia60.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia60.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 47 x 23 mm, 91 cc (4.33 x 1.85 x 0.91 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 x 2 fields, contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "550 KB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "2 - StackAttack , Mosaic",
+        "java": "No\nPredictive text input\nStopwatch\nCalculator\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Stone"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:35.690Z"
+  },
+  {
+    "sttTong": 11380,
+    "sttHang": 57,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 3",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_3-509.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel3.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel3.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "74 x 43 x 20 mm, 48 cc (2.91 x 1.69 x 0.79 in)",
+        "weight": "55 g (1.94 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 56 pixels, 5 lines, 17:9 ratio\nScreensaver\nDownloadable pictures\nDigit dial with Navi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nPredefined short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial\nAntenna in the necklace"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 620 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:37.778Z"
+  },
+  {
+    "sttTong": 11382,
+    "sttHang": 59,
+    "brand": "Siemens",
+    "deviceName": "Siemens U10",
+    "deviceUrl": "https://www.gsmarena.com/siemens_u10-535.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siu10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siu10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154 x 55 x 29 mm, 173 cc (6.06 x 2.17 x 1.14 in)",
+        "weight": "184 g (6.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 4096 colors",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "MMC/SD, 32 MB SD included",
+        "phonebook": "500",
+        "call_records": "Yes",
+        "internal": "2MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes\nMP3/MP4 player\nPredictive text input\nOrganizer\nVoice memo\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Po 800 mAh battery (EBA-010)",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 1 h 20 min"
+      },
+      "misc": {
+        "colors": "Titanium"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:38.314Z"
+  },
+  {
+    "sttTong": 11344,
+    "sttHang": 21,
+    "brand": "Siemens",
+    "deviceName": "Siemens AX75",
+    "deviceUrl": "https://www.gsmarena.com/siemens_ax75-1085.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ax75.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/siemens-ax75.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 47 x 18 mm, 75 cc (4.17 x 1.85 x 0.71 in)",
+        "weight": "76 g (2.68 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 7 lines, 1:1 ratio\n4-way navigation key\nSoftkeys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 12 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.5MB\n100 short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nOrganizer\nVoice dial/voice command\nOptional VGA camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "2 - Ice Blue, Cream Stone"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:38.958Z"
+  },
+  {
+    "sttTong": 11379,
+    "sttHang": 56,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 2",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_2-507.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 56 x 20 mm, 78 cc (3.90 x 2.20 x 0.79 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 65 pixels, 5 lines\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nPredefined short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:43.071Z"
+  },
+  {
+    "sttTong": 11387,
+    "sttHang": 64,
+    "brand": "Siemens",
+    "deviceName": "Siemens S55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s55-343.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 42 x 18 mm, 69 cc (3.98 x 1.65 x 0.71 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 entries, 9 contact groups, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "400 KB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice dial\nVoice command\nUser profiles\nSyncML\nExternal digital camera (included)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 12 days",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:43.266Z"
+  },
+  {
+    "sttTong": 11385,
+    "sttHang": 62,
+    "brand": "Siemens",
+    "deviceName": "Siemens A55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a55-394.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 900 / 1900 - Siemens A56",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 44 x 21 mm, 84 cc (3.98 x 1.73 x 0.83 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nSoftkeys\nDownloadable logos and screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50 entries, 4 contact groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "120 KB\n25 short messages\n9 SMS templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - StackAttack, Balloon Shooter, Wacko, Move the Box",
+        "java": "No\nPredictive text input\nCalculator\nCurrency converter\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "4"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:45.182Z"
+  },
+  {
+    "sttTong": 11374,
+    "sttHang": 51,
+    "brand": "Siemens",
+    "deviceName": "Siemens SX1",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sx1-395.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisx1.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisx1.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 56 x 19 mm, 110 cc (4.29 x 2.20 x 0.75 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFD, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nUnique keypad arrangement"
+      },
+      "platform": {
+        "os": "Symbian 6.1, Series 60 v1.0 UI",
+        "chipset": "TI OMAP 310",
+        "cpu": "120 MHz ARM9"
+      },
+      "memory": {
+        "card_slot": "MMC",
+        "internal": "16MB\n4 MB available"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nLoud speaker"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML",
+        "clock": "Yes",
+        "alarm": "Yes\nMP3 player/recorder\nPredictive text input\nOrganizer\nUser profiles\nSyncML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery (EBA-540)",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Ice blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:46.403Z"
+  },
+  {
+    "sttTong": 11388,
+    "sttHang": 65,
+    "brand": "Siemens",
+    "deviceName": "Siemens CL50",
+    "deviceUrl": "https://www.gsmarena.com/siemens_cl50-337.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicl50.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sicl50.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002, Aug",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "73 x 39 x 22 mm, 59 cc (2.87 x 1.54 x 0.87 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nDual screen display\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalized sounds and pictures"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "220 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "2 - Champagne, Pearl white"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:46.902Z"
+  },
+  {
+    "sttTong": 11389,
+    "sttHang": 66,
+    "brand": "Siemens",
+    "deviceName": "Siemens C55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c55-336.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002, Sep",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 44 x 21 mm, 69 cc (3.98 x 1.73 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, recorded ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, Instant Messaging",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - The Prince of Persia, Galaxy Hero",
+        "languages": "20",
+        "java": "Yes\nPredictive text input\nOrganizer\nChangeable cover\nUser profiles\nBuilt-in hadsfree"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "250 h",
+        "talk_time": "6 h"
+      },
+      "misc": {
+        "colors": "3 - aqua, champagne, bordeaux"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:48.728Z"
+  },
+  {
+    "sttTong": 11390,
+    "sttHang": 67,
+    "brand": "Siemens",
+    "deviceName": "Siemens A50",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a50-335.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia50.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia50.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002, Oct",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 23 mm, 84 cc (4.29 x 1.81 x 0.91 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nSoftkeys\nDownloadable logos, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2",
+        "java": "No\nPredictive text input\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "250 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "2 blueberry, vanilla"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:49.040Z"
+  },
+  {
+    "sttTong": 11386,
+    "sttHang": 63,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl55-380.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1900 - Siemens SL56",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 45 x 22 mm, 63 cc (3.23 x 1.77 x 0.87 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels\nNavi key\nRetractable keyboard, like in Siemens SL10"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.6MB\n20 voice dial numbers\n20 voice commands\n100 short messages\nSMS templates"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nStopwatch\nOrganizer\nVoice dial\nVoice command\nVoice memo\nUser profiles\nSyncML\nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Po 500 mAh battery (EBA-520)",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:50.132Z"
+  },
+  {
+    "sttTong": 11395,
+    "sttHang": 72,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL42",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl42-264.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl42.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl42.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 17 mm, 69 cc (4.13 x 1.81 x 0.67 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.5 inches, 24 x 29 mm, 7.1 cm2 (~14.6% screen-to-body ratio)",
+        "resolution": "101 x 80 pixels, 7 lines (~86 ppi density)\nNavi key"
+      },
+      "memory": {
+        "card_slot": "MMC, 16 MB included",
+        "phonebook": "500, 14 fields each",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n100 SMS messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "7",
+        "languages": "20",
+        "java": "No\nMP3 player \nPredictive text input\nOrganizer\nStopwatch\nReminder list\nVoice dial\nVoice memo (150 min)\nUser profiles"
+      },
+      "battery": {
+        "type": "Slim Extended",
+        "stand-by": "up to 350 h",
+        "talk_time": "up to 7 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:54.233Z"
+  },
+  {
+    "sttTong": 11394,
+    "sttHang": 71,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL45i",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl45i-265.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl45i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl45i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 17 mm, 69 cc (4.13 x 1.81 x 0.67 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.5 inches, 24 x 29 mm, 7.1 cm2 (~14.6% screen-to-body ratio)",
+        "resolution": "101 x 80 pixels, 7 lines (~86 ppi density)\nNavi key\nDownloadable screensavers bitmaps"
+      },
+      "memory": {
+        "card_slot": "MMC, 32 MB included",
+        "phonebook": "500, 14 fields each",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n100 SMS messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Downloadable Java games",
+        "languages": "20",
+        "java": "Yes\nMP3 player\nPredictive text input\nOrganizer\nStopwatch\nReminder list\nVoice dial\nVoice memo (300 min)\nUser profiles"
+      },
+      "battery": {
+        "type": "Slim Extended, Li-lon 1000 mAh",
+        "stand-by": "up to 350 h",
+        "talk_time": "up to 7 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:13:54.659Z"
+  },
+  {
+    "sttTong": 11396,
+    "sttHang": 73,
+    "brand": "Siemens",
+    "deviceName": "Siemens ME45",
+    "deviceUrl": "https://www.gsmarena.com/siemens_me45-263.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sime45.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sime45.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 21 mm, 76 cc (4.29 x 1.81 x 0.83 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM\nDust, shock and splash resistant"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key\nDownloadable screensavers and bitmaps"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nFlexible memory20 voice dial numbers10 voice commands"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "java": "No\nOrganizer\nStopwatch\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 840 mAh battery",
+        "stand-by": "60 - 300 h",
+        "talk_time": "100 - 300 min"
+      },
+      "misc": {
+        "colors": "2 - Pebble Grey and Safari Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:55.815Z"
+  },
+  {
+    "sttTong": 11358,
+    "sttHang": 35,
+    "brand": "Siemens",
+    "deviceName": "Siemens M65",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m65-701.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim65.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim65.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 49 x 19 mm, 89 cc (4.29 x 1.93 x 0.75 in)",
+        "weight": "104 g (3.67 oz)",
+        "sim": "Mini-SIM\nDust, shock and splash resistant\nMetal frame"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "132 x 176 pixels, 9 lines, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "14 fields, in shared memory",
+        "call_records": "100 received, 100 dialed and 100 missed calls",
+        "internal": "11MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Turrican, Team Point Blank, Stack Attack Advanced",
+        "java": "Yes, MIDP 2.0\nOrganizer\nSyncML\nPhoto editor\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery (EBA-660)",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Cool Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:13:58.826Z"
+  },
+  {
+    "sttTong": 11391,
+    "sttHang": 68,
+    "brand": "Siemens",
+    "deviceName": "Siemens M50",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m50-324.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim50.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim50.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 23 mm, 82 cc (4.29 x 1.81 x 0.91 in)",
+        "weight": "97 g (3.42 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nOrange or blue backlight\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Downloadable",
+        "languages": "20",
+        "java": "Yes\nPredictive text input\nReminder list\nOrganizer\nChangeable cover\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "260 h",
+        "talk_time": "6 h"
+      },
+      "misc": {
+        "colors": "2 - chromium blue, chromium orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:03.079Z"
+  },
+  {
+    "sttTong": 11399,
+    "sttHang": 76,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL45",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl45-198.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl45b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl45b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 17 mm, 69 cc (4.13 x 1.81 x 0.67 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.5 inches, 24 x 29 mm, 7.1 cm2 (~14.6% screen-to-body ratio)",
+        "resolution": "101 x 80 pixels, 7 lines (~86 ppi density)\nNavi key"
+      },
+      "memory": {
+        "card_slot": "MMC, 32 MB included",
+        "phonebook": "500, 14 fields each",
+        "call_records": "10 dialed, 10 received, 10 missed calls\n100 SMS messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "7",
+        "languages": "20",
+        "java": "No\nMP3 player\nPredictive text input\nVoice memo (300 min)\nOrganizer\nStopwatch\nVoice dial\nComes with headset and datacable\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 540 mAh battery",
+        "stand-by": "60 - 170 h",
+        "talk_time": "1 - 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:03.959Z"
+  },
+  {
+    "sttTong": 11397,
+    "sttHang": 74,
+    "brand": "Siemens",
+    "deviceName": "Siemens S45",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s45-243.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis45.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis45.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 20 mm, 69 cc (4.29 x 1.81 x 0.79 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 fields",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Yes",
+        "languages": "20",
+        "java": "No\nPredictive text input\nStopwatch\nOrganizer\nVoice dial\nVoice memo\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "up to 300 h",
+        "talk_time": "up to 6 h"
+      },
+      "misc": {
+        "colors": "2 - diamond silver, sapphire blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:03.990Z"
+  },
+  {
+    "sttTong": 11392,
+    "sttHang": 69,
+    "brand": "Siemens",
+    "deviceName": "Siemens S45i",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s45i-323.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis45i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis45i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "May 2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 20 mm, 69 cc (4.29 x 1.81 x 0.79 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "Downloadable",
+        "languages": "20",
+        "java": "No\nPredictive text input\nStopwatch\nOrganizer\nVoice dial\nVoice memo\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "2 - Titan Silver and Royal Champagne"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:05.139Z"
+  },
+  {
+    "sttTong": 11383,
+    "sttHang": 60,
+    "brand": "Siemens",
+    "deviceName": "Siemens A52",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a52-474.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia52.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia52.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 46 x 21 mm, 75 cc (4.09 x 1.81 x 0.83 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nSoftkeys\nDownloadable logos, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - StackAttack, Balloon Shooter",
+        "java": "No\nPredictive text input\nCalculator\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Beige, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:07.559Z"
+  },
+  {
+    "sttTong": 11403,
+    "sttHang": 80,
+    "brand": "Siemens",
+    "deviceName": "Siemens C35i",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c35i-93.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic35ib.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic35ib.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 21 mm, 88 cc (4.65 x 1.81 x 0.83 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 54 pixels, 5 lines, 17:9 ratio\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No\nDJ sounds"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Wayout, Reversi, Quattropoli, Minesweeper",
+        "languages": "20",
+        "java": "No\nPredictive text input\nCurrency converter\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable NiMH 500 mAh battery",
+        "stand-by": "50 h - 180 h",
+        "talk_time": "90 min - 300 min"
+      },
+      "misc": {
+        "colors": "7 -  Anthracite, Steel Grey, Classic blue ..."
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:08.547Z"
+  },
+  {
+    "sttTong": 11402,
+    "sttHang": 79,
+    "brand": "Siemens",
+    "deviceName": "Siemens M35i",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m35i-94.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim35ib.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim35ib.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 47 x 22 mm, 99 cc (4.65 x 1.85 x 0.87 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 54 pixels, 5 lines, 17:9 ratio\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No\nDJ sounds"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Wayout, Reversi, Quattropoli, Minesweeper",
+        "languages": "20",
+        "java": "No\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable NiMH 500 mAh battery",
+        "stand-by": "50 h - 180 h",
+        "talk_time": "90 min - 300 min"
+      },
+      "misc": {
+        "colors": "3 - Hurricane Yellow, Half Pipe Blue, Summit Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:09.307Z"
+  },
+  {
+    "sttTong": 11401,
+    "sttHang": 78,
+    "brand": "Siemens",
+    "deviceName": "Siemens S35i",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s35i-95.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis35ib.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis35ib.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 21 mm, 89 cc (4.65 x 1.81 x 0.83 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 80 pixels, 7 lines\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Wayout, Reversi, Quattropoli, Minesweeper",
+        "languages": "20",
+        "java": "No\nPredictive text input\nOrganizer\nStopwatch\nVoice dial\nVoice memo (20 sec)\nUser profiles"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "60 h - 220 h",
+        "talk_time": "100 min - 360 min"
+      },
+      "misc": {
+        "colors": "3 - Emerald/Black, Titanium/Black, Titanium/Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:09.477Z"
+  },
+  {
+    "sttTong": 11404,
+    "sttHang": 81,
+    "brand": "Siemens",
+    "deviceName": "Siemens C35",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c35-92.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic35b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic35b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 21 mm, 88 cc (4.65 x 1.81 x 0.83 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 54 pixels, 5 lines, 17:9 ratio\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "20",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No\nDJ sounds"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4 - Wayout, Reversi, Quattropoli, Minesweeper",
+        "languages": "20",
+        "java": "No\nPredictive text input\nCurrency converter\nCalculator\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable NiMH 500 mAh battery",
+        "stand-by": "50 h - 180 h",
+        "talk_time": "90 min - 300 min"
+      },
+      "misc": {
+        "colors": "7 -  Anthracite, Steel Grey, Classic blue ..."
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:11.792Z"
+  },
+  {
+    "sttTong": 11406,
+    "sttHang": 83,
+    "brand": "Siemens",
+    "deviceName": "Siemens A36",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a36-214.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia36.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia36.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 21 mm (4.65 x 1.81 x 0.83 in)",
+        "weight": "120 g (4.23 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed, 0 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "60 h - 150 h",
+        "talk_time": "90 min - 240 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:13.683Z"
+  },
+  {
+    "sttTong": 11407,
+    "sttHang": 84,
+    "brand": "Siemens",
+    "deviceName": "Siemens A35",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a35-470.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia35.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia35.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 28 mm (4.65 x 1.81 x 1.10 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "2 lines x 16 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed and 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "No",
+        "games": "No",
+        "languages": "25",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "up to 150 h",
+        "talk_time": "up to 4 h"
+      },
+      "misc": {
+        "colors": "7 - caribic blue, pineapple, magma red, moon white, anthracite, oriental blue, aubergine"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:14.913Z"
+  },
+  {
+    "sttTong": 11405,
+    "sttHang": 82,
+    "brand": "Siemens",
+    "deviceName": "Siemens A40",
+    "deviceUrl": "https://www.gsmarena.com/siemens_a40-299.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia40.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sia40.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 46 x 27 mm, 106 cc (4.65 x 1.81 x 1.06 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "2 x 16 chars\nDedicated icon-line"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed, 0 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No\nExchangeable covers"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "60 h - 150 h",
+        "talk_time": "90 min - 240 min"
+      },
+      "misc": {
+        "colors": "7 - Royal Blue, Anthracite, Raspberry Red..."
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:15.368Z"
+  },
+  {
+    "sttTong": 11408,
+    "sttHang": 85,
+    "brand": "Siemens",
+    "deviceName": "Siemens S25",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s25-90.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis25b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis25b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 47 x 23 mm, 108 cc (4.61 x 1.85 x 0.91 in)",
+        "weight": "125 g (4.41 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Color graphic",
+        "resolution": "97 x 54 pixels, 6 lines, 16:9 ratio\nDynamic font size\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "languages": "20",
+        "java": "No\nVoice memo (20 sec)\nOrganizer\ne-business card\nHelp function"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "60 h - 200 h",
+        "talk_time": "300 min"
+      },
+      "misc": {
+        "colors": "Mid-Silver Grey (Titanium) / Blue Metallic / Dark Grey / Green Metallic"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:17.337Z"
+  },
+  {
+    "sttTong": 11409,
+    "sttHang": 86,
+    "brand": "Siemens",
+    "deviceName": "Siemens M30",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m30-219.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim30.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim30.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 44 x 24 mm, 99 cc (4.88 x 1.73 x 0.94 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "2 x 12 chars\nRed backlightFixed iconsSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "No",
+        "games": "Yes",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "Up to 180 hours",
+        "talk_time": "Up to 6 hours"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:17.574Z"
+  },
+  {
+    "sttTong": 11410,
+    "sttHang": 87,
+    "brand": "Siemens",
+    "deviceName": "Siemens C28",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c28-216.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic28.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic28.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 47 x 27 mm, 120 cc (4.61 x 1.85 x 1.06 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "8",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nDJ sounds\n1 self-composable ringer tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 650 mAh battery",
+        "stand-by": "160 h",
+        "talk_time": "300 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:18.127Z"
+  },
+  {
+    "sttTong": 11411,
+    "sttHang": 88,
+    "brand": "Siemens",
+    "deviceName": "Siemens C25",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c25-91.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic25b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic25b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 47 x 27 mm, 120 cc (4.61 x 1.85 x 1.06 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "8",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones, composer",
+        "35mm_jack": "No\nDJ sounds\n1 self-composable ringer tone"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 650 mAh battery",
+        "stand-by": "160 h",
+        "talk_time": "300 min"
+      },
+      "misc": {
+        "colors": "5 - Classic Green, Blue, Anthracite, Bright Blue, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:21.113Z"
+  },
+  {
+    "sttTong": 11412,
+    "sttHang": 89,
+    "brand": "Siemens",
+    "deviceName": "Siemens SL10",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sl10-89.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl10b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sisl10b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 50 x 26 mm, 121 cc (5.08 x 1.97 x 1.02 in)",
+        "weight": "138 g (4.87 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Color graphic",
+        "resolution": "97 x 54 pixels, 6 lines, 16:9 ratio\nDynamic font size\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "20",
+        "java": "No\nProSLIDE system\nHelp function"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "46 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "Anthracite"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:22.278Z"
+  },
+  {
+    "sttTong": 11414,
+    "sttHang": 91,
+    "brand": "Siemens",
+    "deviceName": "Siemens S10",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s10-86.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis10b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis10b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 46 x 25 mm, 160 cc (5.79 x 1.81 x 0.98 in)",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Color graphic",
+        "resolution": "97 x 54 pixels, 6 lines, 16:9 ratio\nDynamic font size\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "20",
+        "java": "No\nVoice memo (20 sec)\nHelp function"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery",
+        "stand-by": "120 h",
+        "talk_time": "10 h"
+      },
+      "misc": {
+        "colors": "Anthracite"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:23.071Z"
+  },
+  {
+    "sttTong": 11415,
+    "sttHang": 92,
+    "brand": "Siemens",
+    "deviceName": "Siemens S11",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s11-87.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis11b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis11b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 46 x 25 mm, 160 cc (5.79 x 1.81 x 0.98 in)",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Color graphic",
+        "resolution": "97 x 54 pixels, 6 lines, 16:9 ratio\nDynamic font size\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "20",
+        "java": "No\nVoice memo (20 sec)\nHelp function"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery",
+        "stand-by": "120 h",
+        "talk_time": "10 h"
+      },
+      "misc": {
+        "colors": "Anthracite"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:23.517Z"
+  },
+  {
+    "sttTong": 11413,
+    "sttHang": 90,
+    "brand": "Siemens",
+    "deviceName": "Siemens S10 active",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s10_active-88.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis10ab.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis10ab.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150 x 49 x 25 mm, 170 cc (5.91 x 1.93 x 0.98 in)",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Color graphic",
+        "resolution": "97 x 54 pixels, 6 lines, 16:9 ratio\nDynamic font size\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "languages": "20",
+        "java": "No\nVoice memo (20 sec)\nHelp function"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1800 mAh battery",
+        "stand-by": "120 h",
+        "talk_time": "10 h"
+      },
+      "misc": {
+        "colors": "3 - Green, Grey, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:24.674Z"
+  },
+  {
+    "sttTong": 11416,
+    "sttHang": 93,
+    "brand": "Siemens",
+    "deviceName": "Siemens C10",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c10-84.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic10b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic10b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137 x 55 x 22 mm, 149 cc (5.39 x 2.17 x 0.87 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "5 dialed, 4 received, 4 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 700 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "3 - blue, red, grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:25.826Z"
+  },
+  {
+    "sttTong": 11417,
+    "sttHang": 94,
+    "brand": "Siemens",
+    "deviceName": "Siemens C11",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c11-85.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic11b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic11b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137 x 55 x 22 mm, 149 cc (5.39 x 2.17 x 0.87 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "3 x 12 chars\nFixed icons\nSoftkey"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "5 dialed, 4 received, 4 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "languages": "20",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 700 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "3 - blue, red, grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:29.422Z"
+  },
+  {
+    "sttTong": 11384,
+    "sttHang": 61,
+    "brand": "Siemens",
+    "deviceName": "Siemens M55",
+    "deviceUrl": "https://www.gsmarena.com/siemens_m55-407.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim55.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sim55.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 46 x 21 mm (3.98 x 1.81 x 0.83 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "101 x 80 pixels, 7 lines\nNavi key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 x 14 fields, 5 c",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.8MB\n20 voice dial numbers\n10 voice dial commands\n500 calendar items"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "2 - Wappo, Extreme",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nReminder list\nVoice dial\nVoice command\nUser profiles\nSyncML\nOptional digital camera"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery (EBA-510)",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:30.078Z"
+  },
+  {
+    "sttTong": 11393,
+    "sttHang": 70,
+    "brand": "Siemens",
+    "deviceName": "Siemens SX45",
+    "deviceUrl": "https://www.gsmarena.com/siemens_sx45-300.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/six45.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/six45.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 87 x 26 mm, 309 cc (5.28 x 3.43 x 1.02 in)",
+        "weight": "330 g (11.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio\n57.6 mm x 76.8 mm\n0.24 mm pixel pitch"
+      },
+      "platform": {
+        "os": "Microsoft Windows CE 3.0 for PocketPC",
+        "cpu": "64-bit NEC VR4122 150 MHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32MB\nExpandable through MMC or CF"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "browser": "WAP 1.2, HTML",
+        "clock": "Yes",
+        "alarm": "Yes\nFull PocketPC functionality\nMedia player (MP3)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1550 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:31.342Z"
+  },
+  {
+    "sttTong": 11400,
+    "sttHang": 77,
+    "brand": "Siemens",
+    "deviceName": "Siemens S40",
+    "deviceUrl": "https://www.gsmarena.com/siemens_s40-220.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis40.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sis40.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 44 x 22 mm, 85 cc (4.41 x 1.73 x 0.87 in)",
+        "weight": "97 g (3.42 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "6 lines\nSoftkeys\nBlue backlight"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000",
+        "call_records": "10 dialed, 10 received, 20 missed calls\nAdvanced fully featured address book"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo (5 min)\nData cable included"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "260 h",
+        "talk_time": "380 min"
+      },
+      "misc": {
+        "colors": "Silver only"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:14:36.040Z"
+  },
+  {
+    "sttTong": 11381,
+    "sttHang": 58,
+    "brand": "Siemens",
+    "deviceName": "Siemens Xelibri 4",
+    "deviceUrl": "https://www.gsmarena.com/siemens_xelibri_4-508.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel4.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sixel4.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 53 x 19 mm, 70 cc (3.90 x 2.09 x 0.75 in)",
+        "weight": "71 g (2.50 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 65 pixels, 5 lines\nScreensaver\nDownloadable pictures"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls\nPredefined short messages"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "games": "No",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:14:41.178Z"
+  },
+  {
+    "sttTong": 11398,
+    "sttHang": 75,
+    "brand": "Siemens",
+    "deviceName": "Siemens C45",
+    "deviceUrl": "https://www.gsmarena.com/siemens_c45-278.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic45.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sic45.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2001, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 46 x 23 mm, 82 cc (4.29 x 1.81 x 0.91 in)",
+        "weight": "107 g (3.77 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "101 x 64 pixels, 5 lines\nSoftkeys\nDownloadable logos and screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Stack Attack, Balloon Shooter, BattleMail",
+        "languages": "20",
+        "java": "No\nPredictive text input\nOrganizer\nExchangeable Clip-it covers"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "up to 200 h",
+        "talk_time": "up to 5 h"
+      },
+      "misc": {
+        "colors": "2 - Oriental Blue and African Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:16:07.357Z"
+  }
+]

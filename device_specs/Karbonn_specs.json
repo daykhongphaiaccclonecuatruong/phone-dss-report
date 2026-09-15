@@ -1,0 +1,4292 @@
+[
+  {
+    "sttTong": 4638,
+    "sttHang": 1,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium Mach Two S360",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_mach_two_s360-7236.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-mach-two.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-mach-two.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2015, March. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "138 x 70.5 x 6.3 mm (5.43 x 2.78 x 0.25 in)",
+        "weight": "112 g (3.95 oz)",
+        "build": "Glass front (Asahi Dragontrail Glass), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~70.8% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 5.0 (Lollipop)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A7"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1900 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Deep Blue",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:15.447Z"
+  },
+  {
+    "sttTong": 4639,
+    "sttHang": 2,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium Wind W4",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_wind_w4-7209.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-w4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-w4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125.1 x 64.3 x 11 mm (4.93 x 2.53 x 0.43 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~56.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Phone 8.1",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Yes"
+      },
+      "battery": {
+        "type": "Li-Ion 1950 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black,White, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:15.803Z"
+  },
+  {
+    "sttTong": 4640,
+    "sttHang": 3,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium S99",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_s99-7210.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s99.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s99.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133 x 66 x 9.7 mm (5.24 x 2.60 x 0.38 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~51.9% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Yes"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black,White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:18.785Z"
+  },
+  {
+    "sttTong": 4642,
+    "sttHang": 5,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium S19",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_s19-6597.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s19.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s19.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Quad-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:19.175Z"
+  },
+  {
+    "sttTong": 4641,
+    "sttHang": 4,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Sparkle V",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_sparkle_v-6687.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-sparkle-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-sparkle-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, September. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132 x 67 x 9.2 mm (5.20 x 2.64 x 0.36 in)",
+        "weight": "138 g (4.87 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~63.1% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow), Android One",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1700 mAh, removable",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Red",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:19.987Z"
+  },
+  {
+    "sttTong": 4644,
+    "sttHang": 7,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium S1 Plus",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_s1_plus-6372.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s1-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s1-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 64 x 10.3 mm (4.88 x 2.52 x 0.41 in)",
+        "weight": "129 g (4.55 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.4% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.3 (Jelly Bean)",
+        "cpu": "Quad-core 1.2 GHz",
+        "gpu": "Adreno 302"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh battery"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:20.257Z"
+  },
+  {
+    "sttTong": 4643,
+    "sttHang": 6,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart A12 Star",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_a12_star-6530.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-smart-a12-star.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-smart-a12-star.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.2 x 64.2 x 10.1 mm (4.89 x 2.53 x 0.40 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~57.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 300 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.79 W/kg (head)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:20.568Z"
+  },
+  {
+    "sttTong": 4645,
+    "sttHang": 8,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium Hexa",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_hexa-6218.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-hexa.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-hexa.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 42.2/5.76 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154 x 76.8 x 6.9 mm (6.06 x 3.02 x 0.27 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~70.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6591",
+        "cpu": "Hexa-core 1.5 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2050 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:23.630Z"
+  },
+  {
+    "sttTong": 4648,
+    "sttHang": 11,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium X",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_x-5999.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-x.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-x.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.9 x 70.5 x 9.9 mm (5.67 x 2.78 x 0.39 in)",
+        "weight": "143 g (5.04 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589T (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544MP2"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2300 mAh, non-removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:24.662Z"
+  },
+  {
+    "sttTong": 4647,
+    "sttHang": 10,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium Octane",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_octane-6220.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-octane-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-octane-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 42.2/5.76 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145.7 x 71.2 x 7.9 mm (5.74 x 2.80 x 0.31 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:24.959Z"
+  },
+  {
+    "sttTong": 4649,
+    "sttHang": 12,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A16",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a16-6172.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a16.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a16.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2014, January. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.9 inches, 43.3 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~239 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1350 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:26.006Z"
+  },
+  {
+    "sttTong": 4650,
+    "sttHang": 13,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A12+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a12+-5931.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a12-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a12-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:28.358Z"
+  },
+  {
+    "sttTong": 4651,
+    "sttHang": 14,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium S5 Plus",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_s5_plus-5925.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s5-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s5-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "138 x 70.5 x 7.9 mm (5.43 x 2.78 x 0.31 in)",
+        "weight": "104.5 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~70.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "Quad-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:29.104Z"
+  },
+  {
+    "sttTong": 4652,
+    "sttHang": 15,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn S7 Titanium",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_s7_titanium-5880.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-s7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.5 x 72 x 9.3 mm (5.65 x 2.83 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "cpu": "Quad-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:29.726Z"
+  },
+  {
+    "sttTong": 4653,
+    "sttHang": 16,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn S9 Titanium",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_s9_titanium-5645.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s9.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "176.5 (6.21 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6589 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A7",
+        "gpu": "PowerVR SGX544"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2600 mAh battery"
+      },
+      "misc": {
+        "colors": "White",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:30.676Z"
+  },
+  {
+    "sttTong": 4654,
+    "sttHang": 17,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A10",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a10-5644.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.9 inches, 43.3 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~239 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Mediatek MT6577 (40 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:34.101Z"
+  },
+  {
+    "sttTong": 4655,
+    "sttHang": 18,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A5",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a5-5643.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, July. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 30.5 cm2",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:34.293Z"
+  },
+  {
+    "sttTong": 4656,
+    "sttHang": 19,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A37",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a37-5522.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a37.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a37.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197 x 124 x 12.3 mm (7.76 x 4.88 x 0.48 in)",
+        "weight": "335 g (11.82 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~57.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:34.806Z"
+  },
+  {
+    "sttTong": 4646,
+    "sttHang": 9,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Titanium Octane Plus",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_titanium_octane_plus-6219.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-octane-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-titanium-octane-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA 42.2/5.76 Mbps",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2014, March. Released 2014, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147.3 x 72.6 x 7.6 mm (5.80 x 2.86 x 0.30 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~64.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6592 (28 nm)",
+        "cpu": "Octa-core 1.7 GHz Cortex-A7",
+        "gpu": "Mali-450MP4"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "16 MP, AF",
+        "features": "LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:35.293Z"
+  },
+  {
+    "sttTong": 4657,
+    "sttHang": 20,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A34",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a34-5521.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a34.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a34.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "197 x 124 x 12.3 mm (7.76 x 4.88 x 0.48 in)",
+        "weight": "335 g (11.82 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2 (~57.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6515",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Gray/White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:35.709Z"
+  },
+  {
+    "sttTong": 4658,
+    "sttHang": 21,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A25",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a25-5520.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a25.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a25.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146 x 78.6 x 10.5 mm (5.75 x 3.09 x 0.41 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 71.2 cm2 (~62.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "114MB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.50 W/kg (head)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:38.852Z"
+  },
+  {
+    "sttTong": 4659,
+    "sttHang": 22,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A7 Star",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a7_star-5519.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a7.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 66 x 10.4 mm (4.45 x 2.60 x 0.41 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.5 inches, 55.8 cm2 (~74.8% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6517",
+        "cpu": "Dual-core 1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531u"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "164MB"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 135 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.99 W/kg (head)",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:39.308Z"
+  },
+  {
+    "sttTong": 4660,
+    "sttHang": 23,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A4+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a4+-5518.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a4plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a4plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 63 x 10.5 mm (4.84 x 2.48 x 0.41 in)",
+        "weight": "87.5 g without battery (3.07 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~58.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "90MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1250 mAh battery",
+        "stand-by": "Up to 125 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.94 W/kg (head)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:39.965Z"
+  },
+  {
+    "sttTong": 4661,
+    "sttHang": 24,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A2+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a2+-5517.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a2plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a2plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013. Released 2013",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 63.6 x 12.4 mm (4.88 x 2.50 x 0.49 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "180MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1750 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.63 W/kg (head)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:40.201Z"
+  },
+  {
+    "sttTong": 4662,
+    "sttHang": 25,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A27 Retina",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a27_retina-5508.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a27-retina.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a27-retina.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.6 x 66 x 9.1 mm (5.26 x 2.60 x 0.36 in)",
+        "weight": "126.5 g (4.44 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 51.0 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "1.00 W/kg (head)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:41.869Z"
+  },
+  {
+    "sttTong": 4663,
+    "sttHang": 26,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A111",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a111-5381.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a111.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a111.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148 x 80 x 12 mm (5.83 x 3.15 x 0.47 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "5.0 inches, 71.2 cm2 (~60.1% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2150 mAh battery"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.87 W/kg (head)",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:44.475Z"
+  },
+  {
+    "sttTong": 4666,
+    "sttHang": 29,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A3",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a3-5378.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1900 - SIM 1 & SIM 2\nGSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 61 x 13.5 mm (4.45 x 2.40 x 0.53 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 47.6 cm2 (~69.1% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~144 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM, 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:45.159Z"
+  },
+  {
+    "sttTong": 4665,
+    "sttHang": 28,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A4",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a4-5379.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 1900 - SIM 1 & SIM 2\nGSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124.8 x 66 x 9.5 mm (4.91 x 2.60 x 0.37 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 47.6 cm2 (~57.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~144 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB 512MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:45.482Z"
+  },
+  {
+    "sttTong": 4667,
+    "sttHang": 30,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A2",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a2-5377.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "124 x 63.6 x 12.4 mm (4.88 x 2.50 x 0.49 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~57.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "200MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1750 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:47.396Z"
+  },
+  {
+    "sttTong": 4668,
+    "sttHang": 31,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn S5 Titanium",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_s5_titanium-5374.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s5-titanium.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s5-titanium.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 72 x 9 mm (5.67 x 2.83 x 0.35 in)",
+        "weight": "200 g (7.05 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "cpu": "Quad-core 1.2 GHz Cortex-A5",
+        "gpu": "Adreno 203"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 200 h (2G) / Up to 200 h (3G)",
+        "talk_time": "Up to 13 h (2G) / Up to 11 h (3G)"
+      },
+      "misc": {
+        "colors": "Blue",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:49.695Z"
+  },
+  {
+    "sttTong": 4664,
+    "sttHang": 27,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A6",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a6-5380.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "128 x 65.7 x 11.6 mm (5.04 x 2.59 x 0.46 in)",
+        "weight": "114.5 g (4.02 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~54.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "104MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1450 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "White/Black",
+        "sar_eu": "0.87 W/kg (head)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:50.024Z"
+  },
+  {
+    "sttTong": 4669,
+    "sttHang": 32,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn S1 Titanium",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_s1_titanium-5273.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-s1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.6 x 66 x 9.3 mm (5.30 x 2.60 x 0.37 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~62.8% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "Quad-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:51.060Z"
+  },
+  {
+    "sttTong": 4670,
+    "sttHang": 33,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart Tab 9",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_tab_9-5219.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st9.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012. Released 2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "9.0 inches, 230.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~104 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "cpu": "1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "2GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4000 mAh, non-removable",
+        "talk_time": "Up to 6 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:51.248Z"
+  },
+  {
+    "sttTong": 4671,
+    "sttHang": 34,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart Tab 8",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_tab_8-5215.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st8.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012. Released 2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 198.2 cm2",
+        "resolution": "1024 x 768 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1.5GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 4500 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:53.272Z"
+  },
+  {
+    "sttTong": 4672,
+    "sttHang": 35,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart Tab 10",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_tab_10-5216.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st10.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012. Released 2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "9.7 inches, 291.4 cm2",
+        "resolution": "1024 x 768 pixels, 4:3 ratio (~132 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.1 (Jelly Bean)",
+        "cpu": "Dual-core 1.5 GHz Cortex-A9",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1.5GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 6000 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:55.234Z"
+  },
+  {
+    "sttTong": 4673,
+    "sttHang": 36,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart Tab2",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_tab2-5220.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st72.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st72.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012. Released 2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "7.0 inches, 139.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "Android 4.1 (Jelly Bean)",
+        "cpu": "1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 3700 mAh, non-removable",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:55.363Z"
+  },
+  {
+    "sttTong": 4675,
+    "sttHang": 38,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn KT21 Express",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_kt21_express-5175.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kt21.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kt21.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "GSM - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.8 inches, 24.3 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "2000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Proximity",
+        "messaging": "SMS, MMS, Email",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:56.922Z"
+  },
+  {
+    "sttTong": 4674,
+    "sttHang": 37,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn Smart Tab 7",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_smart_tab_7-5217.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st7.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-st7.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012. Released 2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 182.2 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~117 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich), upgradable to 4.1 (Jelly Bean)",
+        "chipset": "Vivante GC860",
+        "cpu": "1.2 GHz",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 3700 mAh, non-removable",
+        "talk_time": "Up to 7 h (multimedia)"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:57.567Z"
+  },
+  {
+    "sttTong": 4676,
+    "sttHang": 39,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K65 Buzz",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k65_buzz-5176.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k65-buzz.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k65-buzz.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 37.9 cm2",
+        "resolution": "320 x 480 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "1.08 W/kg (head)",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:58.988Z"
+  },
+  {
+    "sttTong": 4677,
+    "sttHang": 40,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K9 Jumbo",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k9_jumbo-5177.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k9.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 50 x 15.5 mm (4.53 x 1.97 x 0.61 in)",
+        "weight": "112 g (3.95 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~31.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "480p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:00.643Z"
+  },
+  {
+    "sttTong": 4679,
+    "sttHang": 42,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn KT62",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_kt62-5179.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kt62.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kt62.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 55 x 13 mm (3.94 x 2.17 x 0.51 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.8 inches, 24.3 cm2 (~44.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "Yes",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black/Red",
+        "sar_eu": "1.04 W/kg (head)",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:02.286Z"
+  },
+  {
+    "sttTong": 4681,
+    "sttHang": 44,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K309 Boombastic",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k309_boombastic-5181.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k309.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k309.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 49 x 15.2 mm (4.45 x 1.93 x 0.60 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nDedicated music keys\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": ", -",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "200 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black/Red",
+        "sar_eu": "0.75 W/kg (head)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:04.540Z"
+  },
+  {
+    "sttTong": 4682,
+    "sttHang": 45,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K4+ Titan",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k4+_titan-5182.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k4+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k4+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.8 x 52.5 x 14.9 mm (4.68 x 2.07 x 0.59 in)",
+        "weight": "95 g (3.35 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.6 inches, 20.9 cm2 (~33.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Wireless FM radio (no wired headphones required)",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 2200 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black/Silver, White/Black",
+        "sar_eu": "0.95 W/kg (head)",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:11.104Z"
+  },
+  {
+    "sttTong": 4680,
+    "sttHang": 43,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K52 Groovster",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k52_groovster-5180.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k52.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k52.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 52 x 15.2 mm (4.53 x 2.05 x 0.60 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "2.4 inches, 17.8 cm2 (~29.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black/Red, Silver/Black",
+        "sar_eu": "0.58 W/kg (head)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:11.965Z"
+  },
+  {
+    "sttTong": 4678,
+    "sttHang": 41,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A9",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a9-5178.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a9.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a9.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA",
+        "speed": "HSPA",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 60.5 x 11.3 mm (4.72 x 2.38 x 0.44 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.8 inches, 41.1 cm2 (~56.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1600 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar": "0.68 W/kg (head)",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:14.083Z"
+  },
+  {
+    "sttTong": 4684,
+    "sttHang": 47,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K451+ Sound Wave",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k451+_sound_wave-5184.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k451.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k451.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.5 x 51.9 x 14.6 mm (4.59 x 2.04 x 0.57 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~29.5% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 500 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Silver/Black",
+        "sar_eu": "0.45 W/kg (head)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:15.516Z"
+  },
+  {
+    "sttTong": 4683,
+    "sttHang": 46,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K707 Spy II",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k707_spy_ii-5183.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k707.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k707.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.9 x 49.8 x 15.7 mm (4.68 x 1.96 x 0.62 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~30.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black/Silver, Black/Red",
+        "sar_eu": "1.32 W/kg (head)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:15.937Z"
+  },
+  {
+    "sttTong": 4688,
+    "sttHang": 51,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A1+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a1+-5188.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a1+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a1+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.5 x 60.6 x 13.8 mm (4.51 x 2.39 x 0.54 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~52.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.6 (Gingerbread)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB RAM"
+      },
+      "main_camera": {
+        "single": "3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMobile TV"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Ivory White",
+        "sar": "0.66 W/kg (head)",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:20.188Z"
+  },
+  {
+    "sttTong": 4687,
+    "sttHang": 50,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K1+ Stereo",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k1+_stereo-5187.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k1+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k1+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 44 x 14.4 mm (4.29 x 1.73 x 0.57 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.77 inches, 9.9 cm2 (~20.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "250 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "White/Black, Black/Red",
+        "sar_eu": "0.85 W/kg (head)",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:20.571Z"
+  },
+  {
+    "sttTong": 4685,
+    "sttHang": 48,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K102+ Flair",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k102+_flair-5185.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k102+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k102+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108.9 x 45.6 x 14.5 mm (4.29 x 1.80 x 0.57 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": ", -",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Golden/White, Black/Red",
+        "sar_eu": "0.94 W/kg (head)",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:21.672Z"
+  },
+  {
+    "sttTong": 4686,
+    "sttHang": 49,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn KC540 Blaze",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_kc540_blaze-5186.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kc540.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-kc540.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.2 x 46.8 x 13.9 mm (4.38 x 1.84 x 0.55 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.0 cm2 (~28.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "White",
+        "sar_eu": "0.70 W/kg (head)",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:22.149Z"
+  },
+  {
+    "sttTong": 4689,
+    "sttHang": 52,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A21",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a21-5189.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a21.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a21.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.5 inches, 57.6 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~207 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Pearl White",
+        "sar_eu": "0.44 W/kg (head)",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:24.923Z"
+  },
+  {
+    "sttTong": 4690,
+    "sttHang": 53,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A11",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a11-5190.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a11.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a11.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "sar_eu": "1.12 W/kg (head)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:25.401Z"
+  },
+  {
+    "sttTong": 4691,
+    "sttHang": 54,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K36+ Jumbo Mini",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k36+_jumbo_mini-5191.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k36+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k36+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 47 x 16.5 mm (4.37 x 1.85 x 0.65 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh battery",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 20 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:27.347Z"
+  },
+  {
+    "sttTong": 4693,
+    "sttHang": 56,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K440",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k440-5193.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k440.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k440.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119.5 x 54 x 13.5 mm (4.70 x 2.13 x 0.53 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.6 inches, 20.9 cm2 (~32.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh battery",
+        "stand-by": "Up to 800 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black/White, Black/Red",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:30.550Z"
+  },
+  {
+    "sttTong": 4694,
+    "sttHang": 57,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A9+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a9+-5194.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-A9+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-A9+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 60.5 x 11.3 mm (4.72 x 2.38 x 0.44 in)",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.0 inches, 45.5 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1420 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Pearl White",
+        "sar": "0.66 W/kg (head)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:31.745Z"
+  },
+  {
+    "sttTong": 4695,
+    "sttHang": 58,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K11+",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k11+-5195.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k11+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k11+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "61 g (2.15 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "300 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 280 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black/Red, White/Black",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:32.692Z"
+  },
+  {
+    "sttTong": 4697,
+    "sttHang": 60,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A30",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a30-5197.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a30.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a30.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "166 x 91 x 10.7 mm (6.54 x 3.58 x 0.42 in)",
+        "weight": "280 g (9.88 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "5.9 inches, 99.1 cm2 (~65.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~158 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Black/White",
+        "sar_eu": "0.46 W/kg (head)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:34.764Z"
+  },
+  {
+    "sttTong": 4696,
+    "sttHang": 59,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn A15",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_a15-5196.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a15.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-a15.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB (2.5GB user available), 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "2.0",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1420 mAh, removable",
+        "stand-by": "Up to 150 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.59 W/kg (head)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:41.186Z"
+  },
+  {
+    "sttTong": 4692,
+    "sttHang": 55,
+    "brand": "Karbonn",
+    "deviceName": "Karbonn K101+ Media Champ",
+    "deviceUrl": "https://www.gsmarena.com/karbonn_k101+_media_champ-5192.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k101+.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/karbonn-k101+.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 44.7 x 15.3 mm (4.09 x 1.76 x 0.60 in)",
+        "weight": "69 g (2.43 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "500 entries",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "Yes\nAudio/video player\nPhoto viewer\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Black/Red",
+        "sar_eu": "0.95 W/kg (head)",
+        "price": "About 10 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:10:45.586Z"
+  }
+]

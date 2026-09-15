@@ -1,0 +1,150 @@
+[
+  {
+    "sttTong": 12319,
+    "sttHang": 1,
+    "brand": "Thuraya",
+    "deviceName": "Thuraya One",
+    "deviceUrl": "https://www.gsmarena.com/thuraya_one-13660.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/thuraya1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/thuraya1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "LTE",
+        "5g_bands": "SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "167 x 76.5 x 11.6 mm (6.57 x 3.01 x 0.46 in)",
+        "weight": "230 g (8.11 oz)",
+        "build": "Glass front (Corning Gorilla glass 5), plastic back, plastic frame",
+        "sim": "Nano-SIM + Nano-SIM\nIP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "AMOLED, 90Hz, 700 nits",
+        "size": "6.67 inches, 107.4 cm2 (~84.1% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Qualcomm QCM4490  (4 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Adreno 613"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM\nUMCP"
+      },
+      "main_camera": {
+        "triple": "50 MP, f/1.8, (wide), 1/2.76\", PDAF\n8 MP, f/2.2, (ultrawide), 1/4.0\"\n2 MP (macro)",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.2, (wide), 1/3.0\"",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 3.1"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass, gyro"
+      },
+      "battery": {
+        "type": "Li-Po 3500 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 1200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:07.986Z"
+  },
+  {
+    "sttTong": 12320,
+    "sttHang": 2,
+    "brand": "Thuraya",
+    "deviceName": "Thuraya SG-2520",
+    "deviceUrl": "https://www.gsmarena.com/thuraya_sg_2520-1925.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/thuraya-sg2520.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/thuraya-sg2520.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nSATELLITE",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "138.5 x 53 x 18.8 mm (5.45 x 2.09 x 0.74 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 11.4 cm2 (~15.5% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nWallpapers, screensavers"
+      },
+      "platform": {
+        "os": "WinCE 4.2"
+      },
+      "memory": {
+        "card_slot": "SD ( 128 MB included )",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable polyphonic, MP3, WAV, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/HTML\nMP3/AAC/MP4/AMR player\neZi Text Input\nOrganizer\nVoice memo\nFile browser"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1280 mAh battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Light Silver, Dark Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:42:09.854Z"
+  }
+]

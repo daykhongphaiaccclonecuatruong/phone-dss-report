@@ -1,0 +1,246 @@
+[
+  {
+    "sttTong": 14357,
+    "sttHang": 1,
+    "brand": "Yota",
+    "deviceName": "Yota YotaPhone 3",
+    "deviceUrl": "https://www.gsmarena.com/yota_yotaphone_3-8727.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, August. Released 2017, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153.6 x 75.2 x 7.9 mm (6.05 x 2.96 x 0.31 in)",
+        "weight": "170 g (6.00 oz)",
+        "build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "5.5 inches, 83.4 cm2 (~72.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Corning Gorilla Glass 4\nSecondary always-on grayscale capacitive touchscreen, 720 x 1280 pixels (282 ppi), 5.2 inches"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat), Yota 3",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/1.9, AF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP, f/2.2"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3300 mAh, non-removable",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:24.523Z"
+  },
+  {
+    "sttTong": 14359,
+    "sttHang": 3,
+    "brand": "Yota",
+    "deviceName": "Yota YotaPhone",
+    "deviceUrl": "https://www.gsmarena.com/yota_yotaphone-6961.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100 / 1800",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat3 100/50 Mbps"
+      },
+      "launch": {
+        "announced": "2012, December. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "133.6 x 67 x 10 mm (5.26 x 2.64 x 0.39 in)",
+        "weight": "146 g (5.15 oz)",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.3 inches, 51.0 cm2 (~56.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~342 ppi density)",
+        "protection": "Corning Gorilla Glass\nSecondary always-on grayscale capacitive touchscreen, 360 x 640 pixels (170 ppi), 4.3 inches"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8960T Snapdragon S4 Pro",
+        "cpu": "Dual-core 1.7 GHz Krait",
+        "gpu": "Adreno 320"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, non-removable",
+        "stand-by": "Up to 282 h (2G) / Up to 327 h (3G)",
+        "talk_time": "Up to 22 h (2G) / Up to 15 h (3G)",
+        "music_play": "Up to 48 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.57 W/kg (head)     0.28 W/kg (body)",
+        "price": "About 420 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:35.456Z"
+  },
+  {
+    "sttTong": 14358,
+    "sttHang": 2,
+    "brand": "Yota",
+    "deviceName": "Yota YotaPhone 2",
+    "deviceUrl": "https://www.gsmarena.com/yota_yotaphone_2-6959.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yotaphone-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2014, February. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.9 x 69.4 x 9 mm (5.70 x 2.73 x 0.35 in)",
+        "weight": "145 g (5.11 oz)",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "5.0 inches, 68.6 cm2 (~68.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~442 ppi density)",
+        "protection": "Corning Gorilla Glass 3\nSecondary always-on grayscale capacitive touchscreen, 540 x 960 pixels (235 ppi), 4.7 inches"
+      },
+      "platform": {
+        "os": "Android 4.4.3 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "chipset": "Qualcomm Snapdragon 801 (28 nm)",
+        "cpu": "Quad-core 2.3 GHz Krait 400",
+        "gpu": "Adreno 330"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2.1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, non-removable",
+        "charging": "Wireless (Qi)",
+        "stand-by": "Up to 397 h (2G) / Up to 406 h (3G)",
+        "talk_time": "Up to 41 h 40 min (2G) / Up to 26 h (3G)",
+        "music_play": "Up to 92 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "YD201, YD206",
+        "sar_eu": "0.29 W/kg (head)     0.27 W/kg (body)",
+        "price": "About 150 EUR"
+      },
+      "our_tests": {
+        "performance": "Basemark OS II 2.0: 1021Basemark X: 9877",
+        "display": "Contrast ratio: Infinite (nominal), 3.453 (sunlight)",
+        "camera": "Photo / Video",
+        "loudspeaker": "Voice 66dB / Noise 65dB / Ring 69dB",
+        "audio_quality": "Noise -92.1dB / Crosstalk -90.7dB",
+        "battery_old": "Endurance rating 57h"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:52.856Z"
+  }
+]

@@ -1,0 +1,1004 @@
+[
+  {
+    "sttTong": 14360,
+    "sttHang": 1,
+    "brand": "YU",
+    "deviceName": "YU Ace",
+    "deviceUrl": "https://www.gsmarena.com/yu_ace-9308.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-ace-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-ace-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 5, 40, 41",
+        "speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, August. Released 2018, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148 x 70.5 x 9.6 mm (5.83 x 2.78 x 0.38 in)",
+        "weight": "159 g (5.61 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.45 inches, 76.7 cm2 (~73.5% screen-to-body ratio)",
+        "resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "platform": {
+        "os": "Android 8.0 (Oreo)",
+        "chipset": "Mediatek MT6739WW (28 nm)",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "gpu": "PowerVR GE8100"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Charcoal Grey, Elektric Blue, Rose Gold",
+        "models": "YU5014",
+        "price": "About 6000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:27.434Z"
+  },
+  {
+    "sttTong": 14362,
+    "sttHang": 3,
+    "brand": "YU",
+    "deviceName": "YU Yunique 2",
+    "deviceUrl": "https://www.gsmarena.com/yu_yunique_2-8788.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-2-yu5011.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-2-yu5011.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2017, July. Released 2017, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 72.7 x 9.2 mm (5.71 x 2.86 x 0.36 in)",
+        "weight": "159 g (5.61 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~65.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 7.0 (Nougat)",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS, recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable"
+      },
+      "misc": {
+        "colors": "Champagne Gold, Coal Black",
+        "models": "YU5011, YU5012",
+        "price": "About 6000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:32.316Z"
+  },
+  {
+    "sttTong": 14364,
+    "sttHang": 5,
+    "brand": "YU",
+    "deviceName": "YU Yunique Plus",
+    "deviceUrl": "https://www.gsmarena.com/yu_yunique_plus-8287.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "8.3 mm thickness",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "8GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "features": "HDR"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS, recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, non-removable",
+        "stand-by": "Up to 345 h",
+        "talk_time": "Up to 7 h",
+        "music_play": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:36.819Z"
+  },
+  {
+    "sttTong": 14361,
+    "sttHang": 2,
+    "brand": "YU",
+    "deviceName": "YU Yureka 2",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka_2-8864.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka2-yu5551.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka2-yu5551.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.6 x 76.5 x 8.2 mm (6.01 x 3.01 x 0.32 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "To be confirmed"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, AF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3930 mAh, non-removable",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Gold",
+        "models": "YU5551",
+        "price": "About 12000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:38.939Z"
+  },
+  {
+    "sttTong": 14365,
+    "sttHang": 6,
+    "brand": "YU",
+    "deviceName": "YU Yureka S",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka_s-8286.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, August. Released 2016, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.8 x 78 x 8.8 mm (6.09 x 3.07 x 0.35 in)",
+        "weight": "172 g (6.07 oz)",
+        "sim": "Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~61.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.1 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, 1/3.1\", 1.12µm, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3000 mAh, non-removable",
+        "stand-by": "Up to 450 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Dark Grey, Rose Gold, White",
+        "models": "YU5200",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:41.315Z"
+  },
+  {
+    "sttTong": 14367,
+    "sttHang": 8,
+    "brand": "YU",
+    "deviceName": "YU Yureka Note",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka_note-8035.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-note.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-note.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, April. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "159 x 84.1 x 7.9 mm (6.26 x 3.31 x 0.31 in)",
+        "weight": "184 g (6.49 oz)",
+        "sim": "Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.0 inches, 99.2 cm2 (~74.2% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~367 ppi density)",
+        "protection": "Corning Concore Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Mediatek MT6753 (28 nm)",
+        "cpu": "Octa-core 1.5 GHz Cortex-A53",
+        "gpu": "Mali-T720MP3"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, PDAF",
+        "features": "Dual-LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "charging": "18W wired, QC2"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "U60, 6000",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:33:46.050Z"
+  },
+  {
+    "sttTong": 14370,
+    "sttHang": 11,
+    "brand": "YU",
+    "deviceName": "YU Yureka Plus",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka_plus-7436.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yureka.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yureka.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, July. Released 2015, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.8 x 78 x 6 - 8.5 mm",
+        "weight": "-",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~69.1% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Corning Gorilla Glass 3\nCyanogen 12.1"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat), upgradable to 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, 1/3.1\", 1.12µm, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Moondust Gray, Alabaster White",
+        "models": "YU5510A, YU5510",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:07.143Z"
+  },
+  {
+    "sttTong": 14369,
+    "sttHang": 10,
+    "brand": "YU",
+    "deviceName": "YU Yunique",
+    "deviceUrl": "https://www.gsmarena.com/yu_yunique-7554.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunique-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, September. Released 2015, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 67.5 x 8.3 mm (5.30 x 2.66 x 0.33 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.7 inches, 60.9 cm2 (~67.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "8GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "features": "HDR"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "Stereo FM radio, RDS, recording",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2000 mAh, non-removable",
+        "stand-by": "Up to 271 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "YU4711",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:17.202Z"
+  },
+  {
+    "sttTong": 14372,
+    "sttHang": 13,
+    "brand": "YU",
+    "deviceName": "YU Yureka",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka-6987.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yureka.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yureka.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.8 x 78 x 6 - 8.8 mm",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~69.1% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "protection": "Corning Gorilla Glass 3\nCyanogen 12.1"
+      },
+      "platform": {
+        "os": "Android 4.4.4 (KitKat), upgradable to 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, 1/3.1\", 1.12µm, AF",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 2500 mAh, removable",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Moonstone Grey",
+        "models": "AO5510",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:29.054Z"
+  },
+  {
+    "sttTong": 14368,
+    "sttHang": 9,
+    "brand": "YU",
+    "deviceName": "YU Yutopia",
+    "deviceUrl": "https://www.gsmarena.com/yu_yutopia-7827.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yutopia.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yutopia.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 7, 20, 40",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, December. Released 2015, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146.6 x 72.7 x 7.2 mm (5.77 x 2.86 x 0.28 in)",
+        "weight": "159 g (5.61 oz)",
+        "sim": "Nano-SIM + Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~69.9% screen-to-body ratio)",
+        "resolution": "1440 x 2560 pixels, 16:9 ratio (~565 ppi density)",
+        "protection": "Corning Concore Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop), Cyanogen 12.1",
+        "chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+        "cpu": "Octa-core (4x2.0 GHz Cortex A57 & 4x1.5 GHz Cortex-A53)",
+        "gpu": "Adreno 430"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 4GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "21 MP, f/2.2, 27mm (wide), 1/2.4\", 1.12µm, PDAF, OIS",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2, 1/3.2\", 1.4µm"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "charging": "18W wired, QC2",
+        "stand-by": "Up to 300 h (3G)",
+        "talk_time": "Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Silver",
+        "models": "YU5050",
+        "price": "About 420 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:42.917Z"
+  },
+  {
+    "sttTong": 14363,
+    "sttHang": 4,
+    "brand": "YU",
+    "deviceName": "YU Yureka Black",
+    "deviceUrl": "https://www.gsmarena.com/yu_yureka_black-8714.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-yu5040.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yureka-yu5040.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 5, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, June. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 69.6 x 8.7 mm (5.59 x 2.74 x 0.34 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~69.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 6.0 (Marshmallow)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, 1/3.1\", 1.12µm, PDAF",
+        "features": "Dual-LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, non-removable",
+        "stand-by": "Up to 168 h (2G) / Up to 168 h (3G)",
+        "talk_time": "Up to 28 h (2G) / Up to 21 h (3G)"
+      },
+      "misc": {
+        "colors": "Matte Black, Chrome Black",
+        "models": "YU5040",
+        "price": "About 9000 INR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:34:45.172Z"
+  },
+  {
+    "sttTong": 14371,
+    "sttHang": 12,
+    "brand": "YU",
+    "deviceName": "YU Yuphoria",
+    "deviceUrl": "https://www.gsmarena.com/yu_yuphoria-7241.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yuphoria-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yuphoria-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 40 / 800 / 2600",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, May. Released 2015, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.4 x 73 x 8.2 - 9.35 mm",
+        "weight": "143 g; 104 g (w/o battery) (5.04 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Corning Gorilla Glass 3\nCyanogen 12 YU5010 model"
+      },
+      "platform": {
+        "os": "Android 5.0.2 (Lollipop) - YU5010A model",
+        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "cpu": "Quad-core 1.2 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.2, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2230 mAh, removable",
+        "charging": "10W wired, QC1",
+        "stand-by": "Up to 160 h (3G)",
+        "talk_time": "Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "White/Gold, Black/Silver",
+        "models": "YU5010A, U50, YU5010",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:35:07.603Z"
+  },
+  {
+    "sttTong": 14366,
+    "sttHang": 7,
+    "brand": "YU",
+    "deviceName": "YU Yunicorn",
+    "deviceUrl": "https://www.gsmarena.com/yu_yunicorn-8002.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunicorn.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/yu-yunicorn.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 5, 40",
+        "speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "153.3 x 75.4 x 8.5 mm (6.04 x 2.97 x 0.33 in)",
+        "weight": "172 g (6.07 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.1% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)\nAround YU 2"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Mediatek MT6755 Helio P10 (28 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Mali-T860MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.1, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 4000 mAh, non-removable",
+        "stand-by": "Up to 500 h (3G)",
+        "talk_time": "Up to 20 h (3G)",
+        "music_play": "Up to 100 h"
+      },
+      "misc": {
+        "colors": "Silver, graphite, gold",
+        "models": "YU5530, U55",
+        "sar": "0.52 W/kg (head)     0.81 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T18:35:40.087Z"
+  }
+]

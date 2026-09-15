@@ -1,0 +1,1538 @@
+[
+  {
+    "sttTong": 1904,
+    "sttHang": 1,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X2 Pro",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x2_pro-9197.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x2-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x2-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, May. Released 2018, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150.7 x 72.3 x 8.4 mm (5.93 x 2.85 x 0.33 in)",
+        "weight": "168 g (5.93 oz)",
+        "build": "Glass front (Gorilla Glass), glass back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.65 inches, 82.4 cm2 (~75.6% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+        "protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo), Android One",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+        "gpu": "Adreno 512"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "12 MP, f/1.8, 1/2.8\", 1.29µm, dual pixel PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, auto-HDR, panorama",
+        "video": "4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS), 720p@240fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/192kHz Hi-Res audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable",
+        "charging": "18W wired, QC4"
+      },
+      "misc": {
+        "colors": "Midnight Black, Glaze White, Deep Silver",
+        "price": "About 390 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:42.883Z"
+  },
+  {
+    "sttTong": 1905,
+    "sttHang": 2,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X2",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x2-9198.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, May. Released 2018, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "150.7 x 72.3 x 8.3 mm (5.93 x 2.85 x 0.33 in)",
+        "weight": "163 g (5.75 oz)",
+        "build": "Glass front (Gorilla Glass), plastic back, aluminum frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.65 inches, 82.4 cm2 (~75.6% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+        "protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo), Android One",
+        "chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
+        "gpu": "Adreno 509"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "12 MP, f/1.8, 1/2.8\", 1.29µm, dual pixel PDAF\nAuxiliary lens",
+        "features": "Dual-LED dual-tone flash, auto-HDR, panorama",
+        "video": "4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS), 720p@240fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/192kHz Hi-Res audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable",
+        "charging": "18W wired, QC4"
+      },
+      "misc": {
+        "colors": "Carbon Black, Sand Gold",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:46.925Z"
+  },
+  {
+    "sttTong": 1906,
+    "sttHang": 3,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris VS Plus",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_vs_plus-9078.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-vs-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-vs-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, February. Released 2018, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.3 x 76.7 x 8.4 mm (6.00 x 3.02 x 0.33 in)",
+        "weight": "183 g (6.46 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/2.0, 1/2.9\", 1.25µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps, 480p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3400 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Mist Gold",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:47.436Z"
+  },
+  {
+    "sttTong": 1908,
+    "sttHang": 5,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris U2 Lite",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_u2_lite-9037.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u2-lite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u2-lite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 7, 8, 20, 28",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.1 x 72.9 x 8.4 mm (5.83 x 2.87 x 0.33 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~69.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~282 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Adreno 308"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0, 1/5.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:47.599Z"
+  },
+  {
+    "sttTong": 1907,
+    "sttHang": 4,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris VS",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_vs-9077.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-vs.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-vs.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2018, February. Released 2018, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.1 x 73 x 8.4 mm (5.83 x 2.87 x 0.33 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~282 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/2.0, 1/2.9\", 1.25µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps, 480p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Mist Gold",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:48.179Z"
+  },
+  {
+    "sttTong": 1909,
+    "sttHang": 6,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris U2",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_u2-9036.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 7, 8, 20, 28",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.1 x 72.9 x 8.4 mm (5.83 x 2.87 x 0.33 in)",
+        "weight": "155 g (5.47 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~69.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~282 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1/3.1\", 1.12µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps, 480p@120fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0, 1/5.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "Aquaris U2",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:49.845Z"
+  },
+  {
+    "sttTong": 1910,
+    "sttHang": 7,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris V Plus",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_v_plus-9035.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 7, 8, 20, 28",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "152.3 x 76.7 x 8.4 mm (6.00 x 3.02 x 0.33 in)",
+        "weight": "183 g (6.46 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~71.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/2.0, 1.12µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps, 480p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3400 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:51.657Z"
+  },
+  {
+    "sttTong": 1911,
+    "sttHang": 8,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris V",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_v-9034.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-v.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-v.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 7, 8, 20, 28",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, September. Released 2017, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "148.1 x 73 x 8.4 mm (5.83 x 2.87 x 0.33 in)",
+        "weight": "165 g (5.82 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~68.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~282 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/2.0, 1.12µm, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps, 480p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:52.147Z"
+  },
+  {
+    "sttTong": 1912,
+    "sttHang": 9,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X Pro",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x_pro-8641.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-xpro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-xpro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, April. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146.5 x 72.7 x 7.8 mm (5.77 x 2.86 x 0.31 in)",
+        "weight": "158 g (5.57 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~70.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat)",
+        "chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/1.8, 1/2.55\", 1.4µm, PDAF",
+        "features": "Dual-LED dual-tone flash, auto-HDR, panorama",
+        "video": "4K@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0",
+        "features": "LED flash",
+        "video": "1080p@60fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/192kHz audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Midnight Black, Glaze White",
+        "models": "Aquaris X Pro",
+        "price": "About 370 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:52.244Z"
+  },
+  {
+    "sttTong": 1913,
+    "sttHang": 10,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x-8642.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2017, April. Released 2017, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "146.5 x 72.7 x 7.9 mm (5.77 x 2.86 x 0.31 in)",
+        "weight": "153 g (5.40 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.2 inches, 74.5 cm2 (~70.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 7.1.1 (Nougat)",
+        "chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, 1/2.8\", 1.12µm, PDAF",
+        "features": "Dual-LED dual-tone flash, auto-HDR, panorama",
+        "video": "4K@30fps, 720p@120fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0",
+        "features": "LED flash",
+        "video": "1080p@60fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/192kHz audio"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3100 mAh, non-removable",
+        "charging": "18W wired, QC3"
+      },
+      "misc": {
+        "colors": "Mineral Black, Pearl Rose",
+        "models": "Aquaris X",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:53.491Z"
+  },
+  {
+    "sttTong": 1914,
+    "sttHang": 11,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris U Lite",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_u_lite-8380.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 71.5 x 8.3 mm (5.71 x 2.81 x 0.33 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 308"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3080 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.47 W/kg (head)     1.16 W/kg (body)",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:55.406Z"
+  },
+  {
+    "sttTong": 1915,
+    "sttHang": 12,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris U",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_u-8379.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 71.5 x 8.3 mm (5.71 x 2.81 x 0.33 in)",
+        "weight": "140 g (4.94 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.5% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.2, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3080 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.47 W/kg (head)     1.16 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:56.320Z"
+  },
+  {
+    "sttTong": 1917,
+    "sttHang": 14,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X5 Plus",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x5_plus-8236.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x5-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-x5-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, July. Released 2016, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 70 x 7.7 mm (5.71 x 2.76 x 0.30 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow), upgradable to 7.1.1 (Nougat)",
+        "chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A72 & 4x1.4 GHz Cortex-A53)",
+        "gpu": "Adreno 510"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, 1/2.8\", 1.12µm, PDAF",
+        "features": "Dual-LED dual-tone flash, panorama",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 1/4.0\""
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes\n24-bit/96kHz"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "4.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3200 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White/Rose Gold",
+        "models": "Aquaris X5 Plus",
+        "sar_eu": "0.25 W/kg (head)     1.48 W/kg (body)",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:57.417Z"
+  },
+  {
+    "sttTong": 1916,
+    "sttHang": 13,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris U Plus",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_u_plus-8378.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-aquaris-u-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, September. Released 2016, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.2 x 72.2 x 8.7 mm (5.64 x 2.84 x 0.34 in)",
+        "weight": "139 g (4.90 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Dinorex glass"
+      },
+      "platform": {
+        "os": "Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP, f/2.0, PDAF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.4",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3050 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, Gold",
+        "sar_eu": "0.60 W/kg (head)     1.45 W/kg (body)",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:57.676Z"
+  },
+  {
+    "sttTong": 1918,
+    "sttHang": 15,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris E5s",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_e5s-7837.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-e5s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-e5s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.2 x 72.2 x 8.7 mm (5.64 x 2.84 x 0.34 in)",
+        "weight": "139 g (4.90 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8916T Snapdragon 412 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/1.8, 1/3.1\", 1.12µm, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.2",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2850 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.78 W/kg (head)     0.57 W/kg (body)",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:58.323Z"
+  },
+  {
+    "sttTong": 1919,
+    "sttHang": 16,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris X5",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_x5-7838.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-x5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-x5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.4 x 70.5 x 7.5 mm (5.69 x 2.78 x 0.30 in)",
+        "weight": "148 g (5.22 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8916T Snapdragon 412 (28 nm)",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "gpu": "Adreno 306"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 2GB RAM, 32GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1/3.1\", 1.12µm, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2900 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White, Rose Gold",
+        "sar_eu": "0.49 W/kg (head)     0.76 W/kg (body)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:33:00.332Z"
+  },
+  {
+    "sttTong": 1920,
+    "sttHang": 17,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris M5",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_m5-7839.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143 x 69.4 x 8.4 mm (5.63 x 2.73 x 0.33 in)",
+        "weight": "144 g (5.08 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~69.4% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1/3.1\", 1.12µm, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3120 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "Aquaris M5",
+        "sar_eu": "0.45 W/kg (head)     0.44 W/kg (body)",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:33:01.778Z"
+  },
+  {
+    "sttTong": 1923,
+    "sttHang": 20,
+    "brand": "BQ",
+    "deviceName": "BQ  Aquaris M10",
+    "deviceUrl": "https://www.gsmarena.com/bq__aquaris_m10-7842.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m10.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "246 x 171 x 8.2 mm (9.69 x 6.73 x 0.32 in)",
+        "weight": "470 g (1.04 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~70.3% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Mediatek MT8163B",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Po 7280 mAh, non-removable",
+        "talk_time": "Up to 10 h (multimedia)",
+        "music_play": "Up to 60 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "1.03 W/kg (body)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:33:03.447Z"
+  },
+  {
+    "sttTong": 1921,
+    "sttHang": 18,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris M5.5",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_m5_5-7840.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "151.8 x 75.5 x 8.4 mm (5.98 x 2.97 x 0.33 in)",
+        "weight": "162 g (5.71 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~72.8% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "gpu": "Adreno 405"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, 1/3.1\", 1.12µm, AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 3620 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.40 W/kg (head)     0.80 W/kg (body)",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:33:06.342Z"
+  },
+  {
+    "sttTong": 1922,
+    "sttHang": 19,
+    "brand": "BQ",
+    "deviceName": "BQ Aquaris M4.5",
+    "deviceUrl": "https://www.gsmarena.com/bq_aquaris_m4_5-7841.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m45.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bq-m45.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2015. Released 2015",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131.8 x 63.5 x 8.8 mm (5.19 x 2.5 x 0.35 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~66.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+        "protection": "Asahi Dragontrail Glass"
+      },
+      "platform": {
+        "os": "Android 5.1.1 (Lollipop)",
+        "chipset": "Mediatek MT6735M (28 nm)",
+        "cpu": "Quad-core 1.0 GHz Cortex-A53",
+        "gpu": "Mali-T720MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM, 16GB 1GB RAM, , 16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.0, 1/3.2\", AF",
+        "features": "Dual-LED flash, panorama, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP, f/2.0",
+        "features": "LED flash"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 2470 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.33 W/kg (head)     0.60 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:33:06.682Z"
+  }
+]

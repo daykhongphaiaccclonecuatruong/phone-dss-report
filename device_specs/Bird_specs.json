@@ -1,0 +1,4013 @@
+[
+  {
+    "sttTong": 1235,
+    "sttHang": 2,
+    "brand": "Bird",
+    "deviceName": "Bird D636",
+    "deviceUrl": "https://www.gsmarena.com/bird_d636-1965.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d636.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d636.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 45.6 x 12.2 mm (4.13 x 1.80 x 0.48 in)",
+        "weight": "98.4 g (3.46 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~23.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player, MP4 player\nAudio Recorder\nData/Fax Modem\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi\nFR,HR,EFR,AMR Voice Codecs"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:26.016Z"
+  },
+  {
+    "sttTong": 1234,
+    "sttHang": 1,
+    "brand": "Bird",
+    "deviceName": "Bird M32",
+    "deviceUrl": "https://www.gsmarena.com/bird_m32-1966.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m32.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m32.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "94 x 46 x 16.5 mm (3.70 x 1.81 x 0.65 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~23.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond External LCD Neon Color"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio (optional)",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player, MP4 player\nAudio Recorder\nData/Fax Modem\nLanguages: Chinese, English, French, Arabic, Hindi, Spanish, Portuguese\nFR,HR,EFR,AMR Voice Codecs"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Light Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:29.317Z"
+  },
+  {
+    "sttTong": 1236,
+    "sttHang": 3,
+    "brand": "Bird",
+    "deviceName": "Bird D706",
+    "deviceUrl": "https://www.gsmarena.com/bird_d706-1964.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d706.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d706.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 45.6 x 12.2 mm (4.13 x 1.80 x 0.48 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~23.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player, MP4 player\nAudio Recorder\nData/Fax Modem\nLanguages: Chinese, English, French, Spanish, Portuguese, Hind\nFR,HR,EFR,AMR Voice Codecs"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Golden Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:34.223Z"
+  },
+  {
+    "sttTong": 1237,
+    "sttHang": 4,
+    "brand": "Bird",
+    "deviceName": "Bird D615",
+    "deviceUrl": "https://www.gsmarena.com/bird_d615-1963.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d615.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d615.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45.6 x 12.2 mm (4.13 x 1.80 x 0.48 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "languages": "Chinese, English, French, Spanish, Portuguese, Hin",
+        "java": "Yes, MIDP 2.0\nMP3 player, MP4 player\nVoice memo\nData/Fax Modem"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Soft-touch Grey, Shining Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:35.529Z"
+  },
+  {
+    "sttTong": 1238,
+    "sttHang": 5,
+    "brand": "Bird",
+    "deviceName": "Bird S768",
+    "deviceUrl": "https://www.gsmarena.com/bird_s768-1962.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s768.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s768.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 10 mm (4.13 x 1.81 x 0.39 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 player\nX-Slim design"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Pink, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:35.762Z"
+  },
+  {
+    "sttTong": 1241,
+    "sttHang": 8,
+    "brand": "Bird",
+    "deviceName": "Bird D736",
+    "deviceUrl": "https://www.gsmarena.com/bird_d736-1959.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d736.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d736.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95 x 47 x 18.2 mm (3.74 x 1.85 x 0.72 in)",
+        "weight": "96 g (3.39 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/ MP4 player\nVoice memo\nData/ Fax Modem\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "UV Black, Soft-touch Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:39.798Z"
+  },
+  {
+    "sttTong": 1240,
+    "sttHang": 7,
+    "brand": "Bird",
+    "deviceName": "Bird S618",
+    "deviceUrl": "https://www.gsmarena.com/bird_s618-1960.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s618.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s618.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "103 x 46 x 11 mm (4.06 x 1.81 x 0.43 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.7 inches, 9.1 cm2 (~19.2% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio (optional)",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Arabic, Hindi, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:41.267Z"
+  },
+  {
+    "sttTong": 1239,
+    "sttHang": 6,
+    "brand": "Bird",
+    "deviceName": "Bird S758",
+    "deviceUrl": "https://www.gsmarena.com/bird_s758-1961.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s758.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s758.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 46 x 10 mm (4.13 x 1.81 x 0.39 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio (optional)",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nX-Slim design"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Pink, Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:41.643Z"
+  },
+  {
+    "sttTong": 1243,
+    "sttHang": 10,
+    "brand": "Bird",
+    "deviceName": "Bird D720",
+    "deviceUrl": "https://www.gsmarena.com/bird_d720-1952.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d720.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d720.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 46 x 15.9 mm (3.94 x 1.81 x 0.63 in)",
+        "weight": "93 g (3.28 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~24.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/ MP4 player\nVoice memo\nData/ Fax Modem\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver, Green, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:43.408Z"
+  },
+  {
+    "sttTong": 1244,
+    "sttHang": 11,
+    "brand": "Bird",
+    "deviceName": "Bird D611",
+    "deviceUrl": "https://www.gsmarena.com/bird_d611-1951.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d611.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d611.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.5 x 44 x 12.2 mm (4.15 x 1.73 x 0.48 in)",
+        "weight": "71.4 g (2.50 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~22.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/ MP4 player\nAudio Recorder\nData/ Fax Modem\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:46.063Z"
+  },
+  {
+    "sttTong": 1245,
+    "sttHang": 12,
+    "brand": "Bird",
+    "deviceName": "Bird D515",
+    "deviceUrl": "https://www.gsmarena.com/bird_d515-1950.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d515.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d515.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "106.7 x 46.3 x 10.3 mm (4.20 x 1.82 x 0.41 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~20.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Optional",
+        "positioning": "No",
+        "radio": "FM radio (optional)",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/ MP4 player\nAudio Recorder\nData/ Fax Modem\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:46.783Z"
+  },
+  {
+    "sttTong": 1247,
+    "sttHang": 14,
+    "brand": "Bird",
+    "deviceName": "Bird M29",
+    "deviceUrl": "https://www.gsmarena.com/bird_m29-1948.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M29.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M29.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 44 x 15.2 mm (4.21 x 1.73 x 0.60 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.6 inches, 8.1 cm2 (~17.1% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~128 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "37MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nData/ Fax Modem\nMP3 player\nAudio Recorder\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Arabic, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:49.694Z"
+  },
+  {
+    "sttTong": 1246,
+    "sttHang": 13,
+    "brand": "Bird",
+    "deviceName": "Bird D612",
+    "deviceUrl": "https://www.gsmarena.com/bird_d612-1949.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d612.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d612.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.5 x 44 x 12.2 mm (4.15 x 1.73 x 0.48 in)",
+        "weight": "71.4 g (2.50 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~22.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nData/ Fax Modem\nMP3/ MP4 player\nAudio Recorder\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:49.997Z"
+  },
+  {
+    "sttTong": 1248,
+    "sttHang": 15,
+    "brand": "Bird",
+    "deviceName": "Bird M01",
+    "deviceUrl": "https://www.gsmarena.com/bird_m01-1947.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M01.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M01.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89.5 x 44 x 18.2 mm (3.52 x 1.73 x 0.72 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 260K colors",
+        "size": "1.5 inches, 7.3 cm2 (~18.4% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "62MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 Player\nAudio Recorder\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:50.783Z"
+  },
+  {
+    "sttTong": 1242,
+    "sttHang": 9,
+    "brand": "Bird",
+    "deviceName": "Bird D716",
+    "deviceUrl": "https://www.gsmarena.com/bird_d716-1955.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d716.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d716.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.8 x 46 x 12.8 mm (4.17 x 1.81 x 0.50 in)",
+        "weight": "81 g (2.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~23.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/ MP4 player\nAudio Recorder\nData/ Fax Modem\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 600 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3.30 h"
+      },
+      "misc": {
+        "colors": "Mirror  Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:52.629Z"
+  },
+  {
+    "sttTong": 1249,
+    "sttHang": 16,
+    "brand": "Bird",
+    "deviceName": "Bird M07",
+    "deviceUrl": "https://www.gsmarena.com/bird_m07-1946.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M07.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-M07.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 44 x 15.3 mm (4.13 x 1.73 x 0.60 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.7% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "57MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nMP3 Player\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Arabic, Hindi, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White Blue, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:54.577Z"
+  },
+  {
+    "sttTong": 1252,
+    "sttHang": 19,
+    "brand": "Bird",
+    "deviceName": "Bird S663",
+    "deviceUrl": "https://www.gsmarena.com/bird_s663-1943.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s663.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s663.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.3 x 44 x 15.8 mm (4.15 x 1.73 x 0.62 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.7% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:56.167Z"
+  },
+  {
+    "sttTong": 1250,
+    "sttHang": 17,
+    "brand": "Bird",
+    "deviceName": "Bird S1130",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1130-1945.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s1130.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s1130.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89.5 x 44 x 18.2 mm (3.52 x 1.73 x 0.72 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "OLED, 260K colors",
+        "size": "1.5 inches, 7.3 cm2 (~18.4% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:44:58.103Z"
+  },
+  {
+    "sttTong": 1251,
+    "sttHang": 18,
+    "brand": "Bird",
+    "deviceName": "Bird V5518+",
+    "deviceUrl": "https://www.gsmarena.com/bird_v5518+-1944.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-V5518+.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-V5518+.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87.8 x 43.8 x 21.9 mm (3.46 x 1.72 x 0.86 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~26.5% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)\nSecond external LCD, monochrome display, 1.1 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, French, Arabic, Hindi, Spanish, Portuguese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 120 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:04.130Z"
+  },
+  {
+    "sttTong": 1256,
+    "sttHang": 23,
+    "brand": "Bird",
+    "deviceName": "Bird S667",
+    "deviceUrl": "https://www.gsmarena.com/bird_s667-1939.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s667.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s667.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 45.5 x 15.7 mm (4.09 x 1.79 x 0.62 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.3% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR voice codecs\nLanguages: Chinese, English, French, Arabic"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:04.567Z"
+  },
+  {
+    "sttTong": 1257,
+    "sttHang": 24,
+    "brand": "Bird",
+    "deviceName": "Bird S296+",
+    "deviceUrl": "https://www.gsmarena.com/bird_s296+-1938.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s296.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s296.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45 x 15.7 mm (4.13 x 1.77 x 0.62 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.4 inches, 5.7 cm2 (~12.1% screen-to-body ratio)",
+        "resolution": "101x 64 pixels (~85 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR,AMR voice codecs\nLanguages: Chinese, English, Hindi"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black, Grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:08.790Z"
+  },
+  {
+    "sttTong": 1255,
+    "sttHang": 22,
+    "brand": "Bird",
+    "deviceName": "Bird S668",
+    "deviceUrl": "https://www.gsmarena.com/bird_s668-1940.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s668.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s668.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 45.5 x 15.7 mm (4.09 x 1.79 x 0.62 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.3% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR voice codecs\nLanguages: Chinese, English, French, Arabic"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver Grey, Blue,  White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:09.809Z"
+  },
+  {
+    "sttTong": 1253,
+    "sttHang": 20,
+    "brand": "Bird",
+    "deviceName": "Bird S661",
+    "deviceUrl": "https://www.gsmarena.com/bird_s661-1942.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s661.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s661.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.3 x 44 x 15.8 mm (4.15 x 1.73 x 0.62 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.7% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR voice codecs\nLanguages: Chinese, English, French, Arabic"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:10.667Z"
+  },
+  {
+    "sttTong": 1258,
+    "sttHang": 25,
+    "brand": "Bird",
+    "deviceName": "Bird S296",
+    "deviceUrl": "https://www.gsmarena.com/bird_s296-1937.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s296.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s296.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 45 x 15.7 mm (4.13 x 1.77 x 0.62 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "size": "1.4 inches, 5.7 cm2 (~12.1% screen-to-body ratio)",
+        "resolution": "101x 64 pixels (~85 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nEFR, FR, HR voice codecs\nLanguages: Chinese, English, French, Arabic, Vietnamese"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black, Grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:13.361Z"
+  },
+  {
+    "sttTong": 1254,
+    "sttHang": 21,
+    "brand": "Bird",
+    "deviceName": "Bird S669",
+    "deviceUrl": "https://www.gsmarena.com/bird_s669-1941.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s669.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s669.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 45.5 x 15.7 mm (4.09 x 1.79 x 0.62 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~15.3% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "No",
+        "games": "Yes",
+        "java": "No\nFR,HR,EFR voice codecs\nLanguages: Chinese, English, French, Arabic"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:14.563Z"
+  },
+  {
+    "sttTong": 1260,
+    "sttHang": 27,
+    "brand": "Bird",
+    "deviceName": "Bird D660",
+    "deviceUrl": "https://www.gsmarena.com/bird_d660-1406.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d660.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d660.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "107 x 45 x 16.5 mm (4.21 x 1.77 x 0.65 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "300 x 5 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nMP3/MIDI player\nCalculator\nWorld time \nPredictive text input\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:15.440Z"
+  },
+  {
+    "sttTong": 1262,
+    "sttHang": 29,
+    "brand": "Bird",
+    "deviceName": "Bird M08",
+    "deviceUrl": "https://www.gsmarena.com/bird_m08-1369.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m08.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m08.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "87.8 x 43.3 x 21.3 mm (3.46 x 1.70 x 0.84 in)",
+        "weight": "78 g (2.75 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external CSTN display, 65K colors, (96x64 pixels)\n7 colors flashing LED\nWallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "phonebook": "300 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nMP3 player\nOrganizer\nWorld time\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h 50 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:21.198Z"
+  },
+  {
+    "sttTong": 1261,
+    "sttHang": 28,
+    "brand": "Bird",
+    "deviceName": "Bird M11",
+    "deviceUrl": "https://www.gsmarena.com/bird_m11-1405.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m11.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m11.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "108 x 44 x 15.2 mm (4.25 x 1.73 x 0.60 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "No\nMP3/MIDI player\nCalculator\nWorld time \nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:26.307Z"
+  },
+  {
+    "sttTong": 1259,
+    "sttHang": 26,
+    "brand": "Bird",
+    "deviceName": "Bird D680",
+    "deviceUrl": "https://www.gsmarena.com/bird_d680-1407.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d680.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-d680.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 12",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "88 x 42 x 21 mm (3.46 x 1.65 x 0.83 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external CSTN display, 65K colors, (96x64 pixels)\nWallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 x 5 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls\n2 MB for MMS messages\n200 SMS messages"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "2 embedded + download",
+        "java": "No\nMP3/MIDI player\nCalculator\nWorld time\nPredictive text input \nCurrency convertor\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:26.313Z"
+  },
+  {
+    "sttTong": 1263,
+    "sttHang": 30,
+    "brand": "Bird",
+    "deviceName": "Bird S890",
+    "deviceUrl": "https://www.gsmarena.com/bird_s890-1368.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s890.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s890.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nWallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2",
+        "java": "Yes\nOrganizer\nWorld time\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:26.793Z"
+  },
+  {
+    "sttTong": 1267,
+    "sttHang": 34,
+    "brand": "Bird",
+    "deviceName": "Bird S299",
+    "deviceUrl": "https://www.gsmarena.com/bird_s299-1364.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s299.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s299.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104 x 44 x 14 mm (4.09 x 1.73 x 0.55 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, Mono",
+        "resolution": "112 x 80 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP",
+        "games": "Yes",
+        "java": "No\nMP3 player\nChangeable front and back covers\niTap\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:31.606Z"
+  },
+  {
+    "sttTong": 1265,
+    "sttHang": 32,
+    "brand": "Bird",
+    "deviceName": "Bird S698",
+    "deviceUrl": "https://www.gsmarena.com/bird_s698-1366.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s698.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s698.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "104.3 x 15.7 x 44 mm (4.11 x 0.62 x 1.73 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nWallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "2",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:33.325Z"
+  },
+  {
+    "sttTong": 1270,
+    "sttHang": 37,
+    "brand": "Bird",
+    "deviceName": "Bird V109",
+    "deviceUrl": "https://www.gsmarena.com/bird_v109-1284.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v109.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v109.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "82.9 x 43 x 21.7 mm (3.26 x 1.69 x 0.85 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external OLED mono display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nCalculator\nCurrency convertor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:37.435Z"
+  },
+  {
+    "sttTong": 1271,
+    "sttHang": 38,
+    "brand": "Bird",
+    "deviceName": "Bird S799",
+    "deviceUrl": "https://www.gsmarena.com/bird_s799-1286.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s799.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s799.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "83.5 x 45.5 x 21.5 mm (3.29 x 1.79 x 0.85 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "120 x 128 pixels\nWallpaper, screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2 embedded",
+        "java": "No\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:41.660Z"
+  },
+  {
+    "sttTong": 1272,
+    "sttHang": 39,
+    "brand": "Bird",
+    "deviceName": "Bird S699",
+    "deviceUrl": "https://www.gsmarena.com/bird_s699-1285.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s699.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s699.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "104.3 x 44 x 15.7 mm (4.11 x 1.73 x 0.62 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "120 x 128 pixels\nWallpaper, screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "2 embedded",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 75 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:46.196Z"
+  },
+  {
+    "sttTong": 1264,
+    "sttHang": 31,
+    "brand": "Bird",
+    "deviceName": "Bird S798",
+    "deviceUrl": "https://www.gsmarena.com/bird_s798-1367.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s798.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s798.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "83.5 x 45.5 x 21.5 mm (3.29 x 1.79 x 0.85 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nWallpapers, screensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2",
+        "java": "No\nMP3/MP4 player\nPredictive text input\nPhoto editor\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:45:47.318Z"
+  },
+  {
+    "sttTong": 1273,
+    "sttHang": 40,
+    "brand": "Bird",
+    "deviceName": "Bird V79",
+    "deviceUrl": "https://www.gsmarena.com/bird_v79-1281.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v79.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v79.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 43 x 21 mm (3.43 x 1.69 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external STN mono display (96 x 64 pixels)\nWallpaper\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2",
+        "games": "Yes",
+        "java": "No\nVoice memo\nPredictive text input\nWorld Time\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:51.244Z"
+  },
+  {
+    "sttTong": 1274,
+    "sttHang": 41,
+    "brand": "Bird",
+    "deviceName": "Bird S1186",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1186-1280.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s1186.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s1186.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 44 x 18.5 mm (3.27 x 1.73 x 0.73 in)",
+        "weight": "84 g (2.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Virtual Colour",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nBacklight\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:52.273Z"
+  },
+  {
+    "sttTong": 1275,
+    "sttHang": 42,
+    "brand": "Bird",
+    "deviceName": "Bird S199",
+    "deviceUrl": "https://www.gsmarena.com/bird_s199-1231.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s199.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s199.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "104.3 x 42.6 x 15 mm (4.11 x 1.68 x 0.59 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, Mono",
+        "resolution": "112 x 64 pixels, 16:9 ratio\n5-way navigation key"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:55.533Z"
+  },
+  {
+    "sttTong": 1276,
+    "sttHang": 43,
+    "brand": "Bird",
+    "deviceName": "Bird S789",
+    "deviceUrl": "https://www.gsmarena.com/bird_s789-1157.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s789.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s789.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 1800 / 1900",
+        "gprs": "Class 6",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 43 x 13 mm (4.13 x 1.69 x 0.51 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:56.185Z"
+  },
+  {
+    "sttTong": 1268,
+    "sttHang": 35,
+    "brand": "Bird",
+    "deviceName": "Bird MP300",
+    "deviceUrl": "https://www.gsmarena.com/bird_mp300-1282.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-w1.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-w1.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "108 x 44 x 19.5 mm (4.25 x 1.73 x 0.77 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "120 x 160 pixels, 4:3 ratio\nWallpaper, animated screensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 x 5 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "128MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "2 embedded + download",
+        "java": "Yes\nMP3/Midi Player\nPredictive text input\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:45:58.490Z"
+  },
+  {
+    "sttTong": 1277,
+    "sttHang": 44,
+    "brand": "Bird",
+    "deviceName": "Bird V5510",
+    "deviceUrl": "https://www.gsmarena.com/bird_v5510-1210.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v5510.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-v5510.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "75 x 42 x 20 mm (2.95 x 1.65 x 0.79 in)",
+        "weight": "66 g (2.33 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver-Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:00.161Z"
+  },
+  {
+    "sttTong": 1278,
+    "sttHang": 45,
+    "brand": "Bird",
+    "deviceName": "Bird DV10",
+    "deviceUrl": "https://www.gsmarena.com/bird_dv10-1145.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-dv10.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-dv10.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82.9 x 43 x 21.6 mm (3.26 x 1.69 x 0.85 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries, Photocall",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:00.937Z"
+  },
+  {
+    "sttTong": 1279,
+    "sttHang": 46,
+    "brand": "Bird",
+    "deviceName": "Bird S590",
+    "deviceUrl": "https://www.gsmarena.com/bird_s590-1006.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis590.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis590.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 44 x 20 mm (4.21 x 1.73 x 0.79 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:02.541Z"
+  },
+  {
+    "sttTong": 1280,
+    "sttHang": 47,
+    "brand": "Bird",
+    "deviceName": "Bird S580",
+    "deviceUrl": "https://www.gsmarena.com/bird_s580-1093.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s580.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s580.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 44 x 20 mm (4.21 x 1.73 x 0.79 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nScreensavers, wallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to  3 h"
+      },
+      "misc": {
+        "colors": "Orange, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:05.091Z"
+  },
+  {
+    "sttTong": 1281,
+    "sttHang": 48,
+    "brand": "Bird",
+    "deviceName": "Bird A150",
+    "deviceUrl": "https://www.gsmarena.com/bird_a150-954.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 4",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83.5 x 42 x 19 mm (3.29 x 1.65 x 0.75 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "400 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:05.147Z"
+  },
+  {
+    "sttTong": 1282,
+    "sttHang": 49,
+    "brand": "Bird",
+    "deviceName": "Bird A130",
+    "deviceUrl": "https://www.gsmarena.com/bird_a130-984.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia130.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia130.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 4",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 42 x 22 mm (3.43 x 1.65 x 0.87 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:06.934Z"
+  },
+  {
+    "sttTong": 1284,
+    "sttHang": 51,
+    "brand": "Bird",
+    "deviceName": "Bird V09",
+    "deviceUrl": "https://www.gsmarena.com/bird_v09-990.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/biv09.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/biv09.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83 x 43 x 20 mm (3.27 x 1.69 x 0.79 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Red, Blue Grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:09.297Z"
+  },
+  {
+    "sttTong": 1283,
+    "sttHang": 50,
+    "brand": "Bird",
+    "deviceName": "Bird A120",
+    "deviceUrl": "https://www.gsmarena.com/bird_a120-985.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia120.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bia120.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 4",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 43 x 21 mm (3.43 x 1.69 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:09.397Z"
+  },
+  {
+    "sttTong": 1266,
+    "sttHang": 33,
+    "brand": "Bird",
+    "deviceName": "Bird S198",
+    "deviceUrl": "https://www.gsmarena.com/bird_s198-1365.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s198.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-s198.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 850 / 1900 - US version",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "104.3 x 42.6 x 15 mm (4.11 x 1.68 x 0.59 in)",
+        "weight": "73 g (2.57 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, Mono",
+        "resolution": "112 x 64 pixels, 16:9 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "250 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 72 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "4 - Black, White, Green, Red"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:09.664Z"
+  },
+  {
+    "sttTong": 1269,
+    "sttHang": 36,
+    "brand": "Bird",
+    "deviceName": "Bird M19",
+    "deviceUrl": "https://www.gsmarena.com/bird_m19-1283.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m12.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bird-m12.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "106 x 44 x 15.2 mm (4.17 x 1.73 x 0.60 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 x 5 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nMP3 Player\nPredictive text input\nVoice memo\nCalculator\nCurrency convertor"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:11.242Z"
+  },
+  {
+    "sttTong": 1286,
+    "sttHang": 53,
+    "brand": "Bird",
+    "deviceName": "Bird SC24",
+    "deviceUrl": "https://www.gsmarena.com/bird_sc24-952.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bisc24.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bisc24.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 6",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 44 x 23 mm (3.19 x 1.73 x 0.91 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Red"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:13.745Z"
+  },
+  {
+    "sttTong": 1285,
+    "sttHang": 52,
+    "brand": "Bird",
+    "deviceName": "Bird S570",
+    "deviceUrl": "https://www.gsmarena.com/bird_s570-953.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis570.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis570.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 43 x 18.5 mm (4.06 x 1.69 x 0.73 in)",
+        "weight": "89 g (3.14 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "CIF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:13.836Z"
+  },
+  {
+    "sttTong": 1287,
+    "sttHang": 54,
+    "brand": "Bird",
+    "deviceName": "Bird G118",
+    "deviceUrl": "https://www.gsmarena.com/bird_g118-956.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/big118.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/big118.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 4",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 43 x 22 mm (3.23 x 1.69 x 0.87 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Red"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:13.851Z"
+  },
+  {
+    "sttTong": 1288,
+    "sttHang": 55,
+    "brand": "Bird",
+    "deviceName": "Bird S1190",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1190-987.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis1190.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis1190.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "84 x 43 x 20 mm (3.31 x 1.69 x 0.79 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "102 x 80 pixels\nScreensaver"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "2",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:15.775Z"
+  },
+  {
+    "sttTong": 1289,
+    "sttHang": 56,
+    "brand": "Bird",
+    "deviceName": "Bird S1180c",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1180c-951.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bi1180c.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bi1180c.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 43 x 18 mm (3.19 x 1.69 x 0.71 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 96 pixels, 4:3 ratio\nSecond external color display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:44.737Z"
+  },
+  {
+    "sttTong": 1292,
+    "sttHang": 59,
+    "brand": "Bird",
+    "deviceName": "Bird S788",
+    "deviceUrl": "https://www.gsmarena.com/bird_s788-988.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis788.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis788.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115 x 45 x 14 mm (4.53 x 1.77 x 0.55 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "112 x 80 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Grey, Red"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:50.050Z"
+  },
+  {
+    "sttTong": 1291,
+    "sttHang": 58,
+    "brand": "Bird",
+    "deviceName": "Bird S1160",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1160-950.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bi1160.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bi1160.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 46 x 21 mm (3.39 x 1.81 x 0.83 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, mono",
+        "resolution": "112 x 80 pixels\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:55.186Z"
+  },
+  {
+    "sttTong": 1293,
+    "sttHang": 60,
+    "brand": "Bird",
+    "deviceName": "Bird S288 Plus",
+    "deviceUrl": "https://www.gsmarena.com/bird_s288_plus-989.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis288s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis288s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 44 x 12 mm (4.06 x 1.73 x 0.47 in)",
+        "weight": "65 g (2.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, mono",
+        "resolution": "112 x 80 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue, Red, Grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:55.305Z"
+  },
+  {
+    "sttTong": 1290,
+    "sttHang": 57,
+    "brand": "Bird",
+    "deviceName": "Bird S1160 Plus",
+    "deviceUrl": "https://www.gsmarena.com/bird_s1160_plus-986.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis1160p.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis1160p.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 44 x 20 mm (3.35 x 1.73 x 0.79 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, mono",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nSecond external mono display"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:46:59.083Z"
+  },
+  {
+    "sttTong": 1294,
+    "sttHang": 61,
+    "brand": "Bird",
+    "deviceName": "Bird S288",
+    "deviceUrl": "https://www.gsmarena.com/bird_s288-949.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis288.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bis288.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 42 x 11 mm (4.13 x 1.65 x 0.43 in)",
+        "weight": "60 g (2.12 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, mono",
+        "resolution": "112 x 80 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Blue, Red, Grey"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:47:01.059Z"
+  }
+]

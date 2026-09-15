@@ -1,0 +1,222 @@
+[
+  {
+    "sttTong": 7802,
+    "sttHang": 1,
+    "brand": "Nvidia",
+    "deviceName": "Nvidia Shield K1",
+    "deviceUrl": "https://www.gsmarena.com/nvidia_shield_k1-7832.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield-tablet-k1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield-tablet-k1.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2015, November. Released 2015, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "221 x 126 x 9.2 mm (8.70 x 4.96 x 0.36 in)",
+        "weight": "356 g (12.56 oz)",
+        "sim": "No\nStylus"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 185.6 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "1920 x 1200 pixels, 16:10 ratio (~283 ppi density)"
+      },
+      "platform": {
+        "os": "Android 5.0 (Lollipop), upgradable to 7.0 (Nougat)",
+        "chipset": "Nvidia Tegra K1",
+        "cpu": "Quad-core 2.2 GHz Cortex-A15",
+        "gpu": "ULP GeForce Kepler (192 cores)"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "HDR"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nDual bass reflex port"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 5200 mAh, non-removable (19.75 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:56:48.723Z"
+  },
+  {
+    "sttTong": 7803,
+    "sttHang": 2,
+    "brand": "Nvidia",
+    "deviceName": "Nvidia Shield LTE",
+    "deviceUrl": "https://www.gsmarena.com/nvidia_shield_lte-6600.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3g_bands": "HSDPA 850 / 1700 / 1900 / 2100 - North America\nHSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 7, 17 - North America\n1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "221 x 126 x 9.2 mm (8.70 x 4.96 x 0.36 in)",
+        "weight": "390 g (13.76 oz)",
+        "sim": "Micro-SIM\nStylus"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 185.6 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "1920 x 1200 pixels, 16:10 ratio (~283 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 4.4.4 (KitKat)",
+        "chipset": "Nvidia Tegra K1",
+        "cpu": "Quad-core 2.2 GHz Cortex-A15",
+        "gpu": "ULP GeForce Kepler (192 cores)"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "HDR"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nDual bass reflex port"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 5400 mAh, non-removable (19.75 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:56:51.601Z"
+  },
+  {
+    "sttTong": 7804,
+    "sttHang": 3,
+    "brand": "Nvidia",
+    "deviceName": "Nvidia Shield",
+    "deviceUrl": "https://www.gsmarena.com/nvidia_shield-6601.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nvidia-shield.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "221 x 126 x 9.2 mm (8.70 x 4.96 x 0.36 in)",
+        "weight": "390 g (13.76 oz)",
+        "sim": "No\nStylus"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "8.0 inches, 185.6 cm2 (~66.6% screen-to-body ratio)",
+        "resolution": "1920 x 1200 pixels, 16:10 ratio (~283 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat), upgradable to 7.0 (Nougat)",
+        "chipset": "Nvidia Tegra K1",
+        "cpu": "Quad-core 2.2 GHz Cortex-A15",
+        "gpu": "ULP GeForce Kepler (192 cores)"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "features": "HDR"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nDual bass reflex port"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port"
+      },
+      "battery": {
+        "type": "Li-Ion 5400 mAh, non-removable (19.75 Wh)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T12:56:55.252Z"
+  }
+]

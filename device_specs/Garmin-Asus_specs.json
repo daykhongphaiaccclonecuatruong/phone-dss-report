@@ -1,0 +1,355 @@
+[
+  {
+    "sttTong": 2701,
+    "sttHang": 1,
+    "brand": "Garmin-Asus",
+    "deviceName": "Garmin-Asus A10",
+    "deviceUrl": "https://www.gsmarena.com/garmin_asus_a10-3295.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/garmin-asus-a10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/garmin-asus-a10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 30.5 cm2",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "320p@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS, Garmin navigation",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nMP3/eAAC+/WAV player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 530 h (2G) / Up to 660 h (3G)",
+        "talk_time": "Up to 9 h 20 min (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:42.694Z"
+  },
+  {
+    "sttTong": 2702,
+    "sttHang": 2,
+    "brand": "Garmin-Asus",
+    "deviceName": "Garmin-Asus nuvifone A50",
+    "deviceUrl": "https://www.gsmarena.com/garmin_asus_nuvifone_a50-3139.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-a50.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-a50.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 1700 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, February. Released 2010, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 62.2 x 12 mm (4.57 x 2.45 x 0.47 in)",
+        "weight": "136 g (4.80 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~50.6% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "480p@24fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS, Garmin navigation",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "HTML\nMP3/eAAC+/WAV player\nMP4/H.264 player\nDocument viewer\nPhoto viewer/editor\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:43.749Z"
+  },
+  {
+    "sttTong": 2704,
+    "sttHang": 4,
+    "brand": "Garmin-Asus",
+    "deviceName": "Garmin-Asus nuvifone G60",
+    "deviceUrl": "https://www.gsmarena.com/garmin_asus_nuvifone_g60-2725.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-g60.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-g60.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 58 x 14 mm (4.41 x 2.28 x 0.55 in)",
+        "weight": "137 g (4.83 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.55 inches, 34.9 cm2 (~53.7% screen-to-body ratio)",
+        "resolution": "272 x 480 pixels, 16:9 ratio (~155 ppi density)"
+      },
+      "platform": {
+        "os": "Linux"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "browser": "HTTP / WAP 2.0\nLocation-based applications\nOrganizer\nWorld Clock\nDocument viewer (Word, Excel, PowerPoint, PDF)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.26 W/kg (head)     0.37 W/kg (body)",
+        "price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:44.718Z"
+  },
+  {
+    "sttTong": 2703,
+    "sttHang": 3,
+    "brand": "Garmin-Asus",
+    "deviceName": "Garmin-Asus nuvifone M10",
+    "deviceUrl": "https://www.gsmarena.com/garmin_asus_nuvifone_m10-3097.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/garmin-asus-nuvifone-m10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/garmin-asus-nuvifone-m10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900 - US version",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, January. Released 2010, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 34.9 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.5.3 Professional",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "480p@24fps"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/eAAC+/WAV/WMA player\nMP4/H.264/WMV player\nOrganizer\nPocket Office \nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 600 h (2G) / Up to 600 h (3G)",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 310 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:45.015Z"
+  },
+  {
+    "sttTong": 2705,
+    "sttHang": 5,
+    "brand": "Garmin-Asus",
+    "deviceName": "Garmin-Asus nuvifone M20",
+    "deviceUrl": "https://www.gsmarena.com/garmin_asus_nuvifone_m20-2724.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-m20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-nuvifone-m20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "3g_bands": "HSDPA 900 / 2100\nHSDPA 850 / 1900 - US version",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95.3 x 52.5 x 12.8 mm (3.75 x 2.07 x 0.50 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~48.5% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional, upgradable to Windows Mobile 6.5",
+        "chipset": "Qualcomm MSM7200A",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "4/8GB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "video": "320p@15fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTTP / WAP 2.0\nImage geo-tagging\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nWorld Clock\nPocket Office"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "talk_time": "Up to 2 h 48"
+      },
+      "misc": {
+        "colors": "Green, Red, Blue, Black",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:50.804Z"
+  }
+]

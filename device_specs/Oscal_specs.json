@@ -1,0 +1,2569 @@
+[
+  {
+    "sttTong": 8407,
+    "sttHang": 3,
+    "brand": "Oscal",
+    "deviceName": "Oscal Tank 1",
+    "deviceUrl": "https://www.gsmarena.com/oscal_tank_1_5g-14230.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tank1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tank1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 34, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, October 10",
+        "status": "Available. Released 2025, October"
+      },
+      "body": {
+        "dimensions": "184 x 83 x 29.5 mm (7.24 x 3.27 x 1.16 in)",
+        "weight": "640 g (1.41 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nDrop resistant up to 10m\nMIL-STD-810H compliant\n170lm dedicated dual flashlight (top mounted)"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 700 nits",
+        "size": "6.78 inches, 109.2 cm2 (~71.5% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)",
+        "protection": "Corning Gorilla Glass 5, Mohs level 5\nBack display:\n2 inches, 240 x 296 pixels"
+      },
+      "platform": {
+        "os": "Android 15, up to 2 major OS updates, DokeOS 4.2",
+        "chipset": "Mediatek Dimensity 7050 (6 nm)",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G68 MC4"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 12GB RAM, 512GB 16GB RAM\nUFS 3.1"
+      },
+      "main_camera": {
+        "dual": "64 MP, f/1.8, (wide), 1/1.2\", PDAF\n20 MP, f/2.0, (night vision), 1/2.8\", 2 infrared night vision lights",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP, f/1.8, (wide), 1/2.76\"",
+        "video": "4K@30fps, 1080p@60fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes (100 dB)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "20000 mAh",
+        "charging": "55W wired\n5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "price": "About 400 EUR"
+      },
+      "eu_label": {
+        "energy": "Class C",
+        "battery": "154:08h endurance, 800 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:36:24.625Z"
+  },
+  {
+    "sttTong": 8406,
+    "sttHang": 2,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pilot 8",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pilot_8_5g-14822.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2026, July 17",
+        "status": "Available. Released 2026, August"
+      },
+      "body": {
+        "dimensions": "178.7 x 85.4 x 17.9 mm (7.04 x 3.36 x 0.70 in)",
+        "weight": "389 g (13.72 oz)",
+        "sim": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.2m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "AMOLED, 120Hz, 600 nits",
+        "size": "6.83 inches, 114.5 cm2 (~75.1% screen-to-body ratio)",
+        "resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "protection": "CSG KK9 Glass, Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 16, DokeOS 5.0",
+        "chipset": "Qualcomm Dragonwing Q-6690 (4 nm)",
+        "cpu": "Octa-core 2.9 GHz",
+        "gpu": "Adreno"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "main_camera": {
+        "triple": "108 MP, f/1.9, (wide), 1/1.67\", PDAF\n20 MP, f/2.0, (night vision), 1/2.8\", 2 infrared night vision lights\nThermal, 160×120, 25Hz",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30/60fps, 1440p@30/60fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP, (wide), 1/2.76\"",
+        "video": "4K@30/60fps, 1440p@30/60fps, 1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, 4.5W",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "bluetooth": "6.0, A2DP, LE",
+        "positioning": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS, NavIC",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 3.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+      },
+      "battery": {
+        "type": "10200 mAh",
+        "charging": "55W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.97 W/kg (head)     1.06 W/kg (body)",
+        "price": "About 290 EUR"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "95:59h endurance, 800 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:36:39.853Z"
+  },
+  {
+    "sttTong": 8405,
+    "sttHang": 1,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pilot 6",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pilot_6-14835.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, March 02",
+        "status": "Available. Released 2026, March 16"
+      },
+      "body": {
+        "dimensions": "182.8 x 82 x 18.1 mm (7.20 x 3.23 x 0.71 in)",
+        "weight": "411 g (14.50 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant 1.5m\nMIL-STD-810H compliant\nLED flashlight"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 750 nits",
+        "size": "6.78 inches, 109.2 cm2 (~72.8% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)",
+        "protection": "Corning Gorilla Glass 5, Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 16, DokeOS 5.0",
+        "chipset": "Mediatek Helio G100 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 12GB RAM"
+      },
+      "main_camera": {
+        "dual": "108 MP, f/1.9, (wide), 1/1.67\", PDAF\nThermal, 160×120, 25Hz",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps"
+      },
+      "selfie_camera": {
+        "single": "50 MP, (wide), 1/2.76\"",
+        "video": "4K@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, 4.5W",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "10000 mAh",
+        "charging": "27W wired\n10W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "sar": "1.48 W/kg (head)     1.57 W/kg (body)",
+        "price": "About 360 EUR"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "95:21h endurance, 800 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:36:43.395Z"
+  },
+  {
+    "sttTong": 8410,
+    "sttHang": 6,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 100",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_100-13859.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad-100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad-100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, February",
+        "status": "Available. Released 2025, February"
+      },
+      "body": {
+        "dimensions": "281.7 x 177.2 x 8 mm (11.09 x 6.98 x 0.31 in)",
+        "weight": "610 g (1.34 lb)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 360 nits",
+        "size": "12.0 inches, 409.9 cm2 (~82.1% screen-to-body ratio)",
+        "resolution": "1200 x 2000 pixels, 5:3 ratio (~194 ppi density)",
+        "protection": "Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM, 256GB 12GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "16 MP",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 9000 mAh"
+      },
+      "misc": {
+        "colors": "Gray, Blue"
+      },
+      "eu_label": {
+        "energy": "Class D",
+        "battery": "108:47h endurance, 800 cycles",
+        "free_fall": "Class B (156 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:36:56.199Z"
+  },
+  {
+    "sttTong": 8409,
+    "sttHang": 5,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pilot 3",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pilot_3-13935.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 34, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, June",
+        "status": "Available. Released 2025, June 16"
+      },
+      "body": {
+        "dimensions": "182.2 x 86 x 14.5 mm (7.17 x 3.39 x 0.57 in)",
+        "weight": "357 g (12.59 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 750 nits",
+        "size": "6.78 inches, 109.2 cm2 (~69.7% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)",
+        "protection": "Corning Gorilla Glass 5, Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 15, DokeOS 4.1",
+        "chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 12GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "triple": "50 MP, f/1.8, (wide), 1/2.76\", PDAF\n20 MP, f/2.0, (night vision), 1/2.8\", 2 infrared night vision lights\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 7500 mAh",
+        "charging": "33W wired\n6W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "price": "About 250 EUR"
+      },
+      "eu_label": {
+        "energy": "Class A",
+        "battery": "118:45h endurance, 800 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:02.055Z"
+  },
+  {
+    "sttTong": 8412,
+    "sttHang": 8,
+    "brand": "Oscal",
+    "deviceName": "Oscal Marine 1",
+    "deviceUrl": "https://www.gsmarena.com/oscal_marine_1-13850.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, May",
+        "status": "Available. Released 2025, May"
+      },
+      "body": {
+        "dimensions": "174.7 x 81.5 x 13.5 mm (6.88 x 3.21 x 0.53 in)",
+        "weight": "304 g (10.72 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.2m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 450 nits",
+        "size": "6.56 inches, 103.4 cm2 (~72.6% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+        "protection": "Panda Glass, Mohs level 7"
+      },
+      "platform": {
+        "os": "Android 15, DokeOS 4.1",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "16 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "HDR",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 5100 mAh",
+        "charging": "10W wired\n5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "49:34h endurance, 800 cycles",
+        "free_fall": "Class A (278 falls)",
+        "repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:03.971Z"
+  },
+  {
+    "sttTong": 8408,
+    "sttHang": 4,
+    "brand": "Oscal",
+    "deviceName": "Oscal Tiger 8",
+    "deviceUrl": "https://www.gsmarena.com/oscal_tiger_8_5g-14155.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 26, 28, 38, 40, 41, 66",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, September",
+        "status": "Available. Released 2025, September"
+      },
+      "body": {
+        "dimensions": "171.1 x 77.7 x 8.5 mm (6.74 x 3.06 x 0.33 in)",
+        "weight": "210.5 g (7.44 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 450 nits",
+        "size": "6.88 inches, 112.4 cm2 (~84.6% screen-to-body ratio)",
+        "resolution": "720 x 1640 pixels (~260 ppi density)",
+        "protection": "Mohs level 7"
+      },
+      "platform": {
+        "os": "Android 15, DokeOS 4.2",
+        "chipset": "Unisoc T8100 (6 nm)",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "dual": "16 MP, f/2.2, (wide), 1/3.06\", AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide), 1/5.0\"",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Phantom Black, Glacier Blue"
+      },
+      "eu_label": {
+        "energy": "Class A",
+        "battery": "53:38h endurance, 800 cycles",
+        "free_fall": "Class C (98 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:20.427Z"
+  },
+  {
+    "sttTong": 8414,
+    "sttHang": 10,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 80 WiFi",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_80_wifi-13644.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad80-wifi.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad80-wifi.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "246.8 x 161.9 x 9.1 mm (9.72 x 6.37 x 0.36 in)",
+        "weight": "495 g (1.09 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.51 inches, 320.3 cm2 (~80.2% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~215 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, Doke OS_P 4.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "256GB 6GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.2",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "8200 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Grey, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:25.778Z"
+  },
+  {
+    "sttTong": 8411,
+    "sttHang": 7,
+    "brand": "Oscal",
+    "deviceName": "Oscal Marine 2",
+    "deviceUrl": "https://www.gsmarena.com/oscal_marine_2-13851.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-marine2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, May",
+        "status": "Available. Released 2025, May"
+      },
+      "body": {
+        "dimensions": "179.8 x 83.1 x 18.3 mm (7.08 x 3.27 x 0.72 in)",
+        "weight": "395 g (13.93 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.2m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 450 nits",
+        "size": "6.56 inches, 103.4 cm2 (~69.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+        "protection": "Panda Glass, Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 15, DokeOS 4.1",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM, 256GB 8GB RAM\neMMC 5.1 - 64GB\nUFS 2.1 - 256GB"
+      },
+      "main_camera": {
+        "single": "16 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "HDR",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 11000 mAh",
+        "charging": "18W wired\n5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "price": "About 120 EUR"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "103:38h endurance, 800 cycles",
+        "free_fall": "Class B (180 falls)",
+        "repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:31.032Z"
+  },
+  {
+    "sttTong": 8413,
+    "sttHang": 9,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 90",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_90-13645.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad90.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad90.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "258.1 x 169.6 x 8 mm (10.16 x 6.68 x 0.31 in)",
+        "weight": "534 g (1.18 lb)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 350 nits",
+        "size": "10.92 inches, 345.8 cm2 (~79.0% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~138 ppi density)",
+        "protection": "Mohs level 7"
+      },
+      "platform": {
+        "os": "Android 14, DokeOS_P 4.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 8GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "Yes",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "No"
+      },
+      "battery": {
+        "type": "7700 mAh"
+      },
+      "misc": {
+        "colors": "Space Gray, Sky Blue"
+      },
+      "eu_label": {
+        "energy": "Class D",
+        "battery": "124:54h endurance, 800 cycles",
+        "free_fall": "Class C (135 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:39.100Z"
+  },
+  {
+    "sttTong": 8417,
+    "sttHang": 13,
+    "brand": "Oscal",
+    "deviceName": "Oscal Flat 2C",
+    "deviceUrl": "https://www.gsmarena.com/oscal_flat_2c-13640.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "163.2 x 75.2 x 8.8 mm (6.43 x 2.96 x 0.35 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 450 nits",
+        "size": "6.56 inches, 103.4 cm2 (~84.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+        "protection": "Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition), DokeOS 4.0",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 2GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), 1/4.0\", 1.12 μm",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.2, A2DP",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Phantom Black, Ripple Blue, Sky Purple"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "51:18h endurance, 1100 cycles",
+        "free_fall": "Class C (90 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:37:52.745Z"
+  },
+  {
+    "sttTong": 8420,
+    "sttHang": 16,
+    "brand": "Oscal",
+    "deviceName": "Oscal Elite 1",
+    "deviceUrl": "https://www.gsmarena.com/oscal_elite_1-13058.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-elite.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-elite.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "278.5 x 180.5 x 7.4 mm (10.96 x 7.11 x 0.29 in)",
+        "weight": "587 g (1.29 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 600 nits",
+        "size": "12.1 inches, 338.3 cm2 (~67.3% screen-to-body ratio)",
+        "resolution": "1080 x 2560 pixels (~230 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, DokeOS_P 4.0",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "single": "12 MP, (wide), 1/2.55\"",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only), gyro"
+      },
+      "battery": {
+        "type": "8800 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Gray, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:00.033Z"
+  },
+  {
+    "sttTong": 8419,
+    "sttHang": 15,
+    "brand": "Oscal",
+    "deviceName": "Oscal Tiger 13",
+    "deviceUrl": "https://www.gsmarena.com/oscal_tiger_13-13457.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger13.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-tiger13.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, October 21",
+        "status": "Available. Released 2024, October 21"
+      },
+      "body": {
+        "dimensions": "164.8 x 75.6 x 8.7 mm (6.49 x 2.98 x 0.34 in)",
+        "weight": "200 g (7.05 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 700 nits",
+        "size": "6.67 inches, 107.2 cm2 (~86.1% screen-to-body ratio)",
+        "resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+        "protection": "Mohs level 7"
+      },
+      "platform": {
+        "os": "Android 14, Doke OS 4.0",
+        "chipset": "Unisoc T760 (6 nm)",
+        "cpu": "Octa-core (1x2.2 GHz Cortex-A76 & 3x Cortex-A76 & 4x Cortex-A55)",
+        "gpu": "Mali-G57"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "triple": "50 MP, (wide), PDAF\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Hurricane Black, Violet Blue"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "49:06h endurance, 800 cycles",
+        "free_fall": "Class C (138 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:03.775Z"
+  },
+  {
+    "sttTong": 8422,
+    "sttHang": 18,
+    "brand": "Oscal",
+    "deviceName": "Oscal Modern 8",
+    "deviceUrl": "https://www.gsmarena.com/oscal_modern_8-13051.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-modern-8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-modern-8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "167.8 x 77.4 x 9.1 mm (6.61 x 3.05 x 0.36 in)",
+        "weight": "214 g (7.55 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 450 nits (typ)",
+        "size": "6.75 inches, 110.0 cm2 (~84.7% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, DokeOS 4",
+        "chipset": "Unisoc Tiger T616 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8, 23mm (wide), 1/2.76\", PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide), 1/4.0\"",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Wisteria Purple, Ripple Blue, Ash Gray",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:10.238Z"
+  },
+  {
+    "sttTong": 8421,
+    "sttHang": 17,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pilot 2",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pilot_2-13057.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 34, 38, 39, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "179.5 x 82.6 x 17 mm (7.07 x 3.25 x 0.67 in)",
+        "weight": "368 g (12.98 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.2m\nMIL-STD-810H compliant\nDedicated flashlight (top mounted)"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 500 nits",
+        "size": "6.5 inches, 102.0 cm2 (~68.8% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+        "protection": "Corning Gorilla Glass 5\nBack display:\n1.3 inches, 360 x 360 pixels"
+      },
+      "platform": {
+        "os": "Android 14, DokeOS 4.0",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), 1/1.57\", PDAF, OIS\n13 MP, 120˚, (ultrawide), AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "8800 mAh",
+        "charging": "45W wired\n5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Green, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:36.577Z"
+  },
+  {
+    "sttTong": 8424,
+    "sttHang": 20,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 18",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_18-12739.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-18.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-18.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, December 05",
+        "status": "Available. Released 2023, December"
+      },
+      "body": {
+        "dimensions": "256.8 x 168.3 x 7.4 mm (10.11 x 6.63 x 0.29 in)",
+        "weight": "490 g (1.08 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.95 inches, 347.7 cm2 (~80.4% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, DokeOS_P 3.0",
+        "chipset": "Unisoc Tiger T616 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM, 256GB 12GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "13 MP\n2 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "battery": {
+        "type": "8800 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:45.497Z"
+  },
+  {
+    "sttTong": 8415,
+    "sttHang": 11,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 70 WiFi",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_70_wifi-13643.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad70-wifi.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pad70-wifi.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "246.5 x 163 x 9.9 mm (9.70 x 6.42 x 0.39 in)",
+        "weight": "520.5 g (1.15 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~73.6% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+        "protection": "Asahi glass"
+      },
+      "platform": {
+        "os": "Android 14, Doke OS_P 4.0",
+        "chipset": "Rockchip RK3562",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "gpu": "Mali-G52"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, f/2.0, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "480p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "6580 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Grey, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:45.513Z"
+  },
+  {
+    "sttTong": 8423,
+    "sttHang": 19,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 16",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_16-12793.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad16.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad16.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, January",
+        "status": "Available. Released 2024, January"
+      },
+      "body": {
+        "dimensions": "246.6 x 160.8 x 7.4 mm (9.71 x 6.33 x 0.29 in)",
+        "weight": "515 g (1.14 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.5 inches, 319.7 cm2 (~80.6% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, DokeOS_P 3.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM\nUFS"
+      },
+      "main_camera": {
+        "single": "13 MP\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "battery": {
+        "type": "8200 mAh"
+      },
+      "misc": {
+        "colors": "Space Gray, Sierra Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:38:54.229Z"
+  },
+  {
+    "sttTong": 8416,
+    "sttHang": 12,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pilot 1",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pilot_1-13642.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-pilot1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 34, 38, 39, 40, 41, 66",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "185.5 x 85 x 22 mm (7.30 x 3.35 x 0.87 in)",
+        "weight": "540 g (1.19 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant\nDedicated flashlight 170 lumens (top mounted)"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 700 nits",
+        "size": "6.67 inches, 107.4 cm2 (~68.1% screen-to-body ratio)",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "protection": "Corning Gorilla Glass 5, Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 14, DokeOS 4.0",
+        "chipset": "Mediatek Helio G81 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.8, (wide), 1/2.76\", PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, (wide), 1/3.1\"",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (138dB, 5W)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.3, A2DP, LE",
+        "positioning": "GPS, GLONASS, BDS, GALILEO",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "15000 mAh",
+        "charging": "33W wired, 20% in 27 min\n10W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "price": "About 170 EUR"
+      },
+      "eu_label": {
+        "energy": "Class A",
+        "battery": "166:39h endurance, 800 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:39:19.815Z"
+  },
+  {
+    "sttTong": 8426,
+    "sttHang": 22,
+    "brand": "Oscal",
+    "deviceName": "Oscal Tiger 10",
+    "deviceUrl": "https://www.gsmarena.com/oscal_tiger_10-12681.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, November",
+        "status": "Available. Released 2023, November"
+      },
+      "body": {
+        "dimensions": "163.2 x 75.2 x 8.8 mm (6.43 x 2.96 x 0.35 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.6 inches, 104.6 cm2 (~85.3% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, Doke OS 4.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), 1/2.76, 0.64µm, PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5180 mAh"
+      },
+      "misc": {
+        "colors": "Dim Forest Green, Summer Sky Blue, Stardust Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:39:20.847Z"
+  },
+  {
+    "sttTong": 8427,
+    "sttHang": 23,
+    "brand": "Oscal",
+    "deviceName": "Oscal S70 Pro",
+    "deviceUrl": "https://www.gsmarena.com/oscal_s70_pro-12592.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s70-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s70-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, August",
+        "status": "Available. Released 2023, August"
+      },
+      "body": {
+        "dimensions": "161.5 x 77.6 x 15 mm (6.36 x 3.06 x 0.59 in)",
+        "weight": "273 g (9.63 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.1 inches, 91.3 cm2 (~72.9% screen-to-body ratio)",
+        "resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke OS 3.1",
+        "chipset": "Mediatek MT6765 Helio P35 (12 nm)",
+        "cpu": "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "13 MP\nother unspecified cameras",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "6580 mAh",
+        "charging": "10W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:39:28.549Z"
+  },
+  {
+    "sttTong": 8430,
+    "sttHang": 26,
+    "brand": "Oscal",
+    "deviceName": "Oscal C30 Pro",
+    "deviceUrl": "https://www.gsmarena.com/oscal_c30_pro-12409.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c30-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c30-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, June",
+        "status": "Available. Released 2023, June"
+      },
+      "body": {
+        "dimensions": "164.6 x 76.9 x 9.4 mm (6.48 x 3.03 x 0.37 in)",
+        "weight": "194.6 g (6.88 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 500 nits",
+        "size": "6.5 inches, 102.0 cm2 (~80.6% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, DokeOS 3",
+        "chipset": "Mediatek MT6765 Helio G35 (12 nm)",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "12 MP, (wide), 1/2.55\", PDAF\nother unspecified cameras",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5080 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Shadow Black, Starry Night Blue, Streaming Green",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:39:36.692Z"
+  },
+  {
+    "sttTong": 8429,
+    "sttHang": 25,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 15",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_15-12595.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-pad-15.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-pad-15.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, September",
+        "status": "Available. Released 2023, September"
+      },
+      "body": {
+        "dimensions": "246.5 x 156.3 x 7.6 mm (9.70 x 6.15 x 0.30 in)",
+        "weight": "449 g (15.84 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.36 inches, 305.5 cm2 (~79.3% screen-to-body ratio)",
+        "resolution": "1200 x 2000 pixels, 5:3 ratio (~225 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, DokeOS_P 3.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "battery": {
+        "type": "8280 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Green, Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:39:43.613Z"
+  },
+  {
+    "sttTong": 8428,
+    "sttHang": 24,
+    "brand": "Oscal",
+    "deviceName": "Oscal Spider 8",
+    "deviceUrl": "https://www.gsmarena.com/oscal_spider_8-12594.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-spider8.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-spider8.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 34, 38, 39, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, August",
+        "status": "Available. Released 2023, August"
+      },
+      "body": {
+        "dimensions": "251.3 x 170.1 x 14.9 mm (9.89 x 6.70 x 0.59 in)",
+        "weight": "854 g (1.88 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~69.2% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 13, Doke OS_P 3.0",
+        "chipset": "Unisoc Tiger T616 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP\nsecondary unspecified camera",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "16 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM Radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "13000 mAh",
+        "charging": "33W wired\n5W reverse wired"
+      },
+      "misc": {
+        "colors": "Black, Orange",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:07.536Z"
+  },
+  {
+    "sttTong": 8418,
+    "sttHang": 14,
+    "brand": "Oscal",
+    "deviceName": "Oscal Flat 2",
+    "deviceUrl": "https://www.gsmarena.com/oscal_flat_2-13639.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oscal-flat2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January",
+        "status": "Available. Released 2025, January"
+      },
+      "body": {
+        "dimensions": "163.2 x 75.2 x 8.8 mm (6.43 x 2.96 x 0.35 in)",
+        "weight": "192 g (6.77 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 450 nits",
+        "size": "6.56 inches, 103.4 cm2 (~84.2% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+        "protection": "Mohs level 5"
+      },
+      "platform": {
+        "os": "Android 14, DokeOS 4.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 4GB RAM, 256GB 4GB RAM, 256GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, (wide), 1/4.0\", 1.12 μm",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide), 1/5.0\"",
+        "features": "HDR",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Phantom Black, Ripple Blue, Sky Purple",
+        "sar": "0.70 W/kg (head)     1.40 W/kg (body)"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "51:52h endurance, 1100 cycles",
+        "free_fall": "Class A (270 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:12.353Z"
+  },
+  {
+    "sttTong": 8432,
+    "sttHang": 28,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 60",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_60-12406.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-60.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-60.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023, July",
+        "status": "Available. Released 2023, July"
+      },
+      "body": {
+        "dimensions": "246.5 x 163 x 9.9 mm (9.70 x 6.42 x 0.39 in)",
+        "weight": "537 g (1.18 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~73.6% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, DokeOS_P 3.0",
+        "cpu": "Quad-core"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "4.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "6580 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Misty Blue, Meteorite Grey",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:12.541Z"
+  },
+  {
+    "sttTong": 8435,
+    "sttHang": 31,
+    "brand": "Oscal",
+    "deviceName": "Oscal S80",
+    "deviceUrl": "https://www.gsmarena.com/oscal_s80-12115.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s80.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-s80.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, January 03",
+        "status": "Available. Released 2023, February 13"
+      },
+      "body": {
+        "dimensions": "174 x 81.4 x 18.9 mm (6.85 x 3.20 x 0.74 in)",
+        "weight": "460 g (1.01 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.58 inches, 104.3 cm2 (~73.6% screen-to-body ratio)",
+        "resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke-OS 3.0",
+        "chipset": "Mediatek MT6769 Helio G85 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "triple": "12 MP, f/2.0, (wide), 1/2.55\", PDAF\n8 MP, 117˚ (ultrawide)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Unspecified"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "13000 mAh",
+        "charging": "33W wired, 51% in 66 min\nReverse charging"
+      },
+      "misc": {
+        "colors": "Navy Green, Mecha Orange, Conquest Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:22.275Z"
+  },
+  {
+    "sttTong": 8431,
+    "sttHang": 27,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 70",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_70-12407.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-70.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023, July",
+        "status": "Available. Released 2023, July"
+      },
+      "body": {
+        "dimensions": "246.5 x 163 x 9.9 mm (9.70 x 6.42 x 0.39 in)",
+        "weight": "520.5 g (1.15 lb)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~73.6% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, DokeOS_P 3.0",
+        "cpu": "Quad-core"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "battery": {
+        "type": "6580 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Misty Blue, Meteorite Grey",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:24.762Z"
+  },
+  {
+    "sttTong": 8433,
+    "sttHang": 29,
+    "brand": "Oscal",
+    "deviceName": "Oscal C70",
+    "deviceUrl": "https://www.gsmarena.com/oscal_c70-12267.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c70.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, April 20",
+        "status": "Available. Released 2023, May"
+      },
+      "body": {
+        "dimensions": "163.2 x 75.2 x 8.8 mm (6.43 x 2.96 x 0.35 in)",
+        "weight": "192 g (6.77 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.56 inches, 103.9 cm2 (~84.7% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke-OS 3.1",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 6GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), 1/2.76\", 0.64µm, PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), unspecified sensors"
+      },
+      "battery": {
+        "type": "5180 mAh"
+      },
+      "misc": {
+        "colors": "Dim Forest Green, Summer Sky Blue, Stardust Grey",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:32.085Z"
+  },
+  {
+    "sttTong": 8434,
+    "sttHang": 30,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 13",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_13-12241.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-13.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-13.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, April 12",
+        "status": "Available. Released 2023, April 17"
+      },
+      "body": {
+        "dimensions": "239.2 x 158 x 7.6 mm (9.42 x 6.22 x 0.30 in)",
+        "weight": "435 g (15.34 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~78.3% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke-OS 3.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, 1/4.0\", 1.12µm",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Unspecified"
+      },
+      "battery": {
+        "type": "7680 mAh"
+      },
+      "misc": {
+        "colors": "Glacier Blue, Space Grey",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:34.629Z"
+  },
+  {
+    "sttTong": 8437,
+    "sttHang": 33,
+    "brand": "Oscal",
+    "deviceName": "Oscal C80",
+    "deviceUrl": "https://www.gsmarena.com/oscal_c80-11872.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c80.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-c80.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 20, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, September 07",
+        "status": "Available. Released 2022, September 14"
+      },
+      "body": {
+        "dimensions": "164.2 x 76 x 8.6 mm (6.46 x 2.99 x 0.34 in)",
+        "weight": "188 g (6.63 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.5 inches, 102.0 cm2 (~81.7% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke-OS 3.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 8GB RAM\nUFS 2.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), 1.2µm, PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+      },
+      "battery": {
+        "type": "5180 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Early Sunny Snow, Midnight Black, Navy Blue",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:42.781Z"
+  },
+  {
+    "sttTong": 8436,
+    "sttHang": 32,
+    "brand": "Oscal",
+    "deviceName": "Oscal Pad 10",
+    "deviceUrl": "https://www.gsmarena.com/oscal_pad_10-12057.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-pad-10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022, December 29",
+        "status": "Available. Released 2023, January 09"
+      },
+      "body": {
+        "dimensions": "241.3 x 160 x 8.9 mm (9.50 x 6.30 x 0.35 in)",
+        "weight": "536 g (1.18 lb)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "10.1 inches, 295.8 cm2 (~76.6% screen-to-body ratio)",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12, Doke-OS 3.0",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (uses shared SIM slot)",
+        "internal": "128GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, 1/4.0\", 1.12µm",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Unspecified"
+      },
+      "battery": {
+        "type": "6580 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Mint Green, Moonlight Silver, Diamond Grey",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:47.371Z"
+  },
+  {
+    "sttTong": 8425,
+    "sttHang": 21,
+    "brand": "Oscal",
+    "deviceName": "Oscal Tiger 12",
+    "deviceUrl": "https://www.gsmarena.com/oscal_tiger_12-12701.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger12.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/blackview-oscal-tiger12.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, November 14",
+        "status": "Available. Released 2023, November"
+      },
+      "body": {
+        "dimensions": "168.5 x 76.6 x 8.4 mm (6.63 x 3.02 x 0.33 in)",
+        "weight": "198.3 g (6.98 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 500 nits",
+        "size": "6.78 inches, 109.2 cm2 (~84.6% screen-to-body ratio)",
+        "resolution": "1080 x 2460 pixels (~396 ppi density)",
+        "protection": "Mohs level 7"
+      },
+      "platform": {
+        "os": "Android 13, Doke OS 4.0",
+        "chipset": "Mediatek Helio G99 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 8GB RAM, 256GB 12GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "dual": "64 MP, (wide), 1/1.97\", 0.7µm, PDAF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "13 MP, (wide), 1/3\", 1.12µm",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "33W wired"
+      },
+      "misc": {
+        "colors": "Cerulean Blue, Flowing Purple, Cloudwing Grey",
+        "price": "About 190 EUR"
+      },
+      "eu_label": {
+        "energy": "Class B",
+        "battery": "48:18h endurance, 800 cycles",
+        "free_fall": "Class C (114 falls)",
+        "repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:40:58.110Z"
+  }
+]

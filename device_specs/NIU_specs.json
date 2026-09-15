@@ -1,0 +1,2146 @@
+[
+  {
+    "sttTong": 7158,
+    "sttHang": 1,
+    "brand": "NIU",
+    "deviceName": "NIU Andy C5.5E2I",
+    "deviceUrl": "https://www.gsmarena.com/niu_andy_c5_5e2i-7917.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-andy-c5.5e2i.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-andy-c5.5e2i.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 850 / 1900 - AC55E2I043",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, December. Released 2016, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "154.5 x 79 x 9.2 mm (6.08 x 3.11 x 0.36 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.5 inches, 83.4 cm2 (~68.3% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6582M (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, panorama, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Po 3000 mAh, removable",
+        "stand-by": "Up to 600 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 22 h 10 min (2G) / Up to 18 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Blue, Gun Metal"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:59.624Z"
+  },
+  {
+    "sttTong": 7159,
+    "sttHang": 2,
+    "brand": "NIU",
+    "deviceName": "NIU Andy 3.5E2I",
+    "deviceUrl": "https://www.gsmarena.com/niu_andy_3_5e2i-7346.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-35E2I.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-35E2I.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "UMTS 850 / 1900 - AM35E2I043\nHSDPA 900 / 2100 - AM35E2I047",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, February. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.5 x 62.8 x 10.7 mm (4.55 x 2.47 x 0.42 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "LCD, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~50.3% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 260 h (2G) / Up to 217 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:22.692Z"
+  },
+  {
+    "sttTong": 7161,
+    "sttHang": 4,
+    "brand": "NIU",
+    "deviceName": "NIU Andy 5EI",
+    "deviceUrl": "https://www.gsmarena.com/niu_andy_5ei-7348.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-5EI.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-5EI.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - SIM 1 or SIM 2\nHSDPA 850 / 1900 - SIM 1 or SIM 2\nHSDPA 850 / 2100 - SIM 1 or SIM 2",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.8 x 73.4 x 9.5 mm (5.62 x 2.89 x 0.37 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "5.0 inches, 68.9 cm2 (~65.7% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1550 mAh, removable",
+        "stand-by": "Up to 480 h (2G) / Up to 350 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 7 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:24.543Z"
+  },
+  {
+    "sttTong": 7162,
+    "sttHang": 5,
+    "brand": "NIU",
+    "deviceName": "NIU Andy 5T",
+    "deviceUrl": "https://www.gsmarena.com/niu_andy_5t-7349.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-5t.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-5t.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2\nHSDPA 900 / 2100 - SIM 1 or SIM 2",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, July. Released 2014, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 69.7 x 6.9 mm (5.67 x 2.74 x 0.27 in)",
+        "weight": "123 g (4.34 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~68.7% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6582 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Mali-400MP2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Po 1800 mAh, non-removable",
+        "stand-by": "Up to 480 h (2G) / Up to 360 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 8 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "White, Black, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:29.241Z"
+  },
+  {
+    "sttTong": 7164,
+    "sttHang": 7,
+    "brand": "NIU",
+    "deviceName": "NIU F10",
+    "deviceUrl": "https://www.gsmarena.com/niu_f10-7351.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-F10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-F10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, November. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 59 x 13.7 mm (4.02 x 2.32 x 0.54 in)",
+        "weight": "72 g without battery (2.54 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Triple SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 15.2 cm2 (~25.3% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~128 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nAnalog TV\nVideo Player\nMusic Player\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 600 mAh, removable",
+        "stand-by": "Up to 400 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Blue, Red, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:29.545Z"
+  },
+  {
+    "sttTong": 7160,
+    "sttHang": 3,
+    "brand": "NIU",
+    "deviceName": "NIU Andy 4E2I",
+    "deviceUrl": "https://www.gsmarena.com/niu_andy_4e2i-7347.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-4E2I.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-4E2I.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 900 / 2100 - AM4E2I047\nHSDPA 850 / 1900 - AM4E2I043",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "121 x 64.6 x 10.7 mm (4.76 x 2.54 x 0.42 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~58.3% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 280 h (2G) / Up to 232 h (3G)",
+        "talk_time": "Up to 18 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Red, Blue, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:34.286Z"
+  },
+  {
+    "sttTong": 7166,
+    "sttHang": 9,
+    "brand": "NIU",
+    "deviceName": "NIU Tek 5D",
+    "deviceUrl": "https://www.gsmarena.com/niu_tek_5d-7118.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-5d.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-5d.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 -  SIM 1 & SIM 2 - TM5DI043",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2015, January. Released 2015, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "156.3 x 74.2 x 9.3 mm (6.15 x 2.92 x 0.37 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "5.0 inches, 44.1 cm2 (~38.0% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 2000 mAh, removable",
+        "stand-by": "Up to 400 h (2G) / Up to 332 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 12 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:34.406Z"
+  },
+  {
+    "sttTong": 7168,
+    "sttHang": 11,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 3.5D2",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_3_5d2-6733.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niutek-35d2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niutek-35d2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 -  SIM 1 & SIM 2 - TM35D2H043",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 61 x 11.5 mm (4.57 x 2.40 x 0.45 in)",
+        "weight": "98 g (3.46 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~51.5% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "2GB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash, panorama",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 400 h (2G) / Up to 320 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 6 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:38.506Z"
+  },
+  {
+    "sttTong": 7163,
+    "sttHang": 6,
+    "brand": "NIU",
+    "deviceName": "NIU C21A",
+    "deviceUrl": "https://www.gsmarena.com/niu_c21a-7350.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU--C21A.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU--C21A.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - CM21A003",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 14.5 mm (4.17 x 1.77 x 0.57 in)",
+        "weight": "73 g without battery (2.57 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.4% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, IM",
+        "games": "No",
+        "java": "No\nVideo Player\nMusic Player\nOrganizer\nWhatsapp"
+      },
+      "battery": {
+        "type": "Li-Ion 600 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, Green, Purple, Red, Fuchsia"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:38.852Z"
+  },
+  {
+    "sttTong": 7167,
+    "sttHang": 10,
+    "brand": "NIU",
+    "deviceName": "NIU Tek 4D2",
+    "deviceUrl": "https://www.gsmarena.com/niu_tek_4d2-6827.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niutek-4d2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niutek-4d2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 -  SIM 1 & SIM 2 - TM4D2I043",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2014, August. Released 2014, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 63 x 10.3 mm (4.84 x 2.48 x 0.41 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Dual SIM (Mini-SIM/ Micro-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~58.8% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Mediatek MT6572M (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "4GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash, panorama",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 400 h (2G) / Up to 320 h (3G)",
+        "talk_time": "Up to 8 h (2G) / Up to 6 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Gray, White, Blue, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:39.310Z"
+  },
+  {
+    "sttTong": 7165,
+    "sttHang": 8,
+    "brand": "NIU",
+    "deviceName": "NIU Z10",
+    "deviceUrl": "https://www.gsmarena.com/niu_z10-7352.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-Z10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/NIU-Z10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.2 x 55.5 x 14.5 mm (4.46 x 2.19 x 0.57 in)",
+        "weight": "90 g without battery (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight\nSOS button"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~20.1% screen-to-body ratio)",
+        "resolution": "144 x 176 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio; buit-in antenna",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nMusic/Video player\nOrganizer\nCalendar\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Li-Ion 1000 mAh, removable",
+        "stand-by": "Up to 290 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:43.111Z"
+  },
+  {
+    "sttTong": 7169,
+    "sttHang": 12,
+    "brand": "NIU",
+    "deviceName": "NIU GO 21",
+    "deviceUrl": "https://www.gsmarena.com/niu_go_21-6484.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-21.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-21.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, May. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105 x 44.9 x 14.2 mm (4.13 x 1.77 x 0.56 in)",
+        "weight": "66 g (2.33 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~21.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "No\nWhatsapp messenger\nVideo/music player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 650 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, Orange, Gray, Red, Green, Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:43.137Z"
+  },
+  {
+    "sttTong": 7170,
+    "sttHang": 13,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 4.5D",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_4_5d-5992.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-45d.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-45d.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "137.6 x 68 x 10.4 mm (5.42 x 2.68 x 0.41 in)",
+        "weight": "139 g (4.90 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.5 inches, 55.8 cm2 (~59.6% screen-to-body ratio)",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash, panorama",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1650 mAh, removable",
+        "stand-by": "Up to 640 h (2G) / Up to 420 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 9 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:43.582Z"
+  },
+  {
+    "sttTong": 7171,
+    "sttHang": 14,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 4.0D",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_4_0d-5991.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-4d-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-4d-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 62.9 x 9.9 mm (5.0 x 2.48 x 0.39 in)",
+        "weight": "131 g (4.62 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~57.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.2 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1500 mAh, removable",
+        "stand-by": "Up to 630 h (2G) / Up to 415 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 8 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, Blue, Green, White, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:44.568Z"
+  },
+  {
+    "sttTong": 7173,
+    "sttHang": 16,
+    "brand": "NIU",
+    "deviceName": "NIU GO 20",
+    "deviceUrl": "https://www.gsmarena.com/niu_go_20-5989.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 43.8 x 14 mm (3.98 x 1.72 x 0.55 in)",
+        "weight": "60 g (2.12 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~23.0% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "No\nWhatsapp messenger\nVideo/music player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 500 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White, Silver, Purple, Blue, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:52.031Z"
+  },
+  {
+    "sttTong": 7174,
+    "sttHang": 17,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 3.5B",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_3_5b-5514.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.6 x 62 x 13.8 mm (4.47 x 2.44 x 0.54 in)",
+        "weight": "92 g without battery (3.25 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~51.8% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Spreadtrum SC6820",
+        "cpu": "1.0 GHz Cortex-A5",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "@30fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0",
+        "positioning": "A-GPS only",
+        "nfc": "No",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer\nAnalog TV"
+      },
+      "battery": {
+        "type": "Li-Ion 1300 mAh, removable",
+        "stand-by": "Up to 850 h",
+        "talk_time": "Up to 17 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:03:54.044Z"
+  },
+  {
+    "sttTong": 7172,
+    "sttHang": 15,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 3.5D",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_3_5d-5990.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-35d.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-35d.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, December. Released 2014, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 62.5 x 13.5 mm (4.65 x 2.46 x 0.53 in)",
+        "weight": "108 g (3.81 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.5 inches, 36.5 cm2 (~49.5% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.2 (Jelly Bean)",
+        "chipset": "Mediatek MT6572 (28 nm)",
+        "cpu": "Dual-core 1.0 GHz Cortex-A7",
+        "gpu": "Mali-400"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash, panorama, HDR",
+        "video": "480p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity"
+      },
+      "battery": {
+        "type": "Li-Ion 1400 mAh, removable",
+        "stand-by": "Up to 620 h (2G) / Up to 410 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 8 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Blue, Green, White, Yellow"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:05:13.754Z"
+  },
+  {
+    "sttTong": 7176,
+    "sttHang": 19,
+    "brand": "NIU",
+    "deviceName": "NIU GO 50",
+    "deviceUrl": "https://www.gsmarena.com/niu_go_50-5512.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-50.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-go-50.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 46 x 13.7 mm (4.25 x 1.81 x 0.54 in)",
+        "weight": "57 g without battery (2.01 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~25.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 32Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nWhatsapp messenger\nVideo/music player\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, removable",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Blue, Black, White, Red, Silver, Dark Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:05:24.468Z"
+  },
+  {
+    "sttTong": 7177,
+    "sttHang": 20,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 3G 3.5 N209",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_3g_3_5_n209-5085.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-3g-35.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek-3g-35.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 only",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, June. Released 2012, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 63 x 12 mm (4.61 x 2.48 x 0.47 in)",
+        "weight": "71 g without battery (2.50 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.5 inches, 36.5 cm2 (~49.5% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nAnalog TV\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nPhoto/video editor\nDocument viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 1200 mAh, removable",
+        "stand-by": "Up to 713 h (2G) / Up to 428 h (3G)",
+        "talk_time": "Up to 15 h (2G) / Up to 6 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:05:25.047Z"
+  },
+  {
+    "sttTong": 7179,
+    "sttHang": 22,
+    "brand": "NIU",
+    "deviceName": "NIU Pana 3G TV N206",
+    "deviceUrl": "https://www.gsmarena.com/niu_pana_3g_tv_n206-4926.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-panna-3g-tv.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-panna-3g-tv.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 only",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, June. Released 2012, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103.5 x 56.1 x 14 mm (4.07 x 2.21 x 0.55 in)",
+        "weight": "71 g without battery (2.50 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~21.7% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 32MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes\nAnalog TV\nFacebook, MSN, Twitter, Yahoo\nVideo player\nMusic player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 312 h (2G) / Up to 211 h (3G)",
+        "talk_time": "Up to 6 h 30 min (2G) / Up to 4 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Blue, Red, Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:05:45.130Z"
+  },
+  {
+    "sttTong": 7175,
+    "sttHang": 18,
+    "brand": "NIU",
+    "deviceName": "NIU LIV 10",
+    "deviceUrl": "https://www.gsmarena.com/niu_liv_10-5513.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-liv-10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-liv-10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2013, March. Released 2013, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 58 x 13.3 mm (4.02 x 2.28 x 0.52 in)",
+        "weight": "73 g without battery (2.57 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Triple SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~17.2% screen-to-body ratio)",
+        "resolution": "160 x 128 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32Mb 16Mb RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nWhatsapp messenger\nVideo/music player\nOrganizer"
+      },
+      "battery": {
+        "type": "Li-Ion 860 mAh, removable",
+        "stand-by": "Up to 660 h",
+        "talk_time": "Up to 7 h"
+      },
+      "misc": {
+        "colors": "Black, White, Blue, red"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:06:35.944Z"
+  },
+  {
+    "sttTong": 7180,
+    "sttHang": 23,
+    "brand": "NIU",
+    "deviceName": "NIU GO 80",
+    "deviceUrl": "https://www.gsmarena.com/niu_go_80-4819.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/verykool-domo2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/verykool-domo2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, March. Released 2012, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 58 x 15.9 mm (4.45 x 2.28 x 0.63 in)",
+        "weight": "90 g without battery (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~15.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "games": "Yes",
+        "java": "No\nVideo Player\nMusic Player\nOrganizer\nCalendar\nCalculator\nSound Recorder\nFacebook, MSN, Twitter, Yahoo\nRadio Antenna"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:07:44.639Z"
+  },
+  {
+    "sttTong": 7181,
+    "sttHang": 24,
+    "brand": "NIU",
+    "deviceName": "NIU Domo N102",
+    "deviceUrl": "https://www.gsmarena.com/niu_domo_n102-4672.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-domo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-domo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123 x 58 x 15.9 mm (4.84 x 2.28 x 0.63 in)",
+        "weight": "90 g without battery (3.17 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~17.6% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB 32MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio; built-in antenna",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "No",
+        "java": "No\nMusic player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:07:49.661Z"
+  },
+  {
+    "sttTong": 7182,
+    "sttHang": 25,
+    "brand": "NIU",
+    "deviceName": "NIU Bingo N103",
+    "deviceUrl": "https://www.gsmarena.com/niu_bingo_n103-4673.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-bingo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-bingo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 43.8 x 14.5 mm (3.94 x 1.72 x 0.57 in)",
+        "weight": "45 g without battery (1.59 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "1.8 inches, 10.2 cm2 (~23.3% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "32MB 3MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "java": "No\nMusic player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "Up to 96 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue, Purple, Red, Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:07:53.714Z"
+  },
+  {
+    "sttTong": 7183,
+    "sttHang": 26,
+    "brand": "NIU",
+    "deviceName": "NIU Lotto N104",
+    "deviceUrl": "https://www.gsmarena.com/niu_lotto_n104-4674.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-lotto.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-lotto.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.5 x 47 x 13.2 mm (4.39 x 1.85 x 0.52 in)",
+        "weight": "55 g without battery (1.94 oz)",
+        "sim": "Dual SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~24.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "No\nFacebook, MSN, Twitter, Yahoo\nVideo Player\nMusic Player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery",
+        "stand-by": "Up to 96 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue, Purple, Red, Silver, White",
+        "price": "About 30 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:07:58.502Z"
+  },
+  {
+    "sttTong": 7178,
+    "sttHang": 21,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek 3G 4.0 N309",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_3g_4_0_n309-4927.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-niutek-3g-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-niutek-3g-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 1900 - SIM 1 only",
+        "speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2012, June. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "123.5 x 65 x 10.5 mm (4.86 x 2.56 x 0.41 in)",
+        "weight": "71 g without battery (2.50 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~56.7% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "chipset": "Mediatek MT6575 (40 nm)",
+        "cpu": "1.0 GHz Cortex-A9",
+        "gpu": "PowerVR SGX531"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "512MB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1",
+        "positioning": "GPS",
+        "radio": "Stereo FM radio",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1650 mAh battery",
+        "stand-by": "Up to 713 h (2G) / Up to 428 h (3G)",
+        "talk_time": "Up to 16 h (2G) / Up to 7 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:07:59.708Z"
+  },
+  {
+    "sttTong": 7184,
+    "sttHang": 27,
+    "brand": "NIU",
+    "deviceName": "NIU Pana N105",
+    "deviceUrl": "https://www.gsmarena.com/niu_pana_n105-4675.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-pana.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-pana.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 58.5 x 11.8 mm (4.37 x 2.30 x 0.46 in)",
+        "weight": "68 g without battery (2.40 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~23.1% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "No\nFacebook, MSN, Twitter\nVideo Player\nMusic Player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue, Red, Silver, White",
+        "price": "About 40 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:08:07.159Z"
+  },
+  {
+    "sttTong": 7185,
+    "sttHang": 28,
+    "brand": "NIU",
+    "deviceName": "NIU Pana TV N106",
+    "deviceUrl": "https://www.gsmarena.com/niu_pana_tv_n106-4676.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-panatv.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-panatv.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM2 & SIM 3",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 58.5 x 13.5 mm (4.37 x 2.30 x 0.53 in)",
+        "weight": "70 g without battery (2.47 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Triple SIM (Mini-SIM)\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~19.4% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "Yes",
+        "internal": "128MB 32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, IM",
+        "games": "Yes",
+        "java": "Yes\nAnalog TV\nFacebook, MSN, Twitter\nVideo player\nMusic player\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Blue, Red, Silver, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:09:11.129Z"
+  },
+  {
+    "sttTong": 7186,
+    "sttHang": 29,
+    "brand": "NIU",
+    "deviceName": "NIU NiutekQ N108",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutekq_n108-4677.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tekq.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tekq.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.9 x 59.4 x 13.7 mm (4.25 x 2.34 x 0.54 in)",
+        "weight": "73 g without battery (2.57 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.3 inches, 15.8 cm2 (~24.6% screen-to-body ratio)",
+        "resolution": "480 x 320 pixels, 3:2 ratio (~251 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Mediatek MT6516",
+        "cpu": "416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 48 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:09:52.804Z"
+  },
+  {
+    "sttTong": 7187,
+    "sttHang": 30,
+    "brand": "NIU",
+    "deviceName": "NIU Niutek N109",
+    "deviceUrl": "https://www.gsmarena.com/niu_niutek_n109-4678.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/niu-tek.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Up to 48 kbps",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.8 x 58.2 x 13.7 mm (4.24 x 2.29 x 0.54 in)",
+        "weight": "71 g without battery (2.50 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 23.3 cm2 (~37.2% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~206 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Mediatek MT6516",
+        "cpu": "416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "256MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, recording",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 48 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:10:11.622Z"
+  }
+]

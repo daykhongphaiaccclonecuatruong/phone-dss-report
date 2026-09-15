@@ -1,0 +1,5068 @@
+[
+  {
+    "sttTong": 8701,
+    "sttHang": 3,
+    "brand": "Pantech",
+    "deviceName": "Pantech Discover",
+    "deviceUrl": "https://www.gsmarena.com/pantech_discover-5238.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-discover.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-discover.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.2 x 68.6 x 9.1 mm (5.28 x 2.70 x 0.36 in)",
+        "weight": "135 g (4.76 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.8 inches, 63.5 cm2 (~69.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~306 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "cpu": "Dual-core 1.5 GHz Krait",
+        "gpu": "Adreno 225"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB (13GB user available), 1GB RAM"
+      },
+      "main_camera": {
+        "single": "12.6 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable",
+        "stand-by": "Up to 430 h",
+        "talk_time": "Up to 10 h"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 370 EUR"
+      },
+      "our_tests": {
+        "battery_old": "Endurance rating 48h"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:59:47.292Z"
+  },
+  {
+    "sttTong": 8702,
+    "sttHang": 4,
+    "brand": "Pantech",
+    "deviceName": "Pantech Vega R3 IM-A850L",
+    "deviceUrl": "https://www.gsmarena.com/pantech_vega_r3_im_a850l-5021.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-r3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-r3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "CDMA 800 / 1900\nGSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nCDMA2000 1xEV-DO",
+        "4g_bands": "LTE 800",
+        "speed": "HSPA, LTE, EV-DO Rev. A"
+      },
+      "launch": {
+        "announced": "2012, October. Released 2012, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144.7 x 74.3 x 10 mm (5.70 x 2.93 x 0.39 in)",
+        "weight": "168.5 g (5.93 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "Natural IPS Pro LCD",
+        "size": "5.3 inches, 77.4 cm2 (~72.0% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~277 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.1 (Jelly Bean)",
+        "chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+        "cpu": "Quad-core 1.5 GHz Krait",
+        "gpu": "Adreno 320"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nT-DMB TV tuner\nMP4/H.264/WMV/DviX/XviD player\nMP3/WMA/WAV/eAAC+ player\nDocument viewer/editor"
+      },
+      "battery": {
+        "type": "Li-Ion 2600 mAh, removable",
+        "talk_time": "Up to 14 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "IM-A850S",
+        "price": "About 550 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:59:50.402Z"
+  },
+  {
+    "sttTong": 8699,
+    "sttHang": 1,
+    "brand": "Pantech",
+    "deviceName": "Pantech Breeze IV",
+    "deviceUrl": "https://www.gsmarena.com/pantech_breeze_iv-6504.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-breeze-4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-breeze-4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2013, November. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106.4 x 53.1 x 17.5 mm (4.19 x 2.09 x 0.69 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Yes"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~45.3% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)\nSecondary external display"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC6270"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "256MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes\nMP3/eAAC+/WMA/WAV player\nMP4/WMV/H.263 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Li-Ion 1030 mAh, removable",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:59:55.033Z"
+  },
+  {
+    "sttTong": 8700,
+    "sttHang": 2,
+    "brand": "Pantech",
+    "deviceName": "Pantech Vega No 6",
+    "deviceUrl": "https://www.gsmarena.com/pantech_vega_no_6-5268.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-no-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-no-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g_bands": "CDMA 800 / 1900\nGSM 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nCDMA2000 1xEV-DO",
+        "4g_bands": "LTE 800",
+        "speed": "HSPA, LTE, EV-DO Rev. A"
+      },
+      "launch": {
+        "announced": "2013, January. Released 2013, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "158.6 x 83.2 x 9.9 mm (6.24 x 3.28 x 0.39 in)",
+        "weight": "210.5 g (7.41 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "Natural IPS Pro LCD",
+        "size": "5.9 inches, 96.0 cm2 (~72.7% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~373 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.1.2 (Jelly Bean), Flux UX UI",
+        "chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+        "cpu": "Quad-core 1.5 GHz Krait",
+        "gpu": "Adreno 320"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP, EDR, LE",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nT-DMB TV tuner"
+      },
+      "battery": {
+        "type": "Li-Ion 3140 mAh, removable",
+        "stand-by": "Up to 450 h",
+        "talk_time": "Up to 16 h 40 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "models": "IM-A860L",
+        "sar_eu": "0.72 W/kg (head)"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:59:58.330Z"
+  },
+  {
+    "sttTong": 8704,
+    "sttHang": 6,
+    "brand": "Pantech",
+    "deviceName": "Pantech Renue",
+    "deviceUrl": "https://www.gsmarena.com/pantech_renue-4896.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-renue.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-renue.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2012, July. Released 2012, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 63 x 12 mm (3.90 x 2.48 x 0.47 in)",
+        "weight": "128 g (4.52 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 31.7 cm2 (~50.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~125 ppi density)"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC 6270"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "185MB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "messaging": "SMS(threaded view), MMS, Email, IM",
+        "games": "Yes + downloadable",
+        "java": "No\nSNS applications\nMP4/H.264/WMV player\nMP3/WMA/WAV/eAAC+ player\nDocument viewer\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:00.458Z"
+  },
+  {
+    "sttTong": 8706,
+    "sttHang": 8,
+    "brand": "Pantech",
+    "deviceName": "Pantech Vega Racer 2 IM-A830L",
+    "deviceUrl": "https://www.gsmarena.com/pantech_vega_racer_2_im_a830l-4738.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-racer-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-vega-racer-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / HSPA / LTE",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE 800",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2012, May. Released 2012, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "132.4 x 68.9 x 9.4 mm (5.21 x 2.71 x 0.37 in)",
+        "weight": "134.1 g (4.73 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Super IPS LCD",
+        "size": "4.8 inches, 63.5 cm2 (~69.6% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~306 ppi density)\nTouchless UX UI"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "cpu": "Dual-core 1.5 GHz Krait",
+        "gpu": "Adreno 225"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0 (MHL TV-out)"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nT-DMB TV tuner\nMP4/H.264/WMV/DviX/XviD player\nMP3/WMA/WAV/eAAC+ player\nDocument viewer/editor\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 2020 mAh battery"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "price": "About 340 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:02.529Z"
+  },
+  {
+    "sttTong": 8705,
+    "sttHang": 7,
+    "brand": "Pantech",
+    "deviceName": "Pantech Marauder",
+    "deviceUrl": "https://www.gsmarena.com/pantech_marauder-4895.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-marauder.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-marauder.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / EVDO / LTE",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "CDMA2000 1xEV-DO",
+        "4g_bands": "13",
+        "speed": "EV-DO Rev.A 3.1 Mbps, LTE"
+      },
+      "launch": {
+        "announced": "2012, July. Released 2012, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 65 x 12 mm (5.08 x 2.56 x 0.47 in)",
+        "weight": "173 g (6.10 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.8 inches, 41.1 cm2 (~49.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.2 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP4/H.264/WMV player\nMP3/WMA/WAV/eAAC+ player\nDocument viewer\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1680 mAh battery",
+        "stand-by": "Up to 533 h",
+        "talk_time": "Up to 8 h 10 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.63 W/kg (head)     0.89 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:04.515Z"
+  },
+  {
+    "sttTong": 8708,
+    "sttHang": 10,
+    "brand": "Pantech",
+    "deviceName": "Pantech Burst",
+    "deviceUrl": "https://www.gsmarena.com/pantech_burst-4429.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-burst.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-burst.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "4, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126.5 x 62.5 x 11.4 mm (4.98 x 2.46 x 0.45 in)",
+        "weight": "122.5 g (4.30 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "Super AMOLED, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~57.6% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3.5 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm MSM8660 Snapdragon S3",
+        "cpu": "Dual-core 1.5 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nOrganizer\nPhoto/video editor\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1650 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Titanium, Ruby Red",
+        "price": "About 270 EUR"
+      },
+      "our_tests": {
+        "battery_old": "Endurance rating 31h"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:06.323Z"
+  },
+  {
+    "sttTong": 8707,
+    "sttHang": 9,
+    "brand": "Pantech",
+    "deviceName": "Pantech Vega LTE EX IM-A820L",
+    "deviceUrl": "https://www.gsmarena.com/pantech_vega_lte_ex_im_a820l-4428.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Vega-LTE-EX.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Vega-LTE-EX.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / HSPA / LTE",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "LTE 800",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134.5 x 69.8 x 9.7 mm (5.30 x 2.75 x 0.38 in)",
+        "weight": "136.2 g (4.80 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Super IPS LCD",
+        "size": "4.5 inches, 58.7 cm2 (~62.5% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~335 ppi density)\nTouchless UX UI"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "cpu": "Dual-core 1.5 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0 (MHL TV-out)"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nT-DMB TV tuner\nMP4/H.264/WMV/DviX/XviD player\nMP3/WMA/WAV/eAAC+ player\nDocument viewer/editor\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1830 mAh battery",
+        "stand-by": "Up to 174 h",
+        "talk_time": "Up to 6 h 25 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.64 W/kg (head)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:06.723Z"
+  },
+  {
+    "sttTong": 8709,
+    "sttHang": 11,
+    "brand": "Pantech",
+    "deviceName": "Pantech Element",
+    "deviceUrl": "https://www.gsmarena.com/pantech_element-4426.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-element.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-element.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2012, January. Released 2012, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "212.3 x 155.4 x 10.7 mm (8.36 x 6.12 x 0.42 in)",
+        "weight": "469.8 g (1.03 lb)",
+        "sim": "Micro-SIM\nIP57 dust/water resistant (up to 1m. and 30 min)"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "8.0 inches, 198.2 cm2 (~60.1% screen-to-body ratio)",
+        "resolution": "768 x 1024 pixels, 4:3 ratio (~160 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "chipset": "Qualcomm APQ8060 Snapdragon S3",
+        "cpu": "Dual-core 1.5 GHz Scorpion",
+        "gpu": "Adreno 220"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "bluetooth": "3.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, compass\nHDMI port\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 6400 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 12 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:08.625Z"
+  },
+  {
+    "sttTong": 8711,
+    "sttHang": 13,
+    "brand": "Pantech",
+    "deviceName": "Pantech Link II",
+    "deviceUrl": "https://www.gsmarena.com/pantech_link_ii-4292.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-link-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-link-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 61 x 10 mm (4.49 x 2.40 x 0.39 in)",
+        "weight": "94 g (3.32 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.7% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "200MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes\nMP3/WAV/eAAC+/WMA player\nMP4/H.263/WMV player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:12.217Z"
+  },
+  {
+    "sttTong": 8712,
+    "sttHang": 14,
+    "brand": "Pantech",
+    "deviceName": "Pantech Pocket P9060",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pocket_p9060-4245.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pocket.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pocket.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.7 x 78 x 11.3 mm (4.52 x 3.07 x 0.44 in)",
+        "weight": "132.1 g (4.66 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 49.5 cm2 (~55.4% screen-to-body ratio)",
+        "resolution": "600 x 800 pixels, 4:3 ratio (~250 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "internal": "600MB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g, hotspot",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1650 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:14.678Z"
+  },
+  {
+    "sttTong": 8703,
+    "sttHang": 5,
+    "brand": "Pantech",
+    "deviceName": "Pantech Flex  P8010",
+    "deviceUrl": "https://www.gsmarena.com/pantech_flex__p8010-5008.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-flex.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-flex.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "4g_bands": "4, 17",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2012, September. Released 2012, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129.8 x 67.1 x 7.9 mm (5.11 x 2.64 x 0.31 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "Super AMOLED Advanced",
+        "size": "4.3 inches, 51.0 cm2 (~58.5% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.1.2 (Jelly Bean)",
+        "chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "cpu": "Dual-core 1.5 GHz Krait",
+        "gpu": "Adreno 225"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nMP4/WMV/H.264 player\nMP3/WAV/eAAC+ player\nPhoto/video editor\nDocument viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 1830 mAh, removable",
+        "stand-by": "Up to 430 h",
+        "talk_time": "Up to 10 h",
+        "music_play": "Up to 21 h"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar": "0.66 W/kg (head)     1.02 W/kg (body)",
+        "price": "About 230 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:18.733Z"
+  },
+  {
+    "sttTong": 8714,
+    "sttHang": 16,
+    "brand": "Pantech",
+    "deviceName": "Pantech Pursuit II",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pursuit_ii-4038.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-pantech-pursuit-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-pantech-pursuit-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2011, July. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "101 x 61 x 15 mm (3.98 x 2.40 x 0.59 in)",
+        "weight": "127 g (4.48 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~39.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "chipset": "Qualcomm QSC6270",
+        "cpu": "230 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "217MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "No\nMP3/WAV/WMA player\nMP4/H.263 player\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Pink, green, black",
+        "sar": "0.49 W/kg (head)     0.59 W/kg (body)",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:18.804Z"
+  },
+  {
+    "sttTong": 8715,
+    "sttHang": 17,
+    "brand": "Pantech",
+    "deviceName": "Pantech Breakout",
+    "deviceUrl": "https://www.gsmarena.com/pantech_breakout-4294.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Breakout.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Breakout.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / EVDO / LTE",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "CDMA2000 1xEV-DO",
+        "4g_bands": "13",
+        "speed": "EV-DO Rev.A 3.1 Mbps, LTE"
+      },
+      "launch": {
+        "announced": "2011, July. Released 2011, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127 x 64 x 12 mm (5.0 x 2.52 x 0.47 in)",
+        "weight": "138 g (4.87 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "4.0 inches, 45.5 cm2 (~56.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.3 (Gingerbread)",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "1GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "720p"
+      },
+      "selfie_camera": {
+        "single": "VGA"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS, VZ Navigator",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nMP3/WAV/WMA/eAAC+ player\nMP4/WMV/H.264 player\nOrganizer\nVoice memo\nPredictive text input (Swype)"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 303 h",
+        "talk_time": "Up to 5 h 47 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.46 W/kg (head)     0.77 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:22.735Z"
+  },
+  {
+    "sttTong": 8716,
+    "sttHang": 18,
+    "brand": "Pantech",
+    "deviceName": "Pantech Breeze III",
+    "deviceUrl": "https://www.gsmarena.com/pantech_breeze_iii-4075.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-breeze-iii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-breeze-iii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2011, July. Released 2011, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 51 x 19 mm (3.90 x 2.01 x 0.75 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~29.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)\nSecondary external display"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "80MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+/WMA/WAV player\nMP4/WMV/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 336 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black/Silver",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:23.994Z"
+  },
+  {
+    "sttTong": 8717,
+    "sttHang": 19,
+    "brand": "Pantech",
+    "deviceName": "Pantech Vega Xpress IM-A720L",
+    "deviceUrl": "https://www.gsmarena.com/pantech_vega_xpress_im_a720l-3699.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Vega-X.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Vega-X.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010, December. Released 2011, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122.5 x 63.9 x 10.8 mm (4.82 x 2.52 x 0.43 in)",
+        "weight": "119.8 g (4.20 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "4.0 inches, 45.5 cm2 (~58.2% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.2 (Froyo)",
+        "chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "cpu": "1.0 GHz Scorpion",
+        "gpu": "Adreno 205"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 8 GB included",
+        "internal": "512MB DDR2 RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nDMB TV tuner\nTV-out\nDivX/XviD/MP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1500 mAh battery",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White, Red",
+        "sar_eu": "0.93 W/kg (head)",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:25.284Z"
+  },
+  {
+    "sttTong": 8719,
+    "sttHang": 21,
+    "brand": "Pantech",
+    "deviceName": "Pantech Crux",
+    "deviceUrl": "https://www.gsmarena.com/pantech_crux-3629.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-crux.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-crux.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / EVDO",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "CDMA2000 1xEV-DO",
+        "speed": "EV-DO Rev.0, 153.2 Kbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 58 x 13 mm (4.29 x 2.28 x 0.51 in)",
+        "weight": "122 g (4.30 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~40.5% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS, VZ Navigator",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "No\nMP3/WAV player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 324 h",
+        "talk_time": "Up to 5 h 20 min"
+      },
+      "misc": {
+        "colors": "Gray",
+        "sar": "1.25 W/kg (head)     0.61 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:32.419Z"
+  },
+  {
+    "sttTong": 8710,
+    "sttHang": 12,
+    "brand": "Pantech",
+    "deviceName": "Pantech Hotshot",
+    "deviceUrl": "https://www.gsmarena.com/pantech_hotshot-4293.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-hotshot.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-hotshot.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / CDMA2000",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "CDMA2000 1x",
+        "speed": "EV-DO Rev.0, 153.2 Kbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "119 x 60 x 9 mm (4.69 x 2.36 x 0.35 in)",
+        "weight": "91 g (3.21 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 29.1 cm2 (~40.8% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 2 GB included",
+        "phonebook": "1000, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS, VZ Navigator",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Proximity",
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "No\nMP3/WAV/WMA/eAAC+ player\nMP4/H.264 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 342 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Red",
+        "sar": "1.32 W/kg (head)     0.78 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:32.786Z"
+  },
+  {
+    "sttTong": 8720,
+    "sttHang": 22,
+    "brand": "Pantech",
+    "deviceName": "Pantech Laser P9050",
+    "deviceUrl": "https://www.gsmarena.com/pantech_laser_p9050-3543.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Laser.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-Laser.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.8 x 57.9 x 10 mm (4.48 x 2.28 x 0.39 in)",
+        "weight": "115 g (4.06 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED resistive touchscreen, 256K colors",
+        "size": "3.1 inches, 27.4 cm2 (~41.5% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~301 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {},
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nSNS integration\nMP3/WAV/WMA player\nMP4/H.263 player\nMusic ID recognition\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 336 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Gray/Blue",
+        "sar": "0.74 W/kg (head)     0.93 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:38.847Z"
+  },
+  {
+    "sttTong": 8721,
+    "sttHang": 23,
+    "brand": "Pantech",
+    "deviceName": "Pantech P4000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_p4000-3456.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-p4000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-p4000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1\nGSM 850 / 900 / 1800 / 1900 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2010, August. Released 2010, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 57 x 12.5 mm (4.33 x 2.24 x 0.49 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~40.9% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "30MB"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+ player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1000 mAh battery",
+        "stand-by": "Up to 450 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black Glossy/Black SF, Titan/Ivory, Ivory/Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:39.866Z"
+  },
+  {
+    "sttTong": 8723,
+    "sttHang": 25,
+    "brand": "Pantech",
+    "deviceName": "Pantech SKY Izar IM-A630K",
+    "deviceUrl": "https://www.gsmarena.com/pantech_sky_izar_im_a630k-3419.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-A630K.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/Pantech-A630K.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, July. Released 2010, July",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.4 x 55.4 x 13.4 mm (4.50 x 2.18 x 0.53 in)",
+        "weight": "106.2 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "3.2 inches, 29.1 cm2 (~46.0% screen-to-body ratio)",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~292 ppi density)"
+      },
+      "platform": {
+        "os": "Android 2.1 (Eclair)",
+        "chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "4GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "HTML\nDMB TV tuner\nMP3/eAAC+ player\nMP4/H.263 player\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1100 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:45.252Z"
+  },
+  {
+    "sttTong": 8725,
+    "sttHang": 27,
+    "brand": "Pantech",
+    "deviceName": "Pantech Link",
+    "deviceUrl": "https://www.gsmarena.com/pantech_link-4291.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-link.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-link.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.2 x 60.9 x 9.9 mm (4.54 x 2.40 x 0.39 in)",
+        "weight": "91 g (3.21 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "320p@15fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "Yes\nMP3/WAV/AAC player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 930 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:52.543Z"
+  },
+  {
+    "sttTong": 8722,
+    "sttHang": 24,
+    "brand": "Pantech",
+    "deviceName": "Pantech P1000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_p1000-3457.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-p1000.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-p1000.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 - SIM 1\nGSM 900 / 1800 - SIM 2",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, August. Released 2010, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "97 x 53 x 14.9 mm (3.82 x 2.09 x 0.59 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "1.8 inches, 10.2 cm2 (~19.8% screen-to-body ratio)",
+        "resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/eAAC+ player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1100 mAh battery",
+        "stand-by": "Up to 600 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Silver, Pink, Ivory-Brown"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:00:53.959Z"
+  },
+  {
+    "sttTong": 8718,
+    "sttHang": 20,
+    "brand": "Pantech",
+    "deviceName": "Pantech S902",
+    "deviceUrl": "https://www.gsmarena.com/pantech_s902-3637.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-s902.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-s902.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2010, November. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.2 x 51.8 x 12.9 mm (4.14 x 2.04 x 0.51 in)",
+        "weight": "104.4 g (3.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT,  256K colors",
+        "size": "3.0 inches, 25.6 cm2 (~47.0% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nT-DMB TV tuner\nMP3/AAC player\nMP4/H.263 player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 314 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Gold, White, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:00.145Z"
+  },
+  {
+    "sttTong": 8728,
+    "sttHang": 30,
+    "brand": "Pantech",
+    "deviceName": "Pantech Impact",
+    "deviceUrl": "https://www.gsmarena.com/pantech_impact-3013.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-impact-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-impact-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, November. Released 2009, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 52 x 17.8 mm (4.17 x 2.05 x 0.70 in)",
+        "weight": "125 g (4.41 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.6 inches, 19.2 cm2 (~34.9% screen-to-body ratio)",
+        "resolution": "400 x 240 pixels, 5:3 ratio (~179 ppi density)\nSecondary display"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "80MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "320p@15fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "A-GPS only; AT&T Navigator",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0 / xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.1\nMP4/H.264 player\nMP3/e-AAC+/WAV player\nVoice dial/memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 336 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black, Pink",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:09.455Z"
+  },
+  {
+    "sttTong": 8729,
+    "sttHang": 31,
+    "brand": "Pantech",
+    "deviceName": "Pantech C790 Reveal",
+    "deviceUrl": "https://www.gsmarena.com/pantech_c790_reveal-3012.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-c790-reveal.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-c790-reveal.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, October. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 60 x 14.8 mm (3.90 x 2.36 x 0.58 in)",
+        "weight": "112 g (3.95 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 2.2, 15.0 cm2 (~25.2% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "80MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "320p@15fps"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "AT&T A-GPS only",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP4/H.264 player\nMP3/eAAC+/WMA player\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 244 h (2G) / - (3G)",
+        "talk_time": "Up to 3 h (2G) / - (3G)"
+      },
+      "misc": {
+        "colors": "Red, Blue",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:17.472Z"
+  },
+  {
+    "sttTong": 8730,
+    "sttHang": 32,
+    "brand": "Pantech",
+    "deviceName": "Pantech Matrix Pro",
+    "deviceUrl": "https://www.gsmarena.com/pantech_matrix_pro-2763.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-matrix-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-matrix-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "105.9 x 50.8 x 21.6 mm (4.17 x 2.0 x 0.85 in)",
+        "weight": "122 g (4.30 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nDual slide design"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~33.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Standard",
+        "cpu": "528 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nAT&T Navigator\nMP3/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1320 mAh battery",
+        "stand-by": "249 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "Steel Blue",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:25.440Z"
+  },
+  {
+    "sttTong": 8724,
+    "sttHang": 26,
+    "brand": "Pantech",
+    "deviceName": "Pantech Jest",
+    "deviceUrl": "https://www.gsmarena.com/pantech_jest-4295.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-jest.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-jest.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA",
+        "2g_bands": "CDMA 800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2010, June. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 64 x 15 mm (3.70 x 2.52 x 0.59 in)",
+        "weight": "116 g (4.09 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.6 inches, 21.8 cm2 (~36.2% screen-to-body ratio)",
+        "resolution": "320 x 320 pixels, 1:1 ratio (~174 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes",
+        "internal": "975MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "No\nSNS applications\nMP3 player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 920 mAh battery",
+        "stand-by": "Up to 358 h",
+        "talk_time": "Up to 4 h 36 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.89 W/kg (head)     0.27 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:31.865Z"
+  },
+  {
+    "sttTong": 8713,
+    "sttHang": 15,
+    "brand": "Pantech",
+    "deviceName": "Pantech Jest II",
+    "deviceUrl": "https://www.gsmarena.com/pantech_jest_ii-4296.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-jest-ii.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-jest-ii.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / CDMA / UMTS / CDMA2000",
+        "2g_bands": "CDMA 800 / 1900\nGSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "CDMA2000 1x\nUMTS 2100",
+        "speed": "EV-DO Rev.0, 153.2 Kbps"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94 x 66 x 15 mm (3.70 x 2.60 x 0.59 in)",
+        "weight": "116 g (4.09 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.4 inches, 17.8 cm2 (~28.8% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "1000 entries, Photocall",
+        "call_records": "Yes"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, VZ Navigator",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "games": "Yes",
+        "java": "No\nSNS integration\nMP3/WAV/WMA/eAAC+ player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 322 h",
+        "talk_time": "Up to 4 h 54 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.15 W/kg (head)     1.17 W/kg (body)"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:01:34.082Z"
+  },
+  {
+    "sttTong": 8732,
+    "sttHang": 34,
+    "brand": "Pantech",
+    "deviceName": "Pantech Matrix",
+    "deviceUrl": "https://www.gsmarena.com/pantech_matrix-2558.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-matrix.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-matrix.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 50 x 20 mm (4.02 x 1.97 x 0.79 in)",
+        "weight": "132 g (4.66 oz)",
+        "sim": "Mini-SIM\nDual slide design"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "1000 contacts, Photo call",
+        "call_records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No\nFull QWERTY keyboard"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAT&T Navigator\nMP3/MP4 player\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po battery"
+      },
+      "misc": {
+        "colors": "Gray, Blue",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:02:55.462Z"
+  },
+  {
+    "sttTong": 8727,
+    "sttHang": 29,
+    "brand": "Pantech",
+    "deviceName": "Pantech Pursuit",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pursuit-3393.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pursuit.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pursuit.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, May. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "93.2 x 63.8 x 14.7 mm (3.67 x 2.51 x 0.58 in)",
+        "weight": "129.8 g (4.55 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors",
+        "size": "2.8 inches, 24.3 cm2 (~40.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP, EDR",
+        "positioning": "A-GPS only; AT&T Navigator",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/WAV/WMA player\nMP4/H.263 player\nMusic ID recognition\nShake control\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 930 mAh battery",
+        "stand-by": "Up to 360 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Blue, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:02:56.976Z"
+  },
+  {
+    "sttTong": 8726,
+    "sttHang": 28,
+    "brand": "Pantech",
+    "deviceName": "Pantech Ease",
+    "deviceUrl": "https://www.gsmarena.com/pantech_ease-3405.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-ease.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-ease.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, June. Released 2010, June 20",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113.8 x 57.9 x 14.2 mm (4.48 x 2.28 x 0.56 in)",
+        "weight": "99.2 g (3.49 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "3.2 inches, 29.1 cm2 (~44.2% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "Yes, Photocall",
+        "call_records": "Yes",
+        "internal": "50MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, IM",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/WAV/WMA player\nMP4/H.263 player\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 360 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black/Gray",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:00.706Z"
+  },
+  {
+    "sttTong": 8731,
+    "sttHang": 33,
+    "brand": "Pantech",
+    "deviceName": "Pantech Slate",
+    "deviceUrl": "https://www.gsmarena.com/pantech_slate-2574.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-slate.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-slate.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107 x 64 x 10 mm (4.21 x 2.52 x 0.39 in)",
+        "weight": "91 g (3.21 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.2 cm2 (~22.2% screen-to-body ratio)",
+        "resolution": "220 x 176 pixels (~128 ppi density)\nJog Wheel"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 contacts, Photo call",
+        "call_records": "30 dialed, 30 received, 30 missed calls",
+        "internal": "20MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nAT&T Navigator\nMP3/MP4 player\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:01.614Z"
+  },
+  {
+    "sttTong": 8735,
+    "sttHang": 37,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3300",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3300-1777.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82.5 x 41.5 x 18.5 mm (3.25 x 1.63 x 0.73 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external 65K colors CSTN display (96 x 96 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "14MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 710 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:09.791Z"
+  },
+  {
+    "sttTong": 8738,
+    "sttHang": 40,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1800",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1800-1586.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "95.5 x 46 x 18.5 mm (3.76 x 1.81 x 0.73 in)",
+        "weight": "88 g (3.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.8 inches, 10.0 cm2 (~22.8% screen-to-body ratio)",
+        "resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)\nSecond external 1.06-inch CSTN display, 65K colors (96 x 96 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "256MB 64MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0",
+        "games": "No",
+        "java": "Yes\nAudio player MP3, MIDI, i-melody"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 110 h",
+        "talk_time": "Up to 2.5 h"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:18.157Z"
+  },
+  {
+    "sttTong": 8737,
+    "sttHang": 39,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1600",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1600-1590.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "89.8 x 43.5 x 18.6 mm (3.54 x 1.71 x 0.73 in)",
+        "weight": "83.4 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "size": "1.5 inches, 7.3 cm2 (~18.6% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "128MB 32MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nVideo player \nMotion JPEG recorder\nOrganizer\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 2 h 10 min"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:35.305Z"
+  },
+  {
+    "sttTong": 8734,
+    "sttHang": 36,
+    "brand": "Pantech",
+    "deviceName": "Pantech U-4000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_u_4000-1778.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-u4000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-u4000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "95 x 43 x 16.5 mm (3.74 x 1.69 x 0.65 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~27.8% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "30MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nVideo telephony \nMP3/AAC/AAC+/AAC++ player\nFile manager\nPhoto editing"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:42.371Z"
+  },
+  {
+    "sttTong": 8739,
+    "sttHang": 41,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1300",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1300-1584.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "89.9 x 44 x 18.9 mm (3.54 x 1.73 x 0.74 in)",
+        "weight": "75.2 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "size": "1.5 inches"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "128MB 64MB RAM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nDocument viewer (Word, Excel, PowerPoint, PDF)\nVoice scheduler\nFatness checker\nPC sync\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:44.822Z"
+  },
+  {
+    "sttTong": 8741,
+    "sttHang": 43,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1900",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1900-1580.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "103 x 43.5 x 13.5 mm (4.06 x 1.71 x 0.53 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "size": "1.6 inches, 28 x 28 mm, 8.3 cm2 (~18.4% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1:1 ratio (~113 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "800 x 8 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "1.1"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:48.237Z"
+  },
+  {
+    "sttTong": 8743,
+    "sttHang": 45,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3600V",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3600v-1511.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3600v.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3600v.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102.3 x 46.6 x 17.9 mm (4.03 x 1.83 x 0.70 in)",
+        "weight": "94.2 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "32MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nTouch wheel sensor\nOrganizer\nVoice memo\nPhoto Editor\nVideo Editor\nFatness Checker"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:03:53.812Z"
+  },
+  {
+    "sttTong": 8736,
+    "sttHang": 38,
+    "brand": "Pantech",
+    "deviceName": "Pantech PU-5000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pu_5000-1591.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pu5000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pu5000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "95.7 x 45.6 x 21.6 mm (3.77 x 1.80 x 0.85 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~26.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "30MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0",
+        "games": "No",
+        "java": "Yes, MIDP 2.0\nAudio player MP3, AAC, AAC+, SMF (MIDI)\nVideo MP4, H.263 Player\nFile manager\nPhoto editing\nFlight mode\nPC Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 340 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:02.074Z"
+  },
+  {
+    "sttTong": 8745,
+    "sttHang": 47,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3500",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3500-1384.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "92.7 x 45 x 16.4 mm (3.65 x 1.77 x 0.65 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels\nSecond external 65K colors TFT display (96 x 128 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "22MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Po 800 mAh battery",
+        "stand-by": "Up to 230 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:08.438Z"
+  },
+  {
+    "sttTong": 8744,
+    "sttHang": 46,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3600",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3600-1385.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "94.9 x 43.2 x 16.8 mm (3.74 x 1.70 x 0.66 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "22MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Standard battery, Li-Po 570 mAh",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:10.284Z"
+  },
+  {
+    "sttTong": 8740,
+    "sttHang": 42,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3900",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3900-1583.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, Q2",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "90 x 42 x 16.9 mm (3.54 x 1.65 x 0.67 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 260K colors",
+        "size": "1.9 inches, 11.4 cm2 (~30.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "Yes",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/AAC+/MP4 player\nDocument viewer (Word, Excel, PowerPoint, PDF)\nPhoto editing\nPictbridge\nFlight mode\nPC sync\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 570 mAh battery",
+        "stand-by": "Up to 220 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:13.523Z"
+  },
+  {
+    "sttTong": 8733,
+    "sttHang": 35,
+    "brand": "Pantech",
+    "deviceName": "Pantech Duo",
+    "deviceUrl": "https://www.gsmarena.com/pantech_duo-2205.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech_duo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech_duo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, October. Released 2007, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "102 x 50 x 19.9 mm (4.02 x 1.97 x 0.78 in)",
+        "weight": "110 g (3.88 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nDual slide design"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.2 inches, 15.0 cm2 (~29.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Windows Mobile 6 Standard",
+        "cpu": "Marvell PXA270 416 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, WMA, WAV ringtones",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1320 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:16.727Z"
+  },
+  {
+    "sttTong": 8747,
+    "sttHang": 49,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-8000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_8000-1375.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg8000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg8000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99.8 x 51.8 x 16.1 mm (3.93 x 2.04 x 0.63 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 40 x 30 mm, 12.4 cm2 (~24.0% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "8.4MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP3/AAC/MP4 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:04:24.007Z"
+  },
+  {
+    "sttTong": 8746,
+    "sttHang": 48,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1500",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1500-1383.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90.7 x 44.6 x 15.9 mm (3.57 x 1.76 x 0.63 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "2.2MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 790 mAh battery",
+        "stand-by": "Up to 190 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:26.215Z"
+  },
+  {
+    "sttTong": 8742,
+    "sttHang": 44,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-2800",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_2800-1560.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg2800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg2800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 45 x 18.5 mm (3.54 x 1.77 x 0.73 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~31.1% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)\nSecond external 65K colors CSTN display (96 x 96 pixels)"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "24MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted)",
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nText To Speech\nMP3 player\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 800 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:30.130Z"
+  },
+  {
+    "sttTong": 8751,
+    "sttHang": 53,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1200-1287.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "90 x 45.5 x 23.3 mm (3.54 x 1.79 x 0.92 in)",
+        "weight": "91.5 g (3.21 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external 65K colors CSTN display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 x 6 fields, Photo call, 10 Groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 700 mAh battery",
+        "stand-by": "Up to 270 h",
+        "talk_time": "Up to 3 h 50 min"
+      },
+      "misc": {
+        "colors": "Dark Blue, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:31.822Z"
+  },
+  {
+    "sttTong": 8752,
+    "sttHang": 54,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-3200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_3200-1151.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "70 x 43 x 18 mm (2.76 x 1.69 x 0.71 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external 256K colors TFT display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 x 6 fields, Photo call, 10 Groups",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "3.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 760 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 2 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Silver, Navy, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:35.601Z"
+  },
+  {
+    "sttTong": 8750,
+    "sttHang": 52,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1400",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1400-1376.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1400.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1400.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "103 x 42.5 x 12.8 mm (4.06 x 1.67 x 0.50 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 x 6 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "3MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:48.606Z"
+  },
+  {
+    "sttTong": 8754,
+    "sttHang": 56,
+    "brand": "Pantech",
+    "deviceName": "Pantech GF500",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gf500-1096.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-gf500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-gf500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "89 x 46 x 22 mm (3.50 x 1.81 x 0.87 in)",
+        "weight": "83 g (2.93 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 256K colors TFT display (128 x 160 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "8.4MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "2 - Silver Blue and Silver Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:52.779Z"
+  },
+  {
+    "sttTong": 8755,
+    "sttHang": 57,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG3000",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg3000-1095.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3000.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg3000.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 42 x 22 mm (3.43 x 1.65 x 0.87 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 x 8 fields, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "8.4MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes + downloadable",
+        "java": "Yes, MIDP 2.0\nPredictive text input\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Black, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:05:56.170Z"
+  },
+  {
+    "sttTong": 8756,
+    "sttHang": 58,
+    "brand": "Pantech",
+    "deviceName": "Pantech GF100",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gf100-1018.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgf100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgf100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 44 x 22.5 mm (3.23 x 1.73 x 0.89 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nSecond external 65K colors STN display  (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.8MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64) ringtones",
+        "35mm_jack": "No\n3D sound"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:05:58.714Z"
+  },
+  {
+    "sttTong": 8748,
+    "sttHang": 50,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-6200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_6200-1558.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg6200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg6200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87 x 43.6 x 20.9 mm (3.43 x 1.72 x 0.82 in)",
+        "weight": "92 g (3.25 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "1.9 inches, 30 x 37 mm, 11.4 cm2 (~30.0% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~148 ppi density)\nSecond external TFT display, 65K colors (96 x 128 pixels)\nFingerprint identification"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "phonebook": "800 x 10 fields, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "320p"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nVoice recognition\nMP3/AAC/AAC+/AMR player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Standard battery, Li-Ion 830 mAh",
+        "stand-by": "Up to 230 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver black, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:04.252Z"
+  },
+  {
+    "sttTong": 8757,
+    "sttHang": 59,
+    "brand": "Pantech",
+    "deviceName": "Pantech G670",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g670-926.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg670.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg670.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 40 x 21 mm (3.15 x 1.57 x 0.83 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nSecond external 256K colors TFT display  (128 x 160 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "1.8MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "sensors": "Thermometer",
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:09.102Z"
+  },
+  {
+    "sttTong": 8753,
+    "sttHang": 55,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-1000s",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_1000s-1152.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1000s.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg1000s.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 42 x 23.3 mm (3.23 x 1.65 x 0.92 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external mono display (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 670 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Black, Blue, Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:10.160Z"
+  },
+  {
+    "sttTong": 8759,
+    "sttHang": 61,
+    "brand": "Pantech",
+    "deviceName": "Pantech GF200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gf200-805.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgf200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgf200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "81 x 42 x 22 mm (3.19 x 1.65 x 0.87 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nExternal 256K colors TFT (128 x 160 pixels)\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "8.4MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nVoice memo\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 820 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:06:10.497Z"
+  },
+  {
+    "sttTong": 8749,
+    "sttHang": 51,
+    "brand": "Pantech",
+    "deviceName": "Pantech PG-6100",
+    "deviceUrl": "https://www.gsmarena.com/pantech_pg_6100-1258.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg6100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pantech-pg6100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 47.5 x 25 mm (3.23 x 1.87 x 0.98 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "176 x 220 pixels"
+      },
+      "memory": {
+        "card_slot": "RS-MMC",
+        "phonebook": "1000 entries, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(64), MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "FM radio",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "browser": "WAP 2.0/xHTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nPredictive text input (iTAP)\nBio-rhythm\nStopwatch\nCalculator\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:14.780Z"
+  },
+  {
+    "sttTong": 8760,
+    "sttHang": 62,
+    "brand": "Pantech",
+    "deviceName": "Pantech GB300",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gb300-887.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "99 x 46 x 18 mm (3.90 x 1.81 x 0.71 in)",
+        "weight": "72 g (2.54 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "size": "1.6 inches, 28 x 30 mm, 8.3 cm2 (~18.1% screen-to-body ratio)",
+        "resolution": "128 x 128 pixels, 1.5 inches, 1:1 ratio (~113 ppi density)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "2MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Smokey, Rabbit Escape",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nVoice memo\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 850 mAh battery",
+        "stand-by": "Up to 145 h",
+        "talk_time": "Up to 3 h 20 min"
+      },
+      "misc": {
+        "colors": "Blue, Silver, Red"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:18.181Z"
+  },
+  {
+    "sttTong": 8762,
+    "sttHang": 64,
+    "brand": "Pantech",
+    "deviceName": "Pantech GB100",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gb100-886.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 42 x 21 mm (3.15 x 1.65 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 65K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "750 KB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 640 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T14:06:18.305Z"
+  },
+  {
+    "sttTong": 8764,
+    "sttHang": 66,
+    "brand": "Pantech",
+    "deviceName": "Pantech G600",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g600-790.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "87.3 x 46.5 x 22 mm (3.44 x 1.83 x 0.87 in)",
+        "weight": "87 g (3.07 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 143 pixels\nExternal 256K colors TFT(96 x 64 pixels)\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Wine Red, European Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:25.275Z"
+  },
+  {
+    "sttTong": 8765,
+    "sttHang": 67,
+    "brand": "Pantech",
+    "deviceName": "Pantech G800",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g800-771.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg800.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg800.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 41 x 22 mm (3.35 x 1.61 x 0.87 in)",
+        "weight": "85 g (3.00 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nExternal 256K colors TFT(128 x 128 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStop watch\nPC-Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 760 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver, White, Deep Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:27.248Z"
+  },
+  {
+    "sttTong": 8766,
+    "sttHang": 68,
+    "brand": "Pantech",
+    "deviceName": "Pantech G700",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g700-770.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg700.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg700.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 42 x 22.8 mm (3.15 x 1.65 x 0.90 in)",
+        "weight": "79 g (2.79 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\n7 colors indicator"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "200",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:34.212Z"
+  },
+  {
+    "sttTong": 8758,
+    "sttHang": 60,
+    "brand": "Pantech",
+    "deviceName": "Pantech GI100",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gi100-806.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgi100.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgi100.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "82 x 40 x 22 mm (3.23 x 1.57 x 0.87 in)",
+        "weight": "82 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nExternal 256K colors TFT (128 x 160 pixels)\nScreensaver\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries, Photo call",
+        "call_records": "20 dialed, 20 received, 20 missed calls",
+        "internal": "13.5MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "sensors": "Fingerprint (front-mounted)",
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes, MIDP 1.0\nPredictive text input\nVoice memo(max 30 sec)\nOrganizer\nStopwatch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "B.Silver, P.Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:41.054Z"
+  },
+  {
+    "sttTong": 8767,
+    "sttHang": 69,
+    "brand": "Pantech",
+    "deviceName": "Pantech G500",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g500-769.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg500.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg500.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 900 / 1900 - Pantech G510",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "85 x 41 x 22 mm (3.35 x 1.61 x 0.87 in)",
+        "weight": "90 g (3.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels, 8 lines\nExternal 256K colors TFT(128 x 128 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500 entries, contact groups, Photo call",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "2.5MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Smokey",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch\nVoice memo\nPC-Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Red, Silver, Pearl White"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:44.518Z"
+  },
+  {
+    "sttTong": 8768,
+    "sttHang": 70,
+    "brand": "Pantech",
+    "deviceName": "Pantech G300",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g300-768.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg300.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg300.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 900 / 1900 - Pantech G310",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "76 x 40 x 23.5 mm (2.99 x 1.57 x 0.93 in)",
+        "weight": "75 g (2.65 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nExternal B&W LCD (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch\nVoice memo\nPC-Sync"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Red, Silver, Light blue, Violet"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:47.018Z"
+  },
+  {
+    "sttTong": 8770,
+    "sttHang": 72,
+    "brand": "Pantech",
+    "deviceName": "Pantech Q80",
+    "deviceUrl": "https://www.gsmarena.com/pantech_q80-766.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthq80.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthq80.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83.5 x 46 x 21 mm (3.29 x 1.81 x 0.83 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 143 pixels\nExternal B&W LCD (96 x 48 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "Yes",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:51.456Z"
+  },
+  {
+    "sttTong": 8763,
+    "sttHang": 65,
+    "brand": "Pantech",
+    "deviceName": "Pantech G900",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g900-791.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg900.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg900.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 40 x 20 mm (3.15 x 1.57 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "resolution": "128 x 160 pixels\nExternal 256K colors TFT (128 x 160 pixels)\nDownloadable logos"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "No\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Orange Yellow, European Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:53.359Z"
+  },
+  {
+    "sttTong": 8769,
+    "sttHang": 71,
+    "brand": "Pantech",
+    "deviceName": "Pantech G200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_g200-767.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthg200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "83.5 x 46 x 20.5 mm (3.29 x 1.81 x 0.81 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nExternal B&W LCD (96 x 48 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(32) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStop watch"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Blue, Silver, Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:06:57.281Z"
+  },
+  {
+    "sttTong": 8761,
+    "sttHang": 63,
+    "brand": "Pantech",
+    "deviceName": "Pantech GB200",
+    "deviceUrl": "https://www.gsmarena.com/pantech_gb200-925.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb200.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/pthgb200.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "80 x 40 x 20 mm (3.15 x 1.57 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external B/W display  (96 x 64 pixels)"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "800 entries",
+        "call_records": "10 dialed, 10 received, 10 missed calls",
+        "internal": "2.8MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(40) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "Yes",
+        "java": "Yes\nPredictive text input\nOrganizer\nStopwatch\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 680 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T14:07:09.199Z"
+  }
+]

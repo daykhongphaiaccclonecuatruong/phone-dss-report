@@ -1,0 +1,585 @@
+[
+  {
+    "sttTong": 1162,
+    "sttHang": 1,
+    "brand": "Benefon",
+    "deviceName": "Benefon TWIG Discovery Pro",
+    "deviceUrl": "https://www.gsmarena.com/benefon_twig_discovery_pro-1915.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benefon-twig-pro.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benefon-twig-pro.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "116 x 51 x 24 mm (4.57 x 2.01 x 0.94 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 12.6 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "40 dialed, 40 received, 40 missed calls",
+        "internal": "10MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "5 - Diamond, Bubble, Tic Tac, Poker, Pushbox",
+        "java": "No\nTelematics features\nPersonal navigation system\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1350 mAh battery",
+        "stand-by": "Up to 210 h",
+        "talk_time": "Up to 9 h"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:51.002Z"
+  },
+  {
+    "sttTong": 1163,
+    "sttHang": 2,
+    "brand": "Benefon",
+    "deviceName": "Benefon TWIG Discovery",
+    "deviceUrl": "https://www.gsmarena.com/benefon_twig_discovery-1792.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/benefon-twig.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/benefon-twig.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 51 x 24 mm (4.57 x 2.01 x 0.94 in)",
+        "weight": "128 g (4.52 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.0 inches, 31.2 x 41.2 mm, 12.6 cm2 (~21.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "phonebook": "Yes",
+        "call_records": "40 dialed, 40 received, 40 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML",
+        "games": "5 - Diamond, Bubble, Tic Tac, Poker, Pushbox",
+        "java": "No\nPersonal navigation system\nOrganizer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:55.639Z"
+  },
+  {
+    "sttTong": 1164,
+    "sttHang": 3,
+    "brand": "Benefon",
+    "deviceName": "Benefon Q",
+    "deviceUrl": "https://www.gsmarena.com/benefon_q-42.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/beqb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/beqb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 46 x 18 mm, 74 cc (3.94 x 1.81 x 0.71 in)",
+        "weight": "89 g (3.14 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "100 x 48 pixels, 6 lines\nElectro-luminescent lighting\nDynamic & user-selectable font size"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "50",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalised ringing melodies\nAscending alert\nSeveral SMS alert tones and tone levels"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, Email",
+        "browser": "WAP 1.1, HTMP(MS)",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "java": "No\nTCP/IP support\nPredictive text input\nOrganizer\nPhone ON/OFF timers"
+      },
+      "battery": {
+        "type": "Lithium ion 650 mAh",
+        "stand-by": "120 h",
+        "talk_time": "5 h 20 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:55.764Z"
+  },
+  {
+    "sttTong": 1167,
+    "sttHang": 6,
+    "brand": "Benefon",
+    "deviceName": "Benefon Twin",
+    "deviceUrl": "https://www.gsmarena.com/benefon_twin-41.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/betwinb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/betwinb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 49 x 27 mm, 115 cc (4.41 x 1.93 x 1.06 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "100 x 48 pixels, 6 lines\nElectro-luminescent lighting\nDynamic & user-selectable font size"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255",
+        "call_records": "15 dialed, 5 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalised ringing melodies\nAscending alert\nSeveral SMS alert tones and tone levels"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Wall breaker, Galactic gunner, Labyrinth",
+        "java": "No\nPredictive text input\nOrganizer\nPhone ON/OFF timers\nUser-changeable display masks"
+      },
+      "battery": {
+        "type": "Lithium ion 1100 mAh",
+        "stand-by": "200 h",
+        "talk_time": "9 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:41:59.285Z"
+  },
+  {
+    "sttTong": 1168,
+    "sttHang": 7,
+    "brand": "Benefon",
+    "deviceName": "Benefon Esc!",
+    "deviceUrl": "https://www.gsmarena.com/benefon_esc!-44.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/beescb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/beescb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 49 x 23 mm, 138 cc (5.08 x 1.93 x 0.91 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "100 x 160 pixels, 20 lines, 16:10 ratio\nElectro-luminescent lighting\nDynamic & user-selectable font size\nMaps"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255",
+        "call_records": "15 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalised ringing melodies\nAscending alert\nSeveral SMS alert tones and tone levels"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "java": "No\nPredictive text input\nOrganizer\nPhone ON/OFF timers"
+      },
+      "battery": {
+        "type": "Lithium ion 1200 mAh",
+        "stand-by": "240 h",
+        "talk_time": "10 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:42:01.968Z"
+  },
+  {
+    "sttTong": 1170,
+    "sttHang": 9,
+    "brand": "Benefon",
+    "deviceName": "Benefon Vega",
+    "deviceUrl": "https://www.gsmarena.com/benefon_vega-46.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bevegab.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bevegab.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 56 x 23 mm (5.71 x 2.20 x 0.91 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "6 lines\nCyrillic characters"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "15 dialed, 12 received, 12 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "3 - 6 days",
+        "talk_time": "4 - 10 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:42:03.616Z"
+  },
+  {
+    "sttTong": 1166,
+    "sttHang": 5,
+    "brand": "Benefon",
+    "deviceName": "Benefon Twin+",
+    "deviceUrl": "https://www.gsmarena.com/benefon_twin+-209.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/betwinb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/betwinb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 49 x 27 mm, 115 cc (4.41 x 1.93 x 1.06 in)",
+        "weight": "105 g (3.70 oz)",
+        "sim": "Dual SIM (Mini-SIM)"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "100 x 48 pixels, 6 lines\nElectro-luminescent lighting\nDynamic & user-selectable font size"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255",
+        "call_records": "15 dialed, 5 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalised ringing melodies\nAscending alert\nSeveral SMS alert tones and tone levels"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "Stereo FM radio, RDS"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3 - Wall breaker, Galactic gunner, Labyrinth",
+        "java": "No\nLocation-based services support\nPredictive text input\nOrganizer\nPhone ON/OFF timers\nUser-changeable display masks"
+      },
+      "battery": {
+        "type": "Lithium ion 1100 mAh",
+        "stand-by": "200 h",
+        "talk_time": "9 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:42:05.456Z"
+  },
+  {
+    "sttTong": 1165,
+    "sttHang": 4,
+    "brand": "Benefon",
+    "deviceName": "Benefon Track",
+    "deviceUrl": "https://www.gsmarena.com/benefon_track-43.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/belocub.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/belocub.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2000",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "129 x 49 x 23 mm, 132 cc (5.08 x 1.93 x 0.91 in)",
+        "weight": "149 g (5.26 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "100 x 48 pixels, 5 lines\nElectro-luminescent lighting\nDynamic & user-selectable font size"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "255",
+        "call_records": "15 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable monophonic ringtones",
+        "35mm_jack": "No\nPersonalised ringing melodies\nAscending alert\nSeveral SMS alert tones and tone levels"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "java": "No\nPredictive text input\nOrganizer\nPhone ON/OFF timers"
+      },
+      "battery": {
+        "type": "Lithium ion 1200 mAh",
+        "stand-by": "240 h",
+        "talk_time": "10 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-05T17:42:06.114Z"
+  },
+  {
+    "sttTong": 1169,
+    "sttHang": 8,
+    "brand": "Benefon",
+    "deviceName": "Benefon iO",
+    "deviceUrl": "https://www.gsmarena.com/benefon_io-45.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/beiob.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/beiob.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 56 x 24 mm (4.80 x 2.20 x 0.94 in)",
+        "weight": "167 g (5.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "6 lines\nDynamic & user-selectable font size\nCyrillic characters"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "15 dialed, 5 received, 5 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "java": "No\nPredictive text input\nOrganizer\nPhone ON/OFF timers\nTemperature indicator"
+      },
+      "battery": {
+        "type": "Removable NiMH 700 mAh battery",
+        "stand-by": "60 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "6"
+      }
+    },
+    "scrapedAt": "2026-09-05T17:42:09.975Z"
+  }
+]

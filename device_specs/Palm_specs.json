@@ -1,0 +1,1256 @@
+[
+  {
+    "sttTong": 8562,
+    "sttHang": 4,
+    "brand": "Palm",
+    "deviceName": "Palm Pixi Plus",
+    "deviceUrl": "https://www.gsmarena.com/palm_pixi_plus-3250.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pixi-plus-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pixi-plus-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nHSDPA 850 / 1900 - for AT&T",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 55 x 10.9 mm (4.37 x 2.17 x 0.43 in)",
+        "weight": "92.5 g (3.25 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.63 inches, 21.8 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "320 x 400 pixels (~195 ppi density)"
+      },
+      "platform": {
+        "os": "Palm webOS",
+        "chipset": "Qualcomm MSM7627",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "WAP 2.0 / HTML\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 5 h 30 min (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:04.104Z"
+  },
+  {
+    "sttTong": 8559,
+    "sttHang": 1,
+    "brand": "Palm",
+    "deviceName": "Palm Phone PVG100",
+    "deviceUrl": "https://www.gsmarena.com/palm_phone_pvg100-9290.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pepito1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pepito1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "2, 4, 5, 12, 13, 17, 66",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2018, October. Released 2018, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "96.6 x 50.6 x 7.4 mm (3.80 x 1.99 x 0.29 in)",
+        "weight": "62.5 g (2.22 oz)",
+        "build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame",
+        "sim": "Nano-SIM\nIP68 dust tight and water resistant (immersible up to 1m for 30 min)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "3.3 inches, 30.0 cm2 (~61.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~445 ppi density)",
+        "protection": "Corning Gorilla Glass 3"
+      },
+      "platform": {
+        "os": "Android 8.1 (Oreo)",
+        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
+        "cpu": "Octa-core (4x1.4 GHz & 4x1.1 GHz)",
+        "gpu": "Adreno 505"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB 3GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, AF",
+        "features": "LED flash, HDR",
+        "video": "720p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "720p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "bluetooth": "4.2, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Infrared Face ID, accelerometer, proximity, gyro, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 800 mAh, non-removable",
+        "charging": "Wired, 50% in 31 min, 100% in 68 min"
+      },
+      "misc": {
+        "colors": "Gold, Titanium",
+        "models": "PVG100, PVG100E",
+        "sar_eu": "0.98 W/kg (head)",
+        "price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:08.863Z"
+  },
+  {
+    "sttTong": 8564,
+    "sttHang": 6,
+    "brand": "Palm",
+    "deviceName": "Palm Pixi",
+    "deviceUrl": "https://www.gsmarena.com/palm_pixi-2937.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pixi.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pixi.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 55 x 10.9 mm (4.37 x 2.17 x 0.43 in)",
+        "weight": "99.5 g (3.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "size": "2.63 inches, 21.8 cm2 (~35.7% screen-to-body ratio)",
+        "resolution": "320 x 400 pixels (~195 ppi density)"
+      },
+      "platform": {
+        "os": "Palm webOS",
+        "chipset": "Qualcomm MSM7627",
+        "cpu": "600 MHz ARM 11",
+        "gpu": "Adreno 200"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "WAP 2.0 / HTML\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "1.56 W/kg (head)     0.63 W/kg (body)",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:09.811Z"
+  },
+  {
+    "sttTong": 8563,
+    "sttHang": 5,
+    "brand": "Palm",
+    "deviceName": "Palm Pre Plus",
+    "deviceUrl": "https://www.gsmarena.com/palm_pre_plus-3249.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-plus-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-plus-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 2100\nHSDPA 850 / 1900 - for AT&T",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2010, March. Released 2010, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100.5 x 59.5 x 16.9 mm (3.96 x 2.34 x 0.67 in)",
+        "weight": "138 g (4.87 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.1 inches, 28.6 cm2 (~47.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~186 ppi density)"
+      },
+      "platform": {
+        "os": "Palm webOS 1.3.5",
+        "cpu": "600 MHz Cortex-A8",
+        "gpu": "PowerVR SGX"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0 / HTML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "charging": "Wireless",
+        "stand-by": "Up to 350 h (2G) / - (3G)",
+        "talk_time": "Up to 4 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:11.916Z"
+  },
+  {
+    "sttTong": 8566,
+    "sttHang": 8,
+    "brand": "Palm",
+    "deviceName": "Palm Treo Pro",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_pro-2494.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2008, August. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114 x 60 x 13.4 mm (4.49 x 2.36 x 0.53 in)",
+        "weight": "133 g (4.69 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 20.2 cm2 (~29.5% screen-to-body ratio)",
+        "resolution": "320 x 320 pixels, 1:1 ratio (~181 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "chipset": "Qualcomm MSM7201",
+        "cpu": "528 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "100MB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (PocketIE)\nOrganizer\nPocket Office \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5  h"
+      },
+      "misc": {
+        "colors": "Obsidian",
+        "sar": "0.60 W/kg (head)     0.87 W/kg (body)",
+        "sar_eu": "0.75 W/kg (head)     0.53 W/kg (body)",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:15.235Z"
+  },
+  {
+    "sttTong": 8568,
+    "sttHang": 10,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 500v",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_500v-2100.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo500v.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo500v.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, September. Released 2008, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "110 x 61.5 x 16.5 mm (4.33 x 2.42 x 0.65 in)",
+        "weight": "120 g (4.23 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~26.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Standard Edition",
+        "cpu": "32-bit Intel XScale PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "150MB"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (PocketIE)\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nPocket Office \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, White",
+        "sar_eu": "0.89 W/kg (head)",
+        "price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:20.684Z"
+  },
+  {
+    "sttTong": 8565,
+    "sttHang": 7,
+    "brand": "Palm",
+    "deviceName": "Palm Pre",
+    "deviceUrl": "https://www.gsmarena.com/palm_pre-2726.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, Februray. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100.5 x 59.5 x 16.9 mm (3.96 x 2.34 x 0.67 in)",
+        "weight": "133 g (4.69 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.1 inches, 28.6 cm2 (~47.9% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~186 ppi density)"
+      },
+      "platform": {
+        "os": "Palm webOS",
+        "cpu": "600 MHz Cortex-A8",
+        "gpu": "PowerVR SGX"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "8GB 256MB RAM"
+      },
+      "main_camera": {
+        "single": "3.15 MP",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP (headset support only)",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "browser": "WAP 2.0 / HTML"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "charging": "Wireless",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.92 W/kg (head)     0.94 W/kg (body)",
+        "price": "About 180 EUR"
+      },
+      "our_tests": {
+        "camera": "Photo",
+        "loudspeaker": "Voice 71dB / Noise 68dB / Ring 80dB",
+        "audio_quality": "Noise -95.7dB / Crosstalk -53.9dB"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:25.630Z"
+  },
+  {
+    "sttTong": 8569,
+    "sttHang": 11,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 750",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_750-1909.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo750.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo750.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 58 x 22 mm (4.37 x 2.28 x 0.87 in)",
+        "weight": "154 g (5.43 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 20.2 cm2 (~31.3% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~136 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "300 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "miniSD, up to 2 GB",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (PocketIE)\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nPocket Office \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar": "0.59 W/kg (head)     0.15 W/kg (body)",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:31.554Z"
+  },
+  {
+    "sttTong": 8571,
+    "sttHang": 13,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 750v",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_750v-1704.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo750v.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo750v.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 58 x 22 mm (4.37 x 2.28 x 0.87 in)",
+        "weight": "154 g (5.43 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 20.2 cm2 (~31.3% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~136 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "300 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "miniSD, up to 2 GB",
+        "internal": "60MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (PocketIE)\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nPocket Office \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:38.631Z"
+  },
+  {
+    "sttTong": 8567,
+    "sttHang": 9,
+    "brand": "Palm",
+    "deviceName": "Palm Centro",
+    "deviceUrl": "https://www.gsmarena.com/palm_centro-2241.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-centro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-centro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2008, February. Released 2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.2 x 53.5 x 18.6 mm (4.22 x 2.11 x 0.73 in)",
+        "weight": "124 g (4.37 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.25 inches, 16.3 cm2 (~28.5% screen-to-body ratio)",
+        "resolution": "320 x 320 pixels, 1:1 ratio (~201 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Palm OS 5.4.9",
+        "cpu": "32-bit Intel XScale PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (Blazer 4.5)\nDocument editor (Word, Excel, Powerpoint, PDF)\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1150 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Obsidian, Glacier, Midnight, Cobalt, Onyx, Electric Blue, Rose, Olive",
+        "sar": "0.27 W/kg (head)     0.22 W/kg (body)",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:43.109Z"
+  },
+  {
+    "sttTong": 8561,
+    "sttHang": 3,
+    "brand": "Palm",
+    "deviceName": "Palm Pre 2 CDMA",
+    "deviceUrl": "https://www.gsmarena.com/palm_pre_2_cdma-3589.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-2-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-2-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "CDMA / EVDO",
+        "2g_bands": "CDMA 800 / 1900",
+        "3g_bands": "CDMA2000 1xEV-DO",
+        "speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100.7 x 59.6 x 16.9 mm (3.96 x 2.35 x 0.67 in)",
+        "weight": "145 g (5.11 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.1 inches, 28.6 cm2 (~47.7% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~186 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "HP webOS 2.0",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash\nMP3/WAV/eAAC+ player\nMP4/H.264 player\nOrganizer\nDocument viewer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 210 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:44.220Z"
+  },
+  {
+    "sttTong": 8560,
+    "sttHang": 2,
+    "brand": "Palm",
+    "deviceName": "Palm Pre 2",
+    "deviceUrl": "https://www.gsmarena.com/palm_pre_2-3559.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-2-ofic.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-pre-2-ofic.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900\nHSDPA 900 / 2100",
+        "speed": "HSPA 7.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100.7 x 59.6 x 16.9 mm (3.96 x 2.35 x 0.67 in)",
+        "weight": "145 g (5.11 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT",
+        "size": "3.1 inches, 28.6 cm2 (~47.7% screen-to-body ratio)",
+        "resolution": "320 x 480 pixels, 3:2 ratio (~186 ppi density)",
+        "protection": "Corning Gorilla Glass"
+      },
+      "platform": {
+        "os": "HP webOS 2.0",
+        "cpu": "1.0 GHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16GB 512MB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP, EDR",
+        "positioning": "GPS, A-GPS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity",
+        "browser": "HTML, Adobe Flash"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "charging": "Wireless",
+        "stand-by": "Up to 350 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:46.519Z"
+  },
+  {
+    "sttTong": 8573,
+    "sttHang": 15,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 600",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_600-622.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst600.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst600.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 60 x 22 mm (4.41 x 2.36 x 0.87 in)",
+        "weight": "168 g (5.93 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN resistive touchscreen, 4096 colors",
+        "size": "2.5 inches, 20.2 cm2 (~30.0% screen-to-body ratio)",
+        "resolution": "160 x 160 pixels, 1:1 ratio (~91 ppi density)\nFive-way navigation button"
+      },
+      "platform": {
+        "os": "Palm 5.2.1H",
+        "chipset": "TI OMAP 1510",
+        "cpu": "144 MHz ARM925T"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, up to 2 GB",
+        "internal": "32MB\n24 MB available"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Blazer)",
+        "languages": "English, French, German, Italian, Spanish\n144 MHz ARM Processor\nOrganizer\nAdvanced calculator\nHandsfree ear-bud headset included"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 240 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {
+        "colors": "2 - Silver, Carbon"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:50.246Z"
+  },
+  {
+    "sttTong": 8572,
+    "sttHang": 14,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 650",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_650-907.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst650.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst650.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 59 x 23 mm (4.45 x 2.32 x 0.91 in)",
+        "weight": "178 g (6.28 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 44 x 44 mm, 18.6 cm2 (~27.9% screen-to-body ratio)",
+        "resolution": "320 x 320 pixels, 1:1 ratio (~189 ppi density)\nFive-way navigation button"
+      },
+      "platform": {
+        "os": "Palm 5.4",
+        "cpu": "Intel PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "SD/SDIO/MMC, up to 2 GB",
+        "internal": "23MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\nRingtones can be assigned to contacts"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML\nMP3 player\nOrganizer\nWorld Clock"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T13:49:50.994Z"
+  },
+  {
+    "sttTong": 8575,
+    "sttHang": 17,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 180",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_180-623.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst180.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst180.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 900 / 1900 - US version",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2002",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in)",
+        "weight": "147 g (5.19 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome resistive touchscreen, 16 shades",
+        "resolution": "160 x 160 pixels, 1:1 ratio"
+      },
+      "platform": {
+        "os": "Palm 3.5.2H",
+        "cpu": "Motorola DragonBall VZ MC68VZ328 33MHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Blazer 2.0)\n33 MHz Motorola Dragonball Processor\nOrganizer\nAdvanced calculator\nGPRS upgradable\nHandsfree ear-bud headset included"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 2 h 30 min"
+      },
+      "misc": {
+        "colors": "Steel Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:49:55.920Z"
+  },
+  {
+    "sttTong": 8574,
+    "sttHang": 16,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 270",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_270-621.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst270.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/hst270.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800\nGSM 900 / 1900 - US version",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in)",
+        "weight": "153 g (5.40 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN resistive touchscreen, 4096 colors",
+        "resolution": "160 x 160 pixels, 1:1 ratio"
+      },
+      "platform": {
+        "os": "Palm 3.5.2H4",
+        "cpu": "Motorola DragonBall VZ MC68VZ328 33MHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "16MB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (Blazer 2.1)\n33 MHz Motorola Dragonball Processor\nOrganizer\nAdvanced calculator\nGPRS upgradable\nHandsfree ear-bud headset included"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Steel Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:50:00.191Z"
+  },
+  {
+    "sttTong": 8570,
+    "sttHang": 12,
+    "brand": "Palm",
+    "deviceName": "Palm Treo 680",
+    "deviceUrl": "https://www.gsmarena.com/palm_treo_680-1741.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo680.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/palm-treo680.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111.8 x 58.4 x 20.3 mm (4.40 x 2.30 x 0.80 in)",
+        "weight": "157 g (5.54 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 20.2 cm2 (~30.9% screen-to-body ratio)",
+        "resolution": "320 x 320 pixels, 1:1 ratio (~181 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Palm OS 5.4.9",
+        "cpu": "Intel PXA270 312 MHz"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, up to 4 GB",
+        "internal": "64MB"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0 / HTML (Blazer 4.5)\nDocument editor (Word, Excel, PowerPoint, PDF)\nMP3 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Graphite, Crimson, Arctic, Copper",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T13:50:27.503Z"
+  }
+]

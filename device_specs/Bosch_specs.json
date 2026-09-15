@@ -1,0 +1,639 @@
+[
+  {
+    "sttTong": 1894,
+    "sttHang": 1,
+    "brand": "Bosch",
+    "deviceName": "Bosch 909 Dual S",
+    "deviceUrl": "https://www.gsmarena.com/bosch_909_dual_s-183.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc909sb.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc909sb.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 50 x 17 mm (4.80 x 1.97 x 0.67 in)",
+        "weight": "109 g (3.84 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "96 x 32 pixels, 4 x 16 chars\nDynamic font size\nSoft keys\nBlue LCD"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator\nIntegrated PCMCIA"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "180 h",
+        "talk_time": "5 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:32.385Z"
+  },
+  {
+    "sttTong": 1896,
+    "sttHang": 3,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 908",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_908-141.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc908b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc908b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1998",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 50 x 17 mm (4.41 x 1.97 x 0.67 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator\nIntegrated PCMCIA"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "70 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:33.776Z"
+  },
+  {
+    "sttTong": 1897,
+    "sttHang": 4,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 509",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_509-140.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc509b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc509b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 53 x 23 mm (5.28 x 2.09 x 0.91 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH battery",
+        "stand-by": "87 h",
+        "talk_time": "4 h"
+      },
+      "misc": {
+        "colors": "Several, half transparent"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:36.916Z"
+  },
+  {
+    "sttTong": 1898,
+    "sttHang": 5,
+    "brand": "Bosch",
+    "deviceName": "Bosch World 718",
+    "deviceUrl": "https://www.gsmarena.com/bosch_world_718-139.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/bow718b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/bow718b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 53 x 18 mm (5.59 x 2.09 x 0.71 in)",
+        "weight": "189 g (6.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "70 h",
+        "talk_time": "200 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:37.444Z"
+  },
+  {
+    "sttTong": 1895,
+    "sttHang": 2,
+    "brand": "Bosch",
+    "deviceName": "Bosch 909 Dual",
+    "deviceUrl": "https://www.gsmarena.com/bosch_909_dual-142.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc909b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc909b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 50 x 17 mm (4.41 x 1.97 x 0.67 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No\nCalculator\nIntegrated PCMCIA"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "70 h",
+        "talk_time": "3 h"
+      },
+      "misc": {
+        "colors": "3"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:32:38.236Z"
+  },
+  {
+    "sttTong": 1899,
+    "sttHang": 6,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 738",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_738-138.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc738b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc738b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 53 x 18 mm (5.59 x 2.09 x 0.71 in)",
+        "weight": "189 g (6.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "70 h",
+        "talk_time": "200 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:38.394Z"
+  },
+  {
+    "sttTong": 1901,
+    "sttHang": 8,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 608",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_608-136.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc608b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc608b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1999",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 53 x 24 mm (5.28 x 2.09 x 0.94 in)",
+        "weight": "169 g (5.96 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "50 h",
+        "talk_time": "130 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:41.503Z"
+  },
+  {
+    "sttTong": 1900,
+    "sttHang": 7,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 906",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_906-137.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc906b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc906b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1996",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "144 x 57 x 19 mm (5.67 x 2.24 x 0.75 in)",
+        "weight": "145 g (5.11 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "3 x 15 chars\nFixed icons"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 500 mAh battery",
+        "stand-by": "30 h",
+        "talk_time": "75 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:42.649Z"
+  },
+  {
+    "sttTong": 1902,
+    "sttHang": 9,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 607",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_607-135.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc607b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc607b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "134 x 53 x 17 mm (5.28 x 2.09 x 0.67 in)",
+        "weight": "189 g (6.67 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Monochrome graphic",
+        "resolution": "4 x 16 chars\nDynamic font size\nSoft keys"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only",
+        "call_records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No\nCalculator"
+      },
+      "battery": {
+        "type": "Removable NiMH 550 mAh battery",
+        "stand-by": "80 h",
+        "talk_time": "3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:43.006Z"
+  },
+  {
+    "sttTong": 1903,
+    "sttHang": 10,
+    "brand": "Bosch",
+    "deviceName": "Bosch Com 207",
+    "deviceUrl": "https://www.gsmarena.com/bosch_com_207-134.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc207b.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/boc207b.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "1997",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "147 x 56 x 23 mm (5.79 x 2.20 x 0.91 in)",
+        "weight": "179 g (6.31 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "Alphanumeric",
+        "resolution": "1 x 10 chars"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "SIM only"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "No",
+        "alarm": "No",
+        "games": "No",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable NiMH 600 mAh battery",
+        "stand-by": "85 h",
+        "talk_time": "2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:32:43.967Z"
+  }
+]

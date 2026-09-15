@@ -1,0 +1,14 @@
+{
+  "auditedAt": "2026-09-07T06:22:20.102Z",
+  "totalExpectedInCsv": 14815,
+  "validCompleteCount": 14815,
+  "totalNeedRefetch": 0,
+  "summary": {
+    "missingCount": 0,
+    "emptySpecsCount": 0,
+    "incompleteDataCount": 0
+  },
+  "missingDevices": [],
+  "emptySpecsDevices": [],
+  "incompleteDataDevices": []
+}

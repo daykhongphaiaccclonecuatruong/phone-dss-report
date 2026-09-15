@@ -1,0 +1,208 @@
+[
+  {
+    "sttTong": 7155,
+    "sttHang": 1,
+    "brand": "Neonode",
+    "deviceName": "Neonode N2",
+    "deviceUrl": "https://www.gsmarena.com/neonode_n2-1903.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/neonode-n2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/neonode-n2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "77 x 47 x 14.7 mm (3.03 x 1.85 x 0.58 in)",
+        "weight": "70 g (2.47 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.0 inches, 12.6 cm2 (~34.8% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "memory": {
+        "card_slot": "miniSD, 1 GB included",
+        "phonebook": "Yes, Photo call"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "No\nMP3/WMA/MPEG/WMV player\nCalculator\nTask manager\nStereo sound in headphones"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 410 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T06:02:52.390Z"
+  },
+  {
+    "sttTong": 7156,
+    "sttHang": 2,
+    "brand": "Neonode",
+    "deviceName": "Neonode N1m",
+    "deviceUrl": "https://www.gsmarena.com/neonode_n1m-1137.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/neonode-n1m.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/neonode-n1m.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 52 x 21 mm (3.46 x 2.05 x 0.83 in)",
+        "weight": "94 g (3.32 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~33.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n4-way navigation buttons"
+      },
+      "platform": {
+        "os": "Microsoft Windows CE.NET"
+      },
+      "memory": {
+        "card_slot": "SD, up to 1 GB, 64 MB included"
+      },
+      "main_camera": {
+        "single": "1 MP",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack\nHiFi stereo 48 kHz playback"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPredictive text input\nCalculator\nTask manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 100 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:02:54.879Z"
+  },
+  {
+    "sttTong": 7157,
+    "sttHang": 3,
+    "brand": "Neonode",
+    "deviceName": "Neonode N1",
+    "deviceUrl": "https://www.gsmarena.com/neonode_n1-391.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/nnn1.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nnn1.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "88 x 52 x 21 mm (3.46 x 2.05 x 0.83 in)",
+        "weight": "86 g (3.03 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~33.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\n262K colors in picture view mode\n4-way navigation buttons"
+      },
+      "platform": {
+        "os": "Microsoft Windows CE.NET"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, up to 1 GB, 64 MB included",
+        "internal": "16MB RAM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Monophonic ringtones",
+        "35mm_jack": "No\nStereo headset"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "2.0, OTG"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (IE 5.5)",
+        "clock": "Yes",
+        "alarm": "Yes\nWin MediaPlayer 7.x\nTV remote control function\nMusic player/recorder"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T06:03:12.505Z"
+  }
+]

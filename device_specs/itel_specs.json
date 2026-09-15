@@ -1,0 +1,4836 @@
+[
+  {
+    "sttTong": 4569,
+    "sttHang": 2,
+    "brand": "itel",
+    "deviceName": "itel City 200s",
+    "deviceUrl": "https://www.gsmarena.com/itel_city_200s-14815.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-200s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-200s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, June",
+        "status": "Available. Released 2026, June"
+      },
+      "body": {
+        "dimensions": "167.6 x 78.6 x 7.5 mm (6.60 x 3.09 x 0.30 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.8m"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 700 nits (HBM)",
+        "size": "6.78 inches, 112.1 cm2 (~85.1% screen-to-body ratio)",
+        "resolution": "720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5200 mAh",
+        "charging": "18W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Evo Titanium, Neo Blue, Nova Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:21.385Z"
+  },
+  {
+    "sttTong": 4570,
+    "sttHang": 3,
+    "brand": "itel",
+    "deviceName": "itel Power 80",
+    "deviceUrl": "https://www.gsmarena.com/itel_power_80-14814.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power80.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power80.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, June 09",
+        "status": "Available. Released 2026, June"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.78 inches, 112.1 cm2",
+        "resolution": "720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 16, itel OS 16",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "7000 mAh",
+        "charging": "18W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Black, Green, Orange"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:21.934Z"
+  },
+  {
+    "sttTong": 4571,
+    "sttHang": 4,
+    "brand": "itel",
+    "deviceName": "itel A100 Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_a100_pro-14678.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, May 20",
+        "status": "Available. Released 2026, May 20"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.56 inches, 103.4 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Comet Orange, Natural Black, Cloud White",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:24.817Z"
+  },
+  {
+    "sttTong": 4572,
+    "sttHang": 5,
+    "brand": "itel",
+    "deviceName": "itel Zeno 100",
+    "deviceUrl": "https://www.gsmarena.com/itel_zeno_100-14533.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, March 06",
+        "status": "Available. Released 2026, March 06"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Pure Black, Titanium Gold, Silk Green",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:27.191Z"
+  },
+  {
+    "sttTong": 4573,
+    "sttHang": 6,
+    "brand": "itel",
+    "deviceName": "itel A200+",
+    "deviceUrl": "https://www.gsmarena.com/itel_a200+-14477.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a200-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a200-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, February",
+        "status": "Available. Released 2026, February"
+      },
+      "body": {
+        "dimensions": "8.3 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.8m"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.75 inches, 110.0 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15.1",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM, 128GB 3GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Unspecified"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Comet Orange, Nightly Blue, Meteor Titanium, Aura White"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:27.891Z"
+  },
+  {
+    "sttTong": 4568,
+    "sttHang": 1,
+    "brand": "itel",
+    "deviceName": "itel A100Cs",
+    "deviceUrl": "https://www.gsmarena.com/itel_a100cs-14816.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100cs.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100cs.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, June",
+        "status": "Available. Released 2026, June"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh"
+      },
+      "misc": {
+        "colors": "Cloud White, Natural Black, Lake Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:28.649Z"
+  },
+  {
+    "sttTong": 4574,
+    "sttHang": 7,
+    "brand": "itel",
+    "deviceName": "itel A200",
+    "deviceUrl": "https://www.gsmarena.com/itel_a200-14478.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a200.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a200.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, February",
+        "status": "Available. Released 2026, February"
+      },
+      "body": {
+        "dimensions": "8.3 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.8m"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.75 inches, 110.0 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15.1",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM, 128GB 3GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Unspecified"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Comet Orange, Nightly Blue, Meteor Titanium, Nebula Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:30.281Z"
+  },
+  {
+    "sttTong": 4576,
+    "sttHang": 9,
+    "brand": "itel",
+    "deviceName": "itel Zeno 20 Max",
+    "deviceUrl": "https://www.gsmarena.com/itel_zeno_20_max-14374.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno-20-max.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno-20-max.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, December 21",
+        "status": "Available. Released 2025, December 21"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 1500 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition), itel OS 14",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Starlit Black, Space Titanium, Aurora Blue",
+        "sar": "0.82 W/kg (head)     0.46 W/kg (body)",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:32.445Z"
+  },
+  {
+    "sttTong": 4577,
+    "sttHang": 10,
+    "brand": "itel",
+    "deviceName": "itel VistaTab 10 mini",
+    "deviceUrl": "https://www.gsmarena.com/itel_vistatab_10_mini-14355.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-10-mini.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-10-mini.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2025, September 19",
+        "status": "Available. Released 2025, September"
+      },
+      "body": {
+        "dimensions": "9.6 mm thickness",
+        "weight": "-",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD, 400 nits",
+        "size": "8.0 inches, 185.6 cm2",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Mediatek MT8768 (12 nm)",
+        "cpu": "Octa-core"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {},
+      "battery": {
+        "type": "5100 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Gray"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:33.065Z"
+  },
+  {
+    "sttTong": 4578,
+    "sttHang": 11,
+    "brand": "itel",
+    "deviceName": "itel VistaTab 30GT",
+    "deviceUrl": "https://www.gsmarena.com/itel_vistatab_30gt-14352.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30gt.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30gt.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 19",
+        "status": "Available. Released 2025, September"
+      },
+      "body": {
+        "dimensions": "7 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 450 nits",
+        "size": "11.0 inches, 11, 350.9 cm2",
+        "resolution": "1200 x 1920 pixels*, 16:10 ratio (~206 ppi density)\n* speculative display resolution"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "7000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:33.711Z"
+  },
+  {
+    "sttTong": 4579,
+    "sttHang": 12,
+    "brand": "itel",
+    "deviceName": "itel VistaTab 30 Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_vistatab_30_pro-14350.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, March 05",
+        "status": "Available. Released 2025, March 05"
+      },
+      "body": {
+        "dimensions": "7 mm thickness",
+        "weight": "689.3 g (1.52 lb)",
+        "sim": "Nano-SIM + Nano-SIM\nStylus support"
+      },
+      "display": {
+        "type": "IPS LCD, 450 nits",
+        "size": "13.2 inches, 505.2 cm2",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~172 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "256GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, magnetic accessory connector pins"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "10000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:36.181Z"
+  },
+  {
+    "sttTong": 4580,
+    "sttHang": 13,
+    "brand": "itel",
+    "deviceName": "itel TS Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_ts_pro-14223.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-ts-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-ts-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, October",
+        "status": "Available. Released 2025, October"
+      },
+      "body": {
+        "dimensions": "165 x 76.7 x 9 mm (6.50 x 3.02 x 0.35 in)",
+        "weight": "188 g (6.63 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~81.1% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "4000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "V651L",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:37.691Z"
+  },
+  {
+    "sttTong": 4581,
+    "sttHang": 14,
+    "brand": "itel",
+    "deviceName": "itel A100C",
+    "deviceUrl": "https://www.gsmarena.com/itel_a100c-14212.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, October 06",
+        "status": "Available. Released 2025, October"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 400 nits",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh"
+      },
+      "misc": {
+        "colors": "Pure Black, Titanium Gold, Blaze Blue, Silk Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:38.820Z"
+  },
+  {
+    "sttTong": 4575,
+    "sttHang": 8,
+    "brand": "itel",
+    "deviceName": "itel City 200",
+    "deviceUrl": "https://www.gsmarena.com/itel_city_200-14479.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-200-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-200-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2026, February",
+        "status": "Available. Released 2026, February"
+      },
+      "body": {
+        "dimensions": "167.6 x 78.6 x 7.5 mm (6.60 x 3.09 x 0.30 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.5m"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 700 nits (HBM)",
+        "size": "6.78 inches, 112.1 cm2 (~85.1% screen-to-body ratio)",
+        "resolution": "720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5200 mAh",
+        "charging": "18W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Bass Black, Echo Silver, Vibe Purple, Melody Pink"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:40.967Z"
+  },
+  {
+    "sttTong": 4583,
+    "sttHang": 16,
+    "brand": "itel",
+    "deviceName": "itel A95",
+    "deviceUrl": "https://www.gsmarena.com/itel_a95_5g-14210.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a95-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a95-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "5g_bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, April 17",
+        "status": "Available. Released 2025, April"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.67 inches, 106.9 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~265 ppi density)",
+        "protection": "Panda Glass"
+      },
+      "platform": {
+        "os": "Android 14, itel OS 14",
+        "chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Calx Titanium, Black, Green",
+        "sar": "1.12 W/kg (head)     0.79 W/kg (body)",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:42.181Z"
+  },
+  {
+    "sttTong": 4584,
+    "sttHang": 17,
+    "brand": "itel",
+    "deviceName": "itel A90 Limited",
+    "deviceUrl": "https://www.gsmarena.com/itel_a90_limited-14209.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a90-limited.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a90-limited.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 02",
+        "status": "Available. Released 2025, October"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 1500 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition), itel OS 14",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "Li-Ion 5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Starlit Black, Space Titanium, Aurora Blue",
+        "sar": "0.82 W/kg (head)     0.46 W/kg (body)",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:42.680Z"
+  },
+  {
+    "sttTong": 4582,
+    "sttHang": 15,
+    "brand": "itel",
+    "deviceName": "itel A100",
+    "deviceUrl": "https://www.gsmarena.com/itel_a100-14211.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 25",
+        "status": "Available. Released 2025, October"
+      },
+      "body": {
+        "dimensions": "8.1 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 700 nits",
+        "size": "6.75 inches, 110.0 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 15 (Go edition), itel OS 15",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 3GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Fresh Green, Star Titanium, Shadow Titanium"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:43.391Z"
+  },
+  {
+    "sttTong": 4585,
+    "sttHang": 18,
+    "brand": "itel",
+    "deviceName": "itel Super 26 Ultra",
+    "deviceUrl": "https://www.gsmarena.com/itel_super_26_ultra-14128.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-super-26-ultra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-super-26-ultra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, September 05",
+        "status": "Available. Released 2025, September 15"
+      },
+      "body": {
+        "dimensions": "6.8 mm thickness",
+        "weight": "168 g (5.93 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP65 dust tight and water resistant (low pressure water jets)\nDrop resistant up to 1.5m"
+      },
+      "display": {
+        "type": "AMOLED, 1B colors, 144Hz, PWM, HDR, 4500 nits (peak)",
+        "size": "6.8 inches, 110.5 cm2",
+        "resolution": "1080 x 2436 pixels (~392 ppi density)",
+        "protection": "Corning Gorilla Glass 7i"
+      },
+      "platform": {
+        "os": "Android 15, itel OS 15",
+        "chipset": "Unisoc T7300 (6 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP2"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "128GB 8GB RAM, 256GB 8GB RAM\nUFS"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.6, (wide), AF\nXX MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (under display, optical), unspecified sensors"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Silver, Blue, Gold, Silver/Gold"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:44.214Z"
+  },
+  {
+    "sttTong": 4587,
+    "sttHang": 20,
+    "brand": "itel",
+    "deviceName": "itel City 100",
+    "deviceUrl": "https://www.gsmarena.com/itel_city_100-13853.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-100.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-city-100.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, April 27",
+        "status": "Available. Released 2025, April 27"
+      },
+      "body": {
+        "dimensions": "167.7 x 77.5 x 7.7 mm (6.60 x 3.05 x 0.30 in)",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 700 nits (HBM)",
+        "size": "6.75 inches, 110.0 cm2 (~84.6% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, Pure 14.5 OS",
+        "chipset": "Unisoc T7250 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 4GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5200 mAh",
+        "charging": "18W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Navy Blue, Pure Titanium, Fairy Purple",
+        "models": "C671L",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:47.450Z"
+  },
+  {
+    "sttTong": 4588,
+    "sttHang": 21,
+    "brand": "itel",
+    "deviceName": "itel A90",
+    "deviceUrl": "https://www.gsmarena.com/itel_a90-13852.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a90.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a90.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, April 20",
+        "status": "Available. Released 2025, April"
+      },
+      "body": {
+        "dimensions": "8.6 mm thickness",
+        "weight": "187 g (6.60 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 1500 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, itel OS 14",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 256GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP, AF\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Starlit Black, Space Titanium, Aurora Blue, Cosmic Green",
+        "models": "A6610L",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:48.644Z"
+  },
+  {
+    "sttTong": 4589,
+    "sttHang": 22,
+    "brand": "itel",
+    "deviceName": "itel Power 70",
+    "deviceUrl": "https://www.gsmarena.com/itel_power_70-13684.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power70.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, March 02",
+        "status": "Available. Released 2025, March"
+      },
+      "body": {
+        "dimensions": "7.9 mm thickness",
+        "weight": "192.4 g (6.81 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 700 nits",
+        "size": "6.67 inches, 107.4 cm2 (~83.8% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, itel OS 14",
+        "chipset": "Mediatek Helio G50 Ultimate",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "gpu": "PowerVR GE8320"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity\nThe battery case is included in the retail package"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired\nReverse wired"
+      },
+      "misc": {
+        "colors": "Black, Marine, Bronze, Silver",
+        "models": "P673L",
+        "price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:49.020Z"
+  },
+  {
+    "sttTong": 4590,
+    "sttHang": 23,
+    "brand": "itel",
+    "deviceName": "itel Zeno 10",
+    "deviceUrl": "https://www.gsmarena.com/itel_zeno_10-13618.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno10.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno10.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, January 02",
+        "status": "Available. Released 2025, January 10"
+      },
+      "body": {
+        "dimensions": "164 x 76 x 9 mm (6.46 x 2.99 x 0.35 in)",
+        "weight": "186 g (6.56 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2 (~84.0% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP\nauxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Opal purple, Phantom crystal",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:49.856Z"
+  },
+  {
+    "sttTong": 4591,
+    "sttHang": 24,
+    "brand": "itel",
+    "deviceName": "itel S25 Ultra",
+    "deviceUrl": "https://www.gsmarena.com/itel_s25_ultra-13504.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s25-ultra.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s25-ultra.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, November 09",
+        "status": "Available. Released 2024, November"
+      },
+      "body": {
+        "dimensions": "6.9 mm thickness",
+        "weight": "163 g (5.75 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP64 dust tight and water resistant (water splashes)\nRGB ring notifications light (on the back)"
+      },
+      "display": {
+        "type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 1000 nits (HBM), 1400 nits (peak)",
+        "size": "6.78 inches, 109.9 cm2",
+        "resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "protection": "Corning Gorilla Glass 7i"
+      },
+      "platform": {
+        "os": "Android 14, up to 2 major OS updates, itel OS 14.5",
+        "chipset": "Unisoc T620 (12 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A75 & 6xX.X GHz Cortex-A55)"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.6, (wide), AF\nXX MP (macro)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.2, 22mm (wide)",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (under display, optical), unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired, bypass charging"
+      },
+      "misc": {
+        "colors": "Bromo Black, Meteor Titanium, Komodo Ocean",
+        "models": "S686LN",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:53.194Z"
+  },
+  {
+    "sttTong": 4592,
+    "sttHang": 25,
+    "brand": "itel",
+    "deviceName": "itel S25",
+    "deviceUrl": "https://www.gsmarena.com/itel_s25-13505.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s25.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s25.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, November 09",
+        "status": "Available. Released 2024, November"
+      },
+      "body": {
+        "dimensions": "7.3 mm thickness",
+        "weight": "185 g (6.53 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "AMOLED, 1B colors, 120Hz, 1200 nits (HBM), 1800 nits (peak)",
+        "size": "6.78 inches, 109.9 cm2",
+        "resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, up to 2 major OS updates, itel OS 14.5",
+        "chipset": "Unisoc T620 (12 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A75 & 6xX.X GHz Cortex-A55)"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide), 0.64µm, AF\nAuxiliary lens",
+        "features": "Ring-LED flash, panorama, HDR",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.2, 22mm (wide)",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "infrared_port": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (under display, optical), unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired, bypass charging"
+      },
+      "misc": {
+        "colors": "Bromo Black, Mambo Mint, Sahara Gleam",
+        "models": "S685LN",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:54.151Z"
+  },
+  {
+    "sttTong": 4593,
+    "sttHang": 26,
+    "brand": "itel",
+    "deviceName": "itel VistaTab 30",
+    "deviceUrl": "https://www.gsmarena.com/itel_vistatab_30-13344.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, September",
+        "status": "Available. Released 2024, September"
+      },
+      "body": {
+        "dimensions": "8.0 mm thickness",
+        "weight": "550 g (1.21 lb)",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 450 nits",
+        "size": "11.0 inches, 350.9 cm2",
+        "resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13 or Android 14 (market/region dependent)",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "7000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Light Blue, Deep Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:55.035Z"
+  },
+  {
+    "sttTong": 4594,
+    "sttHang": 27,
+    "brand": "itel",
+    "deviceName": "itel A80",
+    "deviceUrl": "https://www.gsmarena.com/itel_a80-13343.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a80.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a80.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, September",
+        "status": "Available. Released 2024, September"
+      },
+      "body": {
+        "dimensions": "8.5 mm thickness",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz, 500 nits (peak)",
+        "size": "6.7 inches, 108.4 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, itel OS 14",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 3GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP\nAuxiliary lens",
+        "features": "Dual-LED flash, HDR",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Sandstone Black, Glacier White, Wave Blue",
+        "models": "A671L, A671LC"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:55.304Z"
+  },
+  {
+    "sttTong": 4586,
+    "sttHang": 19,
+    "brand": "itel",
+    "deviceName": "itel Zeno 20",
+    "deviceUrl": "https://www.gsmarena.com/itel_zeno_20-14096.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno20.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-zeno20.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2025, August 23",
+        "status": "Available. Released 2025, August 25"
+      },
+      "body": {
+        "dimensions": "8.6 mm thickness",
+        "weight": "187 g (6.60 oz)",
+        "sim": "Dual SIM\nIP54 dust protected and water resistant (water splashes)"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (typ), 1500 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition), itel OS 14",
+        "chipset": "Unisoc T7100",
+        "cpu": "Octa-core 1.8 GHz",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 3GB RAM, 128GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "13 MP",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Starlit Black, Space Titanium, Aurora Blue",
+        "models": "A6610L",
+        "sar": "0.82 W/kg (head)     0.46 W/kg (body)",
+        "price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:56.174Z"
+  },
+  {
+    "sttTong": 4595,
+    "sttHang": 28,
+    "brand": "itel",
+    "deviceName": "itel A50C",
+    "deviceUrl": "https://www.gsmarena.com/itel_a50c-13287.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a50c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a50c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2024, August 12",
+        "status": "Available. Released 2024, August 12"
+      },
+      "body": {
+        "dimensions": "163.9 x 75.7 x 9.4 mm (6.45 x 2.98 x 0.37 in)",
+        "weight": "192.6 g (6.81 oz)",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.56 inches, 103.4 cm2 (~83.4% screen-to-body ratio)",
+        "resolution": "540 x 1208 pixels, 20:9 ratio (~202 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Dawn Blue, Sapphire Black, Misty Aqua"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:07:58.821Z"
+  },
+  {
+    "sttTong": 4597,
+    "sttHang": 30,
+    "brand": "itel",
+    "deviceName": "itel Color Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_color_pro-13626.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-color-pro-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-color-pro-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "5g_bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2024, July 17",
+        "status": "Available. Released 2024, July"
+      },
+      "body": {
+        "dimensions": "8.4 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.56 inches, 103.4 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, itel OS 13",
+        "chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "River Blue, Lavender Fantasy",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:00.698Z"
+  },
+  {
+    "sttTong": 4599,
+    "sttHang": 32,
+    "brand": "itel",
+    "deviceName": "itel RS4",
+    "deviceUrl": "https://www.gsmarena.com/itel_rs4-12930.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-rs4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-rs4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, April 06",
+        "status": "Available. Released 2024, April"
+      },
+      "body": {
+        "dimensions": "8.2 mm thickness",
+        "weight": "198 g (6.98 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.56 inches, 103.4 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek Helio G99 Ultimate",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide), AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "45W wired, bypass charging, 80% in 30 min"
+      },
+      "misc": {
+        "colors": "Silvery White, Elegant Beige, Lurex Black",
+        "price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:08.314Z"
+  },
+  {
+    "sttTong": 4600,
+    "sttHang": 33,
+    "brand": "itel",
+    "deviceName": "itel S24",
+    "deviceUrl": "https://www.gsmarena.com/itel_s24-12917.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s24.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s24.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, March 29",
+        "status": "Available. Released 2024, April"
+      },
+      "body": {
+        "dimensions": "163.5 x 75.5 x 8.3 mm (6.44 x 2.97 x 0.33 in)",
+        "weight": "192 g (6.77 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz, 480 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2 (~84.8% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Mediatek Helio G91 Ultra",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "108 MP, f/1.6, (wide), 1/1.67\", 0.64µm, AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "1440p@30fps, 1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "FM radio, recording",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "battery": {
+        "type": "Li-Po 5000 mAh",
+        "charging": "18W wired, bypass charging, 50% in 40 min"
+      },
+      "misc": {
+        "colors": "Dawn White, Coastline Blue, Starry Black",
+        "models": "S667LN",
+        "price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:09.828Z"
+  },
+  {
+    "sttTong": 4603,
+    "sttHang": 36,
+    "brand": "itel",
+    "deviceName": "itel A70",
+    "deviceUrl": "https://www.gsmarena.com/itel_a70-12704.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a70.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a70.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, October 30",
+        "status": "Available. Released 2023, November"
+      },
+      "body": {
+        "dimensions": "8.6 mm thickness",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 500 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13 (Go edition)",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 256GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "13 MP\nAuxiliary lens",
+        "features": "Dual-LED flash, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Brilliant Gold, Stylish Black, Field Green, Azure Blue",
+        "models": "A665L"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:15.841Z"
+  },
+  {
+    "sttTong": 4596,
+    "sttHang": 29,
+    "brand": "itel",
+    "deviceName": "itel P65",
+    "deviceUrl": "https://www.gsmarena.com/itel_p65-13258.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p65.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p65.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, August 08",
+        "status": "Available. Released 2024, August 08"
+      },
+      "body": {
+        "dimensions": "165.9 x 77.3 x 7.9 mm (6.53 x 3.04 x 0.31 in)",
+        "weight": "192.4 g (6.81 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nLED notification ring on the back"
+      },
+      "display": {
+        "type": "IPS LCD, 120Hz",
+        "size": "6.7 inches, 108.4 cm2 (~84.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14, itel OS 14",
+        "chipset": "Unisoc T615 (12 nm)",
+        "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide)\nAuxiliary lens",
+        "features": "LED flash, HDR, panorama",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, 26mm (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes (256/6GB model only)",
+        "radio": "FM radio",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired, 40% in 30 min"
+      },
+      "misc": {
+        "colors": "Cyber Blaze, Cyber Black, Cyber Titanium",
+        "models": "P671L",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:20.776Z"
+  },
+  {
+    "sttTong": 4604,
+    "sttHang": 37,
+    "brand": "itel",
+    "deviceName": "itel P55 5G",
+    "deviceUrl": "https://www.gsmarena.com/itel_p55_5g-12604.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power-55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-power-55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5g_bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2023, September 26",
+        "status": "Available. Released 2023, October 05"
+      },
+      "body": {
+        "dimensions": "8.4 mm thickness",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13, itel OS 13",
+        "chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2"
+      },
+      "memory": {
+        "card_slot": "Unspecified",
+        "internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "main_camera": {
+        "single": "50 MP, (wide), AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Galaxy Blue, Mint Green",
+        "models": "P661N, P665L",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:21.726Z"
+  },
+  {
+    "sttTong": 4598,
+    "sttHang": 31,
+    "brand": "itel",
+    "deviceName": "itel A50",
+    "deviceUrl": "https://www.gsmarena.com/itel_a50-13183.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a50.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a50.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, May",
+        "status": "Available. Released 2024, May"
+      },
+      "body": {
+        "dimensions": "163.9 x 75.7 x 8.7 mm (6.45 x 2.98 x 0.34 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 480 nits (peak)",
+        "size": "6.6 inches, 104.6 cm2 (~84.3% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 14 (Go edition)",
+        "chipset": "Unisoc T603 (22 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "PowerVR GE8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP\nauxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Shimmer Gold, Суаn Blue, Lime Green, Misty Black",
+        "models": "A507LXU"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:23.463Z"
+  },
+  {
+    "sttTong": 4602,
+    "sttHang": 35,
+    "brand": "itel",
+    "deviceName": "itel P55",
+    "deviceUrl": "https://www.gsmarena.com/itel_p55-12808.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p55.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p55.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, January 26",
+        "status": "Available. Released 2024, January 31"
+      },
+      "body": {
+        "dimensions": "8.0 mm thickness",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "50 MP\nAuxiliary lens",
+        "features": "Dual-LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Aurora Blue, Brilliant Gold, Moonlit Black, Starry Purple",
+        "models": "A666L, A666LN, P666L"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:23.763Z"
+  },
+  {
+    "sttTong": 4605,
+    "sttHang": 38,
+    "brand": "itel",
+    "deviceName": "itel S23+",
+    "deviceUrl": "https://www.gsmarena.com/itel_s23+-12571.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s23-plus-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s23-plus-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023, September 19",
+        "status": "Available. Released 2023, September 19"
+      },
+      "body": {
+        "dimensions": "7.9 mm thickness",
+        "weight": "178 g (6.28 oz)",
+        "build": "Glass front, plastic frame, plastic back",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "AMOLED, 500 nits (peak)",
+        "size": "6.78 inches, 111.0 cm2",
+        "resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 13, itel OS 13",
+        "chipset": "Unisoc Tiger T616 (12 nm)",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "128GB 4GB RAM, 256GB 8GB RAM\nUFS 2.0"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.0",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Black, Cyan",
+        "models": "S681LN",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:26.894Z"
+  },
+  {
+    "sttTong": 4606,
+    "sttHang": 39,
+    "brand": "itel",
+    "deviceName": "itel S23",
+    "deviceUrl": "https://www.gsmarena.com/itel_s23-12478.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s23.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s23.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41 - India",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "164 x 76 x 8 mm (6.46 x 2.99 x 0.31 in)",
+        "weight": "195 g (6.88 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.6 inches, 104.6 cm2 (~84.0% screen-to-body ratio)",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Starry Black, Mystery White",
+        "models": "‎S665L, S665LN",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:27.889Z"
+  },
+  {
+    "sttTong": 4607,
+    "sttHang": 40,
+    "brand": "itel",
+    "deviceName": "itel S18 Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_s18_pro-12479.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s18-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s18-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.9 cm2",
+        "resolution": "1080 x 2408 pixels, 20:9 ratio (~400 ppi density)"
+      },
+      "platform": {
+        "os": "Android, itel OS 8.6",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP (wide)\n0.08 MP (macro)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "32 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Liquid Silver, Starry Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:29.206Z"
+  },
+  {
+    "sttTong": 4601,
+    "sttHang": 34,
+    "brand": "itel",
+    "deviceName": "itel P55+",
+    "deviceUrl": "https://www.gsmarena.com/itel_p55+-12809.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p55-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p55-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024, January 26",
+        "status": "Available. Released 2024, February 13"
+      },
+      "body": {
+        "dimensions": "8.0 mm thickness",
+        "weight": "187 g (6.88 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 13",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM\nUFS 2.2 - 256GB"
+      },
+      "main_camera": {
+        "single": "50 MP\nAuxiliary lens",
+        "features": "Dual-LED flash, panorama",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "Yes (market/region dependent)",
+        "radio": "Unspecified",
+        "usb": "USB Type-C, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "45W wired, 70% in 30 min"
+      },
+      "misc": {
+        "colors": "Royal Green, Galaxy Blue, Meteor Purple",
+        "models": "P663LN, P663L"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:29.327Z"
+  },
+  {
+    "sttTong": 4608,
+    "sttHang": 41,
+    "brand": "itel",
+    "deviceName": "itel P40+",
+    "deviceUrl": "https://www.gsmarena.com/itel_p40+-12480.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p40-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p40-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41 LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "8.9 mm thickness",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD, 90Hz",
+        "size": "6.8 inches, 109.8 cm2",
+        "resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 or 13",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "single": "13 MP\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "7000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Force Black, Ice Cyan",
+        "models": "‎P683L"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:30.083Z"
+  },
+  {
+    "sttTong": 4612,
+    "sttHang": 45,
+    "brand": "itel",
+    "deviceName": "itel P40",
+    "deviceUrl": "https://www.gsmarena.com/itel_p40-12481.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p40.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p40.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 3GB RAM, 64GB 2GB RAM, 64GB 4GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP\n0.3 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Force Black, Dreamy Blue, Luxurious Gold",
+        "models": "P662L, P662LN",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:34.692Z"
+  },
+  {
+    "sttTong": 4611,
+    "sttHang": 44,
+    "brand": "itel",
+    "deviceName": "itel Smart Watch 2",
+    "deviceUrl": "https://www.gsmarena.com/itel_smart_watch_2-12505.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Plastic back, plastic frame",
+        "sim": "No\nIP68 dust tight and water resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "1.8 inches",
+        "resolution": "240 x 286 pixels (~207 ppi density)"
+      },
+      "platform": {
+        "os": "Proprietary OS"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "Unspecified storage"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "230 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:34.921Z"
+  },
+  {
+    "sttTong": 4610,
+    "sttHang": 43,
+    "brand": "itel",
+    "deviceName": "itel Smartwatch 2ES",
+    "deviceUrl": "https://www.gsmarena.com/itel_smartwatch_2es-12506.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-2es.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-2es.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Plastic back, plastic frame",
+        "sim": "No\nIP68 dust tight and water resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "1.8 inches",
+        "resolution": "240 x 286 pixels (~207 ppi density)"
+      },
+      "platform": {
+        "os": "Proprietary OS"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "Unspecified storage"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.3, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "250 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:35.093Z"
+  },
+  {
+    "sttTong": 4614,
+    "sttHang": 47,
+    "brand": "itel",
+    "deviceName": "itel A05s",
+    "deviceUrl": "https://www.gsmarena.com/itel_a05s-12486.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a05s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a05s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 (Go edition)",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, compass"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Meadow Green, Nebula Black",
+        "models": "A663LC",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:40.062Z"
+  },
+  {
+    "sttTong": 4615,
+    "sttHang": 48,
+    "brand": "itel",
+    "deviceName": "itel S18",
+    "deviceUrl": "https://www.gsmarena.com/itel_s18-12487.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s18.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-s18.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP (wide)\n0.08 MP (macro)\nAuxiliary lens",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh"
+      },
+      "misc": {
+        "colors": "Mint Green, Digital Sliver, Midnight Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:40.797Z"
+  },
+  {
+    "sttTong": 4616,
+    "sttHang": 49,
+    "brand": "itel",
+    "deviceName": "itel P38 Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_p38_pro-12488.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p38-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p38-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.8 inches, 111.1 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP\n0.3 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Mint Green, Ocean Blue, Night Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:41.014Z"
+  },
+  {
+    "sttTong": 4618,
+    "sttHang": 51,
+    "brand": "itel",
+    "deviceName": "itel A60",
+    "deviceUrl": "https://www.gsmarena.com/itel_a60-12490.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a60.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a60.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 or 12 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP\n0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Dawn Blue, Vert Menthe, Sapphire Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:46.611Z"
+  },
+  {
+    "sttTong": 4617,
+    "sttHang": 50,
+    "brand": "itel",
+    "deviceName": "itel P38",
+    "deviceUrl": "https://www.gsmarena.com/itel_p38-12489.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p38.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-p38.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "cpu": "Quad-core 1.3 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "15W wired"
+      },
+      "misc": {
+        "colors": "Galaxy Blue, Spruce Green, Nebula Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:47.273Z"
+  },
+  {
+    "sttTong": 4613,
+    "sttHang": 46,
+    "brand": "itel",
+    "deviceName": "itel A60s",
+    "deviceUrl": "https://www.gsmarena.com/itel_a60s-12485.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a60s-.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a60s-.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 5, 8, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 104.6 cm2",
+        "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, compass"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Shadow Black, Glacier Green, Moonlit Violet",
+        "price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:49.024Z"
+  },
+  {
+    "sttTong": 4619,
+    "sttHang": 52,
+    "brand": "itel",
+    "deviceName": "itel A04",
+    "deviceUrl": "https://www.gsmarena.com/itel_a04-12491.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a04.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a04.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.3 inches, 102.4 cm2",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~170 ppi density)"
+      },
+      "platform": {
+        "os": "Android (Go edition)"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Lake Cyan, Violet, Sandstone Black",
+        "price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:49.302Z"
+  },
+  {
+    "sttTong": 4609,
+    "sttHang": 42,
+    "brand": "itel",
+    "deviceName": "itel Pad One",
+    "deviceUrl": "https://www.gsmarena.com/itel_pad_one-12502.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-pad-one.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-pad-one.jpg",
+    "specs": {
+      "network": {
+        "technology": "HSPA / LTE",
+        "3g_bands": "HSDPA 2100",
+        "4g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2023",
+        "status": "Available. Released 2023"
+      },
+      "body": {
+        "dimensions": "241.4 x 160.2 x 8.2 mm (9.50 x 6.31 x 0.32 in)",
+        "weight": "-",
+        "build": "Glass front, aluminum back, aluminum frame",
+        "sim": "Nano-SIM"
+      },
+      "display": {
+        "type": "IPS",
+        "size": "10.1 inches, 295.8 cm2 (~76.5% screen-to-body ratio)",
+        "resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "platform": {
+        "os": "Android 12 (Go edition)",
+        "chipset": "Unisoc SC9863A1 (22 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 4GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, (wide), AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP, (wide)",
+        "video": "1080p@30fps"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with dual speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "FM radio",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "6000 mAh",
+        "charging": "10W wired"
+      },
+      "misc": {
+        "colors": "Light Blue, Deep Grey"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:51.763Z"
+  },
+  {
+    "sttTong": 4621,
+    "sttHang": 54,
+    "brand": "itel",
+    "deviceName": "itel Vision 3",
+    "deviceUrl": "https://www.gsmarena.com/itel_vision_3-12493.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 105.2 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM, 64GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:52.393Z"
+  },
+  {
+    "sttTong": 4620,
+    "sttHang": 53,
+    "brand": "itel",
+    "deviceName": "itel Vision 3 Turbo",
+    "deviceUrl": "https://www.gsmarena.com/itel_vision_3_turbo-12492.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-3-turbo.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-3-turbo.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 105.2 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "64GB 3GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:53.330Z"
+  },
+  {
+    "sttTong": 4622,
+    "sttHang": 55,
+    "brand": "itel",
+    "deviceName": "itel A23S",
+    "deviceUrl": "https://www.gsmarena.com/itel_a23s-12494.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a23s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a23s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "3020 mAh"
+      },
+      "misc": {
+        "colors": "Sky Cyan, Sky Black, Ocean Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:53.837Z"
+  },
+  {
+    "sttTong": 4624,
+    "sttHang": 57,
+    "brand": "itel",
+    "deviceName": "itel A49",
+    "deviceUrl": "https://www.gsmarena.com/itel_a49-12496.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a49.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a49.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 105.2 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:57.666Z"
+  },
+  {
+    "sttTong": 4625,
+    "sttHang": 58,
+    "brand": "itel",
+    "deviceName": "itel A48",
+    "deviceUrl": "https://www.gsmarena.com/itel_a48-12497.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a48.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a48.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021",
+        "status": "Available. Released 2021"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.1 inches, 89.8 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~288 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP (wide)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "3000 mAh"
+      },
+      "misc": {
+        "colors": "Black, Purple, Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:58.145Z"
+  },
+  {
+    "sttTong": 4627,
+    "sttHang": 60,
+    "brand": "itel",
+    "deviceName": "itel A23 Pro",
+    "deviceUrl": "https://www.gsmarena.com/itel_a23_pro-12499.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a23-pro.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a23-pro.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021",
+        "status": "Available. Released 2021"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "8GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "0.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "2400 mAh"
+      },
+      "misc": {
+        "colors": "Sapphire Blue, Lake Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:08:59.051Z"
+  },
+  {
+    "sttTong": 4628,
+    "sttHang": 61,
+    "brand": "itel",
+    "deviceName": "itel Vision 2",
+    "deviceUrl": "https://www.gsmarena.com/itel_vision_2-12500.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021",
+        "status": "Available. Released 2021"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.6 inches, 105.2 cm2",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)"
+      },
+      "platform": {
+        "os": "Android 10 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "13 MP, (wide)\n2 MP (macro)\nAuxiliary lens",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Green"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:03.070Z"
+  },
+  {
+    "sttTong": 4629,
+    "sttHang": 62,
+    "brand": "itel",
+    "deviceName": "itel A25",
+    "deviceUrl": "https://www.gsmarena.com/itel_a25-12501.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a25.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a25.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2020. Released 2020",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDHC",
+        "internal": "16GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "3020 mAh"
+      },
+      "misc": {
+        "colors": "Violet, Blue"
+      },
+      "our_tests": {
+        "loudspeaker": "-26.9 LUFS (Good)"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:03.539Z"
+  },
+  {
+    "sttTong": 4630,
+    "sttHang": 63,
+    "brand": "itel",
+    "deviceName": "itel Smartwatch 1GS",
+    "deviceUrl": "https://www.gsmarena.com/itel_smartwatch_1gs-12508.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1gs.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1gs.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Aluminum frame, plastic back",
+        "sim": "No\nIP68 dust tight and water resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "1.32 inches",
+        "resolution": "360 x 360 pixels (~386 ppi density)"
+      },
+      "platform": {
+        "os": "Proprietary OS"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "Unspecified storage"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "250 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:05.038Z"
+  },
+  {
+    "sttTong": 4626,
+    "sttHang": 59,
+    "brand": "itel",
+    "deviceName": "itel Vision 2S",
+    "deviceUrl": "https://www.gsmarena.com/itel_vision_2s-12498.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-2s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-vision-2s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2021",
+        "status": "Available. Released 2021"
+      },
+      "body": {
+        "dimensions": "166 x 76.3 x 8.9 mm (6.54 x 3.00 x 0.35 in)",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~81.0% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9863A (28 nm)",
+        "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "gpu": "IMG8322"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "dual": "8 MP\n0.3 MP",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "5 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "5000 mAh",
+        "charging": "18W wired"
+      },
+      "misc": {
+        "colors": "Gradation Purple, Gradation Blue, Deep Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:07.383Z"
+  },
+  {
+    "sttTong": 4631,
+    "sttHang": 64,
+    "brand": "itel",
+    "deviceName": "itel Smartwatch 1ES",
+    "deviceUrl": "https://www.gsmarena.com/itel_smartwatch_1es-12507.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1es.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1es.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Plastic back, plastic frame",
+        "sim": "No\nIP68 dust tight and water resistant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "1.7 inches",
+        "resolution": "240 x 283 pixels (~218 ppi density)"
+      },
+      "platform": {
+        "os": "Proprietary OS"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "Unspecified storage"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "220 mAh"
+      },
+      "misc": {
+        "colors": "Black",
+        "models": "ISW-11"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:08.569Z"
+  },
+  {
+    "sttTong": 4632,
+    "sttHang": 65,
+    "brand": "itel",
+    "deviceName": "itel Smart Watch 1",
+    "deviceUrl": "https://www.gsmarena.com/itel_smart_watch_1-12504.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-smart-watch-1.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "3g_bands": "N/A",
+        "4g_bands": "N/A",
+        "speed": "No",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "build": "Plastic back, plastic frame",
+        "sim": "No\nIP67"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "1.72 inches",
+        "resolution": "240 x 283 pixels (~216 ppi density)"
+      },
+      "platform": {
+        "os": "Proprietary OS"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "Unspecified storage"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "No",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "No"
+      },
+      "features": {
+        "sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "battery": {
+        "type": "200 mAh"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:09.183Z"
+  },
+  {
+    "sttTong": 4623,
+    "sttHang": 56,
+    "brand": "itel",
+    "deviceName": "itel A27",
+    "deviceUrl": "https://www.gsmarena.com/itel_a27-12495.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a27.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/itel-a27.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2022",
+        "status": "Available. Released 2022"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Dual SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.45 inches, 76.7 cm2",
+        "resolution": "480 x 960 pixels, 18:9 ratio (~197 ppi density)"
+      },
+      "platform": {
+        "os": "Android 11 (Go edition)",
+        "chipset": "Unisoc SC9832E (28 nm)",
+        "cpu": "Quad-core 1.4 GHz",
+        "gpu": "Mali-T820 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "32GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Yes",
+        "bluetooth": "Yes",
+        "positioning": "Unspecified",
+        "nfc": "No",
+        "radio": "Unspecified",
+        "usb": "microUSB"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:10.438Z"
+  }
+]

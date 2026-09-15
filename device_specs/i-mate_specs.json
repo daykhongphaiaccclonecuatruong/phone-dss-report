@@ -1,0 +1,2437 @@
+[
+  {
+    "sttTong": 4228,
+    "sttHang": 2,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 9502",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_9502-2158.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ultimate-9502.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ultimate-9502.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, October. Released 2008, March",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 60 x 17.8 mm (4.57 x 2.36 x 0.70 in)",
+        "weight": "200 g (7.05 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.8 inches, 24.3 cm2 (~34.9% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~286 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager\nTV-out\ni-mate GPRS Configurator(WAP, MMS)"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1620 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 4 h 20 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 410 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:02.166Z"
+  },
+  {
+    "sttTong": 4230,
+    "sttHang": 4,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAMA 201",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jama_201-2149.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama201.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama201.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "113 x 63 x 14 mm (4.45 x 2.48 x 0.55 in)",
+        "weight": "152 g (5.36 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~25.1% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "SAMSUNG SC3 2442X 300MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:03.063Z"
+  },
+  {
+    "sttTong": 4227,
+    "sttHang": 1,
+    "brand": "i-mate",
+    "deviceName": "i-mate 810-F",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_810_f-2721.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mate-810-f.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/i-mate-810-f.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "launch": {
+        "announced": "2009, February. Released 2009",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "111 x 66 x 15.5 mm (4.37 x 2.60 x 0.61 in)",
+        "weight": "150 g (5.29 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.46 inches, 18.7 cm2 (~25.6% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~163 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.1 Professional",
+        "cpu": "624 MHz Marvell PXA310"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "2GB 128MB RAM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "WAP 2.0/xHTML, HTML (Internet Explorer Mobile 6)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Blue",
+        "price": "About 550 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:05.433Z"
+  },
+  {
+    "sttTong": 4231,
+    "sttHang": 5,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAMA 101",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jama_101-2148.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama101.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama101.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, October",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "105 x 52.5 x 15.5 mm (4.13 x 2.07 x 0.61 in)",
+        "weight": "110 g (3.63 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~32.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)\nHandwriting recognition\n4-way navigation pad"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "SAMSUNG SC3 2442X 300MHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1020 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:06.869Z"
+  },
+  {
+    "sttTong": 4232,
+    "sttHang": 6,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAMA",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jama-2009.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jama.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2007, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 52.5 x 15.6 mm (4.17 x 2.07 x 0.61 in)",
+        "weight": "110 g (3.88 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~32.1% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)\nHandwriting recognition\n4-way navigation pad"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Samsung SC3 2442X 300MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office  \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:07.530Z"
+  },
+  {
+    "sttTong": 4233,
+    "sttHang": 7,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 9150",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_9150-1884.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim9150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim9150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "98 x 50 x 19 mm (3.86 x 1.97 x 0.75 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.6 inches, 20.9 cm2 (~42.7% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~308 ppi density)\nSecond OLED, 1.2 inches display\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/e/i",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPocket Office \nFile manager\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 410 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:08.998Z"
+  },
+  {
+    "sttTong": 4234,
+    "sttHang": 8,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 8150",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_8150-1883.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim8150.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim8150.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.5 x 60.5 x 15.5 mm (4.67 x 2.38 x 0.61 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.6 inches, 20.9 cm2 (~29.2% screen-to-body ratio)",
+        "resolution": "480 x 640 pixels, 4:3 ratio (~308 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel XScale PXA270 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/e/i",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPocket Office \nFile manager\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:10.413Z"
+  },
+  {
+    "sttTong": 4236,
+    "sttHang": 10,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 6150",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_6150-1881.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim6150.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim6150.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February. Released 2008, January",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.5 x 60.5 x 15.5 mm (4.67 x 2.38 x 0.61 in)",
+        "weight": "152 g (5.36 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.8 inches, 24.3 cm2 (~33.9% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~286 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/e/i",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPocket Office \nFile manager\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:11.609Z"
+  },
+  {
+    "sttTong": 4235,
+    "sttHang": 9,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 7150",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_7150-1882.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim7150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim7150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "110 x 74 x 18 mm (4.33 x 2.91 x 0.71 in)",
+        "weight": "180 g (6.35 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "3.8 inches, 44.7 cm2 (~54.9% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~211 ppi density)\nSecond OLED, 2.2 inches display (128 x 128 pixels)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/e/i",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPocket Office \nFile manager\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:12.468Z"
+  },
+  {
+    "sttTong": 4229,
+    "sttHang": 3,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 8502",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_8502-2157.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ultimate-8502.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ultimate-8502.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, October. Released 2008, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116 x 55 x 15 mm (4.57 x 2.17 x 0.59 in)",
+        "weight": "140 g (4.94 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.6 inches, 20.9 cm2 (~32.8% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "Qualcomm MSM7200",
+        "cpu": "400 MHz ARM 11",
+        "gpu": "Adreno 130"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No\n2.5 mm audio jack"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager\nTV-out\ni-mate GPRS Configurator(WAP, MMS)\n360° Jog wheel"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1530 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 4 h 30 min"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:12.590Z"
+  },
+  {
+    "sttTong": 4237,
+    "sttHang": 11,
+    "brand": "i-mate",
+    "deviceName": "i-mate Ultimate 5150",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_ultimate_5150-1880.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim5150.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-ultim5150.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "117 x 60.5 x 19.5 mm (4.61 x 2.38 x 0.77 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "size": "2.8 inches, 24.3 cm2 (~34.3% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~286 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD",
+        "internal": "128MB RAM, 256MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/e/i",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "Stereo FM radio",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nPocket Office \nFile manager\nTV-out"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1400 mAh battery"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 300 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:14.092Z"
+  },
+  {
+    "sttTong": 4238,
+    "sttHang": 12,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAQ4",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jaq4-1879.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq4.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq4.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2007, February",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "125 x 71 x 15.5 mm (4.92 x 2.80 x 0.61 in)",
+        "weight": "184 g (6.49 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~27.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 6.0 Professional",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "1.2",
+        "positioning": "GPS",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager\nPocket Office"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1660 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:14.313Z"
+  },
+  {
+    "sttTong": 4239,
+    "sttHang": 13,
+    "brand": "i-mate",
+    "deviceName": "i-mate PDAL",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_pdal-1787.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-pdal.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-pdal.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112 x 56 x 17 mm (4.41 x 2.20 x 0.67 in)",
+        "weight": "116 g (4.09 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 17.8 cm2 (~28.4% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:15.990Z"
+  },
+  {
+    "sttTong": 4240,
+    "sttHang": 14,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAQ3",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jaq3-1786.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq3.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq3.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 67.5 x 14.5 mm (4.96 x 2.66 x 0.57 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.5 inches, 19.4 cm2 (~22.8% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~160 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "1.2, A2DP",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nFile manager"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:17.060Z"
+  },
+  {
+    "sttTong": 4241,
+    "sttHang": 15,
+    "brand": "i-mate",
+    "deviceName": "i-mate SPL",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_spl-1703.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-spl.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-spl.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900\nGSM 850 / 1800 / 1900 - US version",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "114.5 x 49 x 12 mm (4.51 x 1.93 x 0.47 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~26.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.2 inches, 4:3 ratio (~182 ppi density)\n5-way navigation"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "QCIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nVoice memo\nMP3/AAC player\nFile explorer\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1100 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:17.429Z"
+  },
+  {
+    "sttTong": 4244,
+    "sttHang": 18,
+    "brand": "i-mate",
+    "deviceName": "i-mate SPJAS",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_spjas-1683.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-spjas.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-spjas.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.4 x 49 x 14.8 mm (4.43 x 1.93 x 0.58 in)",
+        "weight": "115 g (4.06 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~27.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.2 inches, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "cpu": "Samsung 2442 300 MHz"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "CIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nWindows MPlayer 10 mobile\nFile manager\nPocket Office \nPredictive text input\nOrganizer\nVioce dial/memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1190 mAh battery"
+      },
+      "misc": {
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:20.633Z"
+  },
+  {
+    "sttTong": 4245,
+    "sttHang": 19,
+    "brand": "i-mate",
+    "deviceName": "i-mate Smartflip",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_smartflip-1482.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-smartflip.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-smartflip.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "98.5 x 51.4 x 15.8 mm (3.88 x 2.02 x 0.62 in)",
+        "weight": "99 g (3.49 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 34 x 45 mm, 15.0 cm2 (~29.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.2 inches, 4:3 ratio (~182 ppi density)\nSecond external 1.2-inch TFT display, 65K colors (128 x 128 pixels)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo/dial\nMP3/AAC player \nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 750 mAh battery"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:21.888Z"
+  },
+  {
+    "sttTong": 4246,
+    "sttHang": 20,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAMin",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jamin-1420.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jamin.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jamin.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18.2 mm (4.25 x 2.28 x 0.72 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.8 inches, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "SD/MMC, up to 2 GB",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "video": "CIF"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:22.115Z"
+  },
+  {
+    "sttTong": 4242,
+    "sttHang": 16,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAQ",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jaq-1702.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jaq.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2006, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 71 x 22 mm (4.80 x 2.80 x 0.87 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 24.3 cm2 (~28.0% screen-to-body ratio)",
+        "resolution": "320 x 240 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nFile manager\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1440 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:23.063Z"
+  },
+  {
+    "sttTong": 4247,
+    "sttHang": 21,
+    "brand": "i-mate",
+    "deviceName": "i-mate JASJAR",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jasjar-1262.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jasjar.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jasjar.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "127.7 x 81 x 25 mm (5.03 x 3.19 x 0.98 in)",
+        "weight": "285 g (10.05 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.6 inches, 73 x 55 mm, 40.1 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 3.6 inches, 4:3 ratio (~222 ppi density)\n180-degree pivot display\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "Intel Bulverde 520 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC, up to 2 GB",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "35mm_jack": "Yes\nDual speakers"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1620 mAh battery",
+        "stand-by": "Up to 260 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:25.156Z"
+  },
+  {
+    "sttTong": 4248,
+    "sttHang": 22,
+    "brand": "i-mate",
+    "deviceName": "i-mate K-JAM",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_k_jam-1278.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-k-jam.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-k-jam.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 23.7 mm (4.25 x 2.28 x 0.93 in)",
+        "weight": "160 g (5.64 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.8 inches, 4:3 ratio (~143 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD, up to 2 GB",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nPocket Office \nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1250 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:26.941Z"
+  },
+  {
+    "sttTong": 4249,
+    "sttHang": 23,
+    "brand": "i-mate",
+    "deviceName": "i-mate SP5",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_sp5-1267.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp5.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp5.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46.2 x 17.5 mm (4.23 x 1.82 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.2 inches, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:27.749Z"
+  },
+  {
+    "sttTong": 4251,
+    "sttHang": 25,
+    "brand": "i-mate",
+    "deviceName": "i-mate SP4m",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_sp4m-1277.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp4m.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp4m.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, September",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 48 x 19 mm (4.29 x 1.89 x 0.75 in)",
+        "weight": "100 g (3.53 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~28.6% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 850",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "miniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1150 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:29.733Z"
+  },
+  {
+    "sttTong": 4252,
+    "sttHang": 26,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAM Black",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jam_black-1263.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jam_black.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jam_black.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.8 inches, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel Bulverde 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Po 1200 mAh battery"
+      },
+      "misc": {
+        "colors": "Stylish black",
+        "price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:31.505Z"
+  },
+  {
+    "sttTong": 4253,
+    "sttHang": 27,
+    "brand": "i-mate",
+    "deviceName": "i-mate JAM",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jam-963.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imjam.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imjam.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~38.8% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC, up to 2 GB",
+        "internal": "64MB RAM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 180 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Stylish black and silver",
+        "price": "About 260 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:32.398Z"
+  },
+  {
+    "sttTong": 4243,
+    "sttHang": 17,
+    "brand": "i-mate",
+    "deviceName": "i-mate JASJAM",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_jasjam-1589.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jasjam.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-jasjam.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 1900 / 2100",
+        "speed": "HSPA 1.8 Mbps"
+      },
+      "launch": {
+        "announced": "2006, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "112.5 x 58 x 22 mm (4.43 x 2.28 x 0.87 in)",
+        "weight": "176 g (6.21 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.8 inches, 4:3 ratio (~143 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 PocketPC",
+        "cpu": "400 MHz Samsung"
+      },
+      "memory": {
+        "card_slot": "microSD (dedicated slot)",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "QCIF videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nVoice memo\nMP3/AAC player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "colors": "Silver",
+        "price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:32.795Z"
+  },
+  {
+    "sttTong": 4254,
+    "sttHang": 28,
+    "brand": "i-mate",
+    "deviceName": "i-mate PDA2",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_pda2-1185.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-pda2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-pda2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q4",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 69 x 19 mm (5.12 x 2.72 x 0.75 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 3.5 inches, 4:3 ratio (~114 ppi density)\nHandwriting recognition"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel XScale PXA272 520 MHz"
+      },
+      "memory": {
+        "card_slot": "MMC/SDIO, up to 2 GB",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "v.1.2",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nPocket Office \nMP3/MP4 player\nPDF, PPT viewer \nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1300 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:57:34.520Z"
+  },
+  {
+    "sttTong": 4255,
+    "sttHang": 29,
+    "brand": "i-mate",
+    "deviceName": "i-mate PDA2k",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_pda2k-962.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/impda2k.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/impda2k.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "125 x 71.6 x 18.7 mm (4.92 x 2.82 x 0.74 in)",
+        "weight": "210 g (7.41 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~42.4% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 3.5 inches, 4:3 ratio (~114 ppi density)"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE PocketPC",
+        "cpu": "Intel PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "128MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)",
+        "languages": "8\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 168 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:36.537Z"
+  },
+  {
+    "sttTong": 4257,
+    "sttHang": 31,
+    "brand": "i-mate",
+    "deviceName": "i-mate SP3",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_sp3-960.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsp3.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsp3.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46.2 x 17 mm (4.23 x 1.82 x 0.67 in)",
+        "weight": "106.3 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~30.7% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels, 2.2 inches (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE Smartphone",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMicrosoft ActiveSync\nMP3/AAC player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Cool metallic, Light blue"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:37.604Z"
+  },
+  {
+    "sttTong": 4256,
+    "sttHang": 30,
+    "brand": "i-mate",
+    "deviceName": "i-mate SP3i",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_sp3i-961.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsp3i.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsp3i.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 44.5 x 18 mm (4.23 x 1.75 x 0.71 in)",
+        "weight": "102 g (3.60 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~31.8% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels, 2.2 inches (~128 ppi density)\n5-way navigation button\n3-color LED indicator\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 SE Smartphone",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "languages": "8\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 140 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Stylish black and silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:38.082Z"
+  },
+  {
+    "sttTong": 4258,
+    "sttHang": 32,
+    "brand": "i-mate",
+    "deviceName": "i-mate Pocket PC",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_pocket_pc-959.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/impocket.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/impocket.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 70 x 18 mm, 105 cc (5.12 x 2.76 x 0.71 in)",
+        "weight": "190 g (6.70 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "3.5 inches, 53 x 71 mm, 37.9 cm2 (~41.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~114 ppi density)\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 2003 PocketPC",
+        "cpu": "Intel PXA263 400 MHz"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC",
+        "internal": "64MB RAM (128MB optional)"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)",
+        "languages": "7\nMicrosoft ActiveSync\nMP3 player\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1200 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:38.752Z"
+  },
+  {
+    "sttTong": 4259,
+    "sttHang": 33,
+    "brand": "i-mate",
+    "deviceName": "i-mate Smartphone2",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_smartphone2-958.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsmart2.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsmart2.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120.4 x 50.1 x 24.4 mm, 105 cc (4.74 x 1.97 x 0.96 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.3% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels, 2.2 inches (~128 ppi density)\nWhite LED back light\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Smartphone 2003 OS",
+        "chipset": "TI OMAP 710",
+        "cpu": "133 MHz  ARM925"
+      },
+      "memory": {
+        "card_slot": "SDIO/MMC, up to 2 GB",
+        "internal": "32MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "VGA",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "1.1"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)",
+        "languages": "7\nMicrosoft ActiveSync\nCalculator\nPredictive text input\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1000 mAh battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 3 h 30 min"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:57:41.189Z"
+  },
+  {
+    "sttTong": 4260,
+    "sttHang": 34,
+    "brand": "i-mate",
+    "deviceName": "i-mate Smartphone",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_smartphone-957.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsmart.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imsmart.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "120 x 50 x 23.5 mm, 105 cc (4.72 x 1.97 x 0.93 in)",
+        "weight": "130 g (4.59 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 35 x 44 mm, 15.2 cm2 (~25.4% screen-to-body ratio)",
+        "resolution": "176 x 220 pixels (~128 ppi density)\nWhite LED back light\n5-way navigation button\nDownloadable logos"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile Smartphone",
+        "cpu": "120 MHz"
+      },
+      "memory": {
+        "card_slot": "SD/SDIO",
+        "internal": "16MB RAM, 32MB ROM"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)",
+        "languages": "7\nOrganizer\nPredictive text input\nMP3 player"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 90 h",
+        "talk_time": "Up to 6 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T01:57:42.649Z"
+  },
+  {
+    "sttTong": 4250,
+    "sttHang": 24,
+    "brand": "i-mate",
+    "deviceName": "i-mate SP5m",
+    "deviceUrl": "https://www.gsmarena.com/i_mate_sp5m-1268.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp5m.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/imate-sp5m.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2005, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "107.5 x 46.2 x 17.5 mm (4.23 x 1.82 x 0.69 in)",
+        "weight": "106 g (3.74 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "size": "2.2 inches, 33 x 45 mm, 15.0 cm2 (~30.2% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 2.2 inches, 4:3 ratio (~182 ppi density)\n5-way navigation button"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Smartphone",
+        "chipset": "TI OMAP 730",
+        "cpu": "200 MHz ARM926EJ-S"
+      },
+      "memory": {
+        "card_slot": "MiniSD",
+        "internal": "64MB RAM, 64MB ROM"
+      },
+      "main_camera": {
+        "single": "1.3 MP",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b",
+        "bluetooth": "1.1",
+        "positioning": "No",
+        "infrared_port": "Yes",
+        "radio": "No",
+        "usb": "miniUSB 1.1"
+      },
+      "features": {
+        "browser": "WAP 2.0/xHTML, HTML (PocketIE)\nMP3/AAC player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1050 mAh battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {
+        "price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T01:57:48.143Z"
+  }
+]

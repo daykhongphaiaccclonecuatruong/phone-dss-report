@@ -1,0 +1,488 @@
+[
+  {
+    "sttTong": 2693,
+    "sttHang": 1,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 6+",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_6+_5g-14883.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-6-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-6-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 32, 38, 40, 41, 42, 66, 71",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2026, August 19",
+        "status": "Available. Released 2026, August 19"
+      },
+      "body": {
+        "dimensions": "156.6 x 73.3 x 9.6 mm (6.17 x 2.89 x 0.38 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Nano-SIM + eSIM\nIP55 dust protected and water resistant (low pressure water jets)\nMIL-STD-810H compliant\nDrop resistant up to 1.5m\nModular back panel accessories (req. unscrewing)"
+      },
+      "display": {
+        "type": "LTPO OLED, 1B colors, 120Hz, 880 nits (typ), 1400 nits (peak)",
+        "size": "6.31 inches, 96.0 cm2 (~83.7% screen-to-body ratio)",
+        "resolution": "1116 x 2484 pixels, 20:9 ratio (~432 ppi density)",
+        "protection": "Corning Gorilla Glass 7i, Mohs level 6"
+      },
+      "platform": {
+        "os": "Android 16, up to 6 major OS updates",
+        "chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "cpu": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "gpu": "Adreno 810"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "256GB 12GB RAM\nUFS 3.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n13 MP, f/2.2, (ultrawide), 1/3.06\", 1.12μm, PDAF\nTOF 3D, (depth)",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30/60/120fps, 720p@240fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.0, (wide), 1/3.44\", 0.64μm, AF",
+        "features": "HDR",
+        "video": "1440p@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4415 mAh, removable",
+        "charging": "30W wired, PD, PPS, QC4+, 50% in 30 min"
+      },
+      "misc": {
+        "colors": "Cobalt Blue, Horizon Black, Forest Green",
+        "models": "FP6",
+        "sar_eu": "0.49 W/kg (head)     1.39 W/kg (body)",
+        "price": "$ 649.99"
+      },
+      "eu_label": {
+        "energy": "Class A",
+        "battery": "50:38h endurance, 1000 cycles",
+        "free_fall": "Class A (300 falls)",
+        "repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:29.409Z"
+  },
+  {
+    "sttTong": 2695,
+    "sttHang": 3,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 5",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_5-12540.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-5.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-5.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 41, 48, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE (4CA), 5G"
+      },
+      "launch": {
+        "announced": "2023, August 30",
+        "status": "Available. Released 2023, September 14"
+      },
+      "body": {
+        "dimensions": "161.6 x 75.8 x 9.6 mm (6.36 x 2.98 x 0.38 in)",
+        "weight": "212 g (7.48 oz)",
+        "build": "Glass front (Gorilla Glass 5), aluminum frame, plastic back",
+        "sim": "Nano-SIM + eSIM\nIP55 dust protected and water resistant (low pressure water jets)\nMIL-STD-810H compliant"
+      },
+      "display": {
+        "type": "OLED, 90Hz, 880 nits (peak)",
+        "size": "6.46 inches, 101.2 cm2 (~82.7% screen-to-body ratio)",
+        "resolution": "1224 x 2700 pixels (~459 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 13, upgradable to Android 14, up to 5 major OS updates",
+        "chipset": "Qualcomm QCM6490 (6 nm)",
+        "cpu": "Octa-core (1x2.7 GHz Cortex-A78 & 3x2.4 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55)",
+        "gpu": "Adreno 643"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 6GB RAM, 256GB 8GB RAM\nUFS 2.2"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.9, (wide), 1/1.49\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, (ultrawide), 1/2.51\", 0.7µm, PDAF\nTOF 3D, (depth)",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30/60/120fps, 720p@240fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "50 MP, f/2.5, (wide), 1/2.76\", 0.74µm",
+        "features": "HDR",
+        "video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.2, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 3.0, OTG, DisplayPort"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 4200 mAh, removable",
+        "charging": "30W wired, 50% in 20 min"
+      },
+      "misc": {
+        "colors": "Matte Black, Sky Blue, Transparent",
+        "sar_eu": "0.40 W/kg (head)     0.85 W/kg (body)",
+        "price": "About 430 EUR"
+      },
+      "our_tests": {
+        "performance": "AnTuTu: 584498 (v9), 659615 (v10)\nGeekBench: 2886 (v5), 2958 (v6)\nGFXBench: 27fps (ES 3.1 onscreen)",
+        "display": "772 nits max brightness (measured)",
+        "camera": "Photo / Video",
+        "loudspeaker": "-31.0 LUFS (Below average)",
+        "battery_old": "Endurance rating 88h"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:32.269Z"
+  },
+  {
+    "sttTong": 2694,
+    "sttHang": 2,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 6",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_6-13955.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-6.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone-6.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 32, 38, 40, 41, 42, 66, 71",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, June 25",
+        "status": "Available. Released 2025, June 25"
+      },
+      "body": {
+        "dimensions": "156.5 x 73.3 x 9.6 mm (6.16 x 2.89 x 0.38 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Nano-SIM + eSIM\nIP55 dust protected and water resistant (low pressure water jets)\nMIL-STD-810H compliant\nDrop resistant up to 1.5m\nModular back panel accessories (req. unscrewing)"
+      },
+      "display": {
+        "type": "LTPO OLED, 1B colors, 120Hz, 880 nits (typ), 1400 nits (peak)",
+        "size": "6.31 inches, 96.0 cm2 (~83.7% screen-to-body ratio)",
+        "resolution": "1116 x 2484 pixels, 20:9 ratio (~432 ppi density)",
+        "protection": "Corning Gorilla Glass 7i"
+      },
+      "platform": {
+        "os": "Android 15, upgradable to Android 16, up to 8 major OS updates",
+        "chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+        "cpu": "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "gpu": "Adreno 810"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "256GB 8GB RAM\nUFS 3.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, f/1.6, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n13 MP, f/2.2, (ultrawide), 1/3.06\", 1.12μm, PDAF\nTOF 3D, (depth)",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30/60/120fps, 720p@240fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "32 MP, f/2.0, (wide), 1/3.42\", 0.64μm, AF",
+        "features": "HDR",
+        "video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "battery": {
+        "type": "Li-Ion 4415 mAh, removable",
+        "charging": "30W wired, 50% in 25 min"
+      },
+      "misc": {
+        "colors": "Horizon Black, Cloud White, Forest Green",
+        "sar_eu": "0.49 W/kg (head)     1.39 W/kg (body)",
+        "price": "$ 749.00 / € 599.00 / £ 491.23"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:33.759Z"
+  },
+  {
+    "sttTong": 2697,
+    "sttHang": 5,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 3+",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_3+-10069.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone3-plus.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone3-plus.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 13, 20, 26",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/150 Mbps"
+      },
+      "launch": {
+        "announced": "2020, August 27. Released 2020, September 14",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "158 x 71.8 x 9.9 mm (6.22 x 2.83 x 0.39 in)",
+        "weight": "189 g (6.67 oz)",
+        "build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.65 inches, 82.4 cm2 (~72.6% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 10, upgradable to Android 13",
+        "chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "16 MP, f/2.0, (wide), 1/3.1\"",
+        "features": "HDR",
+        "video": "1080p@30fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3040 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.41 W/kg (head)     1.41 W/kg (body)",
+        "price": "About 440 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:36.783Z"
+  },
+  {
+    "sttTong": 2698,
+    "sttHang": 6,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 3",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_3-10397.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone3.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone3.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 13, 20, 26",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/150 Mbps"
+      },
+      "launch": {
+        "announced": "2019, August 27. Released 2019, September 03",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "158 x 71.8 x 9.9 mm (6.22 x 2.83 x 0.39 in)",
+        "weight": "189 g (6.67 oz)",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.65 inches, 82.4 cm2 (~72.6% screen-to-body ratio)",
+        "resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 9.0 (Pie), upgradable to Android 13",
+        "chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
+        "cpu": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
+        "gpu": "Adreno 506"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.1"
+      },
+      "main_camera": {
+        "single": "12 MP, f/1.8, (wide), 1/2.55\", 1.4µm, dual pixel PDAF",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "8 MP, f/2.0, (wide), 1/4.0\"",
+        "video": "1080p@30fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.0, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 2.0"
+      },
+      "features": {
+        "sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3040 mAh, removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "sar_eu": "0.39 W/kg (head)     1.41 W/kg (body)",
+        "price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:37.606Z"
+  },
+  {
+    "sttTong": 2696,
+    "sttHang": 4,
+    "brand": "Fairphone",
+    "deviceName": "Fairphone 4",
+    "deviceUrl": "https://www.gsmarena.com/fairphone_4-11136.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone4.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fairphone4.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 18, 19, 20, 28, 32, 38, 40, 41, 71",
+        "5g_bands": "1, 3, 5, 7, 8, 20, 28, 38, 41, 71, 77, 78 SA/NSA/Sub6",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat18 1200/150 Mbps, 5G 2.3 Gbps DL"
+      },
+      "launch": {
+        "announced": "2021, September 30",
+        "status": "Available. Released 2021, October 25"
+      },
+      "body": {
+        "dimensions": "162 x 75.5 x 10.5 mm (6.38 x 2.97 x 0.41 in)",
+        "weight": "225 g (7.94 oz)",
+        "build": "Glass front (Gorilla Glass 5), aluminum frame, plastic back",
+        "sim": "Nano-SIM + eSIM\nIP54 dust protected and water resistant (water splashes)\nMIL-STD-810G compliant"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.3 inches, 97.4 cm2 (~79.7% screen-to-body ratio)",
+        "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "platform": {
+        "os": "Android 11, upgradable to Android 15",
+        "chipset": "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+        "cpu": "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)",
+        "gpu": "Adreno 619"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "48 MP, f/1.6, (wide), 1/2.0\", 0.8µm, PDAF, OIS\n48 MP, f/2.2, (ultrawide), 1/2.0\", 0.8µm, PDAF\nTOF 3D, (depth)",
+        "features": "Dual-LED dual-tone flash, HDR, panorama",
+        "video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "selfie_camera": {
+        "single": "25 MP, f/2.2, (wide), 1/2.78\", 0.9µm",
+        "features": "HDR",
+        "video": "1080p@30fps, gyro-EIS"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "bluetooth": "5.1, A2DP, LE",
+        "positioning": "GPS, GLONASS, GALILEO, BDS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "USB Type-C 3.0, OTG, DisplayPort"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass\nStandard 5-year warranty"
+      },
+      "battery": {
+        "type": "Li-Ion 3905 mAh, removable",
+        "charging": "20W wired, 50% in 30 min"
+      },
+      "misc": {
+        "colors": "Gray, Green, Speckled Green",
+        "sar_eu": "0.49 W/kg (head)     0.99 W/kg (body)",
+        "price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:38.034Z"
+  }
+]

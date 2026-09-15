@@ -1,0 +1,1209 @@
+[
+  {
+    "sttTong": 12617,
+    "sttHang": 2,
+    "brand": "Vertu",
+    "deviceName": "Vertu Aster",
+    "deviceUrl": "https://www.gsmarena.com/vertu_aster-6726.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-aster1.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-aster1.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4g_bands": "1, 5, 7, 8, 17, 20, 25",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2014, October. Released 2014, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "143.4 x 69 x 11.2 mm (5.65 x 2.72 x 0.44 in)",
+        "weight": "193 g (6.81 oz)",
+        "sim": "Nano-SIM\nTitanium body (forged grade 5) and luxurious calf leather covered rear panel"
+      },
+      "display": {
+        "type": "Sapphire crystal glass",
+        "size": "4.7 inches, 59.9 cm2 (~60.5% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~473 ppi density)",
+        "protection": "Sapphire crystal glass, oleophobic coating"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm Snapdragon 801 (28 nm)",
+        "cpu": "Quad-core 2.3 GHz Krait 400",
+        "gpu": "Adreno 330"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, Hasselblad certified, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2.1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, aptX, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2275 mAh, non-removable",
+        "charging": "Wireless (Qi)",
+        "stand-by": "Up to 380 h (3G)",
+        "talk_time": "Up to 15 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Onyx Calf, Lagoon Calf, Blush Calf, Caviar Karung, Tangerine Karung, Raspberry Ostrich, Cognac Ostrich",
+        "price": "About 5440 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:22.394Z"
+  },
+  {
+    "sttTong": 12621,
+    "sttHang": 6,
+    "brand": "Vertu",
+    "deviceName": "Vertu Constellation",
+    "deviceUrl": "https://www.gsmarena.com/vertu_constellation-4263.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constelation.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constelation.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, October. Released 2011, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118.2 x 54.5 x 12.2 mm (4.65 x 2.15 x 0.48 in)",
+        "weight": "164g - 199g (7.02 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "3.5 inches, 33.8 cm2 (~52.4% screen-to-body ratio)",
+        "resolution": "360 x 640 pixels, 16:9 ratio (~210 ppi density)",
+        "protection": "Shatter proof sapphire crystal glass, oleophobic coating"
+      },
+      "platform": {
+        "os": "Symbian^3, upgradable to Nokia Belle OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)"
+      },
+      "main_camera": {
+        "single": "8 MP",
+        "features": "Dual-LED flash",
+        "video": "720p@25fps, 720p@30fps (via SW update)"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n",
+        "bluetooth": "3.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass\nVertu Concierge service\nSNS support\nMP3/WMA/WAV/eAAC+ player\nDivX/XviD/MP4/H.264/WMV player\nQuickoffice document editor (Word, Excel, PowerPoint, PDF)\nAdobe Reader\nVoice memo/dial/command\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 1200 mAh battery (BL-5K)",
+        "stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+        "talk_time": "Up to 7 h (2G) / Up to 4 h 30 min (3G)"
+      },
+      "misc": {
+        "colors": "Stain/Polished stainless steel, brown/black/pink leather or black alligator skin",
+        "price": "About 2330 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:27.523Z"
+  },
+  {
+    "sttTong": 12622,
+    "sttHang": 7,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ascent Ferrari GT",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ascent_ferrari_gt-3721.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ferrari-gt.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ferrari-gt.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2011, January. Released 2011, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "118 x 45 x 18 mm (4.65 x 1.77 x 0.71 in)",
+        "weight": "187 g (6.60 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~23.3% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSapphire crystal stainless steel keys\nChronograph stopwatch"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "2000 contacts, Photocall",
+        "call_records": "Yes",
+        "internal": "32GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nMP4/H.263 player\nMP3/WAV/AAC+ player\nsynchronization service\nVertu Concierge service\nVertu Fortress secure back up service\nOrganizer\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 4 h 50 min (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Black"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:27.725Z"
+  },
+  {
+    "sttTong": 12623,
+    "sttHang": 8,
+    "brand": "Vertu",
+    "deviceName": "Vertu Constellation Quest",
+    "deviceUrl": "https://www.gsmarena.com/vertu_constellation_quest-3590.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-quest.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-quest.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 10.2/2 Mbps"
+      },
+      "launch": {
+        "announced": "2010, October. Released 2010, December",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "116.2 x 60.8 x 12.7 mm, 87 cc (4.57 x 2.39 x 0.5 in)",
+        "weight": "165-185 g (6.53 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM\nOptical trackpad"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.46 inches, 18.7 cm2 (~26.5% screen-to-body ratio)",
+        "resolution": "640 x 480 pixels, 4:3 ratio (~325 ppi density)"
+      },
+      "platform": {
+        "os": "Symbian OS"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot), 32 GB included",
+        "internal": "8GB"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "2.1, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "Stereo FM radio, RDS",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, compass",
+        "browser": "WAP 2.0/xHTML, HTML\nFacebook, Twitter apps\nMP4/H.263 player\nMP3/WMA/WAV/eAAC+ player\nQuickOffice editor (Word, Excel, PowerPoint)\nPDF viewer\nVoice memo/dial/commands\nOrganizer\nVertu Concierge service\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Po 1500 mAh battery",
+        "stand-by": "Up to 350 h (2G) / Up to 430 h (3G)",
+        "talk_time": "Up to 7 h 30 min (2G) / Up to 5 h 40 min (3G)"
+      },
+      "misc": {
+        "colors": "Silver, Pink, Black, Brown, Yellow Gold, Carbon fibre with gold, Carbon fibre",
+        "price": "About 6140 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:30.749Z"
+  },
+  {
+    "sttTong": 12625,
+    "sttHang": 10,
+    "brand": "Vertu",
+    "deviceName": "Vertu Constellation Ayxta",
+    "deviceUrl": "https://www.gsmarena.com/vertu_constellation_ayxta-2990.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-ayxta.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-ayxta.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "Class 10"
+      },
+      "launch": {
+        "announced": "2009, September. Released 2009, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "100 x 48 x 18 mm, 74 cc (3.94 x 1.89 x 0.71 in)",
+        "weight": "175 g (6.17 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.4 inches, 16.4 cm2 (~34.2% screen-to-body ratio)",
+        "resolution": "240 x 400 pixels, 5:3 ratio (~194 ppi density)",
+        "protection": "Scratch-resistant glass\nExternal monochrome display, 128 x 160 pixels"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "phonebook": "2000 contacts, Photocall",
+        "call_records": "30 received, dialed and missed calls",
+        "internal": "100MB\n1500 calendar notes\n1000 SMS"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "GPS, A-GPS; Google maps",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0 / xHTML",
+        "games": "Yes",
+        "languages": "Yes",
+        "java": "Yes, MIDP 2.0\nMP4/H.264/WMV player\nMP3/eAAC+/WMA player\nOrganizer\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 1000 mAh battery (BL-4UV)",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Black, Dark Brown",
+        "price": "About 5020 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:32.316Z"
+  },
+  {
+    "sttTong": 12628,
+    "sttHang": 13,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ascent Ti",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ascent_ti-2752.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ti.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ti.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007, July. Released 2008, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.5 x 49 x 13.1 mm, 74 cc (4.55 x 1.93 x 0.52 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1500 entries",
+        "internal": "4GB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "Yes\nOrganizer\nVertu Fortress Wireless synchronization service\nVertu Concierge service\nStainless steel keys\nCeramic ear pillow\nVoice dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h (2G) / Up to 3 h (3G)"
+      },
+      "misc": {
+        "colors": "Carbon Fibre, Black, Brown, Red, Knurled, Checked",
+        "price": "About 5530 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:36.641Z"
+  },
+  {
+    "sttTong": 12627,
+    "sttHang": 12,
+    "brand": "Vertu",
+    "deviceName": "Vertu Signature S",
+    "deviceUrl": "https://www.gsmarena.com/vertu_signature_s-2753.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-s.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-s.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 850 / 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2007. Released 2008, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "130 x 42 x 13 mm, 65 cc (5.12 x 1.65 x 0.51 in)",
+        "weight": "From 166 g to 238 g (5.86 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~22.7% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "2000 entries",
+        "internal": "4GB"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP, xHTML",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "No\nOrganizer\nVertu Fortress Wireless synchronization service\nVertu Concierge service\nFront made of sapphire\n4.75 carats ruby bearings for the keys\nVoice memo\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h (2G) / Up to 3 h (3G)"
+      },
+      "misc": {
+        "colors": "White Gold, Yellow Gold, Stainless Steel",
+        "price": "About 5160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:36.719Z"
+  },
+  {
+    "sttTong": 12624,
+    "sttHang": 9,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ascent 2010",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ascent_2010-3264.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-2010.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-2010.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA"
+      },
+      "launch": {
+        "announced": "2010, April. Released 2010, April",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "117 x 46 x 19 mm, 82 cc (4.61 x 1.81 x 0.75 in)",
+        "weight": "170 g (6.00 oz)",
+        "sim": "Mini-SIM\nFlashlight"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~23.0% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)\nSapphire crystal stainless steel keys\nChronograph stopwatch"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "2000 contacts, Photocall",
+        "call_records": "Yes",
+        "internal": "8GB (Aluminium), 32GB (Titanium)"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "features": "LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0, A2DP",
+        "positioning": "GPS, A-GPS",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer",
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP 2.0/xHTML, HTML",
+        "games": "Yes",
+        "java": "Yes, MIDP 2.0\nOrganizer\nMP4/H.263 player\nMP3/WAV/AAC+ player\nsynchronization service\nVertu Concierge service\nVertu Fortress secure back up service\nVoice memo/dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+        "talk_time": "Up to 5 h (2G) / Up to 4 h (3G)"
+      },
+      "misc": {
+        "colors": "Aluminium and Titanium versions with various colors"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:39.811Z"
+  },
+  {
+    "sttTong": 12629,
+    "sttHang": 14,
+    "brand": "Vertu",
+    "deviceName": "Vertu Constellation 2006",
+    "deviceUrl": "https://www.gsmarena.com/vertu_constellation_2006-1766.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_constellation.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_constellation.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "Yes"
+      },
+      "launch": {
+        "announced": "2006, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "109 x 45 x 15.7 mm, 66 cc (4.29 x 1.77 x 0.62 in)",
+        "weight": "140 g / 160 g (5.29 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 256K colors",
+        "protection": "Scratch-resistant glass"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "undefined\n220 calendar notes\n100 SMS"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "2.0",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "Yes, MIDP 2.0\nAudio/video player\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion battery",
+        "stand-by": "Up to 250 h",
+        "talk_time": "Up to 5 h 30 min"
+      },
+      "misc": {
+        "colors": "Pink, Dark Brown, Tan, Black, Yellow Gold",
+        "price": "About 2800 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:41.479Z"
+  },
+  {
+    "sttTong": 12620,
+    "sttHang": 5,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ti",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ti-5297.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ti.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ti.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, February. Released 2013, February",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "-",
+        "weight": "-",
+        "sim": "Mini-SIM\nTitanium body (grade 5)"
+      },
+      "display": {
+        "type": "Sapphire crystal glass",
+        "size": "3.7 inches, 39.0 cm2",
+        "resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "platform": {
+        "os": "Android 4.0 (Ice Cream Sandwich)",
+        "cpu": "Dual-core 1.7 GHz"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "64GB 1GB RAM"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (Bang&Olufsen)",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP",
+        "positioning": "GPS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion, non-removable"
+      },
+      "misc": {
+        "colors": "Black/Gray",
+        "price": "About 7900 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:43.189Z"
+  },
+  {
+    "sttTong": 12616,
+    "sttHang": 1,
+    "brand": "Vertu",
+    "deviceName": "Vertu Signature Touch (2015)",
+    "deviceUrl": "https://www.gsmarena.com/vertu_signature_touch_(2015)-7586.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-touch-2015.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-touch-2015.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\nTD-SCDMA",
+        "4g_bands": "1, 5, 7, 8, 13, 17, 20, 25, 28, 29, 38, 39, 40, 41",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "launch": {
+        "announced": "2015, September. Released 2015, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "155 x 74 x 10.8 mm (6.10 x 2.91 x 0.43 in)",
+        "weight": "225-236 g (8.32 oz)",
+        "sim": "Micro-SIM\nTitanium body (forged grade 5) and luxurious calf leather covered rear panel"
+      },
+      "display": {
+        "type": "Sapphire crystal glass",
+        "size": "5.2 inches, 74.5 cm2 (~65.0% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "protection": "Sapphire crystal glass"
+      },
+      "platform": {
+        "os": "Android 5.1 (Lollipop)",
+        "chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+        "cpu": "Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)",
+        "gpu": "Adreno 430"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "64GB 4GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "21 MP, PDAF",
+        "features": "Dual-LED dual-tone flash, panorama, HDR",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "2.1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE, aptX",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0 (MHL), OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 3160 mAh, non-removable",
+        "charging": "18W wired, QC2\nWireless (Qi)"
+      },
+      "misc": {
+        "colors": "Jet Calf, Garnet Calf, Grape Lizard, Pure Jet Lizard, Jet Alligator, Pure Navy Alligator, Clous de Paris Alligator, Pure Jet Red Gold",
+        "price": "About 9000 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:44.089Z"
+  },
+  {
+    "sttTong": 12631,
+    "sttHang": 16,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ascent",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ascent-1219.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_ascent.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_ascent.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "108 x 44 x 22 mm, 78 cc (4.25 x 1.73 x 0.87 in)",
+        "weight": "173 g (6.10 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "resolution": "116 x 148 pixels",
+        "protection": "Scratch-resistant glass\nCrystal Fine technology"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "undefined\n220 calendar notes\n100 SMS"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "No\nPredictive text input\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 780 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Yellow, Blue, Red, Black, Brown, Tan",
+        "price": "About 3320 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:56.239Z"
+  },
+  {
+    "sttTong": 12618,
+    "sttHang": 3,
+    "brand": "Vertu",
+    "deviceName": "Vertu Signature Touch",
+    "deviceUrl": "https://www.gsmarena.com/vertu_signature_touch-6374.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-touch-clous-de-paris.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-signature-touch-clous-de-paris.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4g_bands": "1, 5, 7, 8, 17, 20, 25",
+        "speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "launch": {
+        "announced": "2014, June. Released 2014, June",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "145 x 69 x 10.7 mm (5.71 x 2.72 x 0.42 in)",
+        "weight": "192 g (6.77 oz)",
+        "sim": "Micro-SIM\nTitanium body (forged grade 5) and luxurious calf leather covered rear panel"
+      },
+      "display": {
+        "type": "Sapphire crystal glass",
+        "size": "4.7 inches, 60.9 cm2 (~60.9% screen-to-body ratio)",
+        "resolution": "1080 x 1920 pixels, 16:9 ratio (~469 ppi density)",
+        "protection": "Scratch-proof glass"
+      },
+      "platform": {
+        "os": "Android 4.4.2 (KitKat)",
+        "chipset": "Qualcomm Snapdragon 801 (28 nm)",
+        "cpu": "Quad-core 2.3 GHz Krait 400",
+        "gpu": "Adreno 330"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "64GB 2GB RAM\neMMC 5.0"
+      },
+      "main_camera": {
+        "single": "13 MP, Hasselblad certified, AF",
+        "features": "Dual-LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2.1 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes\nTuned by Bang & Olufsen"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 2275 mAh, non-removable",
+        "stand-by": "Up to 380 h",
+        "talk_time": "Up to 15 h 30 min"
+      },
+      "misc": {
+        "colors": "Jet/ Claret leather, pure Jet leather, pure Jet red gold, Seaspray/ Damson/ Pure navy lizard, Jet alligator, Clous De Paris",
+        "sar": "0.69 W/kg (head)     1.29 W/kg (body)",
+        "sar_eu": "0.49 W/kg (head)",
+        "price": "About 8290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:55:59.425Z"
+  },
+  {
+    "sttTong": 12619,
+    "sttHang": 4,
+    "brand": "Vertu",
+    "deviceName": "Vertu Constellation 2013",
+    "deviceUrl": "https://www.gsmarena.com/vertu_constellation_2013-5868.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-2013.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-constellation-2013.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "launch": {
+        "announced": "2013, October. Released 2013, October",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142.2 x 70.4 x 11.2 mm (5.60 x 2.77 x 0.44 in)",
+        "weight": "179 g (6.31 oz)",
+        "sim": "Nano-SIM\nTitanium body (forged grade 5) and luxurious calf leather covered rear panel"
+      },
+      "display": {
+        "type": "Sapphire crystal glass",
+        "size": "4.3 inches, 51.0 cm2 (~50.9% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~342 ppi density)",
+        "protection": "Scratch-proof glass"
+      },
+      "platform": {
+        "os": "Android 4.2.2 (Jelly Bean)",
+        "cpu": "Dual-core 1.7 GHz"
+      },
+      "memory": {
+        "card_slot": "No",
+        "internal": "32GB"
+      },
+      "main_camera": {
+        "single": "13 MP, AF",
+        "features": "Dual-LED flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "1.3 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, built-in amplifier",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "bluetooth": "4.0, A2DP, LE",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Li-Ion 1800 mAh, non-removable",
+        "stand-by": "Up to 405 h (3G)",
+        "talk_time": "Up to 14 h 30 min (3G)",
+        "music_play": "Up to 43 h"
+      },
+      "misc": {
+        "colors": "Cappuccino, Black, Orange, Mocha, Raspberry, Pure Navy Alligator, Pure Plum Alligator",
+        "sar": "0.68 W/kg (head)     0.98 W/kg (body)",
+        "sar_eu": "0.49 W/kg (head)",
+        "price": "About 5000 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:56:33.257Z"
+  },
+  {
+    "sttTong": 12626,
+    "sttHang": 11,
+    "brand": "Vertu",
+    "deviceName": "Vertu Ascent Ti Damascus Steel",
+    "deviceUrl": "https://www.gsmarena.com/vertu_ascent_ti_damascus_steel-2822.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ti-damascus-steel.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu-ascent-ti-damascus-steel.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2009, June. Released 2009, Q3",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "115.5 x 49 x 13.1 mm, 74 cc (4.55 x 1.93 x 0.52 in)",
+        "weight": "160 g (5.64 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 16M colors",
+        "size": "2.0 inches, 12.4 cm2 (~21.9% screen-to-body ratio)",
+        "resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "protection": "Scratch-resistant glass"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1500 entries",
+        "internal": "4GB"
+      },
+      "main_camera": {
+        "single": "3.15 MP, AF",
+        "features": "LED flash",
+        "video": "No"
+      },
+      "selfie_camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "Yes",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "microUSB"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "Yes\nOrganizer\nVertu Fortress Wireless synchronization service\nVertu Concierge service\nStainless steel keys\nCeramic ear pillow\nVoice dial\nPredictive text input"
+      },
+      "battery": {
+        "type": "Non-removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 300 h",
+        "talk_time": "Up to 5 h (2G) / Up to 3 h (3G)"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T16:56:42.305Z"
+  },
+  {
+    "sttTong": 12632,
+    "sttHang": 17,
+    "brand": "Vertu",
+    "deviceName": "Vertu Signature",
+    "deviceUrl": "https://www.gsmarena.com/vertu_signature-1218.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_signature.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_signature.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 42 x 15.5 mm, 78 cc (4.80 x 1.65 x 0.61 in)",
+        "weight": "173 g - 215 g (7.05 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFD, 4096 colors",
+        "protection": "Scratch-resistant glass"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "undefined\n220 calendar notes\n100 SMS"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 950 mAh battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 8 h"
+      },
+      "misc": {
+        "price": "About 5900 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:56:48.359Z"
+  },
+  {
+    "sttTong": 12630,
+    "sttHang": 15,
+    "brand": "Vertu",
+    "deviceName": "Vertu Diamond",
+    "deviceUrl": "https://www.gsmarena.com/vertu_diamond-1541.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_diamond.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/vertu_diamond.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2005",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "122 x 42 x 15.5 mm, 78 cc (4.80 x 1.65 x 0.61 in)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "protection": "Scratch-resistant glass\nKey switches with jewelled bearings"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "1000 entries",
+        "call_records": "undefined\n220 calendar notes\n100 SMS"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "messaging": "SMS, MMS, Email",
+        "browser": "WAP",
+        "games": "Yes",
+        "languages": "English, French, Italian, German, Spanish, Chinese",
+        "java": "No\nPredictive text input\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery"
+      },
+      "misc": {
+        "colors": "Yellow, Blue, Red, Black, Brown, Tan",
+        "price": "About 5160 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T16:56:48.856Z"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "sttTong": 2699,
+    "sttHang": 1,
+    "brand": "Fujitsu Siemens",
+    "deviceName": "Fujitsu Siemens T830",
+    "deviceUrl": "https://www.gsmarena.com/fujitsu_siemens_t830-1954.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fs-t810.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fs-t810.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 64 x 21 mm (4.96 x 2.52 x 0.83 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 18.6 cm2 (~23.0% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~141 ppi density)\n5-way navigation key"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Phone Edition",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "single": "2 MP, AF",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "VGA videocall camera"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF GCS3F receiver",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nSiRF GCS3F receiver\nVideo telephony\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:39.630Z"
+  },
+  {
+    "sttTong": 2700,
+    "sttHang": 2,
+    "brand": "Fujitsu Siemens",
+    "deviceName": "Fujitsu Siemens T810",
+    "deviceUrl": "https://www.gsmarena.com/fujitsu_siemens_t810-1953.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/fs-t810.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/fs-t810.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM / UMTS",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "3g_bands": "UMTS 2100",
+        "speed": "Yes, 384 kbps"
+      },
+      "launch": {
+        "announced": "2006, August",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "126 x 64 x 21 mm (4.96 x 2.52 x 0.83 in)",
+        "weight": "190 g (6.70 oz)",
+        "keyboard": "QWERTY",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT resistive touchscreen, 65K colors",
+        "size": "2.4 inches, 18.6 cm2 (~23.0% screen-to-body ratio)",
+        "resolution": "240 x 240 pixels, 1:1 ratio (~141 ppi density)\n5-way navigation key"
+      },
+      "platform": {
+        "os": "Microsoft Windows Mobile 5.0 Phone Edition",
+        "cpu": "Intel PXA272 416 MHz"
+      },
+      "memory": {
+        "card_slot": "SD",
+        "internal": "64MB RAM, 128MB ROM"
+      },
+      "main_camera": {
+        "extra_info": "No"
+      },
+      "selfie_camera": {
+        "single": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11b/g",
+        "bluetooth": "2.0",
+        "positioning": "GPS, SiRF GCS3F receiver",
+        "radio": "No",
+        "usb": "Proprietary"
+      },
+      "features": {
+        "browser": "HTML (PocketIE)\nPocket Office \nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nOrganizer\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 1500 mAh battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 4 h"
+      },
+      "misc": {
+        "colors": "Silver"
+      }
+    },
+    "scrapedAt": "2026-09-06T00:51:45.657Z"
+  }
+]

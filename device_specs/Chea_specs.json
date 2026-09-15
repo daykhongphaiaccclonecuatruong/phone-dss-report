@@ -1,0 +1,746 @@
+[
+  {
+    "sttTong": 2180,
+    "sttHang": 1,
+    "brand": "Chea",
+    "deviceName": "Chea A90",
+    "deviceUrl": "https://www.gsmarena.com/chea_a90-651.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/cha90.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/cha90.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 10",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "86 x 44 x 21 mm (3.39 x 1.73 x 0.83 in)",
+        "weight": "82.8 g (2.89 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 4096 colors",
+        "resolution": "128 x 160 pixels\nWallpapers\nDownloadable image"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "500"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Downloadable polyphonic ringtones",
+        "35mm_jack": "No\nKaraoke\nDownloadable karaoke"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "browser": "WAP 1.2.1",
+        "languages": "English,Spanish",
+        "java": "No"
+      },
+      "battery": {
+        "type": "Removable battery"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:38:54.183Z"
+  },
+  {
+    "sttTong": 2181,
+    "sttHang": 2,
+    "brand": "Chea",
+    "deviceName": "Chea JMS-110",
+    "deviceUrl": "https://www.gsmarena.com/chea_jms_110-650.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/chjms110.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/chjms110.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800 / 1900",
+        "gprs": "Class 8",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2004, Q1",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "50.3 x 94 x 24 mm (1.98 x 3.70 x 0.94 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "CSTN, 256 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nWallpapers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "300"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic(16) ringtones",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, EMS",
+        "browser": "WAP",
+        "java": "No\nPredictive text input"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 720 mAh battery",
+        "stand-by": "Up to 240 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:38:54.442Z"
+  },
+  {
+    "sttTong": 2182,
+    "sttHang": 3,
+    "brand": "Chea",
+    "deviceName": "Chea 328",
+    "deviceUrl": "https://www.gsmarena.com/chea_328-505.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch328.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch328.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "109 x 45 x 18 mm (4.29 x 1.77 x 0.71 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 4096 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2",
+        "games": "3",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice dial\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:38:56.257Z"
+  },
+  {
+    "sttTong": 2183,
+    "sttHang": 4,
+    "brand": "Chea",
+    "deviceName": "Chea 318",
+    "deviceUrl": "https://www.gsmarena.com/chea_318-504.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch318.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch318.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "109 x 45 x 18 mm (4.29 x 1.77 x 0.71 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 4096 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2",
+        "games": "3",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice dial\nVoice memo"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:38:58.570Z"
+  },
+  {
+    "sttTong": 2185,
+    "sttHang": 6,
+    "brand": "Chea",
+    "deviceName": "Chea 228",
+    "deviceUrl": "https://www.gsmarena.com/chea_228-502.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch228.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch228.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 20.5 mm (3.35 x 1.77 x 0.81 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external FSTN monochrome display (96 x 64 pixels)\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "4",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice memo \nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:38:59.149Z"
+  },
+  {
+    "sttTong": 2184,
+    "sttHang": 5,
+    "brand": "Chea",
+    "deviceName": "Chea 308",
+    "deviceUrl": "https://www.gsmarena.com/chea_308-503.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch308.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch308.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "109 x 45 x 18 mm (4.29 x 1.77 x 0.71 in)",
+        "weight": "77 g (2.72 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "STN, 4096 colors",
+        "resolution": "128 x 128 pixels, 1:1 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2",
+        "games": "3",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 150 h",
+        "talk_time": "Up to 5 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:00.060Z"
+  },
+  {
+    "sttTong": 2186,
+    "sttHang": 7,
+    "brand": "Chea",
+    "deviceName": "Chea 218",
+    "deviceUrl": "https://www.gsmarena.com/chea_218-501.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch218.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch218.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 20 mm (3.35 x 1.77 x 0.79 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external FSTN monochrome display (96 x 64 pixels)\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "games": "4",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice memo \nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:01.153Z"
+  },
+  {
+    "sttTong": 2189,
+    "sttHang": 10,
+    "brand": "Chea",
+    "deviceName": "Chea 188",
+    "deviceUrl": "https://www.gsmarena.com/chea_188-498.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch188.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch188.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 20 mm (4.17 x 1.77 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, monochrome graphics",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "languages": "Major European languages",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:03.983Z"
+  },
+  {
+    "sttTong": 2188,
+    "sttHang": 9,
+    "brand": "Chea",
+    "deviceName": "Chea 198",
+    "deviceUrl": "https://www.gsmarena.com/chea_198-499.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch198.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch198.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 20 mm (4.17 x 1.77 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, monochrome graphics",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "languages": "Major European languages",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:04.128Z"
+  },
+  {
+    "sttTong": 2187,
+    "sttHang": 8,
+    "brand": "Chea",
+    "deviceName": "Chea 208",
+    "deviceUrl": "https://www.gsmarena.com/chea_208-500.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch208.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch208.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "Yes",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q3",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "85 x 45 x 20 mm (3.35 x 1.77 x 0.79 in)",
+        "weight": "74 g (2.61 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "TFT, 65K colors",
+        "resolution": "128 x 160 pixels\nSecond external FSTN monochrome display (96 x 64 pixels)\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "150"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "No",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS, MMS",
+        "browser": "WAP 1.2.1",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "4",
+        "languages": "English",
+        "java": "Yes\nOrganizer\nVoice memo \nVoice dial"
+      },
+      "battery": {
+        "type": "Removable Li-Ion battery",
+        "stand-by": "Up to 200 h",
+        "talk_time": "Up to 2 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:04.406Z"
+  },
+  {
+    "sttTong": 2190,
+    "sttHang": 11,
+    "brand": "Chea",
+    "deviceName": "Chea 178",
+    "deviceUrl": "https://www.gsmarena.com/chea_178-497.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch178.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch178.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 20 mm (4.17 x 1.77 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, monochrome graphics",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "languages": "Major European languages",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:06.011Z"
+  },
+  {
+    "sttTong": 2191,
+    "sttHang": 12,
+    "brand": "Chea",
+    "deviceName": "Chea 168",
+    "deviceUrl": "https://www.gsmarena.com/chea_168-496.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch168.gif",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ch168.gif",
+    "specs": {
+      "network": {
+        "technology": "GSM",
+        "2g_bands": "GSM 900 / 1800",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2003, Q2",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "106 x 45 x 20 mm (4.17 x 1.77 x 0.79 in)",
+        "weight": "80 g (2.82 oz)",
+        "sim": "Mini-SIM"
+      },
+      "display": {
+        "type": "FSTN, monochrome graphics",
+        "resolution": "112 x 64 pixels, 16:9 ratio\nScreensavers"
+      },
+      "memory": {
+        "card_slot": "No",
+        "phonebook": "100"
+      },
+      "camera": {
+        "extra_info": "No"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "alert_types": "Vibration; Polyphonic ringtones, composer",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "No",
+        "bluetooth": "No",
+        "positioning": "No",
+        "radio": "No"
+      },
+      "features": {
+        "messaging": "SMS",
+        "clock": "Yes",
+        "alarm": "Yes",
+        "games": "3",
+        "languages": "Major European languages",
+        "java": "No\nPredictive text input\nOrganizer"
+      },
+      "battery": {
+        "type": "Removable Li-Ion 650 mAh battery",
+        "stand-by": "Up to 160 h",
+        "talk_time": "Up to 3 h"
+      },
+      "misc": {}
+    },
+    "scrapedAt": "2026-09-06T00:39:06.370Z"
+  }
+]

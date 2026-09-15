@@ -1,0 +1,373 @@
+[
+  {
+    "sttTong": 4633,
+    "sttHang": 1,
+    "brand": "Jolla",
+    "deviceName": "Jolla Phone",
+    "deviceUrl": "https://www.gsmarena.com/jolla_phone_5g-14342.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-phone-5g.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-phone-5g.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4g_bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+        "5g_bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "speed": "HSPA, LTE, 5G"
+      },
+      "launch": {
+        "announced": "2025, December 08",
+        "status": "Available. Released 2026, July 08"
+      },
+      "body": {
+        "dimensions": "157 x 74 x 9.7 mm (6.18 x 2.91 x 0.38 in)",
+        "weight": "208 g (7.34 oz)",
+        "sim": "Nano-SIM + Nano-SIM\nSwappable rear cover"
+      },
+      "display": {
+        "type": "AMOLED",
+        "size": "6.36 inches, 101.5 cm2 (~87.4% screen-to-body ratio)",
+        "resolution": "1080 x 2260 pixels*, 19:9 ratio (~394 ppi density)",
+        "protection": "Corning Gorilla Glass\n* speculative display resolution"
+      },
+      "platform": {
+        "os": "Sailfish 5.0, up to 5 major OS upgrades, Android OS apps support",
+        "chipset": "Mediatek Dimensity 7100 (6 nm)",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G610 MC2"
+      },
+      "memory": {
+        "card_slot": "microSDXC (dedicated slot)",
+        "internal": "128GB 8GB RAM, 256GB 12GB RAM\nUFS 3.1"
+      },
+      "main_camera": {
+        "dual": "50 MP, (wide), 1/1.56\", 1.0µm, PDAF\n13 MP, (ultrawide), 1/3.06\", 1.12µm",
+        "features": "LED flash, HDR, panorama",
+        "video": "4K, 1080p"
+      },
+      "selfie_camera": {
+        "single": "32 MP, (wide), 1/2.74\"",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers (unconfirmed)",
+        "35mm_jack": "No"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "bluetooth": "5.4, A2DP, LE",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "Yes",
+        "radio": "Unspecified",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "battery": {
+        "type": "Si/C Li-Ion 5450 mAh, user replaceable"
+      },
+      "misc": {
+        "colors": "Orange, Snow White, Kaamos Black",
+        "price": "About 500 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:10.168Z"
+  },
+  {
+    "sttTong": 4634,
+    "sttHang": 2,
+    "brand": "Jolla",
+    "deviceName": "Jolla C2",
+    "deviceUrl": "https://www.gsmarena.com/jolla_c2-14369.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-c2.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-c2.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4g_bands": "LTE",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2024",
+        "status": "Available. Released 2024"
+      },
+      "body": {
+        "dimensions": "179 x 78 x 8.5 mm (7.05 x 3.07 x 0.33 in)",
+        "weight": "-",
+        "sim": "Nano-SIM + Nano-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.52 inches, 102.6 cm2 (~73.5% screen-to-body ratio)",
+        "resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "platform": {
+        "os": "Sailfish 5.0, Android OS apps support",
+        "chipset": "Unisoc T606 (12 nm)",
+        "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MP1"
+      },
+      "memory": {
+        "card_slot": "microSDXC",
+        "internal": "128GB 8GB RAM"
+      },
+      "main_camera": {
+        "dual": "64 MP, (wide), PDAF\n16 MP, (ultrawide)\n8 MP, (macro)",
+        "features": "Dual-LED, dual-tone flash",
+        "video": "Yes"
+      },
+      "selfie_camera": {
+        "single": "8 MP",
+        "video": "Yes"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "bluetooth": "5.0, A2DP",
+        "positioning": "GPS, GALILEO, GLONASS, BDS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "USB Type-C"
+      },
+      "features": {
+        "sensors": "Accelerometer"
+      },
+      "battery": {
+        "type": "4000 mAh"
+      },
+      "misc": {
+        "colors": "Gray",
+        "price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:11.593Z"
+  },
+  {
+    "sttTong": 4635,
+    "sttHang": 3,
+    "brand": "Jolla",
+    "deviceName": "Jolla Jolla C",
+    "deviceUrl": "https://www.gsmarena.com/jolla_jolla_c-8127.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-c.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-c.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3g_bands": "HSDPA 850 / 900 / 2100",
+        "4g_bands": "1, 3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2016, May. Released 2016, May",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "142 x 72 x 9.6 mm (5.59 x 2.83 x 0.38 in)",
+        "weight": "150 g (5.29 oz)",
+        "sim": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "5.0 inches, 68.9 cm2 (~67.4% screen-to-body ratio)",
+        "resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "platform": {
+        "os": "Sailfish 2.0",
+        "chipset": "Qualcomm MSM8909v2 Snapdragon 212 (28 nm)",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "gpu": "Adreno 304"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 2GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, proximity\nAndroid app compatibility\nMP4/H.264/WMV player\nMP3/eAAC+/WMA/WAV/Flac player\nDocument viewer\nPhoto viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 2500 mAh, removable (7.98 Wh)"
+      },
+      "misc": {
+        "colors": "Black/Red",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:13.951Z"
+  },
+  {
+    "sttTong": 4636,
+    "sttHang": 4,
+    "brand": "Jolla",
+    "deviceName": "Jolla Tablet",
+    "deviceUrl": "https://www.gsmarena.com/jolla_tablet-6816.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-tablet.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-tablet.jpg",
+    "specs": {
+      "network": {
+        "technology": "No cellular connectivity",
+        "2g_bands": "N/A",
+        "gprs": "No",
+        "edge": "No"
+      },
+      "launch": {
+        "announced": "2014, November",
+        "status": "Cancelled"
+      },
+      "body": {
+        "dimensions": "203 x 137 x 8.3 mm (7.99 x 5.39 x 0.33 in)",
+        "weight": "384 g (13.55 oz)",
+        "sim": "No"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "7.85 inches, 186.2 cm2 (~67.0% screen-to-body ratio)",
+        "resolution": "1536 x 2048 pixels, 4:3 ratio (~330 ppi density)"
+      },
+      "platform": {
+        "os": "Sailfish 2.0",
+        "chipset": "Intel Atom Z3735F",
+        "cpu": "Quad-core 1.8 GHz"
+      },
+      "memory": {
+        "card_slot": "microSD, up to 128 GB (dedicated slot) - non microSDXC compliant",
+        "internal": "32GB 2GB RAM, 64GB 2GB RAM"
+      },
+      "main_camera": {
+        "single": "5 MP, AF",
+        "video": "1080p@60fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP"
+      },
+      "sound": {
+        "loudspeaker": "Yes, with stereo speakers",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "bluetooth": "3.0",
+        "positioning": "A-GPS, GLONASS",
+        "nfc": "No",
+        "radio": "No",
+        "usb": "microUSB 2.0, OTG"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nAndroid app compatibility\nMP4/H.264 player\nMP3/WAV/eAAC+ player\nPhoto/video editor\nDocument viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 4450 mAh, non-removable"
+      },
+      "misc": {
+        "colors": "Black",
+        "price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:14.121Z"
+  },
+  {
+    "sttTong": 4637,
+    "sttHang": 5,
+    "brand": "Jolla",
+    "deviceName": "Jolla Jolla",
+    "deviceUrl": "https://www.gsmarena.com/jolla_jolla-5457.php",
+    "thumbnailUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-jolla.jpg",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/jolla-jolla.jpg",
+    "specs": {
+      "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g_bands": "GSM 850 / 900 / 1800 / 1900",
+        "3g_bands": "HSDPA 900 / 2100",
+        "4g_bands": "3, 7, 20",
+        "speed": "HSPA, LTE"
+      },
+      "launch": {
+        "announced": "2013, May. Released 2013, November",
+        "status": "Discontinued"
+      },
+      "body": {
+        "dimensions": "131 x 68 x 9.9 mm (5.16 x 2.68 x 0.39 in)",
+        "weight": "141 g (4.97 oz)",
+        "sim": "Micro-SIM"
+      },
+      "display": {
+        "type": "IPS LCD",
+        "size": "4.5 inches, 55.8 cm2 (~62.7% screen-to-body ratio)",
+        "resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+        "protection": "Corning Gorilla Glass 2"
+      },
+      "platform": {
+        "os": "Sailfish 1, upgradable to 2.0",
+        "chipset": "Qualcomm Snapdragon 400 (28 nm)",
+        "cpu": "Dual-core 1.4 GHz Krait 300",
+        "gpu": "Adreno 305"
+      },
+      "memory": {
+        "card_slot": "microSDHC (dedicated slot)",
+        "internal": "16GB 1GB RAM\neMMC 4.5"
+      },
+      "main_camera": {
+        "single": "8 MP, f/2.4, AF",
+        "features": "LED flash",
+        "video": "1080p@30fps"
+      },
+      "selfie_camera": {
+        "single": "2 MP",
+        "video": "720p"
+      },
+      "sound": {
+        "loudspeaker": "Yes",
+        "35mm_jack": "Yes"
+      },
+      "comms": {
+        "wlan": "Wi-Fi 802.11 b/g/n, hotspot",
+        "bluetooth": "4.0, A2DP, EDR",
+        "positioning": "GPS, GLONASS",
+        "nfc": "Yes",
+        "radio": "No",
+        "usb": "2.0"
+      },
+      "features": {
+        "sensors": "Accelerometer, gyro, proximity, compass\nAndroid app compatibility\nMP4/H.264/WMV player\nMP3/eAAC+/WMA/WAV/Flac player\nDocument viewer\nPhoto viewer"
+      },
+      "battery": {
+        "type": "Li-Ion 2100 mAh, removable (7.98 Wh)",
+        "stand-by": "Up to 500 h (2G) / Up to 500 h (3G)",
+        "talk_time": "Up to 9 h (2G) / Up to 10 h (3G)"
+      },
+      "misc": {
+        "colors": "Black, Orange, Green, White",
+        "sar_eu": "0.55 W/kg (head)     1.47 W/kg (body)",
+        "price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-09-06T02:09:14.546Z"
+  }
+]

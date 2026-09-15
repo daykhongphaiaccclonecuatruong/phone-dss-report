@@ -1,0 +1,59 @@
+{
+  "CellphoneS": {
+    "htmlItems": 54,
+    "nextData": "None",
+    "api": "API error: Request failed with status code 404",
+    "sampleCards": [
+      "iPhone 17 Pro Max 256GB | Chính hãng Trả góp 0% : 34.590.000đ 37.990.000đ Giảm 9% 6.9 inches256 GB Trả góp 0% - 0đ phụ phí - 0đ trả trước - kỳ hạn đến 6 tháng 2 Giờ 5 Yêu thích Trả góp 0%",
+      "iPhone 17 Pro 256GB | Chính hãng Trả góp 0% : 31.790.000đ 34.990.000đ Giảm 9% 6.3 inches256 GB Trả góp 0% - 0đ phụ phí - 0đ trả trước - kỳ hạn đến 6 tháng 2 Giờ 5 Yêu thích Trả góp 0%"
+    ]
+  },
+  "HoangHaMobile": {
+    "htmlItems": 82,
+    "sampleProducts": [
+      {
+        "title": "",
+        "price": ""
+      }
+    ],
+    "pagination": []
+  },
+  "TGDD": {
+    "htmlItems": 70,
+    "sampleProducts": [
+      {
+        "title": "",
+        "price": "41.990.000₫",
+        "link": "/dtdd/iphone-18-pro-max"
+      },
+      {
+        "title": "",
+        "price": ""
+      },
+      {
+        "title": "",
+        "price": ""
+      }
+    ],
+    "pagination": "javascript:;"
+  },
+  "FPTShop": {
+    "htmlItems": 0,
+    "nextData": "None",
+    "sampleProducts": []
+  },
+  "DiDongViet": {
+    "htmlItems": 0,
+    "sampleProducts": []
+  },
+  "ViettelStore": {
+    "htmlItems": 1,
+    "sampleProducts": [
+      {
+        "title": "",
+        "price": "",
+        "link": "/chinh-sach-bao-hanh.html"
+      }
+    ]
+  }
+}
