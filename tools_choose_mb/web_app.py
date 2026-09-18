@@ -17,6 +17,7 @@ from recommender import (
     load_data,
     recommend,
 )
+from ml_model import evaluate_model
 
 
 NO_BRAND = "Không khóa hãng"
@@ -109,6 +110,9 @@ def score_bar(label, value, color="#0f766e"):
 
 def score_breakdown(row):
     return {
+        "Điểm cuối DSS + ML": row.get("final_score", 0),
+        "Dự đoán ML": row.get("ml_score", row.get("final_score", 0)),
+        "Điểm MCDA": row.get("mcda_score", row.get("final_score", 0)),
         "Gaming": row.get("gaming_score", 0),
         "Camera": row.get("camera_score", 0),
         "Pin": row.get("battery_score", 0),
@@ -126,6 +130,11 @@ def load_base_data():
 @st.cache_data(show_spinner=False)
 def load_condition_data(condition):
     return add_price_data(load_data(), condition)
+
+
+@st.cache_data(show_spinner=False)
+def load_ml_evaluation(condition):
+    return evaluate_model(load_condition_data(condition))
 
 
 @st.cache_data(show_spinner=False)
@@ -320,9 +329,9 @@ def render_formula(priorities):
     st.markdown(
         f"""
         <div class="formula-panel">
-            <div class="formula-kicker">Công thức DSS đang dùng</div>
+            <div class="formula-kicker">Công thức DSS + ML đang dùng</div>
             <div class="formula-main">{escape(formula)}</div>
-            <div class="formula-note">{escape(note)}</div>
+            <div class="formula-note">{escape(note)} Điểm cuối = 70% MCDA + 30% dự đoán học máy KNN.</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -365,13 +374,16 @@ def render_product_card(row, rank, condition):
                 unsafe_allow_html=True,
             )
 
-            m1, m2, m3 = st.columns(3)
-            m1.metric("Điểm phù hợp", f"{final_score:.1f}/100")
-            m2.metric("Đáng tiền", f"{float(row.get('value_score', 0) or 0):.1f}/100")
-            m3.metric("AnTuTu", f"{int(row.get('estimated_antutu', row.get('antutu_score', 0)) or 0):,}".replace(",", "."))
+            m1, m2, m3, m4 = st.columns(4)
+            m1.metric("Điểm cuối", f"{final_score:.1f}/100")
+            m2.metric("Dự đoán ML", f"{float(row.get('ml_score', final_score) or 0):.1f}/100")
+            m3.metric("Điểm MCDA", f"{float(row.get('mcda_score', final_score) or 0):.1f}/100")
+            m4.metric("AnTuTu", f"{int(row.get('estimated_antutu', row.get('antutu_score', 0)) or 0):,}".replace(",", "."))
 
             bars_html = "".join([
-                score_bar("Điểm phù hợp tổng", row.get("final_score", 0), "#dc2626"),
+                score_bar("Điểm cuối DSS + ML", row.get("final_score", 0), "#dc2626"),
+                score_bar("Dự đoán học máy", row.get("ml_score", row.get("final_score", 0)), "#7c3aed"),
+                score_bar("Điểm MCDA giải thích được", row.get("mcda_score", row.get("final_score", 0)), "#0891b2"),
                 score_bar("Nhu cầu gaming", row.get("gaming_score", 0), "#2563eb"),
                 score_bar("Camera", row.get("camera_score", 0), "#0f766e"),
                 score_bar("Pin", row.get("battery_score", 0), "#f59e0b"),
@@ -865,6 +877,7 @@ st.markdown(
         <div class="brand-lockup"><div class="brand-mark">DSS</div><div>Phone DSS Advisor</div></div>
         <div class="top-pills">
             <span>Lọc theo nhu cầu</span>
+            <span>Dự đoán ML</span>
             <span>Chấm điểm MCDA</span>
             <span>Giải thích lý do</span>
             <span>So sánh giá</span>
@@ -878,10 +891,11 @@ st.markdown(
     """
     <div class="hero">
         <div class="hero-tag">Hệ hỗ trợ quyết định chọn điện thoại</div>
-        <h1>Không chỉ lọc sản phẩm, hệ thống tự chấm điểm và đề xuất máy phù hợp nhất.</h1>
+        <h1>Không chỉ lọc sản phẩm, hệ thống dự đoán mức độ phù hợp và đề xuất máy tốt nhất.</h1>
         <p>
             Người dùng nhập ngân sách, tình trạng máy và nhu cầu sử dụng. Phone DSS lọc ứng viên,
-            tính điểm theo nhiều tiêu chí, chọn cấu hình tối ưu và giải thích vì sao nên chọn máy đó.
+            dùng học máy dự đoán độ phù hợp, kết hợp điểm đa tiêu chí, chọn cấu hình tối ưu
+            và giải thích vì sao nên chọn máy đó.
         </p>
     </div>
     """,
@@ -900,9 +914,9 @@ diff_cols = st.columns(3)
 with diff_cols[0]:
     st.markdown("<div class='difference-card'><strong>1. Người dùng mô tả nhu cầu</strong><span>Ví dụ: 7-15 triệu, máy mới, ưu tiên gaming và màn hình. Đây là đầu vào quyết định.</span></div>", unsafe_allow_html=True)
 with diff_cols[1]:
-    st.markdown("<div class='difference-card'><strong>2. Hệ thống chấm điểm MCDA</strong><span>Mỗi máy được tính điểm gaming, camera, pin, màn hình, mỏng nhẹ và đáng tiền.</span></div>", unsafe_allow_html=True)
+    st.markdown("<div class='difference-card'><strong>2. ML dự đoán mức phù hợp</strong><span>Mô hình KNN Regression học từ các profile nhu cầu mẫu để dự đoán điểm phù hợp của từng máy.</span></div>", unsafe_allow_html=True)
 with diff_cols[2]:
-    st.markdown("<div class='difference-card'><strong>3. Trả kết luận có giải thích</strong><span>Kết quả không chỉ là danh sách sản phẩm, mà là đề xuất kèm lý do và bảng điểm.</span></div>", unsafe_allow_html=True)
+    st.markdown("<div class='difference-card'><strong>3. Xếp hạng có giải thích</strong><span>Điểm cuối kết hợp dự đoán ML và MCDA, sau đó trả Top máy kèm lý do và bảng điểm.</span></div>", unsafe_allow_html=True)
 
 st.markdown('<div class="advisor-title"><div><h2>Trợ lý chọn máy theo yêu cầu</h2><p>Nhập nhu cầu, hệ thống sẽ tự lọc ứng viên và chấm điểm phù hợp.</p></div></div>', unsafe_allow_html=True)
 popup_button_cols = st.columns([4, 1])
@@ -1039,15 +1053,25 @@ with tab_report:
     st.subheader("Luận điểm thuyết trình")
     st.write(
         "Phone DSS là hệ hỗ trợ quyết định vì người dùng không tự lọc thủ công rồi tự chọn máy. "
-        "Hệ thống nhận yêu cầu, lọc ứng viên, tính điểm đa tiêu chí, xếp hạng hoặc chọn một máy tốt nhất, "
-        "sau đó giải thích bằng điểm số và thông số."
+        "Hệ thống nhận yêu cầu, lọc ứng viên, dùng mô hình học máy dự đoán mức độ phù hợp, "
+        "kết hợp điểm đa tiêu chí MCDA để xếp hạng, sau đó giải thích bằng điểm số và thông số."
     )
     st.write(
         "Khi không khóa hãng, hệ thống hiển thị Top N để người dùng so sánh nhiều lựa chọn. "
         "Khi chọn một hãng, hệ thống chỉ xét các máy thuộc hãng đó rồi vẫn chấm điểm và xếp hạng Top nhiều máy theo đúng nhu cầu người dùng."
     )
     st.write(
-        "Giá được lấy từ bảng tổng hợp cửa hàng. Hệ thống đã có bước bỏ giá quá thấp bất thường để tránh trường hợp dữ liệu crawl sai làm lệch kết quả."
+        "Mô hình học máy đang dùng là KNN Regression: dữ liệu huấn luyện được tạo từ các profile nhu cầu mẫu "
+        "như pin, camera, gaming, màn hình; đầu ra là điểm dự đoán phù hợp ML. Điểm cuối để xếp hạng = 70% MCDA + 30% ML."
+    )
+    ml_eval = load_ml_evaluation(condition)
+    e1, e2, e3 = st.columns(3)
+    e1.metric("Mẫu học máy", f"{ml_eval['samples']:,}".replace(",", "."))
+    e2.metric("MAE", f"{ml_eval['mae']:.2f}")
+    e3.metric("RMSE", f"{ml_eval['rmse']:.2f}")
+    st.write(
+        "Giá được lấy từ bảng tổng hợp cửa hàng. Hệ thống đã có bước bỏ giá quá thấp bất thường "
+        "để tránh trường hợp dữ liệu crawl sai làm lệch kết quả."
     )
 
 with tab_catalog:
@@ -1070,7 +1094,7 @@ with tab_data:
         st.dataframe(
             export[[
                 "Tên máy", "variant_name", "Giá", "best_retailer",
-                "final_score", "gaming_score", "camera_score", "battery_score",
+                "final_score", "ml_score", "mcda_score", "gaming_score", "camera_score", "battery_score",
                 "display_score", "thin_light_score", "value_score",
             ]],
             hide_index=True,

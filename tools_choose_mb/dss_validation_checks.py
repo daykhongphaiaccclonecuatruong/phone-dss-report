@@ -46,9 +46,20 @@ def print_profile_result(label, result, priority_column):
         "variant_name",
         "price",
         "final_score",
+        "ml_score",
+        "mcda_score",
         priority_column,
     ]
     print(result[columns].head(5).to_string(index=False))
+
+
+def assert_ml_columns(result):
+    required = {"final_score", "ml_score", "mcda_score"}
+    missing = required - set(result.columns)
+    assert not missing, f"Missing ML/DSS score columns: {missing}"
+    blended = (result["mcda_score"] * 0.70 + result["ml_score"] * 0.30).round(2)
+    diff = (result["final_score"] - blended).abs().max()
+    assert diff <= 0.01, "final_score must equal 70% MCDA + 30% ML score."
 
 
 def run_profile_checks():
@@ -71,6 +82,7 @@ def run_profile_checks():
         )
         print_profile_result(label, result, score_col)
         assert not result.empty, f"{label} returned no result."
+        assert_ml_columns(result)
 
     empty_result = recommend(
         min_budget=0.1,
