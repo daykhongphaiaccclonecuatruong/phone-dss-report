@@ -13,6 +13,7 @@ from recommender import (
     add_price_data,
     calculate_final_score,
     extract_base_model_id,
+    filter_retailer_prices_by_store,
     get_buying_advice,
     load_data,
     recommend,
@@ -21,18 +22,37 @@ from ml_model import evaluate_model
 
 
 NO_BRAND = "Không khóa hãng"
+ALL_STORES = "Tổng hợp"
+STORE_OPTIONS = [
+    ALL_STORES,
+    "Hoàng Hà Mobile",
+    "CellphoneS",
+    "Thế Giới Di Động",
+    "Di Động Việt",
+    "FPT Shop",
+    "Viettel Store",
+]
+STORE_BUTTON_LABELS = {
+    ALL_STORES: "Tổng hợp",
+    "Hoàng Hà Mobile": "Hoàng Hà Mobile",
+    "CellphoneS": "CellphoneS",
+    "Thế Giới Di Động": "Thế Giới Di Động",
+    "Di Động Việt": "Di Động Việt",
+    "FPT Shop": "FPT Shop",
+    "Viettel Store": "Viettel Store",
+}
 PRIORITY_LABELS = {
-    "gaming": "Gaming / hiệu năng",
-    "camera": "Camera",
-    "battery": "Pin",
-    "display": "Màn hình",
+    "gaming": "Chơi trò chơi điện tử, giải trí, chạy ứng dụng",
+    "camera": "Chụp ảnh, quay video",
+    "battery": "Thời lượng pin lâu",
+    "display": "Màn hình hiển thị đẹp, sắc nét",
     "thin_light": "Mỏng nhẹ",
 }
 PRIORITY_HINTS = {
-    "gaming": "Chip, điểm AnTuTu, RAM và tần số quét",
-    "camera": "MP, OIS, zoom quang và bộ nhớ lưu trữ",
+    "gaming": "Chip, điểm AnTuTu, RAM và khả năng chạy ứng dụng",
+    "camera": "Camera, chống rung, zoom và bộ nhớ lưu trữ",
     "battery": "Dung lượng pin và công suất sạc nhanh",
-    "display": "Tấm nền, độ phân giải và tần số quét",
+    "display": "Tấm nền, độ phân giải, độ sáng và tần số quét",
     "thin_light": "Trọng lượng và độ mỏng thân máy",
 }
 CONDITION_LABELS = {
@@ -113,10 +133,10 @@ def score_breakdown(row):
         "Điểm cuối DSS + ML": row.get("final_score", 0),
         "Dự đoán ML": row.get("ml_score", row.get("final_score", 0)),
         "Điểm MCDA": row.get("mcda_score", row.get("final_score", 0)),
-        "Gaming": row.get("gaming_score", 0),
-        "Camera": row.get("camera_score", 0),
-        "Pin": row.get("battery_score", 0),
-        "Màn hình": row.get("display_score", 0),
+        "Chơi trò chơi điện tử, giải trí, chạy ứng dụng": row.get("gaming_score", 0),
+        "Chụp ảnh, quay video": row.get("camera_score", 0),
+        "Thời lượng pin lâu": row.get("battery_score", 0),
+        "Màn hình hiển thị đẹp, sắc nét": row.get("display_score", 0),
         "Mỏng nhẹ": row.get("thin_light_score", 0),
         "Đáng tiền": row.get("value_score", 0),
     }
@@ -128,24 +148,30 @@ def load_base_data():
 
 
 @st.cache_data(show_spinner=False)
-def load_condition_data(condition):
-    return add_price_data(load_data(), condition)
+def load_condition_data(condition, store_filter=ALL_STORES):
+    return add_price_data(load_data(), condition, store_filter=store_filter)
 
 
 @st.cache_data(show_spinner=False)
-def load_ml_evaluation(condition):
-    return evaluate_model(load_condition_data(condition))
+def load_ml_evaluation(condition, store_filter=ALL_STORES):
+    return evaluate_model(load_condition_data(condition, store_filter))
 
 
 @st.cache_data(show_spinner=False)
-def load_summary():
+def load_summary(store_filter=ALL_STORES):
     base = load_base_data()
-    new_data = load_condition_data("new")
-    used_data = load_condition_data("used")
+    new_data = load_condition_data("new", store_filter)
+    used_data = load_condition_data("used", store_filter)
     retailer_path = os.path.join(CURRENT_DIR, "data", "05_device_retailer_prices.csv")
     agg_path = os.path.join(CURRENT_DIR, "data", "05_device_aggregated_prices.csv")
-    retailer_rows = len(pd.read_csv(retailer_path)) if os.path.exists(retailer_path) else 0
-    agg_rows = len(pd.read_csv(agg_path)) if os.path.exists(agg_path) else 0
+    retailer_rows = 0
+    if os.path.exists(retailer_path):
+        retailer_df = pd.read_csv(retailer_path)
+        retailer_rows = len(filter_retailer_prices_by_store(retailer_df, store_filter))
+    if store_filter != ALL_STORES:
+        agg_rows = len(new_data) + len(used_data)
+    else:
+        agg_rows = len(pd.read_csv(agg_path)) if os.path.exists(agg_path) else len(new_data) + len(used_data)
 
     return {
         "devices": base["device_id"].nunique(),
@@ -169,6 +195,7 @@ def ensure_dss_state_defaults(brand_options):
         "dss_secondary": "camera",
         "dss_min_year": 2021,
         "dss_top_n": 3,
+        "selected_store": ALL_STORES,
         "needs_popup_done": False,
     }
     for key, value in defaults.items():
@@ -184,6 +211,8 @@ def ensure_dss_state_defaults(brand_options):
     )
     if st.session_state.dss_min_year not in YEAR_OPTIONS:
         st.session_state.dss_min_year = 2021
+    if st.session_state.selected_store not in STORE_OPTIONS:
+        st.session_state.selected_store = ALL_STORES
 
 
 @st.dialog("Chọn nhu cầu mong muốn", width="small")
@@ -192,8 +221,8 @@ def show_needs_popup(brand_options):
 
     popup_budget = st.slider(
         "Ngân sách (triệu đồng)",
-        min_value=1.0,
-        max_value=50.0,
+        min_value=0.0,
+        max_value=100.0,
         value=st.session_state.dss_budget,
         step=0.5,
         key="popup_budget",
@@ -262,10 +291,12 @@ def show_needs_popup(brand_options):
         st.rerun()
 
 
-def build_decision_context(condition, budget, brand, min_year, need_5g, priorities):
-    df = load_condition_data(condition).copy()
+def build_decision_context(condition, budget, brand, min_year, need_5g, priorities, store_filter=ALL_STORES):
+    df = load_condition_data(condition, store_filter).copy()
     steps = []
     steps.append(("SKU có giá", len(df), "Dữ liệu giá từ bảng tổng hợp/cửa hàng"))
+    if store_filter != ALL_STORES:
+        steps.append((f"Cửa hàng {store_filter}", len(df), "Chỉ xét các dòng giá thuộc cửa hàng đang chọn"))
 
     if brand:
         df = df[df["brand"].astype(str).str.lower() == brand.lower()].copy()
@@ -338,7 +369,7 @@ def render_formula(priorities):
     )
 
 
-def render_product_card(row, rank, condition):
+def render_product_card(row, rank, condition, store_filter=ALL_STORES):
     name = clean_device_name(row.get("brand"), row.get("device_name"))
     variant = format_variant_detail(row)
     image_url = str(row.get("image_url", "") or "")
@@ -384,9 +415,9 @@ def render_product_card(row, rank, condition):
                 score_bar("Điểm cuối DSS + ML", row.get("final_score", 0), "#dc2626"),
                 score_bar("Dự đoán học máy", row.get("ml_score", row.get("final_score", 0)), "#7c3aed"),
                 score_bar("Điểm MCDA giải thích được", row.get("mcda_score", row.get("final_score", 0)), "#0891b2"),
-                score_bar("Nhu cầu gaming", row.get("gaming_score", 0), "#2563eb"),
-                score_bar("Camera", row.get("camera_score", 0), "#0f766e"),
-                score_bar("Pin", row.get("battery_score", 0), "#f59e0b"),
+                score_bar("Chơi trò chơi điện tử, giải trí, chạy ứng dụng", row.get("gaming_score", 0), "#2563eb"),
+                score_bar("Chụp ảnh, quay video", row.get("camera_score", 0), "#0f766e"),
+                score_bar("Thời lượng pin lâu", row.get("battery_score", 0), "#f59e0b"),
             ])
             st.markdown(bars_html, unsafe_allow_html=True)
 
@@ -396,7 +427,7 @@ def render_product_card(row, rank, condition):
             )
 
             advice = [
-                item for item in get_buying_advice(row.get("variant_id"))
+                item for item in get_buying_advice(row.get("variant_id"), store_filter=store_filter)
                 if item.get("condition") == condition
             ]
             if advice:
@@ -427,11 +458,11 @@ def render_product_card(row, rank, condition):
                     st.dataframe(price_table[["Cửa hàng", "Loại máy", "Giá", "Tình trạng", "Link"]], hide_index=True, width="stretch")
 
 
-def render_catalog():
+def render_catalog(store_filter=ALL_STORES):
     st.markdown("<h2>Catalog tham khảo</h2>", unsafe_allow_html=True)
     st.caption("Phần này giống web bán hàng để tra cứu sản phẩm. Kết luận nên lấy ở khu vực DSS phía trên.")
 
-    catalog = load_condition_data("new").copy()
+    catalog = load_condition_data("new", store_filter).copy()
     catalog["base_model_id"] = catalog["device_id"].apply(extract_base_model_id)
     catalog = catalog.sort_values(["price", "release_year"], ascending=[True, False])
     catalog = catalog.drop_duplicates("base_model_id")
@@ -863,7 +894,6 @@ st.markdown(
 )
 
 
-summary = load_summary()
 brands = sorted(load_base_data()["brand"].dropna().unique().tolist())
 brand_options = [NO_BRAND] + brands
 ensure_dss_state_defaults(brand_options)
@@ -871,21 +901,23 @@ ensure_dss_state_defaults(brand_options)
 if not st.session_state.needs_popup_done:
     show_needs_popup(brand_options)
 
-st.markdown(
-    """
-    <div class="topbar">
-        <div class="brand-lockup"><div class="brand-mark">DSS</div><div>Phone DSS Advisor</div></div>
-        <div class="top-pills">
-            <span>Lọc theo nhu cầu</span>
-            <span>Dự đoán ML</span>
-            <span>Chấm điểm MCDA</span>
-            <span>Giải thích lý do</span>
-            <span>So sánh giá</span>
-        </div>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+with st.container(border=True):
+    topbar_cols = st.columns([2.2, 1, 1, 1, 1, 1, 1, 1], gap="small", vertical_alignment="center")
+    with topbar_cols[0]:
+        st.markdown(
+            "<div class='brand-lockup'><div class='brand-mark'>DSS</div><div>Phone DSS Advisor</div></div>",
+            unsafe_allow_html=True,
+        )
+    for col, store in zip(topbar_cols[1:], STORE_OPTIONS):
+        button_type = "primary" if st.session_state.selected_store == store else "secondary"
+        if col.button(STORE_BUTTON_LABELS[store], key=f"store_filter_{store}", type=button_type, use_container_width=True):
+            st.session_state.selected_store = store
+            st.rerun()
+
+selected_store = st.session_state.selected_store
+summary = load_summary(selected_store)
+store_scope_text = "tất cả cửa hàng" if selected_store == ALL_STORES else selected_store
+st.caption(f"Phạm vi dữ liệu giá đang dùng: {store_scope_text}. Khi chọn một cửa hàng, hệ thống chỉ lọc, chấm điểm và đề xuất máy có giá trong cửa hàng đó.")
 
 st.markdown(
     """
@@ -906,13 +938,13 @@ metric_cols = st.columns(5)
 metric_cols[0].metric("Mẫu máy", f"{summary['devices']:,}".replace(",", "."))
 metric_cols[1].metric("Phiên bản/SKU", f"{summary['variants']:,}".replace(",", "."))
 metric_cols[2].metric("Hãng", summary["brands"])
-metric_cols[3].metric("Dòng giá cửa hàng", f"{summary['retailer_rows']:,}".replace(",", "."))
-metric_cols[4].metric("Giá tổng hợp", f"{summary['agg_rows']:,}".replace(",", "."))
+metric_cols[3].metric("Dòng giá đang dùng", f"{summary['retailer_rows']:,}".replace(",", "."))
+metric_cols[4].metric("SKU có giá", f"{summary['agg_rows']:,}".replace(",", "."))
 
 st.markdown('<div class="advisor-title"><div><h2>Điểm khác biệt so với web bán hàng thường</h2><p>Phần này dùng để trình bày với giáo viên: DSS không chỉ lọc hãng/giá, mà có quy trình ra quyết định.</p></div></div>', unsafe_allow_html=True)
 diff_cols = st.columns(3)
 with diff_cols[0]:
-    st.markdown("<div class='difference-card'><strong>1. Người dùng mô tả nhu cầu</strong><span>Ví dụ: 7-15 triệu, máy mới, ưu tiên gaming và màn hình. Đây là đầu vào quyết định.</span></div>", unsafe_allow_html=True)
+    st.markdown("<div class='difference-card'><strong>1. Người dùng mô tả nhu cầu</strong><span>Ví dụ: 7-15 triệu, máy mới, ưu tiên chơi trò chơi điện tử và màn hình hiển thị đẹp. Đây là đầu vào quyết định.</span></div>", unsafe_allow_html=True)
 with diff_cols[1]:
     st.markdown("<div class='difference-card'><strong>2. ML dự đoán mức phù hợp</strong><span>Mô hình KNN Regression học từ các profile nhu cầu mẫu để dự đoán điểm phù hợp của từng máy.</span></div>", unsafe_allow_html=True)
 with diff_cols[2]:
@@ -932,8 +964,8 @@ with input_col:
         st.subheader("Bước 1: Nhập yêu cầu")
         budget = st.slider(
             "Khoảng ngân sách (triệu đồng)",
-            min_value=1.0,
-            max_value=50.0,
+            min_value=0.0,
+            max_value=100.0,
             step=0.5,
             key="dss_budget",
         )
@@ -1002,6 +1034,7 @@ with context_col:
         min_year=min_year if min_year else None,
         need_5g=need_5g,
         priorities=priorities,
+        store_filter=selected_store,
     )
     render_funnel(decision_steps)
     render_formula(priorities)
@@ -1020,6 +1053,7 @@ with st.spinner("Đang chạy thuật toán DSS..."):
         has_5g=need_5g if need_5g else None,
         has_ip68=None,
         brand_diversity=brand_diversity,
+        store_filter=selected_store,
     )
 
 mode_label = (
@@ -1027,6 +1061,8 @@ mode_label = (
     if selected_brand
     else f"Top {len(results)} máy phù hợp nhất"
 )
+if selected_store != ALL_STORES:
+    mode_label = f"{mode_label} tại {selected_store}"
 st.markdown(
     f"""
     <div class="advisor-title">
@@ -1041,62 +1077,7 @@ st.markdown(
 )
 
 if results.empty:
-    st.warning("Không tìm thấy máy phù hợp với các điều kiện hiện tại. Hãy nới ngân sách, bỏ khóa hãng hoặc giảm năm ra mắt tối thiểu.")
+    st.warning("Không tìm thấy máy phù hợp với các điều kiện hiện tại trong phạm vi dữ liệu đang chọn. Hãy nới ngân sách, đổi cửa hàng, bỏ khóa hãng hoặc giảm năm ra mắt tối thiểu.")
 else:
     for rank, (_, row) in enumerate(results.iterrows(), start=1):
-        render_product_card(row, rank, condition)
-
-st.divider()
-tab_report, tab_catalog, tab_data = st.tabs(["Giải thích báo cáo", "Catalog tham khảo", "Dữ liệu kiểm tra"])
-
-with tab_report:
-    st.subheader("Luận điểm thuyết trình")
-    st.write(
-        "Phone DSS là hệ hỗ trợ quyết định vì người dùng không tự lọc thủ công rồi tự chọn máy. "
-        "Hệ thống nhận yêu cầu, lọc ứng viên, dùng mô hình học máy dự đoán mức độ phù hợp, "
-        "kết hợp điểm đa tiêu chí MCDA để xếp hạng, sau đó giải thích bằng điểm số và thông số."
-    )
-    st.write(
-        "Khi không khóa hãng, hệ thống hiển thị Top N để người dùng so sánh nhiều lựa chọn. "
-        "Khi chọn một hãng, hệ thống chỉ xét các máy thuộc hãng đó rồi vẫn chấm điểm và xếp hạng Top nhiều máy theo đúng nhu cầu người dùng."
-    )
-    st.write(
-        "Mô hình học máy đang dùng là KNN Regression: dữ liệu huấn luyện được tạo từ các profile nhu cầu mẫu "
-        "như pin, camera, gaming, màn hình; đầu ra là điểm dự đoán phù hợp ML. Điểm cuối để xếp hạng = 70% MCDA + 30% ML."
-    )
-    ml_eval = load_ml_evaluation(condition)
-    e1, e2, e3 = st.columns(3)
-    e1.metric("Mẫu học máy", f"{ml_eval['samples']:,}".replace(",", "."))
-    e2.metric("MAE", f"{ml_eval['mae']:.2f}")
-    e3.metric("RMSE", f"{ml_eval['rmse']:.2f}")
-    st.write(
-        "Giá được lấy từ bảng tổng hợp cửa hàng. Hệ thống đã có bước bỏ giá quá thấp bất thường "
-        "để tránh trường hợp dữ liệu crawl sai làm lệch kết quả."
-    )
-
-with tab_catalog:
-    render_catalog()
-
-with tab_data:
-    st.subheader("Dữ liệu đang dùng")
-    data_table = pd.DataFrame([
-        {"Bảng": "01_devices.csv", "Số dòng": summary["devices"], "Vai trò": "Danh sách mẫu máy"},
-        {"Bảng": "03_device_variants.csv", "Số dòng": summary["variants"], "Vai trò": "Phiên bản RAM/ROM"},
-        {"Bảng": "05_device_retailer_prices.csv", "Số dòng": summary["retailer_rows"], "Vai trò": "Giá từ từng cửa hàng"},
-        {"Bảng": "05_device_aggregated_prices.csv", "Số dòng": summary["agg_rows"], "Vai trò": "Giá tổng hợp để DSS lọc ngân sách"},
-    ])
-    st.dataframe(data_table, hide_index=True, width="stretch")
-    if not results.empty:
-        export = results.copy()
-        export["Tên máy"] = export.apply(lambda row: clean_device_name(row.get("brand"), row.get("device_name")), axis=1)
-        export["Giá"] = export["price"].apply(format_price)
-        st.subheader("Kết quả hiện tại")
-        st.dataframe(
-            export[[
-                "Tên máy", "variant_name", "Giá", "best_retailer",
-                "final_score", "ml_score", "mcda_score", "gaming_score", "camera_score", "battery_score",
-                "display_score", "thin_light_score", "value_score",
-            ]],
-            hide_index=True,
-            width="stretch",
-        )
+        render_product_card(row, rank, condition, selected_store)

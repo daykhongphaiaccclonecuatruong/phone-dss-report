@@ -51,6 +51,23 @@ def load_retailer_prices():
     return pd.DataFrame()
 
 
+def filter_retailer_prices_by_store(retailer_df, store_filter=None):
+    """Giữ lại dữ liệu giá của một cửa hàng cụ thể; None/Tổng hợp nghĩa là dùng tất cả."""
+    if retailer_df.empty or not store_filter or store_filter == "Tổng hợp":
+        return retailer_df
+
+    store_aliases = {
+        "CellphoneS": ["CellphoneS", "CellphoneS Cũ"],
+        "Hoàng Hà Mobile": ["Hoàng Hà Mobile"],
+        "Thế Giới Di Động": ["Thế Giới Di Động"],
+        "Di Động Việt": ["Di Động Việt"],
+        "FPT Shop": ["FPT Shop"],
+        "Viettel Store": ["Viettel Store"],
+    }
+    allowed = store_aliases.get(store_filter, [store_filter])
+    return retailer_df[retailer_df["retailer"].astype(str).isin(allowed)].copy()
+
+
 def build_robust_price_table(retailer_df):
     """
     Tạo bảng giá tham chiếu từ dữ liệu cửa hàng và bỏ các giá thấp bất thường.
@@ -146,19 +163,49 @@ def calculate_new_value_score(row):
     return round(clamp(value_score), 2)
 
 
-def add_price_data(df, condition="new"):
+def empty_price_frame(df):
+    """Trả về bảng rỗng nhưng vẫn có đủ cột giá để UI và bộ lọc không bị lỗi."""
+    empty = df.iloc[0:0].copy()
+    default_columns = {
+        "price": np.nan,
+        "min_price": np.nan,
+        "avg_price": np.nan,
+        "max_price": np.nan,
+        "best_retailer": "",
+        "best_retailer_url": "",
+        "savings_amount": 0,
+        "retailers_count": 0,
+        "in_stock_count": 0,
+        "price_outliers_removed": 0,
+        "condition": "",
+        "balanced_score": np.nan,
+        "value_score": np.nan,
+    }
+    for column, value in default_columns.items():
+        if column not in empty.columns:
+            empty[column] = value
+    return empty
+
+
+def add_price_data(df, condition="new", store_filter=None):
     """
     Gắn dữ liệu giá tổng hợp (min_price, avg_price, best_retailer, savings)
     từ 6 nhà phân phối lớn tại Việt Nam.
     """
     data_dir = get_data_dir()
     agg_path = os.path.join(data_dir, "05_device_aggregated_prices.csv")
-    
-    if os.path.exists(agg_path):
+
+    retailer_prices = filter_retailer_prices_by_store(load_retailer_prices(), store_filter)
+
+    if store_filter and store_filter != "Tổng hợp":
+        agg_prices = build_robust_price_table(retailer_prices)
+        if agg_prices.empty:
+            return empty_price_frame(df)
+        cond_col = "condition_type"
+    elif os.path.exists(agg_path):
         agg_prices = pd.read_csv(agg_path)
         cond_col = "condition_type" if "condition_type" in agg_prices.columns else "condition"
 
-        retailer_prices = load_retailer_prices()
         robust_prices = build_robust_price_table(retailer_prices)
         if not robust_prices.empty:
             agg_prices = agg_prices.drop(columns=[
@@ -178,25 +225,6 @@ def add_price_data(df, condition="new"):
             if cond_col != "condition_type" and "condition_type_robust" in agg_prices.columns:
                 agg_prices = agg_prices.rename(columns={"condition_type_robust": "condition_type"})
 
-        cond_prices = agg_prices[agg_prices[cond_col] == condition].copy()
-        cond_prices["condition"] = condition
-
-        merged = df.merge(cond_prices, on="variant_id", how="inner")
-        merged["price"] = merged["min_price"]  # Dùng min_price làm giá tham chiếu lọc ngân sách
-
-        merged["balanced_score"] = merged.apply(calculate_balanced_score, axis=1)
-
-        if condition == "new":
-            merged["value_score"] = merged.apply(calculate_new_value_score, axis=1)
-        else:
-            merged["condition_score"] = merged.apply(calculate_used_condition_score, axis=1)
-            merged["base_value_score"] = merged.apply(calculate_new_value_score, axis=1)
-            merged["value_score"] = (
-                merged["base_value_score"] * 0.60
-                + merged["condition_score"] * 0.40
-            ).round(2)
-
-        return merged
     else:
         # Fallback nếu thiếu file giá
         df["price"] = 10000000
@@ -207,6 +235,26 @@ def add_price_data(df, condition="new"):
         df["balanced_score"] = df.apply(calculate_balanced_score, axis=1)
         df["value_score"] = 75.0
         return df
+
+    cond_prices = agg_prices[agg_prices[cond_col] == condition].copy()
+    cond_prices["condition"] = condition
+
+    merged = df.merge(cond_prices, on="variant_id", how="inner")
+    merged["price"] = merged["min_price"]  # Dùng min_price làm giá tham chiếu lọc ngân sách
+
+    merged["balanced_score"] = merged.apply(calculate_balanced_score, axis=1)
+
+    if condition == "new":
+        merged["value_score"] = merged.apply(calculate_new_value_score, axis=1)
+    else:
+        merged["condition_score"] = merged.apply(calculate_used_condition_score, axis=1)
+        merged["base_value_score"] = merged.apply(calculate_new_value_score, axis=1)
+        merged["value_score"] = (
+            merged["base_value_score"] * 0.60
+            + merged["condition_score"] * 0.40
+        ).round(2)
+
+    return merged
 
 
 def calculate_final_score(row, priorities):
@@ -290,11 +338,11 @@ def generate_reason(row, priorities):
     return " ".join(reasons)
 
 
-def get_buying_advice(variant_id):
+def get_buying_advice(variant_id, store_filter=None):
     """
     Truy vấn bảng giá chi tiết của toàn bộ 6 nhà bán lẻ cho 1 phiên bản SKU.
     """
-    retailer_df = load_retailer_prices()
+    retailer_df = filter_retailer_prices_by_store(load_retailer_prices(), store_filter)
     if retailer_df.empty or "variant_id" not in retailer_df.columns:
         return []
 
@@ -359,7 +407,8 @@ def recommend(
     has_5g=None,
     has_ip68=None,
     enable_relaxation=True,
-    brand_diversity=False
+    brand_diversity=False,
+    store_filter=None
 ):
     """
     Hệ thống gợi ý đa tiêu chí 6 tầng (Phone DSS Engine):
@@ -373,7 +422,9 @@ def recommend(
         priorities = ["gaming"]
 
     df = load_data()
-    df = add_price_data(df, condition)
+    df = add_price_data(df, condition, store_filter=store_filter)
+    if df.empty or "price" not in df.columns:
+        return pd.DataFrame()
 
     min_vnd = min_budget * 1000000.0
     max_vnd = max_budget * 1000000.0
