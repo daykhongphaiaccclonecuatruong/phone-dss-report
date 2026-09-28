@@ -18,7 +18,6 @@ from recommender import (
     load_data,
     recommend,
 )
-from ml_model import evaluate_model
 
 
 NO_BRAND = "Không khóa hãng"
@@ -80,6 +79,11 @@ def format_price(value):
     return f"{value:,} đ".replace(",", ".")
 
 
+def format_price_million_delta(value):
+    value = abs(float(value or 0)) / 1000000
+    return f"{value:.1f} triệu".replace(".", ",")
+
+
 def clean_device_name(brand, device_name):
     brand = str(brand or "").strip()
     device_name = str(device_name or "").strip()
@@ -130,9 +134,7 @@ def score_bar(label, value, color="#0f766e"):
 
 def score_breakdown(row):
     return {
-        "Điểm cuối DSS + ML": row.get("final_score", 0),
-        "Dự đoán ML": row.get("ml_score", row.get("final_score", 0)),
-        "Điểm MCDA": row.get("mcda_score", row.get("final_score", 0)),
+        "Điểm xếp hạng MCDA": row.get("final_score", 0),
         "Chơi trò chơi điện tử, giải trí, chạy ứng dụng": row.get("gaming_score", 0),
         "Chụp ảnh, quay video": row.get("camera_score", 0),
         "Thời lượng pin lâu": row.get("battery_score", 0),
@@ -150,11 +152,6 @@ def load_base_data():
 @st.cache_data(show_spinner=False)
 def load_condition_data(condition, store_filter=ALL_STORES):
     return add_price_data(load_data(), condition, store_filter=store_filter)
-
-
-@st.cache_data(show_spinner=False)
-def load_ml_evaluation(condition, store_filter=ALL_STORES):
-    return evaluate_model(load_condition_data(condition, store_filter))
 
 
 @st.cache_data(show_spinner=False)
@@ -360,16 +357,95 @@ def render_formula(priorities):
     st.markdown(
         f"""
         <div class="formula-panel">
-            <div class="formula-kicker">Công thức DSS + ML đang dùng</div>
+            <div class="formula-kicker">Công thức MCDA đang dùng</div>
             <div class="formula-main">{escape(formula)}</div>
-            <div class="formula-note">{escape(note)} Điểm cuối = 70% MCDA + 30% dự đoán học máy KNN.</div>
+            <div class="formula-note">{escape(note)} Điểm xếp hạng chính là điểm MCDA tính theo công thức trên.</div>
         </div>
         """,
         unsafe_allow_html=True,
     )
 
 
-def render_product_card(row, rank, condition, store_filter=ALL_STORES):
+def classify_need_level(score):
+    score = float(score or 0)
+    if score >= 75:
+        return "rất tốt"
+    if score >= 60:
+        return "tốt"
+    if score >= 45:
+        return "tầm trung"
+    return "cơ bản"
+
+
+def get_primary_score_column(priority):
+    return {
+        "gaming": "gaming_score",
+        "camera": "camera_score",
+        "battery": "battery_score",
+        "display": "display_score",
+        "thin_light": "thin_light_score",
+    }.get(priority, "final_score")
+
+
+def build_decision_sentence(row, rank, results, priorities):
+    primary = priorities[0] if priorities else "gaming"
+    primary_label = PRIORITY_LABELS.get(primary, "nhu cầu chính").lower()
+    score_col = get_primary_score_column(primary)
+    current_price = float(row.get("price", 0) or 0)
+    current_score = float(row.get(score_col, row.get("final_score", 0)) or 0)
+    current_level = classify_need_level(current_score)
+
+    if results is None or len(results) <= 1:
+        return (
+            f"Hệ thống chọn máy này vì điểm {primary_label} đạt {current_score:.1f}/100, "
+            f"ở mức {current_level}, đồng thời vẫn nằm trong ngân sách đã nhập."
+        )
+
+    reference_pos = 1 if rank == 1 and len(results) > 1 else 0
+    reference = results.iloc[reference_pos]
+    reference_rank = reference_pos + 1
+    reference_price = float(reference.get("price", 0) or 0)
+    reference_score = float(reference.get(score_col, reference.get("final_score", 0)) or 0)
+    price_delta = current_price - reference_price
+    score_delta = current_score - reference_score
+    score_gap_text = f"{abs(score_delta):.1f} điểm"
+
+    if abs(price_delta) < 100000:
+        price_part = f"có giá gần tương đương Top {reference_rank}"
+    elif price_delta < 0:
+        price_part = f"rẻ hơn Top {reference_rank} khoảng {format_price_million_delta(price_delta)}"
+    else:
+        price_part = f"đắt hơn Top {reference_rank} khoảng {format_price_million_delta(price_delta)}"
+
+    if abs(score_delta) < 1:
+        score_part = f"điểm {primary_label} gần tương đương ({current_score:.1f}/100)"
+    elif score_delta > 0:
+        score_part = f"điểm {primary_label} cao hơn {score_gap_text} ({current_score:.1f}/100)"
+    else:
+        score_part = f"điểm {primary_label} thấp hơn {score_gap_text} ({current_score:.1f}/100)"
+
+    extra = ""
+    if primary == "gaming":
+        antutu_current = int(row.get("estimated_antutu", row.get("antutu_score", 0)) or 0)
+        antutu_ref = int(reference.get("estimated_antutu", reference.get("antutu_score", 0)) or 0)
+        antutu_delta = antutu_current - antutu_ref
+        if abs(antutu_delta) >= 100000:
+            direction = "cao hơn" if antutu_delta > 0 else "thấp hơn"
+            extra = f" AnTuTu {direction} {abs(antutu_delta):,} điểm.".replace(",", ".")
+
+    if price_delta <= 0 and score_delta >= 1:
+        conclusion = f"Vì vậy đây là lựa chọn rất đáng ưu tiên: vừa tiết kiệm hơn vừa mạnh hơn cho {primary_label}."
+    elif price_delta <= 0 and score_delta < -1:
+        conclusion = f"Vì vậy đây là lựa chọn tiết kiệm hơn, phù hợp nếu bạn chấp nhận {primary_label} ở mức {current_level}."
+    elif price_delta > 0 and score_delta >= 1:
+        conclusion = f"Vì vậy máy này phù hợp nếu bạn sẵn sàng trả thêm để đổi lấy trải nghiệm {primary_label} tốt hơn."
+    else:
+        conclusion = f"Vì vậy chỉ nên chọn máy này nếu bạn ưu tiên thương hiệu, cấu hình phụ hoặc nơi mua hơn mức điểm {primary_label}."
+
+    return f"So với Top {reference_rank}, máy này {price_part} và {score_part}.{extra} {conclusion}"
+
+
+def render_product_card(row, rank, condition, store_filter=ALL_STORES, results=None, priorities=None):
     name = clean_device_name(row.get("brand"), row.get("device_name"))
     variant = format_variant_detail(row)
     image_url = str(row.get("image_url", "") or "")
@@ -405,16 +481,13 @@ def render_product_card(row, rank, condition, store_filter=ALL_STORES):
                 unsafe_allow_html=True,
             )
 
-            m1, m2, m3, m4 = st.columns(4)
-            m1.metric("Điểm cuối", f"{final_score:.1f}/100")
-            m2.metric("Dự đoán ML", f"{float(row.get('ml_score', final_score) or 0):.1f}/100")
-            m3.metric("Điểm MCDA", f"{float(row.get('mcda_score', final_score) or 0):.1f}/100")
-            m4.metric("AnTuTu", f"{int(row.get('estimated_antutu', row.get('antutu_score', 0)) or 0):,}".replace(",", "."))
+            m1, m2, m3 = st.columns(3)
+            m1.metric("Điểm MCDA", f"{final_score:.1f}/100")
+            m2.metric("Đáng tiền", f"{float(row.get('value_score', 0) or 0):.1f}/100")
+            m3.metric("AnTuTu", f"{int(row.get('estimated_antutu', row.get('antutu_score', 0)) or 0):,}".replace(",", "."))
 
             bars_html = "".join([
-                score_bar("Điểm cuối DSS + ML", row.get("final_score", 0), "#dc2626"),
-                score_bar("Dự đoán học máy", row.get("ml_score", row.get("final_score", 0)), "#7c3aed"),
-                score_bar("Điểm MCDA giải thích được", row.get("mcda_score", row.get("final_score", 0)), "#0891b2"),
+                score_bar("Điểm xếp hạng MCDA", row.get("final_score", 0), "#dc2626"),
                 score_bar("Chơi trò chơi điện tử, giải trí, chạy ứng dụng", row.get("gaming_score", 0), "#2563eb"),
                 score_bar("Chụp ảnh, quay video", row.get("camera_score", 0), "#0f766e"),
                 score_bar("Thời lượng pin lâu", row.get("battery_score", 0), "#f59e0b"),
@@ -423,6 +496,10 @@ def render_product_card(row, rank, condition, store_filter=ALL_STORES):
 
             st.markdown(
                 f"<div class='reason-box'><strong>Vì sao hệ thống chọn máy này?</strong><br>{escape(row.get('reason', ''))}</div>",
+                unsafe_allow_html=True,
+            )
+            st.markdown(
+                f"<div class='decision-box'><strong>Ra quyết định</strong><br>{escape(build_decision_sentence(row, rank, results, priorities or []))}</div>",
                 unsafe_allow_html=True,
             )
 
@@ -816,6 +893,16 @@ st.markdown(
         line-height: 1.55;
         margin: 12px 0;
     }
+    .decision-box {
+        color: #7c2d12;
+        background: #fff7ed;
+        border: 1px solid #fed7aa;
+        border-left: 5px solid #f97316;
+        border-radius: 8px;
+        padding: 12px 14px;
+        line-height: 1.55;
+        margin: 12px 0;
+    }
     .buy-link {
         display: inline-flex;
         align-items: center;
@@ -923,11 +1010,11 @@ st.markdown(
     """
     <div class="hero">
         <div class="hero-tag">Hệ hỗ trợ quyết định chọn điện thoại</div>
-        <h1>Không chỉ lọc sản phẩm, hệ thống dự đoán mức độ phù hợp và đề xuất máy tốt nhất.</h1>
+        <h1>Không chỉ lọc sản phẩm, hệ thống chấm điểm MCDA và đề xuất máy phù hợp.</h1>
         <p>
             Người dùng nhập ngân sách, tình trạng máy và nhu cầu sử dụng. Phone DSS lọc ứng viên,
-            dùng học máy dự đoán độ phù hợp, kết hợp điểm đa tiêu chí, chọn cấu hình tối ưu
-            và giải thích vì sao nên chọn máy đó.
+            chấm điểm đa tiêu chí MCDA theo mức độ ưu tiên, chọn cấu hình tối ưu và giải thích
+            vì sao nên chọn máy đó.
         </p>
     </div>
     """,
@@ -946,9 +1033,9 @@ diff_cols = st.columns(3)
 with diff_cols[0]:
     st.markdown("<div class='difference-card'><strong>1. Người dùng mô tả nhu cầu</strong><span>Ví dụ: 7-15 triệu, máy mới, ưu tiên chơi trò chơi điện tử và màn hình hiển thị đẹp. Đây là đầu vào quyết định.</span></div>", unsafe_allow_html=True)
 with diff_cols[1]:
-    st.markdown("<div class='difference-card'><strong>2. ML dự đoán mức phù hợp</strong><span>Mô hình KNN Regression học từ các profile nhu cầu mẫu để dự đoán điểm phù hợp của từng máy.</span></div>", unsafe_allow_html=True)
+    st.markdown("<div class='difference-card'><strong>2. MCDA chấm điểm nhiều tiêu chí</strong><span>Mỗi máy được chấm theo nhu cầu chính/phụ, mức đáng tiền và sự cân bằng; trọng số thay đổi theo yêu cầu người dùng.</span></div>", unsafe_allow_html=True)
 with diff_cols[2]:
-    st.markdown("<div class='difference-card'><strong>3. Xếp hạng có giải thích</strong><span>Điểm cuối kết hợp dự đoán ML và MCDA, sau đó trả Top máy kèm lý do và bảng điểm.</span></div>", unsafe_allow_html=True)
+    st.markdown("<div class='difference-card'><strong>3. Xếp hạng có giải thích</strong><span>Điểm MCDA dùng để xếp hạng Top máy, sau đó trả kết quả kèm lý do, từng điểm tiêu chí và bảng giá.</span></div>", unsafe_allow_html=True)
 
 st.markdown('<div class="advisor-title"><div><h2>Trợ lý chọn máy theo yêu cầu</h2><p>Nhập nhu cầu, hệ thống sẽ tự lọc ứng viên và chấm điểm phù hợp.</p></div></div>', unsafe_allow_html=True)
 popup_button_cols = st.columns([4, 1])
@@ -1080,4 +1167,4 @@ if results.empty:
     st.warning("Không tìm thấy máy phù hợp với các điều kiện hiện tại trong phạm vi dữ liệu đang chọn. Hãy nới ngân sách, đổi cửa hàng, bỏ khóa hãng hoặc giảm năm ra mắt tối thiểu.")
 else:
     for rank, (_, row) in enumerate(results.iterrows(), start=1):
-        render_product_card(row, rank, condition, selected_store)
+        render_product_card(row, rank, condition, selected_store, results, priorities)

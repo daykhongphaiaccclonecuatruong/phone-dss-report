@@ -463,25 +463,8 @@ def recommend(
         axis=1
     )
 
-    # Dự đoán mức độ phù hợp bằng mô hình học máy KNN Regression
-    try:
-        from ml_model import predict_ml_scores
-
-        filtered["ml_score"] = predict_ml_scores(
-            filtered,
-            priorities=priorities,
-            min_budget=min_budget,
-            max_budget=max_budget,
-            condition=condition,
-        ).round(2)
-    except Exception:
-        filtered["ml_score"] = filtered["mcda_score"]
-
-    # Điểm cuối cùng kết hợp DSS có thể giải thích và dự đoán từ học máy
-    filtered["final_score"] = (
-        filtered["mcda_score"] * 0.70
-        + filtered["ml_score"] * 0.30
-    ).round(2)
+    # Điểm xếp hạng cuối cùng chính là điểm MCDA.
+    filtered["final_score"] = filtered["mcda_score"].round(2)
 
     # Thêm cột base_model_id để chống trùng lặp tuyệt đối
     filtered["base_model_id"] = filtered["device_id"].apply(extract_base_model_id)

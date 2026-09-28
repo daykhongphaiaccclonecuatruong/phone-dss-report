@@ -26,11 +26,10 @@ tools_choose_mb/
 │       └── 05_device_prices.csv
 │
 ├── scoring.py                             # Bộ máy chấm điểm đa tiêu chí MCDA (Gaming, Cam, Pin, Màn, Mỏng nhẹ, Máy cũ)
-├── ml_model.py                            # Mô hình học máy KNN Regression dự đoán mức độ phù hợp
-├── recommender.py                         # Thuật toán DSS + ML (lọc, dự đoán, xếp hạng, tư vấn nơi mua)
+├── recommender.py                         # Thuật toán DSS + MCDA (lọc, chấm điểm, xếp hạng, tư vấn nơi mua)
 ├── web_app.py                             # Giao diện Web Streamlit (Catalog trưng bày + DSS Đề xuất thông minh)
 ├── test_cases.py                          # Bộ kịch bản kiểm thử tự động
-├── dss_validation_checks.py                # Kiểm thử profile nhu cầu, ML score và dữ liệu giá
+├── dss_validation_checks.py                # Kiểm thử profile nhu cầu, điểm MCDA và dữ liệu giá
 └── sync_database.py                       # Tool đồng bộ 1 chạm từ Master Excel sang CSVs & SQLite
 ```
 
@@ -48,7 +47,7 @@ streamlit run tools_choose_mb/web_app.py
 python tools_choose_mb/test_cases.py
 ```
 
-### 3. Chạy Kiểm Thử DSS + Học Máy
+### 3. Chạy Kiểm Thử DSS + MCDA
 ```bash
 python tools_choose_mb/dss_validation_checks.py
 ```
@@ -60,20 +59,20 @@ python tools_choose_mb/sync_database.py
 
 ---
 
-## 🎯 Quy Trình Hệ Trợ Giúp Ra Quyết Định Có Học Máy
+## 🎯 Quy Trình Hệ Trợ Giúp Ra Quyết Định
 
 1. **Xác định người dùng:** Người dùng nhập ngân sách, tình trạng máy, thương hiệu và nhu cầu chính/phụ.
 2. **Phân tích sở thích:** Hệ thống mã hóa nhu cầu thành vector ưu tiên như gaming, camera, pin, màn hình, mỏng nhẹ.
-3. **Dự đoán mức độ phù hợp:** `ml_model.py` dùng KNN Regression với hàm `fit()` và `predict()` để dự đoán `ml_score`.
-4. **Xếp hạng:** `recommender.py` kết hợp `final_score = 70% mcda_score + 30% ml_score`.
+3. **Chấm điểm mức độ phù hợp:** `recommender.py` dùng MCDA để tính điểm theo nhu cầu chính/phụ, mức đáng tiền và độ cân bằng.
+4. **Xếp hạng:** `recommender.py` dùng `final_score = mcda_score`, sau đó sắp xếp giảm dần để lấy Top điện thoại phù hợp.
 5. **Sinh khuyến nghị:** Hệ thống trả Top điện thoại phù hợp, kèm giá, nơi mua và lý do chọn.
-6. **Trợ giúp lựa chọn:** Web hiển thị điểm cuối, điểm ML, điểm MCDA, ma trận điểm và bảng giá.
-7. **Đánh giá hệ thống:** `dss_validation_checks.py` kiểm tra profile mẫu, ngân sách biên, đổi trọng số ưu tiên và đánh giá MAE/RMSE của mô hình.
+6. **Trợ giúp lựa chọn:** Web hiển thị điểm MCDA, ma trận điểm tiêu chí và bảng giá.
+7. **Đánh giá hệ thống:** `dss_validation_checks.py` kiểm tra profile mẫu, ngân sách biên, đổi trọng số ưu tiên và dữ liệu giá.
 
 ## 🎯 Điểm Nổi Bật của Thuật Toán Nâng Cấp
 1. **Lọc Ngân Sách Thực Tế:** Dựa trên `min_price` đang có hàng tại 6 nhà bán lẻ (CellphoneS, TGDD, FPT Shop, Hoàng Hà Mobile, Di Động Việt, Viettel Store) kèm cơ chế nới biên `±7%`.
-2. **Dự Đoán Bằng Học Máy:** KNN Regression dự đoán `ml_score` cho từng điện thoại theo profile người dùng.
-3. **Kết Hợp MCDA + ML:** MCDA giúp giải thích được lý do, ML giúp mô hình hóa độ phù hợp theo profile.
+2. **Chấm Điểm MCDA Theo Nhu Cầu:** Điểm của từng máy thay đổi theo nhu cầu người dùng như chơi trò chơi điện tử, chụp ảnh, pin, màn hình hoặc mỏng nhẹ.
+3. **Xếp Hạng Minh Bạch:** `final_score` chính là `mcda_score`, nên có thể giải thích trực tiếp bằng trọng số và điểm thành phần.
 4. **Chống Trùng Lặp (Anti-Duplicate):** Top 1, Top 2, Top 3 luôn là 3 mẫu điện thoại khác nhau.
 5. **Tự Động Chọn Bản Cấu Hình RAM/ROM Tối Ưu:** Nhu cầu Gaming -> RAM cao nhất; Nhu cầu Chụp ảnh -> ROM cao nhất; Nhu cầu Giá rẻ -> Min price.
 6. **Tư Vấn Nơi Mua & So Sánh Giá:** Chỉ rõ cửa hàng đang bán rẻ nhất, số tiền tiết kiệm so với thị trường và cung cấp nút bấm chuyển link mua trực tiếp.
